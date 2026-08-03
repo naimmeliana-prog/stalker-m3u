@@ -1,0 +1,34 @@
+name: Generar M3U series
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar lista M3U
+        env:
+          MAG_MAC: ${{ secrets.MAG_MAC }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python generate.py
+
+      - name: Publicar cambios finales
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add series.m3u checkpoint.json
+          git diff --cached --quiet || git commit -m "Actualizar lista M3U ($(date -u +'%F %R UTC'))"
+          git push

@@ -1,0 +1,10 @@
+{
+    "portal": "http://mag.greatott.me:80",
+    "categories": [949],
+    "out": "series.m3u",
+    "threads": 8,
+    "no_verify": true,
+    "group": "series",
+    "checkpoint": "checkpoint.json",
+    "push_interval": 120
+}
