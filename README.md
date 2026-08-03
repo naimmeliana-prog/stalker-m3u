@@ -12,10 +12,9 @@ necesidad de tener tu PC encendido**.
    `MAG_MAC`), resuelve la URL de cada episodio y escribe `series.m3u`.
 3. Guarda progreso en `checkpoint.json`: si el job se corta (limite de 6 h),
    la siguiente ejecucion **reanuda** donde se quedo en vez de empezar de cero.
-4. Cada 2 min hace push parcial de `series.m3u` + `checkpoint.json`, de modo
-   que el CDN siempre sirve la lista mas reciente posible.
-5. TiviPlayer carga el M3U desde el CDN gratuito de **jsDelivr**:
-   `https://cdn.jsdelivr.net/gh/naimmeliana-prog/stalker-m3u@main/series.m3u`
+4. Despliega el repo en **GitHub Pages** (siempre sirve la ultima version).
+5. TiviPlayer carga el M3U desde la URL fija de Pages:
+   `https://naimmeliana-prog.github.io/stalker-m3u/series.m3u`
 
 ## Configuracion
 
@@ -24,9 +23,8 @@ necesidad de tener tu PC encendido**.
    - `categories`: lista de IDs. Para listar los IDs: `python stalker_series_m3u.py <PORTAL> --mac <MAC> --list-categories`.
    - Cuantos mas episodios, mas tarda: el job dura hasta **6 h** y se reanuda
      desde el checkpoint si se corta. Ejemplo medido: categoria 949 (Espana) =
-     ~7000 episodios ~40-60 min.
+     ~6900 episodios ~12-15 min con 8 hilos.
    - `checkpoint`: archivo de progreso (default `checkpoint.json`).
-   - `push_interval`: segundos entre pushes parciales (default 120).
 - **Secret `MAG_MAC`**: la MAC del dispositivo. No la pongas en `config.json`
   (aparece igualmente dentro de `series.m3u`).
 
