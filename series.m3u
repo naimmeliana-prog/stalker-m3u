@@ -749,6 +749,18 @@ http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=2120542.mk
 #EXTINF:-1 tvg-id="38010" tvg-name="ES - The Walking Dead: Dead City (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq3vuQzQgbS83zX3malAFWMsSwX.jpg" group-title="ES - The Walking Dead: Dead City (2023)",ES - The Walking Dead: Dead City (2023) - S03E01
 #EXTGRP:ES - The Walking Dead: Dead City (2023)
 http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=2120543.mkv&play_token=HJN5cVERv4&type=series
+#EXTINF:-1 tvg-id="38561" tvg-name="ES - Oh Hell (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0EI6nLIOEnOLsAw9g0mNO6CV2v.jpg" group-title="ES - Oh Hell (2022)",ES - Oh Hell (2022) - S01E07
+#EXTGRP:ES - Oh Hell (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1721322.mkv&play_token=5wSCd52LgC&type=series
+#EXTINF:-1 tvg-id="38561" tvg-name="ES - Oh Hell (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0EI6nLIOEnOLsAw9g0mNO6CV2v.jpg" group-title="ES - Oh Hell (2022)",ES - Oh Hell (2022) - S01E08
+#EXTGRP:ES - Oh Hell (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1721323.mkv&play_token=ijVOxprW1Z&type=series
+#EXTINF:-1 tvg-id="38561" tvg-name="ES - Oh Hell (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0EI6nLIOEnOLsAw9g0mNO6CV2v.jpg" group-title="ES - Oh Hell (2022)",ES - Oh Hell (2022) - S02E01
+#EXTGRP:ES - Oh Hell (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1721314.mkv&play_token=yrIG0n8gNO&type=series
+#EXTINF:-1 tvg-id="38561" tvg-name="ES - Oh Hell (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0EI6nLIOEnOLsAw9g0mNO6CV2v.jpg" group-title="ES - Oh Hell (2022)",ES - Oh Hell (2022) - S02E02
+#EXTGRP:ES - Oh Hell (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1721315.mkv&play_token=IUjxy1gtVI&type=series
 #EXTINF:-1 tvg-id="38564" tvg-name="ES - Tell Me Lies (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4QimOuzhz4cdJOgBMC355Rt0HZ.jpg" group-title="ES - Tell Me Lies (2022)",ES - Tell Me Lies (2022) - S01E01
 #EXTGRP:ES - Tell Me Lies (2022)
 http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1721338.mkv&play_token=ovSkBoeRWK&type=series
@@ -872,6 +884,15 @@ http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1862209.mk
 #EXTINF:-1 tvg-id="38693" tvg-name="ES - Allegiance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNx2UeNi6YazMJe7h5ZW3jEiICH.jpg" group-title="ES - Allegiance (2024)",ES - Allegiance (2024) - S02E10
 #EXTGRP:ES - Allegiance (2024)
 http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1862210.mkv&play_token=mfjk03IDrC&type=series
+#EXTINF:-1 tvg-id="38696" tvg-name="ES - Los padrinos mágicos: Un nuevo deseo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYkRyV1tq1K3E567gEpHNpPLE9O.jpg" group-title="ES - Los padrinos mágicos: Un nuevo deseo (2024)",ES - Los padrinos mágicos: Un nuevo deseo (2024) - S01E01
+#EXTGRP:ES - Los padrinos mágicos: Un nuevo deseo (2024)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1724406.mkv&play_token=d1NPQwUsO9&type=series
+#EXTINF:-1 tvg-id="38696" tvg-name="ES - Los padrinos mágicos: Un nuevo deseo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYkRyV1tq1K3E567gEpHNpPLE9O.jpg" group-title="ES - Los padrinos mágicos: Un nuevo deseo (2024)",ES - Los padrinos mágicos: Un nuevo deseo (2024) - S01E02
+#EXTGRP:ES - Los padrinos mágicos: Un nuevo deseo (2024)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1724407.mkv&play_token=sOmoVPf271&type=series
+#EXTINF:-1 tvg-id="38696" tvg-name="ES - Los padrinos mágicos: Un nuevo deseo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYkRyV1tq1K3E567gEpHNpPLE9O.jpg" group-title="ES - Los padrinos mágicos: Un nuevo deseo (2024)",ES - Los padrinos mágicos: Un nuevo deseo (2024) - S01E05
+#EXTGRP:ES - Los padrinos mágicos: Un nuevo deseo (2024)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1724410.mkv&play_token=3d633vPZmI&type=series
 #EXTINF:-1 tvg-id="38697" tvg-name="ES - Teacup (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP5zuQvWAFrgWptS0iXvDI3iND.jpg" group-title="ES - Teacup (2024)",ES - Teacup (2024) - S01E01
 #EXTGRP:ES - Teacup (2024)
 http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1724419.mkv&play_token=bLUXxkYukh&type=series
@@ -896,6 +917,18 @@ http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1840165.mk
 #EXTINF:-1 tvg-id="38697" tvg-name="ES - Teacup (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP5zuQvWAFrgWptS0iXvDI3iND.jpg" group-title="ES - Teacup (2024)",ES - Teacup (2024) - S01E08
 #EXTGRP:ES - Teacup (2024)
 http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1840166.mkv&play_token=Q1RK73oium&type=series
+#EXTINF:-1 tvg-id="38723" tvg-name="ES - Juego de Mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKWj5nfgqwaGgQlJmJro6LzchU7.jpg" group-title="ES - Juego de Mentiras (2023)",ES - Juego de Mentiras (2023) - S01E02
+#EXTGRP:ES - Juego de Mentiras (2023)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1725765.mkv&play_token=o9MT6OFISg&type=series
+#EXTINF:-1 tvg-id="38723" tvg-name="ES - Juego de Mentiras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKWj5nfgqwaGgQlJmJro6LzchU7.jpg" group-title="ES - Juego de Mentiras (2023)",ES - Juego de Mentiras (2023) - S01E03
+#EXTGRP:ES - Juego de Mentiras (2023)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1725766.mkv&play_token=dB4JLx685u&type=series
+#EXTINF:-1 tvg-id="38862" tvg-name="ES - Salto a la gloria (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHr0WlZvDcgc22QThu74PAXjYmJ.jpg" group-title="ES - Salto a la gloria (2024)",ES - Salto a la gloria (2024) - S01E02
+#EXTGRP:ES - Salto a la gloria (2024)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1731789.mkv&play_token=w7VFq5CD2q&type=series
+#EXTINF:-1 tvg-id="38862" tvg-name="ES - Salto a la gloria (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHr0WlZvDcgc22QThu74PAXjYmJ.jpg" group-title="ES - Salto a la gloria (2024)",ES - Salto a la gloria (2024) - S01E03
+#EXTGRP:ES - Salto a la gloria (2024)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1731790.mkv&play_token=O88WWWuGYA&type=series
 #EXTINF:-1 tvg-id="38896" tvg-name="ES - The Listeners (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydQlB19S9JrFD5BSGFk2HlpjYwB.jpg" group-title="ES - The Listeners (2024)",ES - The Listeners (2024) - S01E01
 #EXTGRP:ES - The Listeners (2024)
 http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1732968.mkv&play_token=SlnO4pd0Ak&type=series
@@ -1001,6 +1034,48 @@ http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759355.mk
 #EXTINF:-1 tvg-id="39924" tvg-name="ES - The Pirate Bay (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9SPGN8SuhUMpobL8CKUgp9As1V.jpg" group-title="ES - The Pirate Bay (2024)",ES - The Pirate Bay (2024) - S01E06
 #EXTGRP:ES - The Pirate Bay (2024)
 http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759356.mkv&play_token=r2NaIGNEnt&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S01E01
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759357.mkv&play_token=COPRLPjQe6&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S01E02
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759358.mkv&play_token=lXs4GLOKXA&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S01E03
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759359.mkv&play_token=whAhEbukJr&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S01E04
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759360.mkv&play_token=dBIdJxoWP8&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S01E05
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759361.mkv&play_token=ves9PXYcyu&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S01E07
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759363.mkv&play_token=84liKhLHPP&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S02E01
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759365.mkv&play_token=NIlgW0qp2Q&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S02E02
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759366.mkv&play_token=7rZ4455NX3&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S02E03
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759367.mkv&play_token=GpchDEZmXT&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S02E04
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759368.mkv&play_token=Vdx2qSvTdV&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S02E05
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759369.mkv&play_token=fW6MtvX1GB&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S02E06
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759370.mkv&play_token=C5vHBB4npU&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S02E07
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759371.mkv&play_token=7iyUI3QIrA&type=series
+#EXTINF:-1 tvg-id="39925" tvg-name="ES - Caza al culpable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZpD4R7phFqLIhVtmeJChPV1ECx.jpg" group-title="ES - Caza al culpable (2022)",ES - Caza al culpable (2022) - S02E08
+#EXTGRP:ES - Caza al culpable (2022)
+http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759372.mkv&play_token=BOCytb7nRx&type=series
 #EXTINF:-1 tvg-id="39929" tvg-name="ES - Sobrevivir al cartel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFxsNExqmQhCpwoQWXhNCnBP9AK.jpg" group-title="ES - Sobrevivir al cartel (2022)",ES - Sobrevivir al cartel (2022) - S01E01
 #EXTGRP:ES - Sobrevivir al cartel (2022)
 http://mag.greatott.me:80/play/movie.php?mac=00:1A:79:74:B1:B9&stream=1759455.mkv&play_token=Dr3GaazRGo&type=series
