@@ -32,3 +32,7 @@ jobs:
           git add series.m3u checkpoint.json
           git diff --cached --quiet || git commit -m "Actualizar lista M3U ($(date -u +'%F %R UTC'))"
           git push
+
+      - name: Purgar cache jsDelivr
+        run: |
+          curl -s -X POST "https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/series.m3u" || true
