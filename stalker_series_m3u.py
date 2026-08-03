@@ -453,8 +453,8 @@ def _git_push(*paths):
         msg = "checkpoint M3U (%s)" % time.strftime("%F %R UTC", time.gmtime())
         subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
         subprocess.run(["git", "push"], check=True, capture_output=True)
-    except Exception:
-        pass
+    except Exception as exc:
+        print("[!] _git_push fallo: %s" % exc)
 
 
 def main(argv=None):
@@ -549,13 +549,21 @@ def _run(args):
 
     last_push = [time.time()]
 
-    def _push_partial():
+    def _save_and_push():
         if not (args.checkpoint and args.push_interval):
             return
         if time.time() - last_push[0] < args.push_interval:
             return
         last_push[0] = time.time()
-        _git_push(args.checkpoint)
+        try:
+            _save_checkpoint(args.checkpoint, ck, portal, args)
+            with open("progress.log", "a", encoding="utf-8") as fh:
+                fh.write("%s series=%d/%d eps=%d\n" % (
+                    time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                    done, total, len(entries)))
+        except Exception as exc:
+            print("[!] Error guardando checkpoint: %s" % exc)
+        _git_push(args.checkpoint, "progress.log")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.threads) as pool:
         future_map = {pool.submit(process_series, portal, s, args): s for s in pending}
@@ -570,10 +578,11 @@ def _run(args):
                 sid = str(series.get("id") or "").split(":")[0]
                 if args.checkpoint and sid:
                     ck["done"][sid] = {"m3u": block, "xtream": xinfo}
-                    _save_checkpoint(args.checkpoint, ck, portal, args)
-                    _push_partial()
+                    if not args.push_interval:
+                        _save_checkpoint(args.checkpoint, ck, portal, args)
                 if xinfo and xt_dir:
                     _collect_xtream(xinfo, xt_series, streams, xt_dir)
+            _save_and_push()
             print("[+] Series procesadas: %d/%d" % (done, total))
 
     if xt_dir:

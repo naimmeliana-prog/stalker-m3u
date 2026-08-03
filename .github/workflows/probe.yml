@@ -1,0 +1,56 @@
+name: Sonda portal
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probar acceso al portal
+        env:
+          MAG_MAC: ${{ secrets.MAG_MAC }}
+        run: |
+          python - <<'PY'
+          import os, time
+          from stalker_series_m3u import StalkerPortal
+
+          def t(label, fn):
+              s = time.time()
+              try:
+                  r = fn()
+                  print("%s OK %r (%.1fs)" % (label, r, time.time() - s), flush=True)
+              except Exception as e:
+                  print("%s FAIL %r (%.1fs)" % (label, e, time.time() - s), flush=True)
+
+          p = StalkerPortal("http://mag.greatott.me:80", os.environ["MAG_MAC"], 10, True)
+          t("handshake", p.handshake)
+          t("categories", lambda: len(p.get_categories()))
+
+          def resolve_one():
+              series = p.get_series("949")
+              if not series:
+                  return "no series"
+              sid = str(series[0]["id"]).split(":")[0]
+              seasons = p.get_seasons(sid)
+              if not seasons:
+                  return "no seasons"
+              eps = list(StalkerPortal.iter_episodes(seasons[0]))
+              if not eps:
+                  return "no eps"
+              url = p.resolve_stream(seasons[0].get("cmd"), eps[0][0])
+              return (url or "NONE")[:120]
+
+          t("list949", lambda: len(p.get_series("949")))
+          t("resolve_one", resolve_one)
+          PY
