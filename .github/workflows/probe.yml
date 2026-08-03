@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   probe:
@@ -68,6 +68,5 @@ jobs:
             echo "NO_DIFF_STAGED"
           else
             git commit -m "probe git test"
-            git push --dry-run && echo "GIT_DRYRUN_OK"
+            git push && echo "PUSH_OK"
           fi
-          git reset --hard HEAD~1
