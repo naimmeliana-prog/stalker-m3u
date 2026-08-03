@@ -38,7 +38,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add series.m3u checkpoint.json.gz xtream progress.log
+          for f in series.m3u checkpoint.json.gz progress.log; do [ -f "$f" ] && git add "$f" || true; done
+          git add xtream 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Actualizar lista M3U + datos Xtream ($(date -u +'%F %R UTC'))"
           git push || (git pull --rebase origin main && git push)
 

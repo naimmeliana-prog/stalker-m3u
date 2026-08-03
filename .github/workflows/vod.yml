@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add vod.m3u vod_checkpoint.json.gz progress_vod.log
+          for f in vod.m3u vod_checkpoint.json.gz progress_vod.log; do [ -f "$f" ] && git add "$f" || true; done
           git diff --cached --quiet || git commit -m "Actualizar vod.m3u ($(date -u +'%F %R UTC'))"
           git push || (git pull --rebase origin main && git push)
 
