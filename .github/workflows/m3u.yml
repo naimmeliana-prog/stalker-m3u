@@ -32,6 +32,7 @@ jobs:
       - name: Generar lista M3U
         env:
           MAG_MAC: ${{ secrets.MAG_MAC }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python generate.py
 
       - name: Publicar cambios finales

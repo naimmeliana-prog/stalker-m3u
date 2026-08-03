@@ -54,3 +54,20 @@ jobs:
           t("list949", lambda: len(p.get_series("949")))
           t("resolve_one", resolve_one)
           PY
+
+      - name: Comprobar GITHUB_TOKEN y git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "GITHUB_TOKEN_len=${#GITHUB_TOKEN}"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo probe > probe.txt
+          git add -- probe.txt
+          if git diff --cached --quiet; then
+            echo "NO_DIFF_STAGED"
+          else
+            git commit -m "probe git test"
+            git push --dry-run && echo "GIT_DRYRUN_OK"
+          fi
+          git reset --hard HEAD~1
