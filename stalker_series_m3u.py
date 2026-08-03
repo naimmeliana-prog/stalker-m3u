@@ -9,6 +9,7 @@ Uso:
 
 import argparse
 import concurrent.futures
+import gzip
 import hashlib
 import json
 import os
@@ -308,8 +309,6 @@ def process_series(portal, item, args):
                         "title": title,
                         "container_extension": CONTAINER_EXT,
                         "info": {
-                            "movie_image": str(logo or ""),
-                            "plot": "",
                             "season": str(season_num),
                             "episode": str(ep_num),
                         },
@@ -332,10 +331,7 @@ def process_series(portal, item, args):
             "series_id": str(sid),
             "name": _clean_title(name),
             "cover": str(logo or ""),
-            "plot": str(item.get("description") or ""),
             "category_id": str(item.get("category_id") or ""),
-            "year": str(item.get("year") or ""),
-            "rating": str(item.get("rating_imdb") or item.get("rating_kinopoisk") or ""),
             "seasons": x_seasons,
         }
     return block, xinfo
@@ -377,7 +373,8 @@ def _load_checkpoint(path, portal, args):
     if not path or not os.path.exists(path):
         return None
     try:
-        with open(path, encoding="utf-8") as fh:
+        opener = gzip.open if path.endswith(".gz") else open
+        with opener(path, "rt", encoding="utf-8") as fh:
             ck = json.load(fh)
         if not isinstance(ck, dict) or not isinstance(ck.get("done"), dict):
             return None
@@ -392,7 +389,8 @@ def _load_checkpoint(path, portal, args):
 def _save_checkpoint(path, ck, portal, args):
     ck["config_sig"] = _config_sig(portal, args)
     tmp = path + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as fh:
+    opener = gzip.open if path.endswith(".gz") else open
+    with opener(tmp, "wt", encoding="utf-8") as fh:
         json.dump(ck, fh, ensure_ascii=False)
     os.replace(tmp, path)
 
@@ -422,11 +420,7 @@ def _collect_xtream(xinfo, xt_series, streams, xt_dir):
             "series_id": sid,
             "name": str(xinfo.get("name") or ""),
             "cover": str(xinfo.get("cover") or ""),
-            "plot": str(xinfo.get("plot") or ""),
             "category_id": str(xinfo.get("category_id") or ""),
-            "year": str(xinfo.get("year") or ""),
-            "rating": str(xinfo.get("rating") or ""),
-            "genre": "",
         }
     )
     episodes_map = {}
@@ -441,12 +435,6 @@ def _collect_xtream(xinfo, xt_series, streams, xt_dir):
         "info": {
             "name": str(xinfo.get("name") or ""),
             "cover": str(xinfo.get("cover") or ""),
-            "plot": str(xinfo.get("plot") or ""),
-            "cast": "",
-            "director": "",
-            "genre": "",
-            "rating": str(xinfo.get("rating") or ""),
-            "year": str(xinfo.get("year") or ""),
             "category_id": str(xinfo.get("category_id") or ""),
         },
     }
@@ -567,8 +555,7 @@ def _run(args):
         if time.time() - last_push[0] < args.push_interval:
             return
         last_push[0] = time.time()
-        _write_m3u(args.out, entries)
-        _git_push(args.out, args.checkpoint)
+        _git_push(args.checkpoint)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.threads) as pool:
         future_map = {pool.submit(process_series, portal, s, args): s for s in pending}
@@ -590,9 +577,11 @@ def _run(args):
             print("[+] Series procesadas: %d/%d" % (done, total))
 
     if xt_dir:
+        selected = set(str(c) for c in cats if c is not None)
         cat_out = [
             {"category_id": cid, "category_name": title, "parent_id": 0}
             for cid, title in cat_names.items()
+            if not selected or cid in selected
         ]
         _write_json(os.path.join(xt_dir, "series_categories.json"), cat_out)
         _write_json(os.path.join(xt_dir, "series.json"), xt_series)
