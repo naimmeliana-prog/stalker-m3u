@@ -35,6 +35,8 @@ def _build_args(cfg):
         args += ["--checkpoint", cfg["checkpoint"]]
     if cfg.get("push_interval"):
         args += ["--push-interval", str(cfg["push_interval"])]
+    if cfg.get("xtream_dir"):
+        args += ["--xtream-dir", cfg["xtream_dir"]]
     args += ["--threads", str(cfg.get("threads", 8))]
     return args
 

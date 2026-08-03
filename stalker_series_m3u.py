@@ -234,8 +234,18 @@ def _escape_attr(value):
     return str(value).replace("\\", "\\\\").replace('"', '\\"').replace(",", " ")
 
 
+CONTAINER_EXT = "mkv"
+
+
+def _clean_title(name):
+    title = re.sub(r"^[^\w]+", "", str(name)).strip()
+    title = re.sub(r"\s+", " ", title)
+    return title
+
+
 def process_series(portal, item, args):
     block = []
+    xinfo = None
     sid = str(item.get("id") or "").split(":")[0]
     name = str(item.get("name") or "Sin nombre")
     logo = item.get("screenshot_uri") or item.get("cover")
@@ -244,14 +254,16 @@ def process_series(portal, item, args):
     try:
         seasons = portal.get_seasons(sid)
     except PortalError:
-        return block
+        return block, xinfo
     if not seasons:
         seasons = [s for s in item.get("seasons", [])] if isinstance(item.get("seasons"), list) else []
+    x_seasons = []
     for idx, season in enumerate(seasons, 1):
         match = SEASON_NUM_RE.search(str(season.get("name") or ""))
         season_num = int(match.group(1)) if match else idx
         cmd = season.get("cmd")
         group = name if args.group == "series" else SERIES_GROUP
+        x_eps = []
         for ep_num, ep_name in StalkerPortal.iter_episodes(season):
             title = build_title(name, season_num, ep_num, ep_name)
             if args.no_resolve:
@@ -284,7 +296,49 @@ def process_series(portal, item, args):
             if group != SERIES_GROUP:
                 extinf += "#EXTGRP:%s\n" % _escape_attr(group)
             block.append(extinf + url + "\n")
-    return block
+            if args.xtream_dir:
+                xurl = url if not args.no_resolve else portal.resolve_stream(cmd, ep_num)
+                if not xurl:
+                    continue
+                x_eps.append(
+                    {
+                        "id": "%s:%s:%s" % (sid, season_num, ep_num),
+                        "episode_num": str(ep_num),
+                        "season": str(season_num),
+                        "title": title,
+                        "container_extension": CONTAINER_EXT,
+                        "info": {
+                            "movie_image": str(logo or ""),
+                            "plot": "",
+                            "season": str(season_num),
+                            "episode": str(ep_num),
+                        },
+                        "stream_url": xurl,
+                    }
+                )
+        if x_eps:
+            x_seasons.append(
+                {
+                    "season_number": str(season_num),
+                    "id": season_num,
+                    "name": "Season %s" % season_num,
+                    "episode_count": len(x_eps),
+                    "episodes": x_eps,
+                }
+            )
+    if args.xtream_dir and x_seasons:
+        x_seasons.sort(key=lambda s: int(s["season_number"] or 0))
+        xinfo = {
+            "series_id": str(sid),
+            "name": _clean_title(name),
+            "cover": str(logo or ""),
+            "plot": str(item.get("description") or ""),
+            "category_id": str(item.get("category_id") or ""),
+            "year": str(item.get("year") or ""),
+            "rating": str(item.get("rating_imdb") or item.get("rating_kinopoisk") or ""),
+            "seasons": x_seasons,
+        }
+    return block, xinfo
 
 
 def _matches_lang(item, lang):
@@ -313,6 +367,7 @@ def _config_sig(portal, args):
         str(args.lang or ""),
         str(args.search or ""),
         str(bool(args.no_resolve)),
+        str(args.xtream_dir or ""),
     ]
     h.update("|".join(parts).encode("utf-8"))
     return h.hexdigest()
@@ -348,6 +403,54 @@ def _write_m3u(path, entries):
         fh.write("#EXTM3U\n")
         fh.writelines(sorted(entries))
     os.replace(tmp, path)
+
+
+def _write_json(path, obj):
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as fh:
+        json.dump(obj, fh, ensure_ascii=False)
+    os.replace(tmp, path)
+
+
+def _collect_xtream(xinfo, xt_series, streams, xt_dir):
+    seasons = xinfo.get("seasons") or []
+    if not seasons:
+        return
+    sid = str(xinfo["series_id"])
+    xt_series.append(
+        {
+            "series_id": sid,
+            "name": str(xinfo.get("name") or ""),
+            "cover": str(xinfo.get("cover") or ""),
+            "plot": str(xinfo.get("plot") or ""),
+            "category_id": str(xinfo.get("category_id") or ""),
+            "year": str(xinfo.get("year") or ""),
+            "rating": str(xinfo.get("rating") or ""),
+            "genre": "",
+        }
+    )
+    episodes_map = {}
+    for season in seasons:
+        season_number = str(season.get("season_number") or "0")
+        episodes_map[season_number] = season.get("episodes") or []
+        for ep in episodes_map[season_number]:
+            streams[ep["id"]] = ep.get("stream_url") or ""
+    payload = {
+        "seasons": seasons,
+        "episodes": episodes_map,
+        "info": {
+            "name": str(xinfo.get("name") or ""),
+            "cover": str(xinfo.get("cover") or ""),
+            "plot": str(xinfo.get("plot") or ""),
+            "cast": "",
+            "director": "",
+            "genre": "",
+            "rating": str(xinfo.get("rating") or ""),
+            "year": str(xinfo.get("year") or ""),
+            "category_id": str(xinfo.get("category_id") or ""),
+        },
+    }
+    _write_json(os.path.join(xt_dir, "series", sid + ".json"), payload)
 
 
 def _git_push(*paths):
@@ -386,6 +489,7 @@ def main(argv=None):
     parser.add_argument("--list-series", action="store_true", help="Listar series y salir")
     parser.add_argument("--checkpoint", help="Ruta del archivo de checkpoint para reanudar trabajo parcial")
     parser.add_argument("--push-interval", type=int, default=None, help="Cada N segundos, escribir el M3U parcial y hacer push (requiere GITHUB_TOKEN y --checkpoint)")
+    parser.add_argument("--xtream-dir", help="Generar ademas datos Xtream (JSON por serie + indices) en este directorio")
     args = parser.parse_args(argv)
 
     try:
@@ -402,6 +506,11 @@ def _run(args):
     print("[+] Endpoint: %s" % portal.entry)
 
     categories = portal.get_categories()
+    cat_names = {}
+    for cat in categories:
+        cid = str(cat.get("id") or "")
+        if cid:
+            cat_names[cid] = str(cat.get("title") or cid)
     if args.list_categories:
         for cat in categories:
             print("  %s\t%s" % (cat.get("id"), cat.get("title")))
@@ -428,14 +537,23 @@ def _run(args):
             print("  %s\t%s" % (s.get("id"), s.get("name")))
         return 0
 
+    xt_dir = args.xtream_dir
+    if xt_dir:
+        os.makedirs(os.path.join(xt_dir, "series"), exist_ok=True)
+
     entries = []
     done_ids = set()
     ck = None
+    xt_series = []
+    streams = {}
     if args.checkpoint:
         ck = _load_checkpoint(args.checkpoint, portal, args) or {"done": {}}
-        for sid, block in ck["done"].items():
+        for sid, val in ck["done"].items():
             done_ids.add(sid)
-            entries.extend(block)
+            entry = val if isinstance(val, dict) else {"m3u": val, "xtream": None}
+            entries.extend(entry.get("m3u", []))
+            if entry.get("xtream"):
+                _collect_xtream(entry["xtream"], xt_series, streams, xt_dir)
         print("[+] Checkpoint: %d series ya procesadas (%d episodios)" % (len(done_ids), len(entries)))
 
     pending = [s for s in series_list if str(s.get("id") or "").split(":")[0] not in done_ids]
@@ -458,16 +576,28 @@ def _run(args):
         done = 0
         for fut in concurrent.futures.as_completed(future_map):
             series = future_map[fut]
-            block = fut.result()
+            block, xinfo = fut.result()
             done += 1
             if block:
                 entries.extend(block)
                 sid = str(series.get("id") or "").split(":")[0]
                 if args.checkpoint and sid:
-                    ck["done"][sid] = block
+                    ck["done"][sid] = {"m3u": block, "xtream": xinfo}
                     _save_checkpoint(args.checkpoint, ck, portal, args)
                     _push_partial()
+                if xinfo and xt_dir:
+                    _collect_xtream(xinfo, xt_series, streams, xt_dir)
             print("[+] Series procesadas: %d/%d" % (done, total))
+
+    if xt_dir:
+        cat_out = [
+            {"category_id": cid, "category_name": title, "parent_id": 0}
+            for cid, title in cat_names.items()
+        ]
+        _write_json(os.path.join(xt_dir, "series_categories.json"), cat_out)
+        _write_json(os.path.join(xt_dir, "series.json"), xt_series)
+        _write_json(os.path.join(xt_dir, "streams.json"), streams)
+        print("[+] Datos Xtream guardados en %s (%d series, %d streams)" % (xt_dir, len(xt_series), len(streams)))
 
     _write_m3u(args.out, entries)
     if args.checkpoint and args.push_interval:
