@@ -157,7 +157,7 @@ def combine(out="global.m3u"):
     tmp = out + ".tmp"
     counts = {}
     with open(tmp, "w", encoding="utf-8", newline="\n") as fh:
-        fh.write("#EXTM3U\n")
+        fh.write('#EXTM3U x-tvg-url="https://naimmeliana-prog.github.io/stalker-m3u/epg.xml.gz"\n')
         for sec in SECTIONS:
             lines = _lines(sec)
             counts[sec] = len(lines)

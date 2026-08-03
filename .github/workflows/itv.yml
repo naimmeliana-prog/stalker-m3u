@@ -34,12 +34,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python itv_m3u.py
 
+      - name: Generar EPG (XMLTV)
+        env:
+          MAG_MAC: ${{ secrets.MAG_MAC }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python epg.py || echo "EPG parcial o fallido (continuamos)"
+
       - name: Publicar cambios finales
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          for f in itv.m3u itv_checkpoint.json.gz progress_itv.log; do [ -f "$f" ] && git add "$f" || true; done
-          git diff --cached --quiet || git commit -m "Actualizar itv.m3u ($(date -u +'%F %R UTC'))"
+          for f in itv.m3u itv_checkpoint.json.gz progress_itv.log epg.xml.gz epg_checkpoint.json.gz progress_epg.log; do [ -f "$f" ] && git add "$f" || true; done
+          git diff --cached --quiet || git commit -m "Actualizar itv.m3u + EPG ($(date -u +'%F %R UTC'))"
           for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
 
   publish:

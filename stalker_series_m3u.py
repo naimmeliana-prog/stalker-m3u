@@ -40,6 +40,39 @@ SERIES_GROUP = "SERIES"
 CMD_PREFIX_RE = re.compile(r"^(?:ffmpeg|ffrt)\s+", re.IGNORECASE)
 FFMPEG_ARGS_RE = re.compile(r"^\d+:\d+\s+")
 SEASON_NUM_RE = re.compile(r"(\d+)")
+SERIES_NAME_CLEAN_RE = re.compile(r"^[|]?\s*[A-Z]{2}[|]\s*")
+
+
+def _norm(text):
+    import unicodedata
+
+    t = unicodedata.normalize("NFKD", str(text or ""))
+    t = t.encode("ascii", "ignore").decode("utf-8", "replace")
+    return re.sub(r"\s+", " ", t.upper()).strip()
+
+
+def _clean_series_name(title):
+    return SERIES_NAME_CLEAN_RE.sub("", str(title or "").strip()).strip()
+
+
+def _title_lang(title):
+    raw = str(title or "").strip()
+    if raw.startswith("|"):
+        parts = raw.split("|")
+        if len(parts) > 1:
+            return parts[1].strip()
+    if "|" in raw:
+        return raw.split("|", 1)[0].strip()
+    return ""
+
+
+def _fmt_cat_name(title):
+    name = _clean_series_name(title)
+    if not name:
+        return str(title or "")
+    name = re.sub(r"\s+", " ", name).strip()
+    lp = _title_lang(title)
+    return ("%s| %s" % (lp, name)) if lp else name
 
 
 class PortalError(Exception):
@@ -152,18 +185,27 @@ class StalkerPortal:
     def _paged_list(self, extra, max_pages=1000):
         items = []
         page = 1
+        total = 0
         while page <= max_pages:
             params = {"type": "series", "action": "get_ordered_list", "p": page, "JsHttpRequest": "1-xml"}
             params.update(extra)
             js = self._js(self._request(params))
             data = self._normalize_data(js.get("data", []))
+            t = int(js.get("total_items") or 0)
+            if t:
+                total = t
             if not data:
+                if page == 1 and total > 0:
+                    raise PortalError("Lista vacia en pagina 1 (total=%d)" % total)
                 break
             items.extend(data)
-            total = int(js.get("total_items") or 0)
             if total and len(items) >= total:
                 break
             page += 1
+        if total and len(items) < total:
+            raise PortalError("Lista incompleta %d/%d en pagina %d" % (len(items), total, page))
+        if page > max_pages:
+            raise PortalError("Limite de paginas (%d) alcanzado" % max_pages)
         return items
 
     def get_series(self, category=None):
@@ -358,6 +400,7 @@ def _config_sig(portal, args):
         portal.base_url,
         portal.mac,
         repr(sorted(args.category or []) or [None]),
+        repr(sorted(args.remove_cats or []) or [None]),
         str(args.group or ""),
         str(bool(args.no_verify)),
         str(args.lang or ""),
@@ -481,6 +524,7 @@ def main(argv=None):
     parser.add_argument("--mac", required=True, help="Direccion MAC del dispositivo, p.ej. 00:1A:79:AB:CD:EF")
     parser.add_argument("--out", default="series.m3u", help="Archivo de salida (por defecto: series.m3u)")
     parser.add_argument("--category", nargs="*", help="Filtrar por IDs de categoria de series (p.ej. 949 1006; omitir para todas)")
+    parser.add_argument("--remove-cats", nargs="*", help="Nombres de categorias a excluir (coincidencia por nombre, todas las lenguas)")
     parser.add_argument("--search", help="Solo series cuyo nombre contenga este texto (sin distinguir mayusculas)")
     parser.add_argument("--lang", help="Solo series de este idioma, p.ej. espanol, latino, castellano, ingles (busca en language/genres_str/nombre)")
     parser.add_argument("--no-resolve", action="store_true", help="No resolver URLs; emitir el comando create_link")
@@ -517,14 +561,40 @@ def _run(args):
             cat_names[cid] = str(cat.get("title") or cid)
     if args.list_categories:
         for cat in categories:
-            print("  %s\t%s" % (cat.get("id"), cat.get("title")))
+            print("  %s\t%s" % (cat.get("id"), _fmt_cat_name(cat.get("title"))))
         return 0
 
+    remove_cats = set()
+    for pat in (args.remove_cats or []):
+        needle = _norm(pat)
+        if not needle:
+            continue
+        for cat in categories:
+            if _title_lang(str(cat.get("title") or "")) != "FR":
+                continue
+            if needle in _norm(_clean_series_name(str(cat.get("title") or ""))):
+                remove_cats.add(str(cat.get("id")))
+    if remove_cats:
+        print("[+] Categorias excluidas (%d): %s" % (len(remove_cats), ", ".join(sorted(remove_cats))))
+
     cats = args.category or [None]
+    if remove_cats:
+        if cats == [None]:
+            cats = [cid for cid in cat_names if cid not in remove_cats]
+        else:
+            cats = [c for c in cats if str(c) not in remove_cats]
+    if not cats:
+        print("[!] No quedan categorias tras excluir; nada que hacer")
+        return 0
     series_list = []
     seen_ids = set()
     for cat in cats:
-        for s in portal.get_series(cat):
+        try:
+            fetched = portal.get_series(cat)
+        except PortalError as exc:
+            print("[!] Categoria %s truncada (%s); se reintenta en el proximo run" % (cat, exc))
+            continue
+        for s in fetched:
             sid = str(s.get("id") or "").split(":")[0]
             if sid and sid not in seen_ids:
                 seen_ids.add(sid)
@@ -604,7 +674,7 @@ def _run(args):
     if xt_dir:
         selected = set(str(c) for c in cats if c is not None)
         cat_out = [
-            {"category_id": cid, "category_name": title, "parent_id": 0}
+            {"category_id": cid, "category_name": _fmt_cat_name(title), "parent_id": 0}
             for cid, title in cat_names.items()
             if not selected or cid in selected
         ]

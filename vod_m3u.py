@@ -13,6 +13,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 
 from stalker_series_m3u import (
     PortalError,
@@ -23,7 +24,14 @@ from stalker_series_m3u import (
 )
 
 DEFAULT_EXCLUDE = ["LATINO", "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE"]
+DEFAULT_REMOVE_FR = ["PRIME +", "NETFLIX", "DE NOËL", "FILMOGRAPHIE LOUIS DE FUNES", "CHUCK NORRIS"]
 NAME_CLEAN_RE = re.compile(r"^[|]?\s*[A-Z]{2}[|]\s*")
+
+
+def _norm(text):
+    t = unicodedata.normalize("NFKD", str(text or ""))
+    t = t.encode("ascii", "ignore").decode("utf-8", "replace")
+    return re.sub(r"\s+", " ", t.upper()).strip()
 
 
 def load_config():
@@ -62,6 +70,7 @@ def _sig(portal, cfg):
                 portal.mac,
                 repr(sorted(cfg.get("languages") or ["ES", "FR"])),
                 repr(sorted(cfg.get("exclude") or DEFAULT_EXCLUDE)),
+                repr(sorted(cfg.get("remove_fr") or DEFAULT_REMOVE_FR)),
             ]
         ).encode("utf-8")
     )
@@ -113,15 +122,19 @@ def get_categories(portal):
     return js if isinstance(js, list) else []
 
 
-def select_categories(cats, languages, exclude):
-    needles = [k.upper() for k in exclude]
+def select_categories(cats, languages, exclude, remove_fr=None):
+    needles = [_norm(k) for k in exclude]
+    fr_remove = [_norm(k) for k in (remove_fr or DEFAULT_REMOVE_FR)]
     out = []
     for c in cats:
         title = str(c.get("title") or "")
-        if lang_prefix(title) not in languages:
+        lp = lang_prefix(title)
+        if lp not in languages:
             continue
-        up = title.upper()
+        up = _norm(title)
         if any(n in up for n in needles):
+            continue
+        if lp == "FR" and any(n in _norm(clean_name(title)) for n in fr_remove):
             continue
         out.append(c)
     return out
@@ -130,6 +143,7 @@ def select_categories(cats, languages, exclude):
 def list_movies(portal, cid):
     items = []
     page = 1
+    total = 0
     while page <= 500:
         out = _request(
             portal,
@@ -145,13 +159,21 @@ def list_movies(portal, cid):
         data = js.get("data", []) if isinstance(js, dict) else []
         if isinstance(data, dict):
             data = [i for g in data.values() for i in (g if isinstance(g, list) else [g])]
+        t = int(js.get("total_items") or 0) if isinstance(js, dict) else 0
+        if t:
+            total = t
         if not data:
+            if page == 1 and total > 0:
+                raise PortalError("VOD %s: pagina 1 vacia (total=%d)" % (cid, total))
             break
         items.extend(data)
-        total = int(js.get("total_items") or 0) if isinstance(js, dict) else 0
         if total and len(items) >= total:
             break
         page += 1
+    if total and len(items) < total:
+        raise PortalError("VOD %s incompleta: %d/%d (pagina %d)" % (cid, len(items), total, page))
+    if page > 500:
+        raise PortalError("VOD %s: limite de paginas (500) alcanzado" % cid)
     return items
 
 
@@ -204,13 +226,14 @@ def main(argv=None):
 
     languages = cfg.get("languages") or ["ES", "FR"]
     exclude = cfg.get("exclude") or DEFAULT_EXCLUDE
+    remove_fr = cfg.get("remove_fr") or DEFAULT_REMOVE_FR
     out_path = cfg.get("out", "vod.m3u")
     ck_path = cfg.get("checkpoint")
     progress = cfg.get("progress", "progress_vod.log")
     push_interval = cfg.get("push_interval", 0)
     threads = cfg.get("threads", 8)
 
-    selected = select_categories(get_categories(portal), languages, exclude)
+    selected = select_categories(get_categories(portal), languages, exclude, remove_fr)
     print("[+] Categorias VOD seleccionadas: %d" % len(selected))
     for c in selected:
         print("  %s\t%s" % (c.get("id"), clean_name(c.get("title"))))
@@ -253,7 +276,8 @@ def main(argv=None):
         cid = str(c.get("id"))
         if cid in cats_done:
             continue
-        group = clean_name(c.get("title")) or cid
+        lp = lang_prefix(c.get("title"))
+        group = ("%s| %s" % (lp, clean_name(c.get("title")))).strip() or cid
         try:
             movies = list_movies(portal, cid)
         except PortalError:

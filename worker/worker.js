@@ -53,6 +53,21 @@ function serverInfo(host) {
   };
 }
 
+async function streamProxy(target) {
+  const upstream = await fetch(target, { redirect: "follow" });
+  const headers = new Headers();
+  headers.set(
+    "Content-Type",
+    upstream.headers.get("Content-Type") || "application/octet-stream"
+  );
+  const cl = upstream.headers.get("Content-Length");
+  if (cl) {
+    headers.set("Content-Length", cl);
+  }
+  headers.set("Cache-Control", "no-store");
+  return new Response(upstream.body, { status: 200, headers });
+}
+
 async function handleApi(params, host, dataBase) {
   const action = params.get("action") || "";
   if (!action) {
@@ -129,9 +144,21 @@ export default {
     }
 
     if (path.endsWith("xmltv.php")) {
-      return new Response('<?xml version="1.0" encoding="UTF-8"?><tv></tv>', {
-        headers: { "Content-Type": "application/xml; charset=utf-8" },
-      });
+      const root = dataBase.replace(/\/xtream\/?$/, "/");
+      const res = await fetch(root + "epg.xml.gz");
+      if (!res.ok) {
+        return json({}, 502);
+      }
+      try {
+        const body = res.body.pipeThrough(new DecompressionStream("gzip"));
+        return new Response(body, {
+          headers: { "Content-Type": "application/xml; charset=utf-8" },
+        });
+      } catch (e) {
+        return new Response(res.body, {
+          headers: { "Content-Type": "application/xml; charset=utf-8" },
+        });
+      }
     }
 
     const parts = path.split("/").filter(Boolean);
@@ -142,7 +169,10 @@ export default {
       if (!target) {
         return json({}, 404);
       }
-      return Response.redirect(target, 302);
+      if (env && env.PROXY_STREAM === "off") {
+        return Response.redirect(target, 302);
+      }
+      return streamProxy(target);
     }
 
     if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
@@ -153,7 +183,10 @@ export default {
       if (!target) {
         return json({}, 404);
       }
-      return Response.redirect(target, 302);
+      if (env && env.PROXY_STREAM === "off") {
+        return Response.redirect(target, 302);
+      }
+      return streamProxy(target);
     }
 
     return json({}, 404);

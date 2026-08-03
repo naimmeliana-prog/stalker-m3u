@@ -1,6 +1,15 @@
 {
     "portal": "http://mag.greatott.me:80",
     "categories": [949, 1754, 1802, 1671, 1670, 1672, 1674, 1676, 1675, 1826, 2016, 2023, 2136, 1006, 1600, 1815, 1820, 1817, 1819, 2070, 886, 969, 888, 1100, 889, 917, 937, 1351, 1375, 1407, 1374, 893, 1373, 885, 1182, 890, 891, 1339, 877, 878, 882, 883, 880, 875, 1145],
+    "remove_categories": [
+        "NETFLIX COMEDIE",
+        "NETFLIX ACTION",
+        "NETFLIX SF",
+        "NETFLIX DRAME",
+        "NETFLIX CRIME | MYSTERE",
+        "NETFLIX KIDS",
+        "AMAZON PRIME"
+    ],
     "out": "series.m3u",
     "threads": 16,
     "no_verify": true,
@@ -16,7 +25,8 @@
         "threads": 16,
         "timeout": 15,
         "languages": ["ES", "FR"],
-        "exclude": ["LATINO", "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE"]
+        "exclude": ["LATINO", "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE"],
+        "remove_fr": ["PRIME +", "NETFLIX", "DE NOËL", "FILMOGRAPHIE LOUIS DE FUNES", "CHUCK NORRIS"]
     },
     "itv": {
         "out": "itv.m3u",
@@ -28,6 +38,46 @@
         "es": "all",
         "fr": "no_sport",
         "uk": ["GENERAL", "DOCUMENTARY", "NEWS"],
-        "ir": "none"
+        "ir": "none",
+        "remove": [
+            "CARIBEAN",
+            "REPETICION DE FUTBOL",
+            "FRANCE LQ",
+            "TOROS",
+            "INFANTIL",
+            "MUSICA",
+            "LOCALES",
+            "ENFANTS HD",
+            "TIVIFY GOLD",
+            "CANAL+ LIVE",
+            "LALIGA+",
+            "VIX PPV",
+            "VIX PPV VIP",
+            "RFEF PPV",
+            "TV FOOTBALL PPV",
+            "RAKUTEN TV",
+            "MAX PPV",
+            "MAX PPV VIP",
+            "DAZN EXCLUSIVE",
+            "DAZN PPV",
+            "DAZN PPV BK",
+            "MLS PPV",
+            "CABLE TV SPORTS",
+            "SOCCER PPV",
+            "CDM 2026 REPLAY",
+            "FRANCE SPORT VIP",
+            "LIGUE 1+",
+            "LIGUE 1+VIP",
+            "L'EQUIPE LIVE"
+        ]
+    },
+    "epg": {
+        "out": "epg.xml.gz",
+        "checkpoint": "epg_checkpoint.json.gz",
+        "progress": "progress_epg.log",
+        "push_interval": 300,
+        "threads": 4,
+        "timeout": 15,
+        "itv": "itv.m3u"
     }
 }

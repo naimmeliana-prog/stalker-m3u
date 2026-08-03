@@ -16,6 +16,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 
 from stalker_series_m3u import (
     PortalError,
@@ -32,6 +33,44 @@ FR_SPORT_RE = re.compile(
 )
 HEADER_RE = re.compile(r"^#+")
 DEFAULT_UK = ["GENERAL", "DOCUMENTARY", "NEWS"]
+DEFAULT_REMOVE = [
+    "CARIBEAN",
+    "REPETICION DE FUTBOL",
+    "FRANCE LQ",
+    "TOROS",
+    "INFANTIL",
+    "MUSICA",
+    "LOCALES",
+    "ENFANTS HD",
+    "TIVIFY GOLD",
+    "CANAL+ LIVE",
+    "LALIGA+",
+    "VIX PPV",
+    "VIX PPV VIP",
+    "RFEF PPV",
+    "TV FOOTBALL PPV",
+    "RAKUTEN TV",
+    "MAX PPV",
+    "MAX PPV VIP",
+    "DAZN EXCLUSIVE",
+    "DAZN PPV",
+    "DAZN PPV BK",
+    "MLS PPV",
+    "CABLE TV SPORTS",
+    "SOCCER PPV",
+    "CDM 2026 REPLAY",
+    "FRANCE SPORT VIP",
+    "LIGUE 1+",
+    "LIGUE 1+VIP",
+    "L'EQUIPE LIVE",
+]
+DISPLAY_LANG = {"UK": "EN"}
+
+
+def _norm(text):
+    t = unicodedata.normalize("NFKD", str(text or ""))
+    t = t.encode("ascii", "ignore").decode("utf-8", "replace")
+    return re.sub(r"\s+", " ", t.upper()).strip()
 
 
 def load_config():
@@ -72,6 +111,7 @@ def _sig(portal, cfg):
                 str(cfg.get("fr") or "no_sport"),
                 repr(sorted(cfg.get("uk") or DEFAULT_UK)),
                 str(cfg.get("ir") or "none"),
+                repr(sorted(cfg.get("remove") or DEFAULT_REMOVE)),
             ]
         ).encode("utf-8")
     )
@@ -121,11 +161,14 @@ def select_genres(genres, cfg):
     fr_mode = cfg.get("fr") or "no_sport"
     uk_words = cfg.get("uk") or DEFAULT_UK
     ir_mode = cfg.get("ir") or "none"
+    remove = [_norm(k) for k in (cfg.get("remove") or DEFAULT_REMOVE)]
     out = []
     for g in genres:
         title = str(g.get("title") or "")
         lp = lang_prefix(title)
         base = clean_name(title)
+        if remove and any(n in _norm(base) for n in remove):
+            continue
         if lp == "ES":
             if es_mode != "none":
                 out.append(g)
@@ -146,7 +189,9 @@ def select_genres(genres, cfg):
 
 def list_channels(portal, genre_id):
     items = []
+    raw_items = 0
     page = 1
+    total = 0
     while page <= 200:
         out = _request(
             portal,
@@ -162,11 +207,21 @@ def list_channels(portal, genre_id):
         data = js.get("data", []) if isinstance(js, dict) else []
         if isinstance(data, dict):
             data = [i for g in data.values() for i in (g if isinstance(g, list) else [g])]
+        t = int(js.get("total_items") or 0) if isinstance(js, dict) else 0
+        if t:
+            total = t
+        raw_items += len(data)
         data = [c for c in data if not HEADER_RE.match(str(c.get("name") or ""))]
         if not data:
             break
         items.extend(data)
+        if total and raw_items >= total:
+            break
         page += 1
+    if total and raw_items < total:
+        raise PortalError("ITV %s incompleta: %d/%d (pagina %d)" % (genre_id, raw_items, total, page))
+    if page > 200:
+        raise PortalError("ITV %s: limite de paginas (200) alcanzado" % genre_id)
     return items
 
 
@@ -253,17 +308,21 @@ def main(argv=None):
 
     def _process(genre):
         gid = str(genre.get("id"))
-        group = clean_name(genre.get("title")) or gid
+        lp = lang_prefix(genre.get("title"))
+        group = ("%s| %s" % (DISPLAY_LANG.get(lp, lp), clean_name(genre.get("title")))).strip() or gid
         try:
             channels = list_channels(portal, gid)
         except PortalError:
-            return gid, group, []
+            return gid, group, None
         return gid, group, channels
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as pool:
         futures = {pool.submit(_process, g): g for g in pending}
         for fut in concurrent.futures.as_completed(futures):
             gid, group, channels = fut.result()
+            if channels is None:
+                print("[!] Genero %s '%s': error de lista, se reintenta el proximo run" % (gid, group))
+                continue
             new = 0
             for ch in channels:
                 mid = str(ch.get("id"))

@@ -25,6 +25,9 @@ def _build_args(cfg):
     cats = cfg.get("categories") or []
     if cats:
         args += ["--category"] + [str(c) for c in cats]
+    rc = cfg.get("remove_categories") or []
+    if rc:
+        args += ["--remove-cats"] + [str(n) for n in rc]
     if cfg.get("search"):
         args += ["--search", cfg["search"]]
     if cfg.get("no_verify"):
