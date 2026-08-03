@@ -119,7 +119,7 @@ export default {
       const mtype = url.searchParams.get("type") || "";
       if (mtype.includes("m3u")) {
         const root = dataBase.replace(/\/xtream\/?$/, "/");
-        return Response.redirect(root + "series.m3u", 302);
+        return Response.redirect(root + "global.m3u", 302);
       }
       return json({ user_info: AUTH_USER, server_info: serverInfo(url.host) });
     }

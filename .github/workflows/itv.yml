@@ -1,8 +1,8 @@
-name: Generar M3U series
+name: Generar ITV m3u
 
 on:
   schedule:
-    - cron: "30 5 * * *"
+    - cron: "50 7 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ permissions:
 jobs:
   generate:
     concurrency:
-      group: series-gen
+      group: itv-gen
       cancel-in-progress: false
     runs-on: ubuntu-latest
     timeout-minutes: 360
@@ -26,20 +26,20 @@ jobs:
 
       - name: Renovar tokens (solo cron diario)
         if: github.event_name == 'schedule'
-        run: rm -f checkpoint.json.gz progress.log
+        run: rm -f itv_checkpoint.json.gz progress_itv.log
 
-      - name: Generar lista M3U
+      - name: Generar lista ITV
         env:
           MAG_MAC: ${{ secrets.MAG_MAC }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python generate.py
+        run: python itv_m3u.py
 
       - name: Publicar cambios finales
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add series.m3u checkpoint.json.gz xtream progress.log
-          git diff --cached --quiet || git commit -m "Actualizar lista M3U + datos Xtream ($(date -u +'%F %R UTC'))"
+          git add itv.m3u itv_checkpoint.json.gz progress_itv.log
+          git diff --cached --quiet || git commit -m "Actualizar itv.m3u ($(date -u +'%F %R UTC'))"
           git push || (git pull --rebase origin main && git push)
 
   publish:

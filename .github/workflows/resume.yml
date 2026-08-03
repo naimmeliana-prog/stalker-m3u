@@ -1,0 +1,41 @@
+name: Reanudar M3U series
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Relanzar m3u.yml si el ultimo run quedo cancelado
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const res = await github.rest.actions.listWorkflowRuns({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'm3u.yml',
+              per_page: 5,
+            });
+            const runs = res.data.workflow_runs || [];
+            if (runs.length === 0) return;
+            const last = runs[0];
+            const ageMin = (Date.now() - new Date(last.updated_at).getTime()) / 60000;
+            console.log(`ultimo run ${last.id} status=${last.status} conclusion=${last.conclusion} edad=${ageMin.toFixed(1)}min`);
+            if (last.status === 'in_progress') return;
+            if (last.conclusion === 'success') return;
+            if (last.conclusion !== 'cancelled') return;
+            if (ageMin < 5 || ageMin > 180) return;
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'm3u.yml',
+              ref: 'main',
+            });
+            console.log(`relanzado m3u.yml (run cancelado ${last.id})`);

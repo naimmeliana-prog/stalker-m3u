@@ -7,5 +7,27 @@
     "group": "series",
     "checkpoint": "checkpoint.json.gz",
     "push_interval": 300,
-    "xtream_dir": "xtream"
+    "xtream_dir": "xtream",
+    "vod": {
+        "out": "vod.m3u",
+        "checkpoint": "vod_checkpoint.json.gz",
+        "progress": "progress_vod.log",
+        "push_interval": 300,
+        "threads": 16,
+        "timeout": 15,
+        "languages": ["ES", "FR"],
+        "exclude": ["LATINO", "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE"]
+    },
+    "itv": {
+        "out": "itv.m3u",
+        "checkpoint": "itv_checkpoint.json.gz",
+        "progress": "progress_itv.log",
+        "push_interval": 300,
+        "threads": 8,
+        "timeout": 15,
+        "es": "all",
+        "fr": "no_sport",
+        "uk": ["GENERAL", "DOCUMENTARY", "NEWS"],
+        "ir": "none"
+    }
 }
