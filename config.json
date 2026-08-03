@@ -5,6 +5,5 @@
     "threads": 8,
     "no_verify": true,
     "group": "series",
-    "checkpoint": "checkpoint.json",
-    "push_interval": 120
+    "checkpoint": "checkpoint.json"
 }

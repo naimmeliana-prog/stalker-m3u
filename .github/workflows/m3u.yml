@@ -7,6 +7,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -22,7 +28,6 @@ jobs:
       - name: Generar lista M3U
         env:
           MAG_MAC: ${{ secrets.MAG_MAC }}
-          GITHUB_TOKEN: ${{ github.token }}
         run: python generate.py
 
       - name: Publicar cambios finales
@@ -33,6 +38,14 @@ jobs:
           git diff --cached --quiet || git commit -m "Actualizar lista M3U ($(date -u +'%F %R UTC'))"
           git push
 
-      - name: Purgar cache jsDelivr
-        run: |
-          curl -s -X POST "https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/series.m3u" || true
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir artefacto a Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
