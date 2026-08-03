@@ -443,6 +443,7 @@ def _collect_xtream(xinfo, xt_series, streams, xt_dir):
 
 def _git_push(*paths):
     if not os.environ.get("GITHUB_TOKEN"):
+        print("[!] _git_push: no hay GITHUB_TOKEN en el entorno")
         return
     try:
         subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True, capture_output=True)
@@ -452,7 +453,14 @@ def _git_push(*paths):
             return
         msg = "checkpoint M3U (%s)" % time.strftime("%F %R UTC", time.gmtime())
         subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
-        subprocess.run(["git", "push"], check=True, capture_output=True)
+        try:
+            subprocess.run(["git", "push"], check=True, capture_output=True)
+        except subprocess.CalledProcessError:
+            subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True, capture_output=True)
+            subprocess.run(["git", "push"], check=True, capture_output=True)
+    except subprocess.CalledProcessError as exc:
+        err = (exc.stderr or b"").decode("utf-8", "replace").strip() or str(exc)
+        print("[!] _git_push fallo: %s" % err)
     except Exception as exc:
         print("[!] _git_push fallo: %s" % exc)
 
