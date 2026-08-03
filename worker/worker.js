@@ -75,13 +75,17 @@ async function handleApi(params, host, dataBase) {
       return json(EMPTY_INFO);
     }
   }
-  if (
-    action === "get_live_categories" ||
-    action === "get_live_streams" ||
-    action === "get_vod_categories" ||
-    action === "get_vod_streams"
-  ) {
-    return json([]);
+  if (action === "get_live_categories") {
+    return json(await fetchData(dataBase + "live_categories.json"));
+  }
+  if (action === "get_live_streams") {
+    return json(await fetchData(dataBase + "live_streams.json"));
+  }
+  if (action === "get_vod_categories") {
+    return json(await fetchData(dataBase + "vod_categories.json"));
+  }
+  if (action === "get_vod_streams") {
+    return json(await fetchData(dataBase + "vod_streams.json"));
   }
   if (
     action === "get_short_epg" ||
@@ -135,6 +139,17 @@ export default {
       const ep = parts[3].replace(/\.\w+$/, "");
       const streams = await fetchData(dataBase + "streams.json", 600);
       const target = streams[ep];
+      if (!target) {
+        return json({}, 404);
+      }
+      return Response.redirect(target, 302);
+    }
+
+    if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
+      const sid = parts[3].replace(/\.\w+$/, "");
+      const mapFile = parts[0] === "live" ? "live_urls.json" : "vod_urls.json";
+      const urls = await fetchData(dataBase + mapFile, 600);
+      const target = urls[sid];
       if (!target) {
         return json({}, 404);
       }
