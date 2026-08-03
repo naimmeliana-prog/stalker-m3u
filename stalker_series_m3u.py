@@ -453,11 +453,19 @@ def _git_push(*paths):
             return
         msg = "checkpoint M3U (%s)" % time.strftime("%F %R UTC", time.gmtime())
         subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
-        try:
-            subprocess.run(["git", "push"], check=True, capture_output=True)
-        except subprocess.CalledProcessError:
-            subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True, capture_output=True)
-            subprocess.run(["git", "push"], check=True, capture_output=True)
+        last = None
+        for i in range(6):
+            try:
+                subprocess.run(["git", "push"], check=True, capture_output=True)
+                return
+            except subprocess.CalledProcessError as exc:
+                last = exc
+                time.sleep(2 + i * 2)
+                try:
+                    subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True, capture_output=True)
+                except subprocess.CalledProcessError:
+                    pass
+        raise last
     except subprocess.CalledProcessError as exc:
         err = (exc.stderr or b"").decode("utf-8", "replace").strip() or str(exc)
         print("[!] _git_push fallo: %s" % err)

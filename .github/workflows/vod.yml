@@ -40,7 +40,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           for f in vod.m3u vod_checkpoint.json.gz progress_vod.log; do [ -f "$f" ] && git add "$f" || true; done
           git diff --cached --quiet || git commit -m "Actualizar vod.m3u ($(date -u +'%F %R UTC'))"
-          git push || (git pull --rebase origin main && git push)
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
 
   publish:
     needs: generate
@@ -64,7 +64,7 @@ jobs:
           python combine.py
           git add global.m3u
           git diff --cached --quiet || git commit -m "Actualizar global.m3u ($(date -u +'%F %R UTC'))"
-          git push || (git pull --rebase origin main && git push)
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
 
       - name: Desplegar Worker Xtream
         if: env.CF_API_TOKEN != ''
