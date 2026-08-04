@@ -167,12 +167,24 @@ async function handleApi(params, host, dataBase) {
   if (action === "get_vod_streams") {
     return json(await fetchData(dataBase + "vod_streams.json"));
   }
-  if (
-    action === "get_short_epg" ||
-    action === "get_simple_data_table" ||
-    action === "get_all_epg" ||
-    action === "get_epg_info"
-  ) {
+  if (action === "get_short_epg") {
+    const sid = params.get("stream_id") || "";
+    try {
+      const epg = await fetchData(dataBase + "short_epg.json");
+      return json({ epg_listings: sid && epg[sid] ? epg[sid] : [] });
+    } catch (e) {
+      return json({ epg_listings: [] });
+    }
+  }
+  if (action === "get_all_epg") {
+    try {
+      const epg = await fetchData(dataBase + "short_epg.json");
+      return json({ epg_listings: epg });
+    } catch (e) {
+      return json({ epg_listings: {} });
+    }
+  }
+  if (action === "get_simple_data_table" || action === "get_epg_info") {
     return json([]);
   }
   return json({});

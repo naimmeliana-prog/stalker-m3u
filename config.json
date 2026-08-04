@@ -73,6 +73,7 @@
     },
     "epg": {
         "out": "epg.xml.gz",
+        "short_out": "xtream/short_epg.json",
         "checkpoint": "epg_checkpoint.json.gz",
         "progress": "progress_epg.log",
         "push_interval": 300,

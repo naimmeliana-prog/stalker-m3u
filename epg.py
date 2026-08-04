@@ -122,6 +122,39 @@ def _fmt_programme(p):
     return "".join(out)
 
 
+def _fmt_short(p):
+    """Devuelve un listing en formato Xtream (get_short_epg)."""
+    cid = str(p.get("ch_id") or "")
+    try:
+        dt_start = datetime.datetime.fromtimestamp(int(p.get("start_timestamp")), datetime.timezone.utc)
+    except (TypeError, ValueError, OSError):
+        return None
+    stop = p.get("stop_timestamp")
+    if not stop:
+        try:
+            stop = int(p.get("start_timestamp")) + int(p.get("duration") or 0)
+        except (TypeError, ValueError):
+            return None
+    try:
+        dt_stop = datetime.datetime.fromtimestamp(int(stop), datetime.timezone.utc)
+    except (TypeError, ValueError, OSError):
+        return None
+    name = str(p.get("name") or "")
+    if not name:
+        return None
+    start_s = dt_start.strftime("%Y-%m-%d %H:%M")
+    stop_s = dt_stop.strftime("%Y-%m-%d %H:%M")
+    return {
+        "id": "%s_%s" % (cid, start_s),
+        "epg_id": cid,
+        "title": name,
+        "lang": "es",
+        "start": start_s,
+        "end": stop_s,
+        "description": str(p.get("descr") or ""),
+    }
+
+
 def _checkpoint_path(path):
     return path
 
@@ -141,6 +174,7 @@ def main(argv=None):
         return 1
 
     out_path = cfg.get("out", "epg.xml.gz")
+    short_out = cfg.get("short_out", "short_epg.json")
     ck_path = cfg.get("checkpoint")
     progress = cfg.get("progress", "progress_epg.log")
     push_interval = cfg.get("push_interval", 300)
@@ -158,20 +192,25 @@ def main(argv=None):
 
     pending = list(channels)
     progs = {}  # ch_id -> list of xml strings
+    short = {}  # ch_id -> list of XC listings
 
     def fetch_one(cid):
         try:
             items = _request_epg(portal, cid)
         except PortalError as exc:
-            return cid, None, str(exc)
+            return cid, None, None, str(exc)
         lines = []
+        entries = []
         for p in items:
             p = dict(p)
             p.setdefault("ch_id", cid)
             line = _fmt_programme(p)
             if line:
                 lines.append(line)
-        return cid, lines, None
+            entry = _fmt_short(p)
+            if entry:
+                entries.append(entry)
+        return cid, lines, entries, None
 
     last_push = [time.time()]
 
@@ -198,12 +237,14 @@ def main(argv=None):
     with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as pool:
         futures = {pool.submit(fetch_one, cid): cid for cid in pending}
         for fut in concurrent.futures.as_completed(futures):
-            cid, lines, err = fut.result()
+            cid, lines, entries, err = fut.result()
             if err is not None:
                 print("[!] Canal %s EPG fallo: %s" % (cid, err))
                 continue
             if lines:
                 progs[cid] = lines
+            if entries:
+                short[cid] = entries
             done.add(cid)
             save_and_push()
             print("[+] EPG: %d/%d canales" % (len(done), len(channels)))
@@ -222,6 +263,16 @@ def main(argv=None):
     os.replace(tmp, out_path)
     print("[+] EPG guardado en %s (%d canales, %d programas)" % (out_path, len(channels), sum(len(v) for v in progs.values())))
 
+    if short:
+        tmp = short_out + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as fh:
+            json.dump(short, fh, ensure_ascii=False)
+        os.replace(tmp, short_out)
+        print(
+            "[+] EPG corto guardado en %s (%d canales, %d programas)"
+            % (short_out, len(short), sum(len(v) for v in short.values()))
+        )
+
     if ck_path:
         try:
             tmp = ck_path + ".tmp"
@@ -230,7 +281,7 @@ def main(argv=None):
             os.replace(tmp, ck_path)
         except Exception as exc:
             print("[!] Error guardando checkpoint EPG final: %s" % exc)
-    _git_push(out_path, ck_path)
+    _git_push(out_path, ck_path, short_out)
     return 0
 
 
