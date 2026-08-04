@@ -95,7 +95,8 @@ def clean_name(title):
 def _gzip_open(path, mode):
     import gzip
 
-    return gzip.open(path, mode, encoding="utf-8") if path.endswith(".gz") else open(
+    base = path[:-4] if path.endswith(".tmp") else path
+    return gzip.open(path, mode, encoding="utf-8") if base.endswith(".gz") else open(
         path, mode, encoding="utf-8"
     )
 
@@ -192,6 +193,7 @@ def list_channels(portal, genre_id):
     raw_items = 0
     page = 1
     total = 0
+    empty_tries = 0
     while page <= 200:
         out = _request(
             portal,
@@ -210,6 +212,16 @@ def list_channels(portal, genre_id):
         t = int(js.get("total_items") or 0) if isinstance(js, dict) else 0
         if t:
             total = t
+        if not data:
+            if page == 1:
+                if total > 0:
+                    raise PortalError("ITV %s: pagina 1 vacia (total=%d)" % (genre_id, total))
+                empty_tries += 1
+                if empty_tries >= 3:
+                    break
+                time.sleep(3 * empty_tries)
+                continue
+            break
         raw_items += len(data)
         data = [c for c in data if not HEADER_RE.match(str(c.get("name") or ""))]
         if not data:

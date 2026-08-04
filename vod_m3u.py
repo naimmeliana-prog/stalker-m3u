@@ -56,7 +56,8 @@ def clean_name(title):
 def _gzip_open(path, mode):
     import gzip
 
-    return gzip.open(path, mode, encoding="utf-8") if path.endswith(".gz") else open(
+    base = path[:-4] if path.endswith(".tmp") else path
+    return gzip.open(path, mode, encoding="utf-8") if base.endswith(".gz") else open(
         path, mode, encoding="utf-8"
     )
 
@@ -144,6 +145,7 @@ def list_movies(portal, cid):
     items = []
     page = 1
     total = 0
+    empty_tries = 0
     while page <= 500:
         out = _request(
             portal,
@@ -163,8 +165,14 @@ def list_movies(portal, cid):
         if t:
             total = t
         if not data:
-            if page == 1 and total > 0:
-                raise PortalError("VOD %s: pagina 1 vacia (total=%d)" % (cid, total))
+            if page == 1:
+                if total > 0:
+                    raise PortalError("VOD %s: pagina 1 vacia (total=%d)" % (cid, total))
+                empty_tries += 1
+                if empty_tries >= 3:
+                    break
+                time.sleep(3 * empty_tries)
+                continue
             break
         items.extend(data)
         if total and len(items) >= total:

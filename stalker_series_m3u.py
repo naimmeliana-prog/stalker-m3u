@@ -186,6 +186,7 @@ class StalkerPortal:
         items = []
         page = 1
         total = 0
+        empty_tries = 0
         while page <= max_pages:
             params = {"type": "series", "action": "get_ordered_list", "p": page, "JsHttpRequest": "1-xml"}
             params.update(extra)
@@ -195,8 +196,14 @@ class StalkerPortal:
             if t:
                 total = t
             if not data:
-                if page == 1 and total > 0:
-                    raise PortalError("Lista vacia en pagina 1 (total=%d)" % total)
+                if page == 1:
+                    if total > 0:
+                        raise PortalError("Lista vacia en pagina 1 (total=%d)" % total)
+                    empty_tries += 1
+                    if empty_tries >= 3:
+                        break
+                    time.sleep(3 * empty_tries)
+                    continue
                 break
             items.extend(data)
             if total and len(items) >= total:
