@@ -6,7 +6,7 @@ const AUTH_USER = {
   status: "Active",
   exp_date: "2030-01-01 00:00:00",
   is_trial: "0",
-  max_connections: "4",
+  max_connections: "6",
 };
 
 const EMPTY_INFO = { seasons: [], episodes: {}, info: {} };
