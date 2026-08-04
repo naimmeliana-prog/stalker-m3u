@@ -159,7 +159,7 @@ export default {
           /* cuerpo ilegible, se ignora */
         }
       }
-      return withCors(handleApi(params, url.host, dataBase));
+      return withCors(await handleApi(params, url.host, dataBase));
     }
 
     if (path.endsWith("get.php")) {
