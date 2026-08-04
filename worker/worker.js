@@ -230,6 +230,23 @@ export default {
       return withCors(await streamProxy(target));
     }
 
+    if (parts.length === 3) {
+      const sid = decodeURIComponent(parts[2]).replace(/\.\w+$/, "");
+      const live = await fetchData(dataBase + "live_urls.json", 600);
+      if (live[sid]) {
+        return redirectCors(live[sid]);
+      }
+      const vod = await fetchData(dataBase + "vod_urls.json", 600);
+      if (vod[sid]) {
+        return redirectCors(vod[sid]);
+      }
+      const streams = await fetchData(dataBase + "streams.json", 600);
+      if (streams[sid]) {
+        return redirectCors(streams[sid]);
+      }
+      return corsJson({}, 404);
+    }
+
     return corsJson({}, 404);
   },
 };
