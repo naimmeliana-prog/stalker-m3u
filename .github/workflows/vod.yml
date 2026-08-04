@@ -2,7 +2,7 @@ name: Generar VOD m3u
 
 on:
   schedule:
-    - cron: "40 6 * * *"
+    - cron: "40 4 * * *"
   workflow_dispatch:
 
 permissions:
