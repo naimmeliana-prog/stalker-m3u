@@ -60,6 +60,14 @@ def _entries(lines):
 
 
 def _ext_from_url(url):
+    m = re.search(r"[?&]stream=([\w.]+)", url)
+    if m:
+        base = m.group(1)
+        dot = base.rfind(".")
+        if dot > 0:
+            ext = base[dot + 1:]
+            if re.match(r"^[A-Za-z0-9]{2,4}$", ext):
+                return ext.lower()
     m = re.search(r"\.([A-Za-z0-9]{2,4})(\?|$)", url)
     return (m.group(1) or "mkv") if m else "mkv"
 

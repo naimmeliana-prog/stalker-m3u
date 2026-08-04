@@ -2,5 +2,8 @@ name = "stalker-xtream"
 main = "worker.js"
 compatibility_date = "2025-06-01"
 
+[vars]
+PROXY_STREAM = "off"
+
 [observability]
 enabled = true
