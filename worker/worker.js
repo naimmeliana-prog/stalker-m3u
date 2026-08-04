@@ -119,34 +119,6 @@ export default {
     const path = url.pathname;
     const dataBase = (env && env.DATA_BASE) || DEFAULT_DATA_BASE;
 
-    if (path === "/__diag") {
-      const target = url.searchParams.get("url") || "";
-      const allowed = ["mag.greatott.me", "85.92.112.85", "103.176.90.35", "51.158.145.100"];
-      try {
-        const t = new URL(target);
-        if (!allowed.some((h) => t.hostname === h || t.hostname.endsWith("." + h))) {
-          return json({ error: "host no permitido", host: t.hostname }, 403);
-        }
-        const res = await fetch(t.toString(), { redirect: "follow", headers: { "User-Agent": "Mozilla/5.0" } });
-        const head = res.headers.get("content-type") || "";
-        let first = new Uint8Array(0);
-        try {
-          const reader = res.body.getReader();
-          const chunk = await reader.read();
-          first = chunk.value ? chunk.value.slice(0, 16) : new Uint8Array(0);
-          await reader.cancel();
-        } catch (e) {}
-        return json({
-          status: res.status,
-          contentType: head,
-          ok: res.ok,
-          firstBytes: Array.from(new Uint8Array(first)).map((b) => b.toString(16).padStart(2, "0")).join(""),
-        });
-      } catch (e) {
-        return json({ error: String(e) });
-      }
-    }
-
     if (path.endsWith("player_api.php")) {
       let params = new URLSearchParams(url.search);
       if (request.method === "POST") {
