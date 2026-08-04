@@ -100,7 +100,7 @@ def _build_live(entries):
                 "category_id": cid,
                 "custom_sid": "",
                 "tv_archive": 0,
-                "direct_source": "",
+                "direct_source": e["url"],
                 "container_extension": "ts",
             }
         )
