@@ -163,7 +163,7 @@ export default {
 
     const parts = path.split("/").filter(Boolean);
     if (parts.length >= 4 && parts[0] === "series") {
-      const ep = parts[3].replace(/\.\w+$/, "");
+      const ep = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
       const streams = await fetchData(dataBase + "streams.json", 600);
       const target = streams[ep];
       if (!target) {
@@ -176,7 +176,7 @@ export default {
     }
 
     if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
-      const sid = parts[3].replace(/\.\w+$/, "");
+      const sid = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
       const mapFile = parts[0] === "live" ? "live_urls.json" : "vod_urls.json";
       const urls = await fetchData(dataBase + mapFile, 600);
       const target = urls[sid];
