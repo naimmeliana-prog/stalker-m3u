@@ -129,7 +129,13 @@ export default {
         }
         const res = await fetch(t.toString(), { redirect: "follow", headers: { "User-Agent": "Mozilla/5.0" } });
         const head = res.headers.get("content-type") || "";
-        const first = (await res.arrayBuffer()).slice(0, 16);
+        let first = new Uint8Array(0);
+        try {
+          const reader = res.body.getReader();
+          const chunk = await reader.read();
+          first = chunk.value ? chunk.value.slice(0, 16) : new Uint8Array(0);
+          await reader.cancel();
+        } catch (e) {}
         return json({
           status: res.status,
           contentType: head,
