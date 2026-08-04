@@ -31,7 +31,16 @@ function corsJson(data, status = 200) {
 }
 
 function redirectCors(target, status = 302) {
-  return withCors(Response.redirect(target, status));
+  return new Response(null, {
+    status,
+    headers: {
+      Location: target,
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+      "Access-Control-Allow-Headers": "*",
+      "Access-Control-Max-Age": "86400",
+    },
+  });
 }
 
 async function fetchData(url, cacheTtl = 600) {
