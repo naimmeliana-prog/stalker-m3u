@@ -2,7 +2,7 @@ name: Refrescar tokens VOD
 
 on:
   schedule:
-    - cron: "20 3,9,15,21 * * *"
+    - cron: cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
