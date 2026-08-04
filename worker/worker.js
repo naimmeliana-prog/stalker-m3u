@@ -18,6 +18,22 @@ function json(data, status = 200) {
   });
 }
 
+function withCors(res) {
+  res.headers.set("Access-Control-Allow-Origin", "*");
+  res.headers.set("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
+  res.headers.set("Access-Control-Allow-Headers", "*");
+  res.headers.set("Access-Control-Max-Age", "86400");
+  return res;
+}
+
+function corsJson(data, status = 200) {
+  return withCors(json(data, status));
+}
+
+function redirectCors(target, status = 302) {
+  return withCors(Response.redirect(target, status));
+}
+
 async function fetchData(url, cacheTtl = 600) {
   const cache = caches.default;
   const cacheKey = new Request(url);
@@ -119,6 +135,18 @@ export default {
     const path = url.pathname;
     const dataBase = (env && env.DATA_BASE) || DEFAULT_DATA_BASE;
 
+    if (request.method === "OPTIONS") {
+      return new Response(null, {
+        status: 204,
+        headers: {
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+          "Access-Control-Allow-Headers": "*",
+          "Access-Control-Max-Age": "86400",
+        },
+      });
+    }
+
     if (path.endsWith("player_api.php")) {
       let params = new URLSearchParams(url.search);
       if (request.method === "POST") {
@@ -131,33 +159,37 @@ export default {
           /* cuerpo ilegible, se ignora */
         }
       }
-      return handleApi(params, url.host, dataBase);
+      return withCors(handleApi(params, url.host, dataBase));
     }
 
     if (path.endsWith("get.php")) {
       const mtype = url.searchParams.get("type") || "";
       if (mtype.includes("m3u")) {
         const root = dataBase.replace(/\/xtream\/?$/, "/");
-        return Response.redirect(root + "global.m3u", 302);
+        return redirectCors(root + "global.m3u");
       }
-      return json({ user_info: AUTH_USER, server_info: serverInfo(url.host) });
+      return corsJson({ user_info: AUTH_USER, server_info: serverInfo(url.host) });
     }
 
     if (path.endsWith("xmltv.php")) {
       const root = dataBase.replace(/\/xtream\/?$/, "/");
       const res = await fetch(root + "epg.xml.gz");
       if (!res.ok) {
-        return json({}, 502);
+        return corsJson({}, 502);
       }
       try {
         const body = res.body.pipeThrough(new DecompressionStream("gzip"));
-        return new Response(body, {
-          headers: { "Content-Type": "application/xml; charset=utf-8" },
-        });
+        return withCors(
+          new Response(body, {
+            headers: { "Content-Type": "application/xml; charset=utf-8" },
+          })
+        );
       } catch (e) {
-        return new Response(res.body, {
-          headers: { "Content-Type": "application/xml; charset=utf-8" },
-        });
+        return withCors(
+          new Response(res.body, {
+            headers: { "Content-Type": "application/xml; charset=utf-8" },
+          })
+        );
       }
     }
 
@@ -167,12 +199,12 @@ export default {
       const streams = await fetchData(dataBase + "streams.json", 600);
       const target = streams[ep];
       if (!target) {
-        return json({}, 404);
+        return corsJson({}, 404);
       }
       if (env && env.PROXY_STREAM === "off") {
-        return Response.redirect(target, 302);
+        return redirectCors(target);
       }
-      return streamProxy(target);
+      return withCors(await streamProxy(target));
     }
 
     if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
@@ -181,14 +213,14 @@ export default {
       const urls = await fetchData(dataBase + mapFile, 600);
       const target = urls[sid];
       if (!target) {
-        return json({}, 404);
+        return corsJson({}, 404);
       }
       if (env && env.PROXY_STREAM === "off") {
-        return Response.redirect(target, 302);
+        return redirectCors(target);
       }
-      return streamProxy(target);
+      return withCors(await streamProxy(target));
     }
 
-    return json({}, 404);
+    return corsJson({}, 404);
   },
 };
