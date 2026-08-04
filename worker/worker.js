@@ -6,7 +6,7 @@ const AUTH_USER = {
   status: "Active",
   exp_date: "2030-01-01 00:00:00",
   is_trial: "0",
-  max_connections: "1",
+  max_connections: "4",
 };
 
 const EMPTY_INFO = { seasons: [], episodes: {}, info: {} };
@@ -41,6 +41,46 @@ function redirectCors(target, status = 302) {
       "Access-Control-Max-Age": "86400",
     },
   });
+}
+
+function parseUsers(raw) {
+  if (!raw) {
+    return null;
+  }
+  const map = {};
+  String(raw)
+    .split(/[\n,;]/)
+    .forEach(function (line) {
+      line = line.trim();
+      if (!line) {
+        return;
+      }
+      const idx = line.indexOf(":");
+      if (idx > 0) {
+        map[line.slice(0, idx).trim()] = line.slice(idx + 1).trim();
+      }
+    });
+  return map;
+}
+
+function checkAuth(users, user, pass) {
+  if (!users) {
+    return true;
+  }
+  return Boolean(user) && users[user] === pass;
+}
+
+function streamAuth(parts, users) {
+  if (!users) {
+    return true;
+  }
+  if (parts.length >= 4) {
+    return checkAuth(users, parts[1], parts[2]);
+  }
+  if (parts.length === 3) {
+    return checkAuth(users, parts[0], parts[1]);
+  }
+  return true;
 }
 
 async function fetchData(url, cacheTtl = 600) {
@@ -143,6 +183,7 @@ export default {
     const url = new URL(request.url);
     const path = url.pathname;
     const dataBase = (env && env.DATA_BASE) || DEFAULT_DATA_BASE;
+    const users = parseUsers((env && env.XTRAM_USERS) || "");
 
     if (request.method === "OPTIONS") {
       return new Response(null, {
@@ -168,10 +209,23 @@ export default {
           /* cuerpo ilegible, se ignora */
         }
       }
+      const user = params.get("username") || "";
+      const pass = params.get("password") || "";
+      if (!checkAuth(users, user, pass)) {
+        return corsJson(
+          { user_info: { auth: 0, status: "Disabled", exp_date: "1970-01-01 00:00:00" } },
+          401
+        );
+      }
       return withCors(await handleApi(params, url.host, dataBase));
     }
 
     if (path.endsWith("get.php")) {
+      const user = url.searchParams.get("username") || "";
+      const pass = url.searchParams.get("password") || "";
+      if (!checkAuth(users, user, pass)) {
+        return corsJson({}, 401);
+      }
       const mtype = url.searchParams.get("type") || "";
       if (mtype.includes("m3u")) {
         const root = dataBase.replace(/\/xtream\/?$/, "/");
@@ -203,6 +257,9 @@ export default {
     }
 
     const parts = path.split("/").filter(Boolean);
+    if (!streamAuth(parts, users)) {
+      return corsJson({}, 401);
+    }
     if (parts.length >= 4 && parts[0] === "series") {
       const ep = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
       const streams = await fetchData(dataBase + "streams.json", 600);

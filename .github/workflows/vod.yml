@@ -66,6 +66,14 @@ jobs:
           git diff --cached --quiet || git commit -m "Actualizar global.m3u ($(date -u +'%F %R UTC'))"
           for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
 
+      - name: Configurar secret XTRAM_USERS
+        if: env.CF_API_TOKEN != ''
+        working-directory: worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: echo "${{ secrets.XTRAM_USERS }}" | npx wrangler@latest secret put XTRAM_USERS
+
       - name: Desplegar Worker Xtream
         if: env.CF_API_TOKEN != ''
         working-directory: worker
