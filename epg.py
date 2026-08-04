@@ -153,17 +153,10 @@ def main(argv=None):
     portal.handshake()
     print("[+] Token EPG OK: %s..." % portal.token[:12])
 
-    ck = {}
-    if ck_path and os.path.exists(ck_path):
-        try:
-            with gzip.open(ck_path, "rt", encoding="utf-8") as fh:
-                ck = json.load(fh)
-        except Exception:
-            ck = {}
-    done = set(ck.get("done") or [])
-    print("[+] Canales EPG: %d (ya hechos: %d)" % (len(channels), len(done)))
+    done = set()
+    print("[+] Canales EPG: %d (ventana temporal: refetch completo cada run)" % len(channels))
 
-    pending = [cid for cid in channels if cid not in done]
+    pending = list(channels)
     progs = {}  # ch_id -> list of xml strings
 
     def fetch_one(cid):

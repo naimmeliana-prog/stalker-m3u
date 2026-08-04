@@ -76,7 +76,7 @@
         "checkpoint": "epg_checkpoint.json.gz",
         "progress": "progress_epg.log",
         "push_interval": 300,
-        "threads": 4,
+        "threads": 8,
         "timeout": 15,
         "itv": "itv.m3u"
     }
