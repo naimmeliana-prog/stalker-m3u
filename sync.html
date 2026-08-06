@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NOSTRA TV - Subir Playlist desde Móvil/PC</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Outfit:wght@600;800&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background: #0a0b10; color: #f8fafc; padding: 20px; display: flex; justify-content: center; }
+    .card { width: 100%; max-width: 500px; background: #121526; border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(0,0,0,0.8); }
+    h1 { font-family: 'Outfit', sans-serif; font-size: 26px; text-align: center; margin-bottom: 20px; color: #8b5cf6; }
+    .form-group { margin-bottom: 16px; }
+    label { display: block; font-size: 13px; font-weight: 600; color: #94a3b8; margin-bottom: 6px; }
+    input, select { width: 100%; padding: 12px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.15); border-radius: 10px; color: #fff; font-size: 15px; }
+    button { width: 100%; padding: 14px; background: linear-gradient(135deg, #8b5cf6, #06b6d4); border: none; border-radius: 12px; color: #fff; font-weight: 800; font-size: 16px; cursor: pointer; margin-top: 10px; }
+    .status { margin-top: 15px; text-align: center; font-size: 14px; font-weight: 600; }
+    .tabs { display: flex; gap: 8px; margin-bottom: 15px; }
+    .tab-btn { flex: 1; padding: 8px; background: rgba(255,255,255,0.05); border: none; color: #94a3b8; font-weight: 700; border-radius: 8px; cursor: pointer; }
+    .tab-btn.active { background: #8b5cf6; color: #fff; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>NOSTRA TV Sync</h1>
+    <p style="text-align:center; color:#94a3b8; font-size:14px; margin-bottom:20px;">Envía tu lista IPTV directamente a tu televisor LG webOS</p>
+
+    <form id="sync-form">
+      <div class="form-group">
+        <label>PIN de Emparejamiento TV:</label>
+        <input type="text" id="pin-input" placeholder="Ej. 849-201" required />
+      </div>
+
+      <div class="form-group">
+        <label>Nombre de la Lista:</label>
+        <input type="text" id="name-input" placeholder="Ej. Lista Mi Proveedor" required />
+      </div>
+
+      <div class="tabs">
+        <button type="button" class="tab-btn active" data-mode="m3u">M3U</button>
+        <button type="button" class="tab-btn" data-mode="xtream">Xtream</button>
+        <button type="button" class="tab-btn" data-mode="stalker">Stalker</button>
+      </div>
+
+      <!-- M3U Fields -->
+      <div id="sec-m3u">
+        <div class="form-group">
+          <label>URL Lista M3U / M3U8:</label>
+          <input type="url" id="m3u-url" placeholder="https://ejemplo.com/lista.m3u" />
+        </div>
+      </div>
+
+      <!-- Xtream Fields -->
+      <div id="sec-xtream" class="hidden">
+        <div class="form-group"><label>Host / Servidor:</label><input type="url" id="xtream-host" placeholder="http://servidor.com:8080" /></div>
+        <div class="form-group"><label>Usuario:</label><input type="text" id="xtream-user" placeholder="Usuario" /></div>
+        <div class="form-group"><label>Contraseña:</label><input type="password" id="xtream-pass" placeholder="Contraseña" /></div>
+      </div>
+
+      <!-- Stalker Fields -->
+      <div id="sec-stalker" class="hidden">
+        <div class="form-group"><label>URL Portal Stalker:</label><input type="url" id="stalker-url" placeholder="http://portal.com/c/" /></div>
+        <div class="form-group"><label>MAC Address:</label><input type="text" id="stalker-mac" placeholder="00:1A:79:XX:XX:XX" /></div>
+      </div>
+
+      <button type="submit">🚀 Enviar a la TV</button>
+    </form>
+
+    <div id="status-msg" class="status"></div>
+  </div>
+
+  <script>
+    let mode = 'm3u';
+    
+    // Auto-fill PIN from URL params if present
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.has('pin')) {
+      document.getElementById('pin-input').value = urlParams.get('pin');
+    }
+
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        e.target.classList.add('active');
+        mode = e.target.getAttribute('data-mode');
+
+        document.getElementById('sec-m3u').classList.toggle('hidden', mode !== 'm3u');
+        document.getElementById('sec-xtream').classList.toggle('hidden', mode !== 'xtream');
+        document.getElementById('sec-stalker').classList.toggle('hidden', mode !== 'stalker');
+      });
+    });
+
+    document.getElementById('sync-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const pin = document.getElementById('pin-input').value.trim().replace('-', '');
+      const name = document.getElementById('name-input').value.trim();
+
+      let playlist = { name, type: mode };
+
+      if (mode === 'm3u') {
+        playlist.url = document.getElementById('m3u-url').value.trim();
+      } else if (mode === 'xtream') {
+        playlist.xtreamConfig = {
+          host: document.getElementById('xtream-host').value.trim(),
+          username: document.getElementById('xtream-user').value.trim(),
+          password: document.getElementById('xtream-pass').value.trim()
+        };
+      } else if (mode === 'stalker') {
+        playlist.stalkerConfig = {
+          portalUrl: document.getElementById('stalker-url').value.trim(),
+          mac: document.getElementById('stalker-mac').value.trim()
+        };
+      }
+
+      const statusMsg = document.getElementById('status-msg');
+      statusMsg.textContent = 'Enviando a la TV...';
+      statusMsg.style.color = '#06b6d4';
+
+      try {
+        const bucketId = 'K3n8g4U2w8V9u4H1y7e9Pq';
+        const url = `https://kvdb.io/${bucketId}/nostra_pin_${pin}`;
+        
+        const resp = await fetch(url, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ playlist })
+        });
+        
+        if (resp.ok) {
+          statusMsg.textContent = '¡Enviado con éxito a la TV! 🎉 (Verifica tu pantalla)';
+          statusMsg.style.color = '#22c55e';
+        } else {
+          statusMsg.textContent = 'Error al enviar (Código incorrecto o red)';
+          statusMsg.style.color = '#ef4444';
+        }
+      } catch (err) {
+        statusMsg.textContent = 'Error de conexión. Verifica tu conexión a Internet.';
+        statusMsg.style.color = '#ef4444';
+      }
+    });
+  </script>
+</body>
+</html>
