@@ -170,35 +170,16 @@ def get_genres(portal):
 
 
 def select_genres(genres, cfg):
-    es_mode = cfg.get("es") or "all"
-    fr_mode = cfg.get("fr") or "no_sport"
-    uk_words = cfg.get("uk") or DEFAULT_UK
-    ir_mode = cfg.get("ir") or "none"
     remove = [_norm(k) for k in (cfg.get("remove") or DEFAULT_REMOVE)]
     out = []
     for g in genres:
         title = str(g.get("title") or "")
         if any(r in _norm(title) for r in EXCLUDED_REGIONS):
             continue
-        lp = lang_prefix(title)
         base = clean_name(title)
         if remove and any(n in _norm(base) for n in remove):
             continue
-        if lp == "ES":
-            if es_mode != "none":
-                out.append(g)
-        elif lp == "FR":
-            if fr_mode == "none":
-                continue
-            if fr_mode == "no_sport" and FR_SPORT_RE.search(base):
-                continue
-            out.append(g)
-        elif lp == "UK":
-            if any(k.upper() in base.upper() for k in uk_words):
-                out.append(g)
-        elif lp == "IR":
-            if ir_mode != "none":
-                out.append(g)
+        out.append(g)
     return out
 
 

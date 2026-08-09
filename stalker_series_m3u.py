@@ -575,14 +575,10 @@ def _run(args):
 
     categories = portal.get_categories()
     cat_names = {}
-    allowed_langs = {"ES", "FR"}
     banned_regions = {"LATINO", "QUEBEC", "SUISSE", "SUIZA", "BELGIQUE", "BELGICA", "CANADA", "CANADIAN"}
     filtered_cat_ids = []
     for cat in categories:
         title = str(cat.get("title") or "")
-        lp = _title_lang(title)
-        if lp not in allowed_langs:
-            continue
         if any(r in _norm(title) for r in banned_regions):
             continue
         cid = str(cat.get("id") or "")

@@ -140,17 +140,11 @@ def get_categories(portal):
 
 def select_categories(cats, languages, exclude, remove_fr=None):
     needles = [_norm(k) for k in exclude]
-    fr_remove = [_norm(k) for k in (remove_fr or DEFAULT_REMOVE_FR)]
     out = []
     for c in cats:
         title = str(c.get("title") or "")
-        lp = lang_prefix(title)
-        if lp not in languages:
-            continue
         up = _norm(title)
         if any(n in up for n in needles):
-            continue
-        if lp == "FR" and any(n in _norm(clean_name(title)) for n in fr_remove):
             continue
         out.append(c)
     return out
