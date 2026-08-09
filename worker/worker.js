@@ -169,7 +169,8 @@ export default {
     if (username && username !== "demo" && username !== "test") {
       const sanitized = username.replace(/[^a-zA-Z0-9_-]/g, "");
       if (sanitized) {
-        dataBase = DEFAULT_DATA_BASE + "portals/" + sanitized + "/xtream/";
+        const root = DEFAULT_DATA_BASE.replace(/\/xtream\/?$/, "/");
+        dataBase = root + "portals/" + sanitized + "/xtream/";
       }
     }
 
