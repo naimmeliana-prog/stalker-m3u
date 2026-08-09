@@ -1,1 +1,231 @@
 #EXTM3U x-tvg-url="https://naimmeliana-prog.github.io/stalker-m3u/portals/tfx1/epg.xml.gz"
+#EXTINF:-1 tvg-id="1371598" tvg-name="LA 2 FHD+" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/La_2.png" group-title="ES| ES ✪ SPAIN",LA 2 FHD+
+http://localhost/ch/1371598_
+#EXTINF:-1 tvg-id="1371605" tvg-name="MEGA FHD+" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/MEGA.png" group-title="ES| ES ✪ SPAIN",MEGA FHD+
+http://localhost/ch/1371605_
+#EXTINF:-1 tvg-id="1372501" tvg-name="TELEMADRID HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Telemadrid.png" group-title="ES| ES ✪ SPAIN",TELEMADRID HD
+http://localhost/ch/1372501_
+#EXTINF:-1 tvg-id="1447505" tvg-name="TF1 4K" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1.png" group-title="FR| FR ✪ FRANCE",TF1 4K
+http://localhost/ch/1447505_
+#EXTINF:-1 tvg-id="1447506" tvg-name="TF1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1.png" group-title="FR| FR ✪ FRANCE",TF1 FHD
+http://localhost/ch/1447506_
+#EXTINF:-1 tvg-id="1447507" tvg-name="TF1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1.png" group-title="FR| FR ✪ FRANCE",TF1 HD
+http://localhost/ch/1447507_
+#EXTINF:-1 tvg-id="1447508" tvg-name="TF1 +1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1_plus1.png" group-title="FR| FR ✪ FRANCE",TF1 +1 FHD
+http://localhost/ch/1447508_
+#EXTINF:-1 tvg-id="1447509" tvg-name="TF1 +1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1_plus1.png" group-title="FR| FR ✪ FRANCE",TF1 +1 HD
+http://localhost/ch/1447509_
+#EXTINF:-1 tvg-id="1447510" tvg-name="TMC FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tmc.png" group-title="FR| FR ✪ FRANCE",TMC FHD
+http://localhost/ch/1447510_
+#EXTINF:-1 tvg-id="1447511" tvg-name="TMC HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tmc.png" group-title="FR| FR ✪ FRANCE",TMC HD
+http://localhost/ch/1447511_
+#EXTINF:-1 tvg-id="1447512" tvg-name="TMC +1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tmc.png" group-title="FR| FR ✪ FRANCE",TMC +1 HD
+http://localhost/ch/1447512_
+#EXTINF:-1 tvg-id="1447513" tvg-name="TFX FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tfx.png" group-title="FR| FR ✪ FRANCE",TFX FHD
+http://localhost/ch/1447513_
+#EXTINF:-1 tvg-id="1447514" tvg-name="TFX HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tfx.png" group-title="FR| FR ✪ FRANCE",TFX HD
+http://localhost/ch/1447514_
+#EXTINF:-1 tvg-id="1447515" tvg-name="TV BREIZH FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tv_breizh.png" group-title="FR| FR ✪ FRANCE",TV BREIZH FHD
+http://localhost/ch/1447515_
+#EXTINF:-1 tvg-id="1447516" tvg-name="TV BREIZH HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tv_breizh.png" group-title="FR| FR ✪ FRANCE",TV BREIZH HD
+http://localhost/ch/1447516_
+#EXTINF:-1 tvg-id="1447517" tvg-name="FRANCE 2 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_2.png" group-title="FR| FR ✪ FRANCE",FRANCE 2 FHD
+http://localhost/ch/1447517_
+#EXTINF:-1 tvg-id="1447518" tvg-name="FRANCE 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_2.png" group-title="FR| FR ✪ FRANCE",FRANCE 2 HD
+http://localhost/ch/1447518_
+#EXTINF:-1 tvg-id="1447519" tvg-name="FRANCE 3 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_3.png" group-title="FR| FR ✪ FRANCE",FRANCE 3 FHD
+http://localhost/ch/1447519_
+#EXTINF:-1 tvg-id="1447520" tvg-name="FRANCE 3 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_3.png" group-title="FR| FR ✪ FRANCE",FRANCE 3 HD
+http://localhost/ch/1447520_
+#EXTINF:-1 tvg-id="1447521" tvg-name="FRANCE 3 NOA HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_3_noa.png" group-title="FR| FR ✪ FRANCE",FRANCE 3 NOA HD
+http://localhost/ch/1447521_
+#EXTINF:-1 tvg-id="1447522" tvg-name="FRANCE 4 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_4.png" group-title="FR| FR ✪ FRANCE",FRANCE 4 FHD
+http://localhost/ch/1447522_
+#EXTINF:-1 tvg-id="1447523" tvg-name="FRANCE 4 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_4.png" group-title="FR| FR ✪ FRANCE",FRANCE 4 HD
+http://localhost/ch/1447523_
+#EXTINF:-1 tvg-id="1447524" tvg-name="FRANCE 5 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_5.png" group-title="FR| FR ✪ FRANCE",FRANCE 5 FHD
+http://localhost/ch/1447524_
+#EXTINF:-1 tvg-id="1447525" tvg-name="FRANCE 5 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/france_5.png" group-title="FR| FR ✪ FRANCE",FRANCE 5 HD
+http://localhost/ch/1447525_
+#EXTINF:-1 tvg-id="1447526" tvg-name="TV5 MONDE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tv5_monde_fr.png" group-title="FR| FR ✪ FRANCE",TV5 MONDE HD
+http://localhost/ch/1447526_
+#EXTINF:-1 tvg-id="1447527" tvg-name="M6 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/m6.png" group-title="FR| FR ✪ FRANCE",M6 FHD
+http://localhost/ch/1447527_
+#EXTINF:-1 tvg-id="1447528" tvg-name="M6 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/m6.png" group-title="FR| FR ✪ FRANCE",M6 HD
+http://localhost/ch/1447528_
+#EXTINF:-1 tvg-id="1447529" tvg-name="W9 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/w9_fhd.png" group-title="FR| FR ✪ FRANCE",W9 FHD
+http://localhost/ch/1447529_
+#EXTINF:-1 tvg-id="1447530" tvg-name="W9 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/w9.png" group-title="FR| FR ✪ FRANCE",W9 HD
+http://localhost/ch/1447530_
+#EXTINF:-1 tvg-id="1447531" tvg-name="6TER FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/6ter.png" group-title="FR| FR ✪ FRANCE",6TER FHD
+http://localhost/ch/1447531_
+#EXTINF:-1 tvg-id="1447532" tvg-name="6TER HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/6ter.png" group-title="FR| FR ✪ FRANCE",6TER HD
+http://localhost/ch/1447532_
+#EXTINF:-1 tvg-id="1447533" tvg-name="TEVA FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/teva_fhd.png" group-title="FR| FR ✪ FRANCE",TEVA FHD
+http://localhost/ch/1447533_
+#EXTINF:-1 tvg-id="1447534" tvg-name="TEVA HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/teva.png" group-title="FR| FR ✪ FRANCE",TEVA HD
+http://localhost/ch/1447534_
+#EXTINF:-1 tvg-id="1447535" tvg-name="PARIS PREMIERE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/paris_premiere.png" group-title="FR| FR ✪ FRANCE",PARIS PREMIERE FHD
+http://localhost/ch/1447535_
+#EXTINF:-1 tvg-id="1447536" tvg-name="PARIS PREMIERE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/paris_premiere.png" group-title="FR| FR ✪ FRANCE",PARIS PREMIERE HD
+http://localhost/ch/1447536_
+#EXTINF:-1 tvg-id="1447537" tvg-name="CSTAR FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cstar.png" group-title="FR| FR ✪ FRANCE",CSTAR FHD
+http://localhost/ch/1447537_
+#EXTINF:-1 tvg-id="1447538" tvg-name="CSTAR HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cstar.png" group-title="FR| FR ✪ FRANCE",CSTAR HD
+http://localhost/ch/1447538_
+#EXTINF:-1 tvg-id="1447539" tvg-name="CHERIE 25 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cherie_25.png" group-title="FR| FR ✪ FRANCE",CHERIE 25 FHD
+http://localhost/ch/1447539_
+#EXTINF:-1 tvg-id="1447540" tvg-name="CHERIE 25 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cherie_25.png" group-title="FR| FR ✪ FRANCE",CHERIE 25 HD
+http://localhost/ch/1447540_
+#EXTINF:-1 tvg-id="1447541" tvg-name="AB1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ab1.png" group-title="FR| FR ✪ FRANCE",AB1 FHD
+http://localhost/ch/1447541_
+#EXTINF:-1 tvg-id="1447542" tvg-name="AB1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ab1.png" group-title="FR| FR ✪ FRANCE",AB1 HD
+http://localhost/ch/1447542_
+#EXTINF:-1 tvg-id="1447543" tvg-name="AB3 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ab3_fhd.png" group-title="FR| FR ✪ FRANCE",AB3 FHD
+http://localhost/ch/1447543_
+#EXTINF:-1 tvg-id="1447544" tvg-name="AB3 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ab3.png" group-title="FR| FR ✪ FRANCE",AB3 HD
+http://localhost/ch/1447544_
+#EXTINF:-1 tvg-id="1447545" tvg-name="RTL 9 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rtl9_fhd.png" group-title="FR| FR ✪ FRANCE",RTL 9 FHD
+http://localhost/ch/1447545_
+#EXTINF:-1 tvg-id="1447546" tvg-name="RTL 9 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rtl9.png" group-title="FR| FR ✪ FRANCE",RTL 9 HD
+http://localhost/ch/1447546_
+#EXTINF:-1 tvg-id="1447547" tvg-name="13 EME RUE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/13eme_rue_fhd.png" group-title="FR| FR ✪ FRANCE",13 EME RUE FHD
+http://localhost/ch/1447547_
+#EXTINF:-1 tvg-id="1447548" tvg-name="13 EME RUE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/13eme_rue.png" group-title="FR| FR ✪ FRANCE",13 EME RUE HD
+http://localhost/ch/1447548_
+#EXTINF:-1 tvg-id="1447549" tvg-name="SYFY FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/syfy.png" group-title="FR| FR ✪ FRANCE",SYFY FHD
+http://localhost/ch/1447549_
+#EXTINF:-1 tvg-id="1447550" tvg-name="SYFY HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/syfy.png" group-title="FR| FR ✪ FRANCE",SYFY HD
+http://localhost/ch/1447550_
+#EXTINF:-1 tvg-id="1447551" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/e_entertainment.png" group-title="FR| FR ✪ FRANCE",E! ENTERTAINMENT FHD
+http://localhost/ch/1447551_
+#EXTINF:-1 tvg-id="1447552" tvg-name="E! ENTERTAINMENT HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/e_entertainment.png" group-title="FR| FR ✪ FRANCE",E! ENTERTAINMENT HD
+http://localhost/ch/1447552_
+#EXTINF:-1 tvg-id="1447553" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/comedy_central.png" group-title="FR| FR ✪ FRANCE",COMEDY CENTRAL HD
+http://localhost/ch/1447553_
+#EXTINF:-1 tvg-id="1447554" tvg-name="NOVELAS TV HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/novelas_tv.png" group-title="FR| FR ✪ FRANCE",NOVELAS TV HD
+http://localhost/ch/1447554_
+#EXTINF:-1 tvg-id="1447555" tvg-name="T18 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/t18.png" group-title="FR| FR ✪ FRANCE",T18 FHD
+http://localhost/ch/1447555_
+#EXTINF:-1 tvg-id="1447556" tvg-name="T18 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/t18.png" group-title="FR| FR ✪ FRANCE",T18 HD
+http://localhost/ch/1447556_
+#EXTINF:-1 tvg-id="1447557" tvg-name="LFM TV FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/lfm_tv.png" group-title="FR| FR ✪ FRANCE",LFM TV FHD
+http://localhost/ch/1447557_
+#EXTINF:-1 tvg-id="1447558" tvg-name="LUCKY JACK HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/lucky_jack.png" group-title="FR| FR ✪ FRANCE",LUCKY JACK HD
+http://localhost/ch/1447558_
+#EXTINF:-1 tvg-id="1447559" tvg-name="GOURMAND TV HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/gourmand_tv.png" group-title="FR| FR ✪ FRANCE",GOURMAND TV HD
+http://localhost/ch/1447559_
+#EXTINF:-1 tvg-id="762858" tvg-name="ES | CLASSICA" tvg-logo="https://pxpicon.xyz/parsx/es/CLASSICA.png" group-title="ES| ES ✪ SPAIN",ES | CLASSICA
+http://localhost/ch/762858_
+#EXTINF:-1 tvg-id="762861" tvg-name="CANAL COCINA" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/canal-cocina.png" group-title="ES| ES ✪ SPAIN",CANAL COCINA
+http://localhost/ch/762861_
+#EXTINF:-1 tvg-id="762862" tvg-name="CANAL DECASA" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/Decasa.png" group-title="ES| ES ✪ SPAIN",CANAL DECASA
+http://localhost/ch/762862_
+#EXTINF:-1 tvg-id="762906" tvg-name="TVE INTERNACIONAL" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/TVE_Internacional.png" group-title="ES| ES ✪ SPAIN",TVE INTERNACIONAL
+http://localhost/ch/762906_
+#EXTINF:-1 tvg-id="762909" tvg-name="GALICIA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/GALICIA.TV.png" group-title="ES| ES ✪ SPAIN",GALICIA TV HD
+http://localhost/ch/762909_
+#EXTINF:-1 tvg-id="762910" tvg-name="TV3 CAT HD" tvg-logo="http://z1.xcsrc.com:8080/casperconnectxz1/kRtG2Jp/" group-title="ES| ES ✪ SPAIN",TV3 CAT HD
+http://localhost/ch/762910_
+#EXTINF:-1 tvg-id="762912" tvg-name="CANAL SUR ANDALUCIA HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Canal_Sur.Andalucia.png" group-title="ES| ES ✪ SPAIN",CANAL SUR ANDALUCIA HD
+http://localhost/ch/762912_
+#EXTINF:-1 tvg-id="762914" tvg-name="IBERALIA TV" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/IBERALIA.png" group-title="ES| ES ✪ SPAIN",IBERALIA TV
+http://localhost/ch/762914_
+#EXTINF:-1 tvg-id="762917" tvg-name="TV3 CAT FHD" tvg-logo="http://z1.xcsrc.com:8080/casperconnectxz1/kRtG2Jp/" group-title="ES| ES ✪ SPAIN",TV3 CAT FHD
+http://localhost/ch/762917_
+#EXTINF:-1 tvg-id="762918" tvg-name="GALICIA TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/GALICIA.TV.png" group-title="ES| ES ✪ SPAIN",GALICIA TV FHD
+http://localhost/ch/762918_
+#EXTINF:-1 tvg-id="762919" tvg-name="DE PELICULA" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/DE.PELICULA.png" group-title="ES| ES ✪ SPAIN",DE PELICULA
+http://localhost/ch/762919_
+#EXTINF:-1 tvg-id="762920" tvg-name="CGTN ESPANHOL" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/cgtn_Espanol.png" group-title="ES| ES ✪ SPAIN",CGTN ESPANHOL
+http://localhost/ch/762920_
+#EXTINF:-1 tvg-id="762921" tvg-name="TELEMADRID FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Telemadrid.png" group-title="ES| ES ✪ SPAIN",TELEMADRID FHD
+http://localhost/ch/762921_
+#EXTINF:-1 tvg-id="762922" tvg-name="EXTREMADURA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/EXTREMADURA.png" group-title="ES| ES ✪ SPAIN",EXTREMADURA TV HD
+http://localhost/ch/762922_
+#EXTINF:-1 tvg-id="762924" tvg-name="CANAL 24 HORAS" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Canal_24_Horas.png" group-title="ES| ES ✪ SPAIN",CANAL 24 HORAS
+http://localhost/ch/762924_
+#EXTINF:-1 tvg-id="762925" tvg-name="ARAGON TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/ARAGON.TV.png" group-title="ES| ES ✪ SPAIN",ARAGON TV HD
+http://localhost/ch/762925_
+#EXTINF:-1 tvg-id="762926" tvg-name="ARAGON TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/ARAGON.TV.png" group-title="ES| ES ✪ SPAIN",ARAGON TV FHD
+http://localhost/ch/762926_
+#EXTINF:-1 tvg-id="762927" tvg-name="CANAL SUR ANDALUCIA FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Canal_Sur.Andalucia.png" group-title="ES| ES ✪ SPAIN",CANAL SUR ANDALUCIA FHD
+http://localhost/ch/762927_
+#EXTINF:-1 tvg-id="762928" tvg-name="CANAL 24 HORAS HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Canal_24_Horas.png" group-title="ES| ES ✪ SPAIN",CANAL 24 HORAS HD
+http://localhost/ch/762928_
+#EXTINF:-1 tvg-id="762929" tvg-name="LA SEXTA HD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/LaSexta.png" group-title="ES| ES ✪ SPAIN",LA SEXTA HD
+http://localhost/ch/762929_
+#EXTINF:-1 tvg-id="762930" tvg-name="LA SEXTA FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/LaSexta.png" group-title="ES| ES ✪ SPAIN",LA SEXTA FHD
+http://localhost/ch/762930_
+#EXTINF:-1 tvg-id="762931" tvg-name="LA SEXTA FHD+" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/LaSexta.png" group-title="ES| ES ✪ SPAIN",LA SEXTA FHD+
+http://localhost/ch/762931_
+#EXTINF:-1 tvg-id="762937" tvg-name="MEGA HD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/MEGA.png" group-title="ES| ES ✪ SPAIN",MEGA HD
+http://localhost/ch/762937_
+#EXTINF:-1 tvg-id="762938" tvg-name="MEGA FHD" tvg-logo="https://www.tvlogolar.xyz/europa/spain/mega-es.png" group-title="ES| ES ✪ SPAIN",MEGA FHD
+http://localhost/ch/762938_
+#EXTINF:-1 tvg-id="762939" tvg-name="TELECINCO HD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/telecinco.png" group-title="ES| ES ✪ SPAIN",TELECINCO HD
+http://localhost/ch/762939_
+#EXTINF:-1 tvg-id="762940" tvg-name="TELECINCO FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/telecinco.png" group-title="ES| ES ✪ SPAIN",TELECINCO FHD
+http://localhost/ch/762940_
+#EXTINF:-1 tvg-id="762941" tvg-name="TELECINCO FHD+" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/telecinco.png" group-title="ES| ES ✪ SPAIN",TELECINCO FHD+
+http://localhost/ch/762941_
+#EXTINF:-1 tvg-id="762942" tvg-name="CUATRO HD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/cuatro.png" group-title="ES| ES ✪ SPAIN",CUATRO HD
+http://localhost/ch/762942_
+#EXTINF:-1 tvg-id="762943" tvg-name="CUATRO FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/cuatro.png" group-title="ES| ES ✪ SPAIN",CUATRO FHD
+http://localhost/ch/762943_
+#EXTINF:-1 tvg-id="762944" tvg-name="CUATRO FHD+" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/cuatro.png" group-title="ES| ES ✪ SPAIN",CUATRO FHD+
+http://localhost/ch/762944_
+#EXTINF:-1 tvg-id="762945" tvg-name="ANTENA 3 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/Antena_3.png" group-title="ES| ES ✪ SPAIN",ANTENA 3 HD
+http://localhost/ch/762945_
+#EXTINF:-1 tvg-id="762946" tvg-name="ANTENA 3 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/Antena_3.png" group-title="ES| ES ✪ SPAIN",ANTENA 3 FHD
+http://localhost/ch/762946_
+#EXTINF:-1 tvg-id="762947" tvg-name="ANTENA 3 FHD+" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/Antena_3.png" group-title="ES| ES ✪ SPAIN",ANTENA 3 FHD+
+http://localhost/ch/762947_
+#EXTINF:-1 tvg-id="762948" tvg-name="LA 2 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/La_2.png" group-title="ES| ES ✪ SPAIN",LA 2 HD
+http://localhost/ch/762948_
+#EXTINF:-1 tvg-id="762949" tvg-name="LA 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/La_2.png" group-title="ES| ES ✪ SPAIN",LA 2 FHD
+http://localhost/ch/762949_
+#EXTINF:-1 tvg-id="762950" tvg-name="LA 1 HD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/La_1.png" group-title="ES| ES ✪ SPAIN",LA 1 HD
+http://localhost/ch/762950_
+#EXTINF:-1 tvg-id="762951" tvg-name="LA 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/La_1.png" group-title="ES| ES ✪ SPAIN",LA 1 FHD
+http://localhost/ch/762951_
+#EXTINF:-1 tvg-id="762952" tvg-name="LA 1 FHD+" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/La_1.png" group-title="ES| ES ✪ SPAIN",LA 1 FHD+
+http://localhost/ch/762952_
+#EXTINF:-1 tvg-id="762981" tvg-name="MARBELLA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/7-TV-Marbella.png" group-title="ES| ES ✪ SPAIN",MARBELLA TV HD
+http://localhost/ch/762981_
+#EXTINF:-1 tvg-id="763015" tvg-name="MARBELLA TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/7-TV-Marbella.png" group-title="ES| ES ✪ SPAIN",MARBELLA TV FHD
+http://localhost/ch/763015_
+#EXTINF:-1 tvg-id="763043" tvg-name="EXTREMADURA TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/EXTREMADURA.png" group-title="ES| ES ✪ SPAIN",EXTREMADURA TV FHD
+http://localhost/ch/763043_
+#EXTINF:-1 tvg-id="763077" tvg-name="ES | CLAN FHD (TVE)" tvg-logo="https://i.imgur.com/4FmMYs2.png" group-title="ES| ES ✪ SPAIN",ES | CLAN FHD (TVE)
+http://localhost/ch/763077_
+#EXTINF:-1 tvg-id="763078" tvg-name="ES | CAZA Y PESCA HD" tvg-logo="https://i.imgur.com/3G23euS.png" group-title="ES| ES ✪ SPAIN",ES | CAZA Y PESCA HD
+http://localhost/ch/763078_
+#EXTINF:-1 tvg-id="763079" tvg-name="ES | CAZA Y PESCA FHD" tvg-logo="https://i.imgur.com/cWQmk7b.png" group-title="ES| ES ✪ SPAIN",ES | CAZA Y PESCA FHD
+http://localhost/ch/763079_
+#EXTINF:-1 tvg-id="763080" tvg-name="ES | TEN" tvg-logo="https://i.imgur.com/YVJfQXe.png" group-title="ES| ES ✪ SPAIN",ES | TEN
+http://localhost/ch/763080_
+#EXTINF:-1 tvg-id="763081" tvg-name="ES | DKISS HD" tvg-logo="https://i.imgur.com/XCZYYTz.png" group-title="ES| ES ✪ SPAIN",ES | DKISS HD
+http://localhost/ch/763081_
+#EXTINF:-1 tvg-id="763082" tvg-name="ES | CANAL PANDA" tvg-logo="https://i.imgur.com/FsWJYiM.png" group-title="ES| ES ✪ SPAIN",ES | CANAL PANDA
+http://localhost/ch/763082_
+#EXTINF:-1 tvg-id="763083" tvg-name="ES | CLAN HD (TVE)" tvg-logo="https://i.imgur.com/a33RTRT.png" group-title="ES| ES ✪ SPAIN",ES | CLAN HD (TVE)
+http://localhost/ch/763083_
+#EXTINF:-1 tvg-id="763084" tvg-name="ES | NICKELODEON HD" tvg-logo="https://i.imgur.com/96s9aEn.png" group-title="ES| ES ✪ SPAIN",ES | NICKELODEON HD
+http://localhost/ch/763084_
+#EXTINF:-1 tvg-id="763085" tvg-name="ES | NICKELODEON FHD" tvg-logo="https://i.imgur.com/aUN30c0.png" group-title="ES| ES ✪ SPAIN",ES | NICKELODEON FHD
+http://localhost/ch/763085_
+#EXTINF:-1 tvg-id="763086" tvg-name="ES | NICK JR" tvg-logo="https://i.imgur.com/jkqHv8z.png" group-title="ES| ES ✪ SPAIN",ES | NICK JR
+http://localhost/ch/763086_
+#EXTINF:-1 tvg-id="763087" tvg-name="ES | DISNEY XD" tvg-logo="https://i.imgur.com/Z9R2Ko9.png" group-title="ES| ES ✪ SPAIN",ES | DISNEY XD
+http://localhost/ch/763087_
+#EXTINF:-1 tvg-id="763088" tvg-name="ES | DISNEY JR" tvg-logo="https://i.imgur.com/QhmqPcb.png" group-title="ES| ES ✪ SPAIN",ES | DISNEY JR
+http://localhost/ch/763088_
+#EXTINF:-1 tvg-id="763089" tvg-name="ES | DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/DwgPFst.png" group-title="ES| ES ✪ SPAIN",ES | DISNEY CHANNEL HD
+http://localhost/ch/763089_
+#EXTINF:-1 tvg-id="763090" tvg-name="ES | DISNEY CHANNEL FHD" tvg-logo="https://i.imgur.com/aUN30c0.png" group-title="ES| ES ✪ SPAIN",ES | DISNEY CHANNEL FHD
+http://localhost/ch/763090_
+#EXTINF:-1 tvg-id="763091" tvg-name="ES | BOING" tvg-logo="https://i.imgur.com/TJFJHjF.png" group-title="ES| ES ✪ SPAIN",ES | BOING
+http://localhost/ch/763091_
+#EXTINF:-1 tvg-id="763092" tvg-name="ES | BABY TV" tvg-logo="https://i.imgur.com/zmMQlFL.png" group-title="ES| ES ✪ SPAIN",ES | BABY TV
+http://localhost/ch/763092_

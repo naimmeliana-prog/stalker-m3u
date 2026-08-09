@@ -317,6 +317,8 @@ http://localhost/ch/1140639_
 http://localhost/ch/1140640_
 #EXTINF:-1 tvg-id="1141189" tvg-name="MEGA HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/ES/mega.png" group-title="ES| GENERALISTA",MEGA HD
 http://localhost/ch/1141189_
+#EXTINF:-1 tvg-id="114730" tvg-name="ZEE AFLAM" tvg-logo="http://infinity-logo.ddns.net/images/logo/ARABE/ZEEAFLAM.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",ZEE AFLAM
+http://localhost/ch/114730_
 #EXTINF:-1 tvg-id="1201675" tvg-name="Terence Hill et Bud Spencer" tvg-logo="https://en.budspencerofficial.com/images/photos/budTerence_berlin.jpg" group-title="FR| CINE-ACTEUR",Terence Hill et Bud Spencer
 http://localhost/ch/1201675_
 #EXTINF:-1 tvg-id="1203554" tvg-name="FRANCE 2 4K UHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/france2.png" group-title="FR| FRANCE FHD HD",FRANCE 2 4K UHD
@@ -397,6 +399,18 @@ http://localhost/ch/1214839_
 http://localhost/ch/1214840_
 #EXTINF:-1 tvg-id="1216060" tvg-name="Ruben & cie PLAY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MA1tqT0yI57IlPBy0KRN6G2mhN.jpg" group-title="FR| FUNKIDS-PLAY",Ruben & cie PLAY
 http://localhost/ch/1216060_
+#EXTINF:-1 tvg-id="1216117" tvg-name="MBC QURAN FHD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC QURAN FHD
+http://localhost/ch/1216117_
+#EXTINF:-1 tvg-id="1216118" tvg-name="MBC DOCS FHD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC DOCS FHD
+http://localhost/ch/1216118_
+#EXTINF:-1 tvg-id="1216119" tvg-name="MBC PREMIUM FHD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC PREMIUM FHD
+http://localhost/ch/1216119_
+#EXTINF:-1 tvg-id="1216120" tvg-name="MBC MOVIES FHD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC MOVIES FHD
+http://localhost/ch/1216120_
+#EXTINF:-1 tvg-id="1216121" tvg-name="MBC XTRA FHD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC XTRA FHD
+http://localhost/ch/1216121_
+#EXTINF:-1 tvg-id="1216122" tvg-name="TOP CHEF FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo/ARABE/TOPCHEF.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",TOP CHEF FHD
+http://localhost/ch/1216122_
 #EXTINF:-1 tvg-id="1220309" tvg-name="FREE SAS INV VOYAGE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo/FRANCE/VOYAGEHD.png" group-title="FR| FRANCE FHD HD",FREE SAS INV VOYAGE FHD
 http://localhost/ch/1220309_
 #EXTINF:-1 tvg-id="1220310" tvg-name="RAKUTEN PREMIUM 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RAKUTEN.png" group-title="FR| CINEMA FHD HD",RAKUTEN PREMIUM 1 FHD
@@ -1439,8 +1453,44 @@ http://localhost/ch/1454333_
 http://localhost/ch/1454334_
 #EXTINF:-1 tvg-id="1454335" tvg-name="WWE Unreal" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4wfySL6AUTwXRCiL6tumMq9oFam.jpg" group-title="FR| TÉLÉRÉALITÉ / ÉMISSIONS TV",WWE Unreal
 http://localhost/ch/1454335_
+#EXTINF:-1 tvg-id="1454612" tvg-name="RAP" tvg-logo="https://i.scdn.co/image/ab67616d0000b2731a1b4a5d5b4d8bdba7962050" group-title="ES| MBC-BEIN MOVIES | ☾ TV",RAP
+http://localhost/ch/1454612_
+#EXTINF:-1 tvg-id="1454613" tvg-name="HITSLIBANON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnFp908fVD23e7ceqiTp9Z0hhcwVMgv52giGUPBKkDIkyvDbidVSk2rtV&s=10" group-title="ES| MBC-BEIN MOVIES | ☾ TV",HITSLIBANON
+http://localhost/ch/1454613_
+#EXTINF:-1 tvg-id="1454614" tvg-name="HITSARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgWOElR4w5HPyVyWjYpAbrDMyOWwPaVj56GbduDxTq0kuGvkIaw0R4Ko&s=10" group-title="ES| MBC-BEIN MOVIES | ☾ TV",HITSARABIC
+http://localhost/ch/1454614_
 #EXTINF:-1 tvg-id="1455670" tvg-name="6PLAY LES REINES DU SHOPPING HD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8xdftMoORRNflm9HkBc6tIfPMbX.jpg" group-title="FR| FRANCE FHD HD",6PLAY LES REINES DU SHOPPING HD
 http://localhost/ch/1455670_
+#EXTINF:-1 tvg-id="169083" tvg-name="BEIN| GOURMET HD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/Bein%20GOURMET.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| GOURMET HD
+http://localhost/ch/169083_
+#EXTINF:-1 tvg-id="169084" tvg-name="BEIN| FATAFEAT HD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/FATAFEAT%20HD.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| FATAFEAT HD
+http://localhost/ch/169084_
+#EXTINF:-1 tvg-id="169086" tvg-name="BEIN| DRAMA1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/BEIN%20DRAMA%201.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| DRAMA1 HD
+http://localhost/ch/169086_
+#EXTINF:-1 tvg-id="169097" tvg-name="BEIN| MOVIES FAMILY HD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/bein%20MOVIES%20FAMILY%20HD.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| MOVIES FAMILY HD
+http://localhost/ch/169097_
+#EXTINF:-1 tvg-id="169098" tvg-name="BEIN| MOVIES DRAMA HD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/MOVIES%20DRAMA%20HD.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| MOVIES DRAMA HD
+http://localhost/ch/169098_
+#EXTINF:-1 tvg-id="169099" tvg-name="BEIN| MOVIES ACTION HD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/bein%20MOVIES%20ACTION%20HD.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| MOVIES ACTION HD
+http://localhost/ch/169099_
+#EXTINF:-1 tvg-id="169100" tvg-name="BEIN| MOVIES PREMIERE HD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/Bein%20MOVIES%20PREMIERE%20HD.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| MOVIES PREMIERE HD
+http://localhost/ch/169100_
+#EXTINF:-1 tvg-id="169105" tvg-name="BEIN| STAR WORLD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/STAR%20WORLD.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| STAR WORLD
+http://localhost/ch/169105_
+#EXTINF:-1 tvg-id="169106" tvg-name="BEIN| FOX HD" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/FOX%20HD.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| FOX HD
+http://localhost/ch/169106_
+#EXTINF:-1 tvg-id="169107" tvg-name="FILMBOX ACTION" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/FILMBOXACTION.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",FILMBOX ACTION
+http://localhost/ch/169107_
+#EXTINF:-1 tvg-id="169117" tvg-name="FILMBOX PREMIUM" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/FILMBOXPREM.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",FILMBOX PREMIUM
+http://localhost/ch/169117_
+#EXTINF:-1 tvg-id="169118" tvg-name="FILMBOX FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/FILMBOX.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",FILMBOX FHD
+http://localhost/ch/169118_
+#EXTINF:-1 tvg-id="169121" tvg-name="BEIN| AD NATIONAL GEOGRAPHIC HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/NATGEOABU.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| AD NATIONAL GEOGRAPHIC HD
+http://localhost/ch/169121_
+#EXTINF:-1 tvg-id="169142" tvg-name="BEIN| SERIES HD 1" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/Bein%20SERIES%20HD%201.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| SERIES HD 1
+http://localhost/ch/169142_
+#EXTINF:-1 tvg-id="169143" tvg-name="BEIN| SERIES HD 2" tvg-logo="http://infinity-logo.ddns.net/images/logo/SahbiGL_LOGO/Bein%20SERIES%20HD%202.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",BEIN| SERIES HD 2
+http://localhost/ch/169143_
 #EXTINF:-1 tvg-id="172840" tvg-name="DISCOVERY ID SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/discoveryinvestigation.png" group-title="FR| FRANCE HEVC SD",DISCOVERY ID SD
 http://localhost/ch/172840_
 #EXTINF:-1 tvg-id="172847" tvg-name="TV5  MONDE SD" tvg-logo="http://infinity-logo.ddns.net/images/logo/FRANCE/TV%20%20MONDE.png" group-title="FR| FRANCE HEVC SD",TV5  MONDE SD
@@ -1553,6 +1603,44 @@ http://localhost/ch/173039_
 http://localhost/ch/173040_
 #EXTINF:-1 tvg-id="173041" tvg-name="HISTOIRE H.265" tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/Histoire.fr.png" group-title="FR| FRANCE HEVC SD",HISTOIRE H.265
 http://localhost/ch/173041_
+#EXTINF:-1 tvg-id="173376" tvg-name="MBC WANASHA TV" tvg-logo="http://infinity-logo.ddns.net/images/logo/GL_ARABIC/WANASHA-TV-opt.jpg" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC WANASHA TV
+http://localhost/ch/173376_
+#EXTINF:-1 tvg-id="19072" tvg-name="MYHD| MBC 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 1 HD
+http://localhost/ch/19072_
+#EXTINF:-1 tvg-id="19073" tvg-name="MBC 1" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC 1
+http://localhost/ch/19073_
+#EXTINF:-1 tvg-id="19075" tvg-name="MBC 2" tvg-logo="http://infinity-logo.ddns.net/images/logo/MYHD/MBC2.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC 2
+http://localhost/ch/19075_
+#EXTINF:-1 tvg-id="19076" tvg-name="MYHD| MBC 3 HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc3.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 3 HD
+http://localhost/ch/19076_
+#EXTINF:-1 tvg-id="19077" tvg-name="MBC 3" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc3.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC 3
+http://localhost/ch/19077_
+#EXTINF:-1 tvg-id="19078" tvg-name="MYHD| MBC 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc4.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MYHD| MBC 4 HD
+http://localhost/ch/19078_
+#EXTINF:-1 tvg-id="19079" tvg-name="MBC 4" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc4.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC 4
+http://localhost/ch/19079_
+#EXTINF:-1 tvg-id="19080" tvg-name="MBC 5 HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/MBC5.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC 5 HD
+http://localhost/ch/19080_
+#EXTINF:-1 tvg-id="19081" tvg-name="MBC ACTION HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcaction.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC ACTION HD
+http://localhost/ch/19081_
+#EXTINF:-1 tvg-id="19082" tvg-name="MBC BOLLYWOOD" tvg-logo="http://infinity-logo.ddns.net//images/logo/ARABE/MBC-BOLLYWOOD.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC BOLLYWOOD
+http://localhost/ch/19082_
+#EXTINF:-1 tvg-id="19083" tvg-name="MBC DRAMA HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcdrama.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC DRAMA HD
+http://localhost/ch/19083_
+#EXTINF:-1 tvg-id="19085" tvg-name="MYHD| MBC DRAMA+ HD" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MYHD| MBC DRAMA+ HD
+http://localhost/ch/19085_
+#EXTINF:-1 tvg-id="19086" tvg-name="MYHD| MBC MAX FHD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmax.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MYHD| MBC MAX FHD
+http://localhost/ch/19086_
+#EXTINF:-1 tvg-id="19087" tvg-name="MBC MAX" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmax.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC MAX
+http://localhost/ch/19087_
+#EXTINF:-1 tvg-id="19088" tvg-name="MYHD| MBC MASR 1  HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmasr.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MYHD| MBC MASR 1  HD
+http://localhost/ch/19088_
+#EXTINF:-1 tvg-id="19089" tvg-name="MYHD| MBC MASR 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmasr.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MYHD| MBC MASR 2 FHD
+http://localhost/ch/19089_
+#EXTINF:-1 tvg-id="19093" tvg-name="B4U AFLAM" tvg-logo="http://infinity-logo.ddns.net/images/logo//ARABE/B4UAFLAM.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",B4U AFLAM
+http://localhost/ch/19093_
+#EXTINF:-1 tvg-id="19094" tvg-name="B4U PLUS" tvg-logo="http://infinity-logo.ddns.net/images/logo//ARABE/B4UPLUS.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",B4U PLUS
+http://localhost/ch/19094_
 #EXTINF:-1 tvg-id="19899" tvg-name="TF1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tf1.png" group-title="FR| FRANCE HEVC SD",TF1 SD
 http://localhost/ch/19899_
 #EXTINF:-1 tvg-id="19900" tvg-name="FRANCE 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/France2.fr.png" group-title="FR| FRANCE HEVC SD",FRANCE 2 SD
@@ -1687,12 +1775,16 @@ http://localhost/ch/218343_
 http://localhost/ch/218347_
 #EXTINF:-1 tvg-id="218348" tvg-name="DAZN 4 ESP FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo/GERMANY/DAZN.png" group-title="ES| DEPORTES",DAZN 4 ESP FHD
 http://localhost/ch/218348_
+#EXTINF:-1 tvg-id="218794" tvg-name="MBC MASR 2" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/EGYPT/MBCMASR2.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC MASR 2
+http://localhost/ch/218794_
 #EXTINF:-1 tvg-id="22009" tvg-name="▬▬ FRANCE  ▬▬" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FLAGS/fr.png" group-title="FR| FRANCE FHD HD",▬▬ FRANCE  ▬▬
 http://localhost/ch/22009_
 #EXTINF:-1 tvg-id="22010" tvg-name="▬▬ FRANCE HD/SD▬▬" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FLAGS/fr.png" group-title="FR| FRANCE HEVC SD",▬▬ FRANCE HD/SD▬▬
 http://localhost/ch/22010_
 #EXTINF:-1 tvg-id="236482" tvg-name="CLAN HD" tvg-logo="" group-title="ES| NIÑOS",CLAN HD
 http://localhost/ch/236482_
+#EXTINF:-1 tvg-id="237147" tvg-name="★--MBC -BEIN MOVIES | OTT--★" tvg-logo="" group-title="ES| MBC-BEIN MOVIES | ☾ TV",★--MBC -BEIN MOVIES | OTT--★
+http://localhost/ch/237147_
 #EXTINF:-1 tvg-id="267283" tvg-name="CANAL + DOCS FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusdocs.png" group-title="FR| CULTURE FHD HD",CANAL + DOCS FHD
 http://localhost/ch/267283_
 #EXTINF:-1 tvg-id="618689" tvg-name="CANAL+ GRAND ECRAN FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalgrandecran.png" group-title="FR| CINEMA FHD HD",CANAL+ GRAND ECRAN FHD
@@ -1927,6 +2019,10 @@ http://localhost/ch/715695_
 http://localhost/ch/716372_
 #EXTINF:-1 tvg-id="716382" tvg-name="DKISS" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/ES/dkiss.png" group-title="ES| GENERALISTA",DKISS
 http://localhost/ch/716382_
+#EXTINF:-1 tvg-id="717982" tvg-name="MBC  Variety HD" tvg-logo="http://vod-logo.net/photos/56178c75b22877751d97c616b36aa24f.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC  Variety HD
+http://localhost/ch/717982_
+#EXTINF:-1 tvg-id="717986" tvg-name="MBC Persia HD" tvg-logo="http://vod-logo.net/photos/f2e7d1345d4b66759b8befa8cf8651e4.png" group-title="ES| MBC-BEIN MOVIES | ☾ TV",MBC Persia HD
+http://localhost/ch/717986_
 #EXTINF:-1 tvg-id="727167" tvg-name="A+ FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/aplus.png" group-title="FR| FRANCE FHD HD",A+ FHD
 http://localhost/ch/727167_
 #EXTINF:-1 tvg-id="727171" tvg-name="BFM PARIS HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/bfmparis.png" group-title="FR| INFORMATION",BFM PARIS HD

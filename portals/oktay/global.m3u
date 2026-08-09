@@ -1,1 +1,1625 @@
 #EXTM3U x-tvg-url="https://naimmeliana-prog.github.io/stalker-m3u/portals/oktay/epg.xml.gz"
+#EXTINF:-1 tvg-id="1002" tvg-name="Taquilla 10 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 10 HD ES
+http://localhost/ch/1002_
+#EXTINF:-1 tvg-id="1003" tvg-name="Taquilla 9 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 9 HD ES
+http://localhost/ch/1003_
+#EXTINF:-1 tvg-id="1004" tvg-name="Taquilla 8 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 8 HD ES
+http://localhost/ch/1004_
+#EXTINF:-1 tvg-id="1005" tvg-name="Taquilla 7 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 7 HD ES
+http://localhost/ch/1005_
+#EXTINF:-1 tvg-id="1006" tvg-name="Taquilla 6 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 6 HD ES
+http://localhost/ch/1006_
+#EXTINF:-1 tvg-id="1007" tvg-name="Taquilla 5 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 5 HD ES
+http://localhost/ch/1007_
+#EXTINF:-1 tvg-id="1008" tvg-name="Taquilla 4 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 4 HD ES
+http://localhost/ch/1008_
+#EXTINF:-1 tvg-id="1009" tvg-name="Taquilla 3 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 3 HD ES
+http://localhost/ch/1009_
+#EXTINF:-1 tvg-id="1010" tvg-name="Taquilla 2 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 2 HD ES
+http://localhost/ch/1010_
+#EXTINF:-1 tvg-id="1011" tvg-name="Taquilla 1 HD ES" tvg-logo="https://www.grandcccam.tv/IMG_Files/bigthumb-pic-4084823542.jpg" group-title="ES| Spain",Taquilla 1 HD ES
+http://localhost/ch/1011_
+#EXTINF:-1 tvg-id="1012" tvg-name="Mega HD ES" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="ES| Spain",Mega HD ES
+http://localhost/ch/1012_
+#EXTINF:-1 tvg-id="1013" tvg-name="Nick Junior ES" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="ES| Spain",Nick Junior ES
+http://localhost/ch/1013_
+#EXTINF:-1 tvg-id="1014" tvg-name="Nickelodeon HD ES" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="ES| Spain",Nickelodeon HD ES
+http://localhost/ch/1014_
+#EXTINF:-1 tvg-id="1015" tvg-name="Boing ES" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="ES| Spain",Boing ES
+http://localhost/ch/1015_
+#EXTINF:-1 tvg-id="1016" tvg-name="Disney XD ES" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="ES| Spain",Disney XD ES
+http://localhost/ch/1016_
+#EXTINF:-1 tvg-id="1017" tvg-name="Disney Channel HD ES" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="ES| Spain",Disney Channel HD ES
+http://localhost/ch/1017_
+#EXTINF:-1 tvg-id="1019" tvg-name="TV3 Cat ES" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png" group-title="ES| Spain",TV3 Cat ES
+http://localhost/ch/1019_
+#EXTINF:-1 tvg-id="101902" tvg-name="Canal+ Kids FHD FR" tvg-logo="http://tugapt.com/picons/canalpluskids.png" group-title="FR| France",Canal+ Kids FHD FR
+http://localhost/ch/101902_
+#EXTINF:-1 tvg-id="101903" tvg-name="Canal+ Docs FHD FR" tvg-logo="" group-title="FR| France",Canal+ Docs FHD FR
+http://localhost/ch/101903_
+#EXTINF:-1 tvg-id="1020" tvg-name="Esperanza TV ES" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-tv-esperanza-canal-10.jpg" group-title="ES| Spain",Esperanza TV ES
+http://localhost/ch/1020_
+#EXTINF:-1 tvg-id="1023" tvg-name="Canal Panda ES" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="ES| Spain",Canal Panda ES
+http://localhost/ch/1023_
+#EXTINF:-1 tvg-id="1024" tvg-name="Canal Decasa ES" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="ES| Spain",Canal Decasa ES
+http://localhost/ch/1024_
+#EXTINF:-1 tvg-id="1025" tvg-name="Canal Cocina ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/canal-cocina-es.png" group-title="ES| Spain",Canal Cocina ES
+http://localhost/ch/1025_
+#EXTINF:-1 tvg-id="1027" tvg-name="Caza Y Pesca ES" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="ES| Spain",Caza Y Pesca ES
+http://localhost/ch/1027_
+#EXTINF:-1 tvg-id="1028" tvg-name="Break ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="ES| Spain",Break ES
+http://localhost/ch/1028_
+#EXTINF:-1 tvg-id="1029" tvg-name="Historia ES" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ES| Spain",Historia ES
+http://localhost/ch/1029_
+#EXTINF:-1 tvg-id="1030" tvg-name="Discovery HD ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ES| Spain",Discovery HD ES
+http://localhost/ch/1030_
+#EXTINF:-1 tvg-id="1031" tvg-name="Clan TVE ES" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="ES| Spain",Clan TVE ES
+http://localhost/ch/1031_
+#EXTINF:-1 tvg-id="1032" tvg-name="Nat Geo Wild HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="ES| Spain",Nat Geo Wild HD ES
+http://localhost/ch/1032_
+#EXTINF:-1 tvg-id="1033" tvg-name="Nat Geo ES" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="ES| Spain",Nat Geo ES
+http://localhost/ch/1033_
+#EXTINF:-1 tvg-id="1034" tvg-name="Odisea HD ES" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ES| Spain",Odisea HD ES
+http://localhost/ch/1034_
+#EXTINF:-1 tvg-id="1036" tvg-name="EuroSport 1 HD ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="ES| Spain",EuroSport 1 HD ES
+http://localhost/ch/1036_
+#EXTINF:-1 tvg-id="1037" tvg-name="Real Madrid TV ES" tvg-logo="https://static.epg.best/es/RealMadridTV.es.png" group-title="ES| Spain",Real Madrid TV ES
+http://localhost/ch/1037_
+#EXTINF:-1 tvg-id="1038" tvg-name="Barca TV ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="ES| Spain",Barca TV ES
+http://localhost/ch/1038_
+#EXTINF:-1 tvg-id="1039" tvg-name="Andalucia TV ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="ES| Spain",Andalucia TV ES
+http://localhost/ch/1039_
+#EXTINF:-1 tvg-id="1040" tvg-name="Gol TV ES" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="ES| Spain",Gol TV ES
+http://localhost/ch/1040_
+#EXTINF:-1 tvg-id="1042" tvg-name="Movistar LaLiga HD ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ES| Spain",Movistar LaLiga HD ES
+http://localhost/ch/1042_
+#EXTINF:-1 tvg-id="1043" tvg-name="beINSport HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="ES| Spain",beINSport HD ES
+http://localhost/ch/1043_
+#EXTINF:-1 tvg-id="1044" tvg-name="Energy ES" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="ES| Spain",Energy ES
+http://localhost/ch/1044_
+#EXTINF:-1 tvg-id="104452" tvg-name="Dreamworks Animation HD ES" tvg-logo="" group-title="ES| Spain",Dreamworks Animation HD ES
+http://localhost/ch/104452_
+#EXTINF:-1 tvg-id="104453" tvg-name="Dreamworks Animation FHD ES" tvg-logo="" group-title="ES| Spain",Dreamworks Animation FHD ES
+http://localhost/ch/104453_
+#EXTINF:-1 tvg-id="104454" tvg-name="My Time Movie Network HD ES" tvg-logo="" group-title="ES| Spain",My Time Movie Network HD ES
+http://localhost/ch/104454_
+#EXTINF:-1 tvg-id="104455" tvg-name="Movistar Fest FHD ES" tvg-logo="" group-title="ES| Spain",Movistar Fest FHD ES
+http://localhost/ch/104455_
+#EXTINF:-1 tvg-id="104456" tvg-name="eSport 3 HD ES" tvg-logo="" group-title="ES| Spain",eSport 3 HD ES
+http://localhost/ch/104456_
+#EXTINF:-1 tvg-id="104457" tvg-name="eSport 3 FHD ES" tvg-logo="" group-title="ES| Spain",eSport 3 FHD ES
+http://localhost/ch/104457_
+#EXTINF:-1 tvg-id="104460" tvg-name="Rakuten TV Top 1 HD ES" tvg-logo="" group-title="ES| Spain",Rakuten TV Top 1 HD ES
+http://localhost/ch/104460_
+#EXTINF:-1 tvg-id="104462" tvg-name="Eventos 11 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES| Spain",Eventos 11 FHD (DAZN Y FOOTTERS) ES
+http://localhost/ch/104462_
+#EXTINF:-1 tvg-id="104463" tvg-name="Eventos 10 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES| Spain",Eventos 10 FHD (DAZN Y FOOTTERS) ES
+http://localhost/ch/104463_
+#EXTINF:-1 tvg-id="104464" tvg-name="Eventos 09 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES| Spain",Eventos 09 FHD (DAZN Y FOOTTERS) ES
+http://localhost/ch/104464_
+#EXTINF:-1 tvg-id="104465" tvg-name="Eventos 08 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES| Spain",Eventos 08 FHD (DAZN Y FOOTTERS) ES
+http://localhost/ch/104465_
+#EXTINF:-1 tvg-id="104469" tvg-name="Eventos 04 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES| Spain",Eventos 04 FHD (DAZN Y FOOTTERS) ES
+http://localhost/ch/104469_
+#EXTINF:-1 tvg-id="104470" tvg-name="Eventos 03 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES| Spain",Eventos 03 FHD (DAZN Y FOOTTERS) ES
+http://localhost/ch/104470_
+#EXTINF:-1 tvg-id="104471" tvg-name="Eventos 02 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES| Spain",Eventos 02 FHD (DAZN Y FOOTTERS) ES
+http://localhost/ch/104471_
+#EXTINF:-1 tvg-id="104472" tvg-name="Eventos 01 FHD (DAZN Y FOOTTERS) ES" tvg-logo="" group-title="ES| Spain",Eventos 01 FHD (DAZN Y FOOTTERS) ES
+http://localhost/ch/104472_
+#EXTINF:-1 tvg-id="104473" tvg-name="M. DAZN F1 SD ES" tvg-logo="" group-title="ES| Spain",M. DAZN F1 SD ES
+http://localhost/ch/104473_
+#EXTINF:-1 tvg-id="104474" tvg-name="M. DAZN F1 HD ES" tvg-logo="" group-title="ES| Spain",M. DAZN F1 HD ES
+http://localhost/ch/104474_
+#EXTINF:-1 tvg-id="104475" tvg-name="DAZN F1 FHD ES" tvg-logo="" group-title="ES| Spain",DAZN F1 FHD ES
+http://localhost/ch/104475_
+#EXTINF:-1 tvg-id="1045" tvg-name="FDF ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/fdf-es.png" group-title="ES| Spain",FDF ES
+http://localhost/ch/1045_
+#EXTINF:-1 tvg-id="1046" tvg-name="C+ Estrellas ES" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png" group-title="ES| Spain",C+ Estrellas ES
+http://localhost/ch/1046_
+#EXTINF:-1 tvg-id="1047" tvg-name="Cosmo HD ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ES| Spain",Cosmo HD ES
+http://localhost/ch/1047_
+#EXTINF:-1 tvg-id="1048" tvg-name="Comedy Central HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="ES| Spain",Comedy Central HD ES
+http://localhost/ch/1048_
+#EXTINF:-1 tvg-id="1049" tvg-name="Calle 13 HD ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES| Spain",Calle 13 HD ES
+http://localhost/ch/1049_
+#EXTINF:-1 tvg-id="1050" tvg-name="SyFy HD ES" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ES| Spain",SyFy HD ES
+http://localhost/ch/1050_
+#EXTINF:-1 tvg-id="1051" tvg-name="AXN White ES" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ES| Spain",AXN White ES
+http://localhost/ch/1051_
+#EXTINF:-1 tvg-id="1052" tvg-name="AXN HD ES" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ES| Spain",AXN HD ES
+http://localhost/ch/1052_
+#EXTINF:-1 tvg-id="1053" tvg-name="AMC HD ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ES| Spain",AMC HD ES
+http://localhost/ch/1053_
+#EXTINF:-1 tvg-id="105425" tvg-name="Automoto HD FR" tvg-logo="http://tugapt.com/picons/automotolachaine.png" group-title="FR| France",Automoto HD FR
+http://localhost/ch/105425_
+#EXTINF:-1 tvg-id="1055" tvg-name="Fox HD ES" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ES| Spain",Fox HD ES
+http://localhost/ch/1055_
+#EXTINF:-1 tvg-id="1057" tvg-name="Canal SUR ES" tvg-logo="https://static.epg.best/es/CanalAndalucia.es.png" group-title="ES| Spain",Canal SUR ES
+http://localhost/ch/1057_
+#EXTINF:-1 tvg-id="1058" tvg-name="TNT ES" tvg-logo="http://tugapt.com/picons/tntse.png" group-title="ES| Spain",TNT ES
+http://localhost/ch/1058_
+#EXTINF:-1 tvg-id="1059" tvg-name="TCM ES" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="ES| Spain",TCM ES
+http://localhost/ch/1059_
+#EXTINF:-1 tvg-id="1060" tvg-name="Hollywood ES" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ES| Spain",Hollywood ES
+http://localhost/ch/1060_
+#EXTINF:-1 tvg-id="1061" tvg-name="Movistar Golf ES" tvg-logo="http://tugapt.com/picons/movistargolf.png" group-title="ES| Spain",Movistar Golf ES
+http://localhost/ch/1061_
+#EXTINF:-1 tvg-id="1062" tvg-name="LaLiga TV Bar ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="ES| Spain",LaLiga TV Bar ES
+http://localhost/ch/1062_
+#EXTINF:-1 tvg-id="1064" tvg-name="Movistar Deportes 1 ES" tvg-logo="http://tugapt.com/picons/movistardeportes1.png" group-title="ES| Spain",Movistar Deportes 1 ES
+http://localhost/ch/1064_
+#EXTINF:-1 tvg-id="1065" tvg-name="Toros TV ES" tvg-logo="http://tugapt.com/picons/torostv.png" group-title="ES| Spain",Toros TV ES
+http://localhost/ch/1065_
+#EXTINF:-1 tvg-id="1067" tvg-name="Movistar Series HD ES" tvg-logo="http://tugapt.com/picons/movistarseries.png" group-title="ES| Spain",Movistar Series HD ES
+http://localhost/ch/1067_
+#EXTINF:-1 tvg-id="1068" tvg-name="Movistar DCine ES" tvg-logo="http://tugapt.com/picons/movistardcine.png" group-title="ES| Spain",Movistar DCine ES
+http://localhost/ch/1068_
+#EXTINF:-1 tvg-id="1069" tvg-name="Movistar Comedia ES" tvg-logo="http://tugapt.com/picons/movistarcomedia.png" group-title="ES| Spain",Movistar Comedia ES
+http://localhost/ch/1069_
+#EXTINF:-1 tvg-id="1070" tvg-name="Movistar Acción ES" tvg-logo="http://tugapt.com/picons/movistaraccion.png" group-title="ES| Spain",Movistar Acción ES
+http://localhost/ch/1070_
+#EXTINF:-1 tvg-id="1072" tvg-name="Movistar Estrenos ES" tvg-logo="http://tugapt.com/picons/movistarestrenos.png" group-title="ES| Spain",Movistar Estrenos ES
+http://localhost/ch/1072_
+#EXTINF:-1 tvg-id="1074" tvg-name="Fox News ES" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo-2002.png" group-title="ES| Spain",Fox News ES
+http://localhost/ch/1074_
+#EXTINF:-1 tvg-id="1075" tvg-name="Galicia TV ES" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="ES| Spain",Galicia TV ES
+http://localhost/ch/1075_
+#EXTINF:-1 tvg-id="1076" tvg-name="La Sexta HD ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ES| Spain",La Sexta HD ES
+http://localhost/ch/1076_
+#EXTINF:-1 tvg-id="1077" tvg-name="Telecinco HD ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ES| Spain",Telecinco HD ES
+http://localhost/ch/1077_
+#EXTINF:-1 tvg-id="1078" tvg-name="Extremadura TV ES" tvg-logo="https://static.epg.best/es/CanalExtremadura.es.png" group-title="ES| Spain",Extremadura TV ES
+http://localhost/ch/1078_
+#EXTINF:-1 tvg-id="1079" tvg-name="Neox ES" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="ES| Spain",Neox ES
+http://localhost/ch/1079_
+#EXTINF:-1 tvg-id="1080" tvg-name="Nova ES" tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="ES| Spain",Nova ES
+http://localhost/ch/1080_
+#EXTINF:-1 tvg-id="1081" tvg-name="La Sexta ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ES| Spain",La Sexta ES
+http://localhost/ch/1081_
+#EXTINF:-1 tvg-id="1082" tvg-name="Telecinco ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ES| Spain",Telecinco ES
+http://localhost/ch/1082_
+#EXTINF:-1 tvg-id="1083" tvg-name="Cuatro ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ES| Spain",Cuatro ES
+http://localhost/ch/1083_
+#EXTINF:-1 tvg-id="1084" tvg-name="Antena 3 HD ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES| Spain",Antena 3 HD ES
+http://localhost/ch/1084_
+#EXTINF:-1 tvg-id="1085" tvg-name="TVE LA 2 ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="ES| Spain",TVE LA 2 ES
+http://localhost/ch/1085_
+#EXTINF:-1 tvg-id="108525" tvg-name="Canal+ Foot HD FR" tvg-logo="http://tugapt.com/picons/canalplusfoot.png" group-title="FR| France",Canal+ Foot HD FR
+http://localhost/ch/108525_
+#EXTINF:-1 tvg-id="1086" tvg-name="La 1 ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ES| Spain",La 1 ES
+http://localhost/ch/1086_
+#EXTINF:-1 tvg-id="110120" tvg-name="LaLiga HYPERMOTION 1 FHD ES" tvg-logo="https://picaoplomo.com/wp-content/uploads/2020/01/logoSegundaDivision.png" group-title="ES| Spain",LaLiga HYPERMOTION 1 FHD ES
+http://localhost/ch/110120_
+#EXTINF:-1 tvg-id="110121" tvg-name="LaLiga SmartBank Tv 2 FHD ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/08/smartbank_color_blanco_agrupado_color2.png" group-title="ES| Spain",LaLiga SmartBank Tv 2 FHD ES
+http://localhost/ch/110121_
+#EXTINF:-1 tvg-id="110708" tvg-name="TF1 4K Ultra FR" tvg-logo="http://tugapt.com/picons/tf1.png" group-title="FR| France",TF1 4K Ultra FR
+http://localhost/ch/110708_
+#EXTINF:-1 tvg-id="110709" tvg-name="M6 4K Ultra FR" tvg-logo="http://tugapt.com/picons/m6hd.png" group-title="FR| France",M6 4K Ultra FR
+http://localhost/ch/110709_
+#EXTINF:-1 tvg-id="110710" tvg-name="Canal+ 4K Ultra FR" tvg-logo="http://tugapt.com/picons/canalplus4k.png" group-title="FR| France",Canal+ 4K Ultra FR
+http://localhost/ch/110710_
+#EXTINF:-1 tvg-id="110713" tvg-name="Eurosport 1 4K Ultra FR" tvg-logo="http://tugapt.com/picons/eurosport1hd.png" group-title="FR| France",Eurosport 1 4K Ultra FR
+http://localhost/ch/110713_
+#EXTINF:-1 tvg-id="113174" tvg-name="Canal+ Grand Écran FHD FR" tvg-logo="http://tugapt.com/picons/canalplusgrandecran.png" group-title="FR| France",Canal+ Grand Écran FHD FR
+http://localhost/ch/113174_
+#EXTINF:-1 tvg-id="113639" tvg-name="MundoToro FHD ES" tvg-logo="" group-title="ES| Spain",MundoToro FHD ES
+http://localhost/ch/113639_
+#EXTINF:-1 tvg-id="1168" tvg-name="RMC Sport 3 HD FR" tvg-logo="http://tugapt.com/picons/rmcsport3.png" group-title="FR| France",RMC Sport 3 HD FR
+http://localhost/ch/1168_
+#EXTINF:-1 tvg-id="1169" tvg-name="RMC Sport 2 HD FR" tvg-logo="http://tugapt.com/picons/rmcsport2.png" group-title="FR| France",RMC Sport 2 HD FR
+http://localhost/ch/1169_
+#EXTINF:-1 tvg-id="1170" tvg-name="RMC Sport 1 HD FR" tvg-logo="http://tugapt.com/picons/rmcsport1.png" group-title="FR| France",RMC Sport 1 HD FR
+http://localhost/ch/1170_
+#EXTINF:-1 tvg-id="118770" tvg-name="Canal+ Grand Écran HD FR" tvg-logo="http://tugapt.com/picons/canalplusgrandecran.png" group-title="FR| France",Canal+ Grand Écran HD FR
+http://localhost/ch/118770_
+#EXTINF:-1 tvg-id="118771" tvg-name="Men's Up FR" tvg-logo="http://tugapt.com/picons/mensuptv.png" group-title="FR| France",Men's Up FR
+http://localhost/ch/118771_
+#EXTINF:-1 tvg-id="118772" tvg-name="TV78 FR" tvg-logo="http://tugapt.com/picons/tv78.png" group-title="FR| France",TV78 FR
+http://localhost/ch/118772_
+#EXTINF:-1 tvg-id="118773" tvg-name="TV8 Moselle Est FR" tvg-logo="http://tugapt.com/picons/tv8moselle.png" group-title="FR| France",TV8 Moselle Est FR
+http://localhost/ch/118773_
+#EXTINF:-1 tvg-id="118778" tvg-name="DAZN 1 HD FR" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN 1 HD FR
+http://localhost/ch/118778_
+#EXTINF:-1 tvg-id="118779" tvg-name="DAZN 1 FHD FR" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN 1 FHD FR
+http://localhost/ch/118779_
+#EXTINF:-1 tvg-id="118780" tvg-name="TV Pitchoun FHD FR" tvg-logo="http://tugapt.com/picons/tvpitchoun.png" group-title="FR| France",TV Pitchoun FHD FR
+http://localhost/ch/118780_
+#EXTINF:-1 tvg-id="118782" tvg-name="MGG TV FHD FR" tvg-logo="http://tugapt.com/picons/mggtv.png" group-title="FR| France",MGG TV FHD FR
+http://localhost/ch/118782_
+#EXTINF:-1 tvg-id="118783" tvg-name="SQOOL TV FHD FR" tvg-logo="http://tugapt.com/picons/sqooltv.png" group-title="FR| France",SQOOL TV FHD FR
+http://localhost/ch/118783_
+#EXTINF:-1 tvg-id="118784" tvg-name="Bip TV FHD FR" tvg-logo="http://tugapt.com/picons/biptv.png" group-title="FR| France",Bip TV FHD FR
+http://localhost/ch/118784_
+#EXTINF:-1 tvg-id="118785" tvg-name="CGTN Français FHD FR" tvg-logo="http://tugapt.com/picons/cgtnfr.png" group-title="FR| France",CGTN Français FHD FR
+http://localhost/ch/118785_
+#EXTINF:-1 tvg-id="118786" tvg-name="Ciné+ Nanar FHD FR" tvg-logo="http://tugapt.com/picons/cineplusnanar.png" group-title="FR| France",Ciné+ Nanar FHD FR
+http://localhost/ch/118786_
+#EXTINF:-1 tvg-id="118788" tvg-name="Ciné+ Western FHD FR" tvg-logo="http://tugapt.com/picons/cinepluswestern.png" group-title="FR| France",Ciné+ Western FHD FR
+http://localhost/ch/118788_
+#EXTINF:-1 tvg-id="118789" tvg-name="RugbyZone.TV FHD FR" tvg-logo="http://tugapt.com/picons/rugbyzone.tv.png" group-title="FR| France",RugbyZone.TV FHD FR
+http://localhost/ch/118789_
+#EXTINF:-1 tvg-id="118790" tvg-name="Generations TV FHD FR" tvg-logo="http://tugapt.com/picons/generationstv.png" group-title="FR| France",Generations TV FHD FR
+http://localhost/ch/118790_
+#EXTINF:-1 tvg-id="118791" tvg-name="Homicide FHD FR" tvg-logo="http://tugapt.com/picons/homicide.png" group-title="FR| France",Homicide FHD FR
+http://localhost/ch/118791_
+#EXTINF:-1 tvg-id="118792" tvg-name="Imearth FHD FR" tvg-logo="http://tugapt.com/picons/imearth.png" group-title="FR| France",Imearth FHD FR
+http://localhost/ch/118792_
+#EXTINF:-1 tvg-id="118793" tvg-name="MAISON & TRAVAUX TV FHD FR" tvg-logo="" group-title="FR| France",MAISON & TRAVAUX TV FHD FR
+http://localhost/ch/118793_
+#EXTINF:-1 tvg-id="118794" tvg-name="Mandarin TV FHD FR" tvg-logo="" group-title="FR| France",Mandarin TV FHD FR
+http://localhost/ch/118794_
+#EXTINF:-1 tvg-id="118795" tvg-name="MAritima TV FR" tvg-logo="" group-title="FR| France",MAritima TV FR
+http://localhost/ch/118795_
+#EXTINF:-1 tvg-id="118796" tvg-name="Motus TV FR" tvg-logo="" group-title="FR| France",Motus TV FR
+http://localhost/ch/118796_
+#EXTINF:-1 tvg-id="118798" tvg-name="TAHITI NUI FHD FR" tvg-logo="" group-title="FR| France",TAHITI NUI FHD FR
+http://localhost/ch/118798_
+#EXTINF:-1 tvg-id="118799" tvg-name="TOP SANTÉ TV FHD FR" tvg-logo="" group-title="FR| France",TOP SANTÉ TV FHD FR
+http://localhost/ch/118799_
+#EXTINF:-1 tvg-id="118800" tvg-name="TL7 SAINT-ÉTIENNE FR" tvg-logo="" group-title="FR| France",TL7 SAINT-ÉTIENNE FR
+http://localhost/ch/118800_
+#EXTINF:-1 tvg-id="118801" tvg-name="TVM3 FHD FR" tvg-logo="" group-title="FR| France",TVM3 FHD FR
+http://localhost/ch/118801_
+#EXTINF:-1 tvg-id="118802" tvg-name="TVPI FHD FR" tvg-logo="" group-title="FR| France",TVPI FHD FR
+http://localhost/ch/118802_
+#EXTINF:-1 tvg-id="118803" tvg-name="TÉBÉSUD FHD FR" tvg-logo="" group-title="FR| France",TÉBÉSUD FHD FR
+http://localhost/ch/118803_
+#EXTINF:-1 tvg-id="118804" tvg-name="Tele Paese FR" tvg-logo="" group-title="FR| France",Tele Paese FR
+http://localhost/ch/118804_
+#EXTINF:-1 tvg-id="118805" tvg-name="Universe Cine FHD FR" tvg-logo="" group-title="FR| France",Universe Cine FHD FR
+http://localhost/ch/118805_
+#EXTINF:-1 tvg-id="118806" tvg-name="Via Grand PAris FHD FR" tvg-logo="" group-title="FR| France",Via Grand PAris FHD FR
+http://localhost/ch/118806_
+#EXTINF:-1 tvg-id="118807" tvg-name="TVR FHD FR" tvg-logo="" group-title="FR| France",TVR FHD FR
+http://localhost/ch/118807_
+#EXTINF:-1 tvg-id="118808" tvg-name="Tele Melody HD FR" tvg-logo="" group-title="FR| France",Tele Melody HD FR
+http://localhost/ch/118808_
+#EXTINF:-1 tvg-id="118809" tvg-name="Tele Novelas HD FR" tvg-logo="" group-title="FR| France",Tele Novelas HD FR
+http://localhost/ch/118809_
+#EXTINF:-1 tvg-id="118810" tvg-name="Zouk TV FHD FR" tvg-logo="" group-title="FR| France",Zouk TV FHD FR
+http://localhost/ch/118810_
+#EXTINF:-1 tvg-id="118876" tvg-name="LaLiga SmartBank TV 3 FHD ES" tvg-logo="" group-title="ES| Spain",LaLiga SmartBank TV 3 FHD ES
+http://localhost/ch/118876_
+#EXTINF:-1 tvg-id="118877" tvg-name="Ubeat HD ES" tvg-logo="" group-title="ES| Spain",Ubeat HD ES
+http://localhost/ch/118877_
+#EXTINF:-1 tvg-id="118878" tvg-name="Ubeat FHD ES" tvg-logo="" group-title="ES| Spain",Ubeat FHD ES
+http://localhost/ch/118878_
+#EXTINF:-1 tvg-id="118879" tvg-name="Ubeat ES" tvg-logo="" group-title="ES| Spain",Ubeat ES
+http://localhost/ch/118879_
+#EXTINF:-1 tvg-id="118880" tvg-name="TVG Europa HD ES" tvg-logo="" group-title="ES| Spain",TVG Europa HD ES
+http://localhost/ch/118880_
+#EXTINF:-1 tvg-id="118881" tvg-name="TVG Europa ES" tvg-logo="" group-title="ES| Spain",TVG Europa ES
+http://localhost/ch/118881_
+#EXTINF:-1 tvg-id="118882" tvg-name="Ten HD ES" tvg-logo="" group-title="ES| Spain",Ten HD ES
+http://localhost/ch/118882_
+#EXTINF:-1 tvg-id="118883" tvg-name="TEN ES" tvg-logo="" group-title="ES| Spain",TEN ES
+http://localhost/ch/118883_
+#EXTINF:-1 tvg-id="118884" tvg-name="Teledeporte HD ES" tvg-logo="" group-title="ES| Spain",Teledeporte HD ES
+http://localhost/ch/118884_
+#EXTINF:-1 tvg-id="118885" tvg-name="Teledeporte FHD ES" tvg-logo="" group-title="ES| Spain",Teledeporte FHD ES
+http://localhost/ch/118885_
+#EXTINF:-1 tvg-id="118886" tvg-name="Teledeporte ES" tvg-logo="" group-title="ES| Spain",Teledeporte ES
+http://localhost/ch/118886_
+#EXTINF:-1 tvg-id="118887" tvg-name="Negocios TV HD ES" tvg-logo="" group-title="ES| Spain",Negocios TV HD ES
+http://localhost/ch/118887_
+#EXTINF:-1 tvg-id="118891" tvg-name="MoviStar Superagentes HD ES" tvg-logo="" group-title="ES| Spain",MoviStar Superagentes HD ES
+http://localhost/ch/118891_
+#EXTINF:-1 tvg-id="118892" tvg-name="MoviStar Superagentes FHD ES" tvg-logo="" group-title="ES| Spain",MoviStar Superagentes FHD ES
+http://localhost/ch/118892_
+#EXTINF:-1 tvg-id="118893" tvg-name="MoviStar Superagentes ES" tvg-logo="" group-title="ES| Spain",MoviStar Superagentes ES
+http://localhost/ch/118893_
+#EXTINF:-1 tvg-id="118894" tvg-name="MoviStar Plus+ ES" tvg-logo="" group-title="ES| Spain",MoviStar Plus+ ES
+http://localhost/ch/118894_
+#EXTINF:-1 tvg-id="118895" tvg-name="MoviStar Plus+ HD ES" tvg-logo="" group-title="ES| Spain",MoviStar Plus+ HD ES
+http://localhost/ch/118895_
+#EXTINF:-1 tvg-id="118896" tvg-name="MoviStar Plus+ FHD ES" tvg-logo="" group-title="ES| Spain",MoviStar Plus+ FHD ES
+http://localhost/ch/118896_
+#EXTINF:-1 tvg-id="118897" tvg-name="MoviStar Originales ES" tvg-logo="" group-title="ES| Spain",MoviStar Originales ES
+http://localhost/ch/118897_
+#EXTINF:-1 tvg-id="118898" tvg-name="MoviStar Originales HD ES" tvg-logo="" group-title="ES| Spain",MoviStar Originales HD ES
+http://localhost/ch/118898_
+#EXTINF:-1 tvg-id="118899" tvg-name="MoviStar Originales FHD ES" tvg-logo="" group-title="ES| Spain",MoviStar Originales FHD ES
+http://localhost/ch/118899_
+#EXTINF:-1 tvg-id="118900" tvg-name="MoviStar Indie ES" tvg-logo="" group-title="ES| Spain",MoviStar Indie ES
+http://localhost/ch/118900_
+#EXTINF:-1 tvg-id="118901" tvg-name="MoviStar Indie HD ES" tvg-logo="" group-title="ES| Spain",MoviStar Indie HD ES
+http://localhost/ch/118901_
+#EXTINF:-1 tvg-id="118902" tvg-name="MoviStar Indie FHD ES" tvg-logo="" group-title="ES| Spain",MoviStar Indie FHD ES
+http://localhost/ch/118902_
+#EXTINF:-1 tvg-id="118903" tvg-name="GOL PLAY HD ES" tvg-logo="" group-title="ES| Spain",GOL PLAY HD ES
+http://localhost/ch/118903_
+#EXTINF:-1 tvg-id="118904" tvg-name="GOL PLAY FHD ES" tvg-logo="" group-title="ES| Spain",GOL PLAY FHD ES
+http://localhost/ch/118904_
+#EXTINF:-1 tvg-id="118905" tvg-name="Factoría de Ficció HD ES" tvg-logo="" group-title="ES| Spain",Factoría de Ficció HD ES
+http://localhost/ch/118905_
+#EXTINF:-1 tvg-id="118906" tvg-name="Factoría de Ficció ES" tvg-logo="" group-title="ES| Spain",Factoría de Ficció ES
+http://localhost/ch/118906_
+#EXTINF:-1 tvg-id="118907" tvg-name="Enfamilia HD ES" tvg-logo="" group-title="ES| Spain",Enfamilia HD ES
+http://localhost/ch/118907_
+#EXTINF:-1 tvg-id="118908" tvg-name="Enfamilia FHD ES" tvg-logo="" group-title="ES| Spain",Enfamilia FHD ES
+http://localhost/ch/118908_
+#EXTINF:-1 tvg-id="118909" tvg-name="Enfamilia ES" tvg-logo="" group-title="ES| Spain",Enfamilia ES
+http://localhost/ch/118909_
+#EXTINF:-1 tvg-id="118912" tvg-name="Canal Sur Andalucía HD ES" tvg-logo="" group-title="ES| Spain",Canal Sur Andalucía HD ES
+http://localhost/ch/118912_
+#EXTINF:-1 tvg-id="118913" tvg-name="Canal Sur Andalucía ES" tvg-logo="" group-title="ES| Spain",Canal Sur Andalucía ES
+http://localhost/ch/118913_
+#EXTINF:-1 tvg-id="118914" tvg-name="BuenViaje HD ES" tvg-logo="" group-title="ES| Spain",BuenViaje HD ES
+http://localhost/ch/118914_
+#EXTINF:-1 tvg-id="118915" tvg-name="BuenViaje ES" tvg-logo="" group-title="ES| Spain",BuenViaje ES
+http://localhost/ch/118915_
+#EXTINF:-1 tvg-id="118916" tvg-name="AMC Crime HD ES" tvg-logo="" group-title="ES| Spain",AMC Crime HD ES
+http://localhost/ch/118916_
+#EXTINF:-1 tvg-id="118917" tvg-name="AMC Crime ES" tvg-logo="" group-title="ES| Spain",AMC Crime ES
+http://localhost/ch/118917_
+#EXTINF:-1 tvg-id="118918" tvg-name="AMC Break HD ES" tvg-logo="" group-title="ES| Spain",AMC Break HD ES
+http://localhost/ch/118918_
+#EXTINF:-1 tvg-id="118919" tvg-name="AMC Break FHD ES" tvg-logo="" group-title="ES| Spain",AMC Break FHD ES
+http://localhost/ch/118919_
+#EXTINF:-1 tvg-id="118920" tvg-name="AMC Break ES" tvg-logo="" group-title="ES| Spain",AMC Break ES
+http://localhost/ch/118920_
+#EXTINF:-1 tvg-id="122847" tvg-name="Canal+ Live 10 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 10 FR | Event
+http://localhost/ch/122847_
+#EXTINF:-1 tvg-id="122848" tvg-name="Canal+ Live 9 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 9 FR | Event
+http://localhost/ch/122848_
+#EXTINF:-1 tvg-id="122849" tvg-name="Canal+ Live 8 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 8 FR | Event
+http://localhost/ch/122849_
+#EXTINF:-1 tvg-id="122850" tvg-name="Canal+ Live 7 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 7 FR | Event
+http://localhost/ch/122850_
+#EXTINF:-1 tvg-id="122851" tvg-name="Canal+ Live 6 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 6 FR | Event
+http://localhost/ch/122851_
+#EXTINF:-1 tvg-id="122852" tvg-name="Canal+ Live 5 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 5 FR | Event
+http://localhost/ch/122852_
+#EXTINF:-1 tvg-id="122853" tvg-name="Canal+ Live 4 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 4 FR | Event
+http://localhost/ch/122853_
+#EXTINF:-1 tvg-id="122854" tvg-name="Canal+ Live 3 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 3 FR | Event
+http://localhost/ch/122854_
+#EXTINF:-1 tvg-id="122855" tvg-name="Canal+ Live 2 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 2 FR | Event
+http://localhost/ch/122855_
+#EXTINF:-1 tvg-id="122856" tvg-name="Canal+ Live 1 FR | Event" tvg-logo="" group-title="FR| France",Canal+ Live 1 FR | Event
+http://localhost/ch/122856_
+#EXTINF:-1 tvg-id="122857" tvg-name="DAZN FR | Event 10" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 10
+http://localhost/ch/122857_
+#EXTINF:-1 tvg-id="122858" tvg-name="DAZN FR | Event 9" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 9
+http://localhost/ch/122858_
+#EXTINF:-1 tvg-id="122859" tvg-name="DAZN FR | Event 8" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 8
+http://localhost/ch/122859_
+#EXTINF:-1 tvg-id="122860" tvg-name="DAZN FR | Event 7" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 7
+http://localhost/ch/122860_
+#EXTINF:-1 tvg-id="122861" tvg-name="DAZN FR | Event 6" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 6
+http://localhost/ch/122861_
+#EXTINF:-1 tvg-id="122862" tvg-name="DAZN FR | Event 5" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 5
+http://localhost/ch/122862_
+#EXTINF:-1 tvg-id="122863" tvg-name="DAZN FR | Event 4" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 4
+http://localhost/ch/122863_
+#EXTINF:-1 tvg-id="122864" tvg-name="DAZN FR | Event 3" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 3
+http://localhost/ch/122864_
+#EXTINF:-1 tvg-id="122865" tvg-name="DAZN FR | Event 2" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 2
+http://localhost/ch/122865_
+#EXTINF:-1 tvg-id="122866" tvg-name="DAZN FR | Event 1" tvg-logo="http://tugapt.com/picons/dazn.png" group-title="FR| France",DAZN FR | Event 1
+http://localhost/ch/122866_
+#EXTINF:-1 tvg-id="124616" tvg-name="DAZN LaLiga ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-laliga-es.png?raw=true" group-title="ES| Spain",DAZN LaLiga ES
+http://localhost/ch/124616_
+#EXTINF:-1 tvg-id="126747" tvg-name="TVE LA 1 ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ES| Spain",TVE LA 1 ES
+http://localhost/ch/126747_
+#EXTINF:-1 tvg-id="130406" tvg-name="Ligue 1+ Pass 10 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 10 FR
+http://localhost/ch/130406_
+#EXTINF:-1 tvg-id="130407" tvg-name="Ligue 1+ Pass 10 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 10 HD FR
+http://localhost/ch/130407_
+#EXTINF:-1 tvg-id="130408" tvg-name="Ligue 1+ Pass 10 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 10 FHD FR
+http://localhost/ch/130408_
+#EXTINF:-1 tvg-id="130409" tvg-name="Ligue 1+ Pass 9 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 9 FR
+http://localhost/ch/130409_
+#EXTINF:-1 tvg-id="130410" tvg-name="Ligue 1+ Pass 9 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 9 HD FR
+http://localhost/ch/130410_
+#EXTINF:-1 tvg-id="130411" tvg-name="Ligue 1+ Pass 9 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 9 FHD FR
+http://localhost/ch/130411_
+#EXTINF:-1 tvg-id="130412" tvg-name="Ligue 1+ Pass 8 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 8 FR
+http://localhost/ch/130412_
+#EXTINF:-1 tvg-id="130413" tvg-name="Ligue 1+ Pass 8 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 8 HD FR
+http://localhost/ch/130413_
+#EXTINF:-1 tvg-id="130414" tvg-name="Ligue 1+ Pass 8 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 8 FHD FR
+http://localhost/ch/130414_
+#EXTINF:-1 tvg-id="130415" tvg-name="Ligue 1+ Pass 7 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 7 FR
+http://localhost/ch/130415_
+#EXTINF:-1 tvg-id="130416" tvg-name="Ligue 1+ Pass 7 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 7 HD FR
+http://localhost/ch/130416_
+#EXTINF:-1 tvg-id="130417" tvg-name="Ligue 1+ Pass 7 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 7 FHD FR
+http://localhost/ch/130417_
+#EXTINF:-1 tvg-id="130418" tvg-name="Ligue 1+ Pass 6 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 6 FR
+http://localhost/ch/130418_
+#EXTINF:-1 tvg-id="130419" tvg-name="Ligue 1+ Pass 6 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 6 HD FR
+http://localhost/ch/130419_
+#EXTINF:-1 tvg-id="130420" tvg-name="Ligue 1+ Pass 6 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 6 FHD FR
+http://localhost/ch/130420_
+#EXTINF:-1 tvg-id="130421" tvg-name="Ligue 1+ Pass 5 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 5 FR
+http://localhost/ch/130421_
+#EXTINF:-1 tvg-id="130422" tvg-name="Ligue 1+ Pass 5 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 5 HD FR
+http://localhost/ch/130422_
+#EXTINF:-1 tvg-id="130423" tvg-name="Ligue 1+ Pass 5 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 5 FHD FR
+http://localhost/ch/130423_
+#EXTINF:-1 tvg-id="130424" tvg-name="Ligue 1+ Pass 4 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 4 FR
+http://localhost/ch/130424_
+#EXTINF:-1 tvg-id="130425" tvg-name="Ligue 1+ Pass 4 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 4 HD FR
+http://localhost/ch/130425_
+#EXTINF:-1 tvg-id="130426" tvg-name="Ligue 1+ Pass 4 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 4 FHD FR
+http://localhost/ch/130426_
+#EXTINF:-1 tvg-id="130427" tvg-name="Ligue 1+ Pass 3 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 3 FR
+http://localhost/ch/130427_
+#EXTINF:-1 tvg-id="130428" tvg-name="Ligue 1+ Pass 3 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 3 HD FR
+http://localhost/ch/130428_
+#EXTINF:-1 tvg-id="130429" tvg-name="Ligue 1+ Pass 3 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 3 FHD FR
+http://localhost/ch/130429_
+#EXTINF:-1 tvg-id="130430" tvg-name="Ligue 1+ Pass 2 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 2 FR
+http://localhost/ch/130430_
+#EXTINF:-1 tvg-id="130431" tvg-name="Ligue 1+ Pass 2 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 2 HD FR
+http://localhost/ch/130431_
+#EXTINF:-1 tvg-id="130432" tvg-name="Ligue 1+ Pass 2 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 2 FHD FR
+http://localhost/ch/130432_
+#EXTINF:-1 tvg-id="130433" tvg-name="Ligue 1+ Pass 1 FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 1 FR
+http://localhost/ch/130433_
+#EXTINF:-1 tvg-id="130434" tvg-name="Ligue 1+ Pass 1 HD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 1 HD FR
+http://localhost/ch/130434_
+#EXTINF:-1 tvg-id="130435" tvg-name="Ligue 1+ Pass 1 FHD FR" tvg-logo="" group-title="FR| France",Ligue 1+ Pass 1 FHD FR
+http://localhost/ch/130435_
+#EXTINF:-1 tvg-id="135231" tvg-name="A La Carte 13 VIP FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 13 VIP FR
+http://localhost/ch/135231_
+#EXTINF:-1 tvg-id="1378" tvg-name="GOLF+ FHD FR" tvg-logo="http://tugapt.com/picons/golfplushdfr.png" group-title="FR| France",GOLF+ FHD FR
+http://localhost/ch/1378_
+#EXTINF:-1 tvg-id="1379" tvg-name="E! FR" tvg-logo="http://tugapt.com/picons/efr.png" group-title="FR| France",E! FR
+http://localhost/ch/1379_
+#EXTINF:-1 tvg-id="1380" tvg-name="RFM TV HD FR" tvg-logo="http://tugapt.com/picons/rfmtv.png" group-title="FR| France",RFM TV HD FR
+http://localhost/ch/1380_
+#EXTINF:-1 tvg-id="1381" tvg-name="C-Star HD FR" tvg-logo="http://tugapt.com/picons/cstarhdfr.png" group-title="FR| France",C-Star HD FR
+http://localhost/ch/1381_
+#EXTINF:-1 tvg-id="1382" tvg-name="La Une HD FR" tvg-logo="http://tugapt.com/picons/rtbflaunehdfr.png" group-title="FR| France",La Une HD FR
+http://localhost/ch/1382_
+#EXTINF:-1 tvg-id="1383" tvg-name="Paramount Channel FHD FR" tvg-logo="http://tugapt.com/picons/paramountchannelfr.png" group-title="FR| France",Paramount Channel FHD FR
+http://localhost/ch/1383_
+#EXTINF:-1 tvg-id="1384" tvg-name="RMC Decouverte HD FR" tvg-logo="http://tugapt.com/picons/rmcdecouvertehd.png" group-title="FR| France",RMC Decouverte HD FR
+http://localhost/ch/1384_
+#EXTINF:-1 tvg-id="1385" tvg-name="Automoto FHD FR" tvg-logo="http://tugapt.com/picons/automotolachaine.png" group-title="FR| France",Automoto FHD FR
+http://localhost/ch/1385_
+#EXTINF:-1 tvg-id="1386" tvg-name="Equidia FR" tvg-logo="http://tugapt.com/picons/equidia.png" group-title="FR| France",Equidia FR
+http://localhost/ch/1386_
+#EXTINF:-1 tvg-id="1387" tvg-name="L'Equipe 21 FR" tvg-logo="http://tugapt.com/picons/lequipe21fr.png" group-title="FR| France",L'Equipe 21 FR
+http://localhost/ch/1387_
+#EXTINF:-1 tvg-id="1388" tvg-name="Eurosport 2 HD FR" tvg-logo="http://tugapt.com/picons/eurosport2fr.png" group-title="FR| France",Eurosport 2 HD FR
+http://localhost/ch/1388_
+#EXTINF:-1 tvg-id="1389" tvg-name="Eurosport 1 FR" tvg-logo="http://tugapt.com/picons/eurosport1fr.png" group-title="FR| France",Eurosport 1 FR
+http://localhost/ch/1389_
+#EXTINF:-1 tvg-id="1390" tvg-name="Canal+ Foot FR" tvg-logo="http://tugapt.com/picons/footplus2424fr.png" group-title="FR| France",Canal+ Foot FR
+http://localhost/ch/1390_
+#EXTINF:-1 tvg-id="1392" tvg-name="CANAL+ Sport HD FR" tvg-logo="http://tugapt.com/picons/canalplussporthdfr.png" group-title="FR| France",CANAL+ Sport HD FR
+http://localhost/ch/1392_
+#EXTINF:-1 tvg-id="1394" tvg-name="Nickelodeon FHD FR" tvg-logo="http://tugapt.com/picons/nickelodeonfr.png" group-title="FR| France",Nickelodeon FHD FR
+http://localhost/ch/1394_
+#EXTINF:-1 tvg-id="1395" tvg-name="MCM HD FR" tvg-logo="http://tugapt.com/picons/mcm.png" group-title="FR| France",MCM HD FR
+http://localhost/ch/1395_
+#EXTINF:-1 tvg-id="13960" tvg-name="Dazn F1 FHD VIP ES" tvg-logo="https://static.epg.best/es/MovistarFormula1.es.png" group-title="ES| Spain",Dazn F1 FHD VIP ES
+http://localhost/ch/13960_
+#EXTINF:-1 tvg-id="1397" tvg-name="M6 Music FR" tvg-logo="http://tugapt.com/picons/m6musicfr.png" group-title="FR| France",M6 Music FR
+http://localhost/ch/1397_
+#EXTINF:-1 tvg-id="1398" tvg-name="France Info FR" tvg-logo="http://tugapt.com/picons/franceinfofr.png" group-title="FR| France",France Info FR
+http://localhost/ch/1398_
+#EXTINF:-1 tvg-id="1400" tvg-name="Game One FR" tvg-logo="http://tugapt.com/picons/gameonefr.png" group-title="FR| France",Game One FR
+http://localhost/ch/1400_
+#EXTINF:-1 tvg-id="1401" tvg-name="C-Star FR" tvg-logo="http://tugapt.com/picons/cstarfr.png" group-title="FR| France",C-Star FR
+http://localhost/ch/1401_
+#EXTINF:-1 tvg-id="1402" tvg-name="Equidia HD FR" tvg-logo="http://tugapt.com/picons/equidia.png" group-title="FR| France",Equidia HD FR
+http://localhost/ch/1402_
+#EXTINF:-1 tvg-id="1403" tvg-name="Stingray Brava FR" tvg-logo="http://tugapt.com/picons/stingraybravafr.png" group-title="FR| France",Stingray Brava FR
+http://localhost/ch/1403_
+#EXTINF:-1 tvg-id="1404" tvg-name="Africa 24 FR" tvg-logo="http://tugapt.com/picons/africa24fr.png" group-title="FR| France",Africa 24 FR
+http://localhost/ch/1404_
+#EXTINF:-1 tvg-id="1405" tvg-name="AB1 HD FR" tvg-logo="http://tugapt.com/picons/ab1fr.png" group-title="FR| France",AB1 HD FR
+http://localhost/ch/1405_
+#EXTINF:-1 tvg-id="1406" tvg-name="TFX FHD FR" tvg-logo="http://tugapt.com/picons/nt1fr.png" group-title="FR| France",TFX FHD FR
+http://localhost/ch/1406_
+#EXTINF:-1 tvg-id="1408" tvg-name="Boing FR" tvg-logo="http://tugapt.com/picons/boingfr.png" group-title="FR| France",Boing FR
+http://localhost/ch/1408_
+#EXTINF:-1 tvg-id="1409" tvg-name="Mangas HD FR" tvg-logo="http://tugapt.com/picons/mangasfr.png" group-title="FR| France",Mangas HD FR
+http://localhost/ch/1409_
+#EXTINF:-1 tvg-id="1410" tvg-name="Comédie+ HD FR" tvg-logo="http://tugapt.com/picons/comedieplusfr.png" group-title="FR| France",Comédie+ HD FR
+http://localhost/ch/1410_
+#EXTINF:-1 tvg-id="1411" tvg-name="Disney Channel HD FR" tvg-logo="http://tugapt.com/picons/disneychannelfr.png" group-title="FR| France",Disney Channel HD FR
+http://localhost/ch/1411_
+#EXTINF:-1 tvg-id="1412" tvg-name="Cartoon Network FR" tvg-logo="http://tugapt.com/picons/cartoonnetworkfr.png" group-title="FR| France",Cartoon Network FR
+http://localhost/ch/1412_
+#EXTINF:-1 tvg-id="1413" tvg-name="Disney Cinema FR" tvg-logo="http://tugapt.com/picons/disneycinemafr.png" group-title="FR| France",Disney Cinema FR
+http://localhost/ch/1413_
+#EXTINF:-1 tvg-id="1414" tvg-name="Disney Cinema HD FR" tvg-logo="http://tugapt.com/picons/disneycinemahdfr.png" group-title="FR| France",Disney Cinema HD FR
+http://localhost/ch/1414_
+#EXTINF:-1 tvg-id="1415" tvg-name="Disney Junior HD FR" tvg-logo="http://tugapt.com/picons/disneyjuniorfr.png" group-title="FR| France",Disney Junior HD FR
+http://localhost/ch/1415_
+#EXTINF:-1 tvg-id="1416" tvg-name="téléTOON+ HD FR" tvg-logo="http://tugapt.com/picons/teletoonplusfr.png" group-title="FR| France",téléTOON+ HD FR
+http://localhost/ch/1416_
+#EXTINF:-1 tvg-id="1417" tvg-name="Gulli FR" tvg-logo="http://tugapt.com/picons/gullihdfr.png" group-title="FR| France",Gulli FR
+http://localhost/ch/1417_
+#EXTINF:-1 tvg-id="1418" tvg-name="Piwi+ HD FR" tvg-logo="http://tugapt.com/picons/piwiplusfr.png" group-title="FR| France",Piwi+ HD FR
+http://localhost/ch/1418_
+#EXTINF:-1 tvg-id="1419" tvg-name="Tiji FHD FR" tvg-logo="http://tugapt.com/picons/tijifr.png" group-title="FR| France",Tiji FHD FR
+http://localhost/ch/1419_
+#EXTINF:-1 tvg-id="1420" tvg-name="Canal J FHD FR" tvg-logo="http://tugapt.com/picons/canaljfr.png" group-title="FR| France",Canal J FHD FR
+http://localhost/ch/1420_
+#EXTINF:-1 tvg-id="1421" tvg-name="Vosges Télévision HD FR" tvg-logo="http://tugapt.com/picons/vosgestelevisionhdfr.png" group-title="FR| France",Vosges Télévision HD FR
+http://localhost/ch/1421_
+#EXTINF:-1 tvg-id="1422" tvg-name="Investigation Discovery HD FR" tvg-logo="http://tugapt.com/picons/investigationdiscoveryhdfr.png" group-title="FR| France",Investigation Discovery HD FR
+http://localhost/ch/1422_
+#EXTINF:-1 tvg-id="1423" tvg-name="Discovery Channel HD FR" tvg-logo="http://tugapt.com/picons/discoverychannelhdfr.png" group-title="FR| France",Discovery Channel HD FR
+http://localhost/ch/1423_
+#EXTINF:-1 tvg-id="1424" tvg-name="Discovery Science HD FR" tvg-logo="http://tugapt.com/picons/discoverysciencehdfr.png" group-title="FR| France",Discovery Science HD FR
+http://localhost/ch/1424_
+#EXTINF:-1 tvg-id="1425" tvg-name="National Geographic HD FR" tvg-logo="http://tugapt.com/picons/nationalgeographichdfr.png" group-title="FR| France",National Geographic HD FR
+http://localhost/ch/1425_
+#EXTINF:-1 tvg-id="1426" tvg-name="Nat Geo Wild HD FR" tvg-logo="http://tugapt.com/picons/natgeowildhdfr.png" group-title="FR| France",Nat Geo Wild HD FR
+http://localhost/ch/1426_
+#EXTINF:-1 tvg-id="1427" tvg-name="Toute l'Histoire FR" tvg-logo="http://tugapt.com/picons/toutelhistoirefr.png" group-title="FR| France",Toute l'Histoire FR
+http://localhost/ch/1427_
+#EXTINF:-1 tvg-id="1428" tvg-name="Science & Vie TV FHD FR" tvg-logo="http://tugapt.com/picons/scienceandvietvfr.png" group-title="FR| France",Science & Vie TV FHD FR
+http://localhost/ch/1428_
+#EXTINF:-1 tvg-id="1429" tvg-name="Planète+ Aventure Expérience HD FR" tvg-logo="http://tugapt.com/picons/planeteplusaandehdfr.png" group-title="FR| France",Planète+ Aventure Expérience HD FR
+http://localhost/ch/1429_
+#EXTINF:-1 tvg-id="1430" tvg-name="Planète+ Crime+Investigation HD FR" tvg-logo="http://tugapt.com/picons/planetepluscihdfr.png" group-title="FR| France",Planète+ Crime+Investigation HD FR
+http://localhost/ch/1430_
+#EXTINF:-1 tvg-id="1431" tvg-name="Planète+ HD FR" tvg-logo="http://tugapt.com/picons/planeteplushdfr.png" group-title="FR| France",Planète+ HD FR
+http://localhost/ch/1431_
+#EXTINF:-1 tvg-id="1433" tvg-name="Seasons HD FR" tvg-logo="http://tugapt.com/picons/seasons.png" group-title="FR| France",Seasons HD FR
+http://localhost/ch/1433_
+#EXTINF:-1 tvg-id="1434" tvg-name="Chasse et Pêche FR" tvg-logo="http://tugapt.com/picons/chasseetpechefr.png" group-title="FR| France",Chasse et Pêche FR
+http://localhost/ch/1434_
+#EXTINF:-1 tvg-id="1435" tvg-name="Animaux HD FR" tvg-logo="http://tugapt.com/picons/animauxfr.png" group-title="FR| France",Animaux HD FR
+http://localhost/ch/1435_
+#EXTINF:-1 tvg-id="1436" tvg-name="Ushuaïa TV FR" tvg-logo="http://tugapt.com/picons/ushuaiatvfr.png" group-title="FR| France",Ushuaïa TV FR
+http://localhost/ch/1436_
+#EXTINF:-1 tvg-id="1437" tvg-name="Histoire FR" tvg-logo="http://tugapt.com/picons/histoirefr.png" group-title="FR| France",Histoire FR
+http://localhost/ch/1437_
+#EXTINF:-1 tvg-id="1438" tvg-name="J-One FR" tvg-logo="http://tugapt.com/picons/jonefr.png" group-title="FR| France",J-One FR
+http://localhost/ch/1438_
+#EXTINF:-1 tvg-id="1439" tvg-name="TV5 Monde HD FR" tvg-logo="http://tugapt.com/picons/tv5mondefr.png" group-title="FR| France",TV5 Monde HD FR
+http://localhost/ch/1439_
+#EXTINF:-1 tvg-id="1440" tvg-name="Arte FR" tvg-logo="http://tugapt.com/picons/artefr.png" group-title="FR| France",Arte FR
+http://localhost/ch/1440_
+#EXTINF:-1 tvg-id="1441" tvg-name="Weo HD FR" tvg-logo="http://tugapt.com/picons/weofr.png" group-title="FR| France",Weo HD FR
+http://localhost/ch/1441_
+#EXTINF:-1 tvg-id="1442" tvg-name="RTL 9 FR" tvg-logo="http://tugapt.com/picons/rtl9fr.png" group-title="FR| France",RTL 9 FR
+http://localhost/ch/1442_
+#EXTINF:-1 tvg-id="1443" tvg-name="NRJ 12 HD FR" tvg-logo="http://tugapt.com/picons/nrj12fr.png" group-title="FR| France",NRJ 12 HD FR
+http://localhost/ch/1443_
+#EXTINF:-1 tvg-id="1444" tvg-name="Chérie 25 FR" tvg-logo="http://tugapt.com/picons/cherie25fr.png" group-title="FR| France",Chérie 25 FR
+http://localhost/ch/1444_
+#EXTINF:-1 tvg-id="1445" tvg-name="téva FR" tvg-logo="http://tugapt.com/picons/tevafr.png" group-title="FR| France",téva FR
+http://localhost/ch/1445_
+#EXTINF:-1 tvg-id="1446" tvg-name="TFX FR" tvg-logo="http://tugapt.com/picons/nt1hdfr.png" group-title="FR| France",TFX FR
+http://localhost/ch/1446_
+#EXTINF:-1 tvg-id="1447" tvg-name="Syfy FR" tvg-logo="http://tugapt.com/picons/syfyfr.png" group-title="FR| France",Syfy FR
+http://localhost/ch/1447_
+#EXTINF:-1 tvg-id="1448" tvg-name="TMC FHD FR" tvg-logo="http://tugapt.com/picons/tmcfr.png" group-title="FR| France",TMC FHD FR
+http://localhost/ch/1448_
+#EXTINF:-1 tvg-id="1449" tvg-name="serieclub FR" tvg-logo="http://tugapt.com/picons/serieclubfr.png" group-title="FR| France",serieclub FR
+http://localhost/ch/1449_
+#EXTINF:-1 tvg-id="1450" tvg-name="Numéro 23 FR" tvg-logo="http://tugapt.com/picons/numero23fr.png" group-title="FR| France",Numéro 23 FR
+http://localhost/ch/1450_
+#EXTINF:-1 tvg-id="1451" tvg-name="TVBreizh FR" tvg-logo="http://tugapt.com/picons/tvbreizh.png" group-title="FR| France",TVBreizh FR
+http://localhost/ch/1451_
+#EXTINF:-1 tvg-id="1452" tvg-name="13eme Rue FR" tvg-logo="http://tugapt.com/picons/13emeruefr.png" group-title="FR| France",13eme Rue FR
+http://localhost/ch/1452_
+#EXTINF:-1 tvg-id="1453" tvg-name="Action FR" tvg-logo="http://tugapt.com/picons/actionfr.png" group-title="FR| France",Action FR
+http://localhost/ch/1453_
+#EXTINF:-1 tvg-id="1454" tvg-name="OCS Choc FHD FR" tvg-logo="http://tugapt.com/picons/ocschochd.png" group-title="FR| France",OCS Choc FHD FR
+http://localhost/ch/1454_
+#EXTINF:-1 tvg-id="1455" tvg-name="OCS City FR" tvg-logo="http://tugapt.com/picons/ocscityfr.png" group-title="FR| France",OCS City FR
+http://localhost/ch/1455_
+#EXTINF:-1 tvg-id="1456" tvg-name="OCS Geants FR" tvg-logo="http://tugapt.com/picons/ocsgeantsfr.png" group-title="FR| France",OCS Geants FR
+http://localhost/ch/1456_
+#EXTINF:-1 tvg-id="1457" tvg-name="Paris Premiere HD FR" tvg-logo="http://tugapt.com/picons/parispremierefr.png" group-title="FR| France",Paris Premiere HD FR
+http://localhost/ch/1457_
+#EXTINF:-1 tvg-id="1458" tvg-name="OCS Max FR" tvg-logo="http://tugapt.com/picons/ocsmaxfr.png" group-title="FR| France",OCS Max FR
+http://localhost/ch/1458_
+#EXTINF:-1 tvg-id="1460" tvg-name="Ciné Polar HD FR" tvg-logo="http://tugapt.com/picons/cinepolarfr.png" group-title="FR| France",Ciné Polar HD FR
+http://localhost/ch/1460_
+#EXTINF:-1 tvg-id="1461" tvg-name="TCM Cinéma HD FR" tvg-logo="http://tugapt.com/picons/tcmcinemahdfr.png" group-title="FR| France",TCM Cinéma HD FR
+http://localhost/ch/1461_
+#EXTINF:-1 tvg-id="1462" tvg-name="Ciné+ Classic HD FR" tvg-logo="http://tugapt.com/picons/cineplusclassichdfr.png" group-title="FR| France",Ciné+ Classic HD FR
+http://localhost/ch/1462_
+#EXTINF:-1 tvg-id="1463" tvg-name="Ciné+ Premier HD FR" tvg-logo="http://tugapt.com/picons/cinepluspremierhdfr.png" group-title="FR| France",Ciné+ Premier HD FR
+http://localhost/ch/1463_
+#EXTINF:-1 tvg-id="1464" tvg-name="Ciné+ Emotion HD FR" tvg-logo="http://tugapt.com/picons/cineplusemotionhdfr.png" group-title="FR| France",Ciné+ Emotion HD FR
+http://localhost/ch/1464_
+#EXTINF:-1 tvg-id="1465" tvg-name="Ciné+ Frisson HD FR" tvg-logo="http://tugapt.com/picons/cineplusfrissonhdfr.png" group-title="FR| France",Ciné+ Frisson HD FR
+http://localhost/ch/1465_
+#EXTINF:-1 tvg-id="1466" tvg-name="CANAL+ Series HD FR" tvg-logo="http://tugapt.com/picons/canalplusserieshdfr.png" group-title="FR| France",CANAL+ Series HD FR
+http://localhost/ch/1466_
+#EXTINF:-1 tvg-id="1467" tvg-name="Ciné+ Famiz FR" tvg-logo="http://tugapt.com/picons/cineplusfamizfr.png" group-title="FR| France",Ciné+ Famiz FR
+http://localhost/ch/1467_
+#EXTINF:-1 tvg-id="1468" tvg-name="CANAL+ Family HD FR" tvg-logo="http://tugapt.com/picons/canalplusfamilyhdfr.png" group-title="FR| France",CANAL+ Family HD FR
+http://localhost/ch/1468_
+#EXTINF:-1 tvg-id="1469" tvg-name="CANAL+ Sport 360 HD FR" tvg-logo="http://tugapt.com/picons/canalplusdecalehdfr.png" group-title="FR| France",CANAL+ Sport 360 HD FR
+http://localhost/ch/1469_
+#EXTINF:-1 tvg-id="1470" tvg-name="CANAL+ Cinema HD FR" tvg-logo="http://tugapt.com/picons/canalpluscinemahdfr.png" group-title="FR| France",CANAL+ Cinema HD FR
+http://localhost/ch/1470_
+#EXTINF:-1 tvg-id="1471" tvg-name="CANAL+ HD FR" tvg-logo="http://tugapt.com/picons/canalplushdfr.png" group-title="FR| France",CANAL+ HD FR
+http://localhost/ch/1471_
+#EXTINF:-1 tvg-id="1473" tvg-name="F1 SERIES & FILMS HD FR" tvg-logo="http://tugapt.com/picons/hd1fr.png" group-title="FR| France",F1 SERIES & FILMS HD FR
+http://localhost/ch/1473_
+#EXTINF:-1 tvg-id="1474" tvg-name="C-8 FHD FR" tvg-logo="http://tugapt.com/picons/c8fr.png" group-title="FR| France",C-8 FHD FR
+http://localhost/ch/1474_
+#EXTINF:-1 tvg-id="15071" tvg-name="i24NEWS FHD FR" tvg-logo="http://tugapt.com/picons/i24news.png" group-title="FR| France",i24NEWS FHD FR
+http://localhost/ch/15071_
+#EXTINF:-1 tvg-id="15964" tvg-name="Gulli HD FR" tvg-logo="http://tugapt.com/picons/gullihd.png" group-title="FR| France",Gulli HD FR
+http://localhost/ch/15964_
+#EXTINF:-1 tvg-id="15965" tvg-name="L'Equipe 21 FHD FR" tvg-logo="http://tugapt.com/picons/lequipe21.png" group-title="FR| France",L'Equipe 21 FHD FR
+http://localhost/ch/15965_
+#EXTINF:-1 tvg-id="15966" tvg-name="A2i TV HD FR" tvg-logo="http://tugapt.com/picons/a2itv.png" group-title="FR| France",A2i TV HD FR
+http://localhost/ch/15966_
+#EXTINF:-1 tvg-id="15967" tvg-name="Golf Channel HD FR" tvg-logo="http://tugapt.com/picons/golfchannel.png" group-title="FR| France",Golf Channel HD FR
+http://localhost/ch/15967_
+#EXTINF:-1 tvg-id="15968" tvg-name="NRJ Hits FR" tvg-logo="http://tugapt.com/picons/nrjhits.png" group-title="FR| France",NRJ Hits FR
+http://localhost/ch/15968_
+#EXTINF:-1 tvg-id="15982" tvg-name="téva FHD FR" tvg-logo="http://tugapt.com/picons/tevahd.png" group-title="FR| France",téva FHD FR
+http://localhost/ch/15982_
+#EXTINF:-1 tvg-id="15983" tvg-name="TF1 Séries Films HD FR" tvg-logo="http://tugapt.com/picons/tf1seriesfilms.png" group-title="FR| France",TF1 Séries Films HD FR
+http://localhost/ch/15983_
+#EXTINF:-1 tvg-id="15984" tvg-name="Tiji FR" tvg-logo="http://tugapt.com/picons/tiji.png" group-title="FR| France",Tiji FR
+http://localhost/ch/15984_
+#EXTINF:-1 tvg-id="15986" tvg-name="TV5 Monde Europe FR" tvg-logo="http://tugapt.com/picons/tv5monde.png" group-title="FR| France",TV5 Monde Europe FR
+http://localhost/ch/15986_
+#EXTINF:-1 tvg-id="15987" tvg-name="France 5 HD FR" tvg-logo="http://tugapt.com/picons/france5hd.png" group-title="FR| France",France 5 HD FR
+http://localhost/ch/15987_
+#EXTINF:-1 tvg-id="17624" tvg-name="Dark Channel HD ES" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="ES| Spain",Dark Channel HD ES
+http://localhost/ch/17624_
+#EXTINF:-1 tvg-id="19514" tvg-name="========== ES Cine ==========" tvg-logo="" group-title="ES| Spain",========== ES Cine ==========
+http://localhost/ch/19514_
+#EXTINF:-1 tvg-id="19515" tvg-name="========== ES Entretenimiento ==========" tvg-logo="" group-title="ES| Spain",========== ES Entretenimiento ==========
+http://localhost/ch/19515_
+#EXTINF:-1 tvg-id="19516" tvg-name="========== ES Deportes ==========" tvg-logo="" group-title="ES| Spain",========== ES Deportes ==========
+http://localhost/ch/19516_
+#EXTINF:-1 tvg-id="19517" tvg-name="========== ES Cultura ==========" tvg-logo="" group-title="ES| Spain",========== ES Cultura ==========
+http://localhost/ch/19517_
+#EXTINF:-1 tvg-id="19518" tvg-name="========== ES Musica ==========" tvg-logo="" group-title="ES| Spain",========== ES Musica ==========
+http://localhost/ch/19518_
+#EXTINF:-1 tvg-id="19519" tvg-name="========== ES Niños ==========" tvg-logo="" group-title="ES| Spain",========== ES Niños ==========
+http://localhost/ch/19519_
+#EXTINF:-1 tvg-id="19520" tvg-name="========== ES Noticias ==========" tvg-logo="" group-title="ES| Spain",========== ES Noticias ==========
+http://localhost/ch/19520_
+#EXTINF:-1 tvg-id="19521" tvg-name="========== ES PPV ==========" tvg-logo="" group-title="ES| Spain",========== ES PPV ==========
+http://localhost/ch/19521_
+#EXTINF:-1 tvg-id="24154" tvg-name="Movistar Cine Ñ ES" tvg-logo="http://tugapt.com/picons/movistarcinen.png" group-title="ES| Spain",Movistar Cine Ñ ES
+http://localhost/ch/24154_
+#EXTINF:-1 tvg-id="24155" tvg-name="Movistar Drama ES" tvg-logo="http://tugapt.com/picons/movistardrama.png" group-title="ES| Spain",Movistar Drama ES
+http://localhost/ch/24155_
+#EXTINF:-1 tvg-id="24156" tvg-name="Movistar Drama FHD ES" tvg-logo="http://tugapt.com/picons/movistardrama.png" group-title="ES| Spain",Movistar Drama FHD ES
+http://localhost/ch/24156_
+#EXTINF:-1 tvg-id="36873" tvg-name="RMC DECOUVERTE FHD FR" tvg-logo="" group-title="FR| France",RMC DECOUVERTE FHD FR
+http://localhost/ch/36873_
+#EXTINF:-1 tvg-id="36874" tvg-name="RMC STORY FHD FR" tvg-logo="" group-title="FR| France",RMC STORY FHD FR
+http://localhost/ch/36874_
+#EXTINF:-1 tvg-id="36875" tvg-name="RMC SPORT 1 ACCESS HD FR" tvg-logo="" group-title="FR| France",RMC SPORT 1 ACCESS HD FR
+http://localhost/ch/36875_
+#EXTINF:-1 tvg-id="36876" tvg-name="RMC SPORT 2 ACCESS HD FR" tvg-logo="" group-title="FR| France",RMC SPORT 2 ACCESS HD FR
+http://localhost/ch/36876_
+#EXTINF:-1 tvg-id="36877" tvg-name="RMC SPORT 3 ACCESS HD FR" tvg-logo="" group-title="FR| France",RMC SPORT 3 ACCESS HD FR
+http://localhost/ch/36877_
+#EXTINF:-1 tvg-id="4041" tvg-name="KTO FR" tvg-logo="http://tugapt.com/picons/ktofr.png" group-title="FR| France",KTO FR
+http://localhost/ch/4041_
+#EXTINF:-1 tvg-id="4042" tvg-name="TCM Cinéma FHD FR" tvg-logo="http://tugapt.com/picons/tcmcinemahdfr.png" group-title="FR| France",TCM Cinéma FHD FR
+http://localhost/ch/4042_
+#EXTINF:-1 tvg-id="4047" tvg-name="InfoSport+ HD FR" tvg-logo="http://tugapt.com/picons/infosportplusfr.png" group-title="FR| France",InfoSport+ HD FR
+http://localhost/ch/4047_
+#EXTINF:-1 tvg-id="4048" tvg-name="OL TV HD FR" tvg-logo="http://tugapt.com/picons/oltvhd.png" group-title="FR| France",OL TV HD FR
+http://localhost/ch/4048_
+#EXTINF:-1 tvg-id="4050" tvg-name="Paramount Channel HD FR" tvg-logo="http://tugapt.com/picons/paramountchannelhdfr.png" group-title="FR| France",Paramount Channel HD FR
+http://localhost/ch/4050_
+#EXTINF:-1 tvg-id="4052" tvg-name="Boomerang FHD FR" tvg-logo="http://tugapt.com/picons/boomerangfr.png" group-title="FR| France",Boomerang FHD FR
+http://localhost/ch/4052_
+#EXTINF:-1 tvg-id="4053" tvg-name="Disney Channel +1 FR" tvg-logo="http://tugapt.com/picons/disneychannelplus1fr.png" group-title="FR| France",Disney Channel +1 FR
+http://localhost/ch/4053_
+#EXTINF:-1 tvg-id="4055" tvg-name="MTV FR" tvg-logo="http://tugapt.com/picons/mtvfr.png" group-title="FR| France",MTV FR
+http://localhost/ch/4055_
+#EXTINF:-1 tvg-id="4057" tvg-name="MTV Hits FR" tvg-logo="http://tugapt.com/picons/mtvhitsfr.png" group-title="FR| France",MTV Hits FR
+http://localhost/ch/4057_
+#EXTINF:-1 tvg-id="4058" tvg-name="MTV Music FR" tvg-logo="http://tugapt.com/picons/mtvmusicfr.png" group-title="FR| France",MTV Music FR
+http://localhost/ch/4058_
+#EXTINF:-1 tvg-id="4059" tvg-name="NRJ Hits HD FR" tvg-logo="http://tugapt.com/picons/nrjhitsfr.png" group-title="FR| France",NRJ Hits HD FR
+http://localhost/ch/4059_
+#EXTINF:-1 tvg-id="4060" tvg-name="BFM Business FHD FR" tvg-logo="http://tugapt.com/picons/bfmbusinessfr.png" group-title="FR| France",BFM Business FHD FR
+http://localhost/ch/4060_
+#EXTINF:-1 tvg-id="4062" tvg-name="i24NEWS FR" tvg-logo="http://tugapt.com/picons/i24newsfr.png" group-title="FR| France",i24NEWS FR
+http://localhost/ch/4062_
+#EXTINF:-1 tvg-id="4068" tvg-name="Orange Cinema HD FR" tvg-logo="http://tugapt.com/picons/orange.png" group-title="FR| France",Orange Cinema HD FR
+http://localhost/ch/4068_
+#EXTINF:-1 tvg-id="4073" tvg-name="La Chaîne Normande TV FR" tvg-logo="http://tugapt.com/picons/lachainenormandetvfr.png" group-title="FR| France",La Chaîne Normande TV FR
+http://localhost/ch/4073_
+#EXTINF:-1 tvg-id="4075" tvg-name="Trace Urban FR" tvg-logo="http://tugapt.com/picons/traceurbanfr.png" group-title="FR| France",Trace Urban FR
+http://localhost/ch/4075_
+#EXTINF:-1 tvg-id="4076" tvg-name="TVBreizh FHD FR" tvg-logo="http://tugapt.com/picons/tvbreizhhd.png" group-title="FR| France",TVBreizh FHD FR
+http://localhost/ch/4076_
+#EXTINF:-1 tvg-id="4077" tvg-name="AB3 FR" tvg-logo="http://tugapt.com/picons/ab3fr.png" group-title="FR| France",AB3 FR
+http://localhost/ch/4077_
+#EXTINF:-1 tvg-id="4078" tvg-name="BET FHD FR" tvg-logo="http://tugapt.com/picons/betfr.png" group-title="FR| France",BET FHD FR
+http://localhost/ch/4078_
+#EXTINF:-1 tvg-id="4079" tvg-name="Canal Alpha JU FR" tvg-logo="http://tugapt.com/picons/canalalphajufr.png" group-title="FR| France",Canal Alpha JU FR
+http://localhost/ch/4079_
+#EXTINF:-1 tvg-id="4080" tvg-name="Mezzo Live HD FR" tvg-logo="http://tugapt.com/picons/mezzolivehdfr.png" group-title="FR| France",Mezzo Live HD FR
+http://localhost/ch/4080_
+#EXTINF:-1 tvg-id="4081" tvg-name="Seasons FHD FR" tvg-logo="http://tugapt.com/picons/seasons.png" group-title="FR| France",Seasons FHD FR
+http://localhost/ch/4081_
+#EXTINF:-1 tvg-id="4083" tvg-name="RMC Sport 4 FHD FR" tvg-logo="http://tugapt.com/picons/rmcsport4.png" group-title="FR| France",RMC Sport 4 FHD FR
+http://localhost/ch/4083_
+#EXTINF:-1 tvg-id="4084" tvg-name="RMC Sport 3 FHD FR" tvg-logo="http://tugapt.com/picons/rmcsport3.png" group-title="FR| France",RMC Sport 3 FHD FR
+http://localhost/ch/4084_
+#EXTINF:-1 tvg-id="4085" tvg-name="RMC Sport 2 FHD FR" tvg-logo="http://tugapt.com/picons/rmcsport2.png" group-title="FR| France",RMC Sport 2 FHD FR
+http://localhost/ch/4085_
+#EXTINF:-1 tvg-id="4086" tvg-name="RMC Sport 1 FHD FR" tvg-logo="http://tugapt.com/picons/rmcsport1.png" group-title="FR| France",RMC Sport 1 FHD FR
+http://localhost/ch/4086_
+#EXTINF:-1 tvg-id="4087" tvg-name="beIN SPORTS MAX 7 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax7hdfr.png" group-title="FR| France",beIN SPORTS MAX 7 HD FR
+http://localhost/ch/4087_
+#EXTINF:-1 tvg-id="4088" tvg-name="beIN SPORTS MAX 6 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax6hdfr.png" group-title="FR| France",beIN SPORTS MAX 6 HD FR
+http://localhost/ch/4088_
+#EXTINF:-1 tvg-id="4089" tvg-name="beIN SPORTS MAX 5 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax5hdfr.png" group-title="FR| France",beIN SPORTS MAX 5 HD FR
+http://localhost/ch/4089_
+#EXTINF:-1 tvg-id="4090" tvg-name="beIN SPORTS MAX 4 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax4hdfr.png" group-title="FR| France",beIN SPORTS MAX 4 HD FR
+http://localhost/ch/4090_
+#EXTINF:-1 tvg-id="4091" tvg-name="beIN SPORTS 3 FHD FR" tvg-logo="http://tugapt.com/picons/beinsports3hdfr.png" group-title="FR| France",beIN SPORTS 3 FHD FR
+http://localhost/ch/4091_
+#EXTINF:-1 tvg-id="4092" tvg-name="beIN SPORTS 2 FHD FR" tvg-logo="http://tugapt.com/picons/beinsports2hdfr.png" group-title="FR| France",beIN SPORTS 2 FHD FR
+http://localhost/ch/4092_
+#EXTINF:-1 tvg-id="4093" tvg-name="beIN SPORTS 1 FHD FR" tvg-logo="http://tugapt.com/picons/beinsports1hdfr.png" group-title="FR| France",beIN SPORTS 1 FHD FR
+http://localhost/ch/4093_
+#EXTINF:-1 tvg-id="4094" tvg-name="CANAL+ Sport FHD FR" tvg-logo="http://tugapt.com/picons/canalplussporthdfr.png" group-title="FR| France",CANAL+ Sport FHD FR
+http://localhost/ch/4094_
+#EXTINF:-1 tvg-id="4095" tvg-name="Cartoon Network FHD FR" tvg-logo="http://tugapt.com/picons/cartoonnetworkhdfr.png" group-title="FR| France",Cartoon Network FHD FR
+http://localhost/ch/4095_
+#EXTINF:-1 tvg-id="4097" tvg-name="Disney Junior FHD FR" tvg-logo="http://tugapt.com/picons/disneyjuniorhdfr.png" group-title="FR| France",Disney Junior FHD FR
+http://localhost/ch/4097_
+#EXTINF:-1 tvg-id="4098" tvg-name="Disney Cinema FHD FR" tvg-logo="http://tugapt.com/picons/disneycinemahdfr.png" group-title="FR| France",Disney Cinema FHD FR
+http://localhost/ch/4098_
+#EXTINF:-1 tvg-id="4099" tvg-name="serieclub FHD FR" tvg-logo="http://tugapt.com/picons/serieclubhdfr.png" group-title="FR| France",serieclub FHD FR
+http://localhost/ch/4099_
+#EXTINF:-1 tvg-id="4100" tvg-name="Ciné+ Club FHD FR" tvg-logo="http://tugapt.com/picons/cineplusclubhdfr.png" group-title="FR| France",Ciné+ Club FHD FR
+http://localhost/ch/4100_
+#EXTINF:-1 tvg-id="4101" tvg-name="Ciné+ Emotion FHD FR" tvg-logo="http://tugapt.com/picons/cineplusemotionhdfr.png" group-title="FR| France",Ciné+ Emotion FHD FR
+http://localhost/ch/4101_
+#EXTINF:-1 tvg-id="4102" tvg-name="Ciné+ Famiz HD FR" tvg-logo="http://tugapt.com/picons/cineplusfamizhdfr.png" group-title="FR| France",Ciné+ Famiz HD FR
+http://localhost/ch/4102_
+#EXTINF:-1 tvg-id="4103" tvg-name="Ciné+ Frisson FHD FR" tvg-logo="http://tugapt.com/picons/cineplusfrissonhdfr.png" group-title="FR| France",Ciné+ Frisson FHD FR
+http://localhost/ch/4103_
+#EXTINF:-1 tvg-id="4104" tvg-name="Ciné+ Premier FHD FR" tvg-logo="http://tugapt.com/picons/cinepluspremierhdfr.png" group-title="FR| France",Ciné+ Premier FHD FR
+http://localhost/ch/4104_
+#EXTINF:-1 tvg-id="4105" tvg-name="CANAL+ Series FHD FR" tvg-logo="http://tugapt.com/picons/canalplusserieshdfr.png" group-title="FR| France",CANAL+ Series FHD FR
+http://localhost/ch/4105_
+#EXTINF:-1 tvg-id="4106" tvg-name="CANAL+ Cinema FHD FR" tvg-logo="http://tugapt.com/picons/canalpluscinemahdfr.png" group-title="FR| France",CANAL+ Cinema FHD FR
+http://localhost/ch/4106_
+#EXTINF:-1 tvg-id="4107" tvg-name="CANAL+ Sport 360 FHD FR" tvg-logo="http://tugapt.com/picons/canalplusdecalehdfr.png" group-title="FR| France",CANAL+ Sport 360 FHD FR
+http://localhost/ch/4107_
+#EXTINF:-1 tvg-id="4108" tvg-name="CANAL+ Family FHD FR" tvg-logo="http://tugapt.com/picons/canalplusfamilyhdfr.png" group-title="FR| France",CANAL+ Family FHD FR
+http://localhost/ch/4108_
+#EXTINF:-1 tvg-id="4109" tvg-name="CANAL+ FHD FR" tvg-logo="http://tugapt.com/picons/canalplushdfr.png" group-title="FR| France",CANAL+ FHD FR
+http://localhost/ch/4109_
+#EXTINF:-1 tvg-id="4110" tvg-name="Animaux FHD FR" tvg-logo="http://tugapt.com/picons/animauxhdfr.png" group-title="FR| France",Animaux FHD FR
+http://localhost/ch/4110_
+#EXTINF:-1 tvg-id="4112" tvg-name="Chérie 25 FHD FR" tvg-logo="http://tugapt.com/picons/cherie25hdfr.png" group-title="FR| France",Chérie 25 FHD FR
+http://localhost/ch/4112_
+#EXTINF:-1 tvg-id="4113" tvg-name="TF1 Séries Films FHD FR" tvg-logo="http://tugapt.com/picons/tf1seriesfilms.png" group-title="FR| France",TF1 Séries Films FHD FR
+http://localhost/ch/4113_
+#EXTINF:-1 tvg-id="4114" tvg-name="téva HD FR" tvg-logo="http://tugapt.com/picons/tevahdfr.png" group-title="FR| France",téva HD FR
+http://localhost/ch/4114_
+#EXTINF:-1 tvg-id="4115" tvg-name="Syfy HD FR" tvg-logo="http://tugapt.com/picons/syfyhdfr.png" group-title="FR| France",Syfy HD FR
+http://localhost/ch/4115_
+#EXTINF:-1 tvg-id="4116" tvg-name="13eme Rue FHD FR" tvg-logo="http://tugapt.com/picons/13emeruehdfr.png" group-title="FR| France",13eme Rue FHD FR
+http://localhost/ch/4116_
+#EXTINF:-1 tvg-id="4117" tvg-name="W9 FHD FR" tvg-logo="http://tugapt.com/picons/w9hdfr.png" group-title="FR| France",W9 FHD FR
+http://localhost/ch/4117_
+#EXTINF:-1 tvg-id="4118" tvg-name="6ter FHD FR" tvg-logo="http://tugapt.com/picons/6terhdfr.png" group-title="FR| France",6ter FHD FR
+http://localhost/ch/4118_
+#EXTINF:-1 tvg-id="4119" tvg-name="Trek HD FR" tvg-logo="http://tugapt.com/picons/trekhdfr.png" group-title="FR| France",Trek HD FR
+http://localhost/ch/4119_
+#EXTINF:-1 tvg-id="4120" tvg-name="RTL 9 FHD FR" tvg-logo="http://tugapt.com/picons/rtl9hdfr.png" group-title="FR| France",RTL 9 FHD FR
+http://localhost/ch/4120_
+#EXTINF:-1 tvg-id="4122" tvg-name="Canal Play 5 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR| France",Canal Play 5 HD FR
+http://localhost/ch/4122_
+#EXTINF:-1 tvg-id="4123" tvg-name="Canal Play 4 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR| France",Canal Play 4 HD FR
+http://localhost/ch/4123_
+#EXTINF:-1 tvg-id="4124" tvg-name="Canal Play 3 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR| France",Canal Play 3 HD FR
+http://localhost/ch/4124_
+#EXTINF:-1 tvg-id="4125" tvg-name="Canal Play 2 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR| France",Canal Play 2 HD FR
+http://localhost/ch/4125_
+#EXTINF:-1 tvg-id="4126" tvg-name="Canal Play 1 HD FR" tvg-logo="http://tugapt.com/picons/canalplay.png" group-title="FR| France",Canal Play 1 HD FR
+http://localhost/ch/4126_
+#EXTINF:-1 tvg-id="413" tvg-name="beIN SPORTS 3 FR" tvg-logo="http://tugapt.com/picons/beinsports3fr.png" group-title="FR| France",beIN SPORTS 3 FR
+http://localhost/ch/413_
+#EXTINF:-1 tvg-id="4133" tvg-name="Orange Cinema 4 HD FR" tvg-logo="http://tugapt.com/picons/orange.png" group-title="FR| France",Orange Cinema 4 HD FR
+http://localhost/ch/4133_
+#EXTINF:-1 tvg-id="4134" tvg-name="Orange Cinema 3 HD FR" tvg-logo="http://tugapt.com/picons/orange.png" group-title="FR| France",Orange Cinema 3 HD FR
+http://localhost/ch/4134_
+#EXTINF:-1 tvg-id="4135" tvg-name="Orange Cinema 2 HD FR" tvg-logo="http://tugapt.com/picons/orange.png" group-title="FR| France",Orange Cinema 2 HD FR
+http://localhost/ch/4135_
+#EXTINF:-1 tvg-id="4136" tvg-name="Cine  Club HD FR" tvg-logo="http://tugapt.com/picons/orange.png" group-title="FR| France",Cine  Club HD FR
+http://localhost/ch/4136_
+#EXTINF:-1 tvg-id="4137" tvg-name="A La Carte 5 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 5 FR
+http://localhost/ch/4137_
+#EXTINF:-1 tvg-id="4138" tvg-name="A La Carte 4 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 4 FR
+http://localhost/ch/4138_
+#EXTINF:-1 tvg-id="4139" tvg-name="A La Carte 3 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 3 FR
+http://localhost/ch/4139_
+#EXTINF:-1 tvg-id="414" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://tugapt.com/picons/beinsports3hdfr.png" group-title="FR| France",beIN SPORTS 3 HD FR
+http://localhost/ch/414_
+#EXTINF:-1 tvg-id="4140" tvg-name="A La Carte 2 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 2 FR
+http://localhost/ch/4140_
+#EXTINF:-1 tvg-id="4141" tvg-name="A La Carte 1 FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 1 FR
+http://localhost/ch/4141_
+#EXTINF:-1 tvg-id="415" tvg-name="beIN SPORTS 2 FR" tvg-logo="http://tugapt.com/picons/beinsports2fr.png" group-title="FR| France",beIN SPORTS 2 FR
+http://localhost/ch/415_
+#EXTINF:-1 tvg-id="416" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://tugapt.com/picons/beinsports2hdfr.png" group-title="FR| France",beIN SPORTS 2 HD FR
+http://localhost/ch/416_
+#EXTINF:-1 tvg-id="418" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="http://tugapt.com/picons/beinsports1hdfr.png" group-title="FR| France",beIN SPORTS 1 HD FR
+http://localhost/ch/418_
+#EXTINF:-1 tvg-id="419" tvg-name="France 24 FR" tvg-logo="http://tugapt.com/picons/france24fr.png" group-title="FR| France",France 24 FR
+http://localhost/ch/419_
+#EXTINF:-1 tvg-id="420" tvg-name="Euronews FR" tvg-logo="http://tugapt.com/picons/euronewsfr.png" group-title="FR| France",Euronews FR
+http://localhost/ch/420_
+#EXTINF:-1 tvg-id="421" tvg-name="BFM TV HD FR" tvg-logo="http://tugapt.com/picons/bfmtvfr.png" group-title="FR| France",BFM TV HD FR
+http://localhost/ch/421_
+#EXTINF:-1 tvg-id="422" tvg-name="C-News FR" tvg-logo="http://tugapt.com/picons/cnewshdfr.png" group-title="FR| France",C-News FR
+http://localhost/ch/422_
+#EXTINF:-1 tvg-id="423" tvg-name="RTS Deux HD FR" tvg-logo="http://tugapt.com/picons/rtsdeuxhdfr.png" group-title="FR| France",RTS Deux HD FR
+http://localhost/ch/423_
+#EXTINF:-1 tvg-id="424" tvg-name="RTS Un HD FR" tvg-logo="http://tugapt.com/picons/rtsunhdfr.png" group-title="FR| France",RTS Un HD FR
+http://localhost/ch/424_
+#EXTINF:-1 tvg-id="425" tvg-name="6ter FR" tvg-logo="http://tugapt.com/picons/6terfr.png" group-title="FR| France",6ter FR
+http://localhost/ch/425_
+#EXTINF:-1 tvg-id="426" tvg-name="6ter HD FR" tvg-logo="http://tugapt.com/picons/6terhdfr.png" group-title="FR| France",6ter HD FR
+http://localhost/ch/426_
+#EXTINF:-1 tvg-id="427" tvg-name="Gulli FHD FR" tvg-logo="http://tugapt.com/picons/gullifr.png" group-title="FR| France",Gulli FHD FR
+http://localhost/ch/427_
+#EXTINF:-1 tvg-id="428" tvg-name="C-8 HD FR" tvg-logo="http://tugapt.com/picons/c8hdfr.png" group-title="FR| France",C-8 HD FR
+http://localhost/ch/428_
+#EXTINF:-1 tvg-id="430" tvg-name="W9 HD FR" tvg-logo="http://tugapt.com/picons/w9hdfr.png" group-title="FR| France",W9 HD FR
+http://localhost/ch/430_
+#EXTINF:-1 tvg-id="431" tvg-name="M6 FR" tvg-logo="http://tugapt.com/picons/m6fr.png" group-title="FR| France",M6 FR
+http://localhost/ch/431_
+#EXTINF:-1 tvg-id="432" tvg-name="M6 HD FR" tvg-logo="http://tugapt.com/picons/m6fr.png" group-title="FR| France",M6 HD FR
+http://localhost/ch/432_
+#EXTINF:-1 tvg-id="433" tvg-name="France Ô FR" tvg-logo="http://tugapt.com/picons/franceo.png" group-title="FR| France",France Ô FR
+http://localhost/ch/433_
+#EXTINF:-1 tvg-id="434" tvg-name="France 5 FR" tvg-logo="http://tugapt.com/picons/france5.png" group-title="FR| France",France 5 FR
+http://localhost/ch/434_
+#EXTINF:-1 tvg-id="435" tvg-name="France 4 HD FR" tvg-logo="http://tugapt.com/picons/france4hd.png" group-title="FR| France",France 4 HD FR
+http://localhost/ch/435_
+#EXTINF:-1 tvg-id="436" tvg-name="France 3 FR" tvg-logo="http://tugapt.com/picons/france3.png" group-title="FR| France",France 3 FR
+http://localhost/ch/436_
+#EXTINF:-1 tvg-id="43691" tvg-name="France 24 FHD FR" tvg-logo="http://tugapt.com/picons/france24.png" group-title="FR| France",France 24 FHD FR
+http://localhost/ch/43691_
+#EXTINF:-1 tvg-id="437" tvg-name="France 3 HD FR" tvg-logo="http://tugapt.com/picons/france3hd.png" group-title="FR| France",France 3 HD FR
+http://localhost/ch/437_
+#EXTINF:-1 tvg-id="438" tvg-name="France 2 FR" tvg-logo="http://tugapt.com/picons/france2.png" group-title="FR| France",France 2 FR
+http://localhost/ch/438_
+#EXTINF:-1 tvg-id="439" tvg-name="France 2 HD FR" tvg-logo="http://tugapt.com/picons/france2hd.png" group-title="FR| France",France 2 HD FR
+http://localhost/ch/439_
+#EXTINF:-1 tvg-id="440" tvg-name="TF1 FR" tvg-logo="http://tugapt.com/picons/tf1fr.png" group-title="FR| France",TF1 FR
+http://localhost/ch/440_
+#EXTINF:-1 tvg-id="4402" tvg-name="Movistar Golf FHD ES" tvg-logo="http://tugapt.com/picons/movistargolf.png" group-title="ES| Spain",Movistar Golf FHD ES
+http://localhost/ch/4402_
+#EXTINF:-1 tvg-id="4403" tvg-name="beIN LA Liga FHD ES" tvg-logo="https://static.epg.best/es/beINLaLigaMAX1.es.png" group-title="ES| Spain",beIN LA Liga FHD ES
+http://localhost/ch/4403_
+#EXTINF:-1 tvg-id="4407" tvg-name="Movistar Drama Cine FHD ES" tvg-logo="http://tugapt.com/picons/movistardcine.png" group-title="ES| Spain",Movistar Drama Cine FHD ES
+http://localhost/ch/4407_
+#EXTINF:-1 tvg-id="4408" tvg-name="Movistar Estrenos FHD ES" tvg-logo="http://tugapt.com/picons/movistarestrenos.png" group-title="ES| Spain",Movistar Estrenos FHD ES
+http://localhost/ch/4408_
+#EXTINF:-1 tvg-id="4409" tvg-name="Movistar Acción FHD ES" tvg-logo="http://tugapt.com/picons/movistaraccion.png" group-title="ES| Spain",Movistar Acción FHD ES
+http://localhost/ch/4409_
+#EXTINF:-1 tvg-id="441" tvg-name="TF1 HD FR" tvg-logo="http://tugapt.com/picons/tf1hdfr.png" group-title="FR| France",TF1 HD FR
+http://localhost/ch/441_
+#EXTINF:-1 tvg-id="4410" tvg-name="Movistar Series FHD ES" tvg-logo="http://tugapt.com/picons/movistarseries.png" group-title="ES| Spain",Movistar Series FHD ES
+http://localhost/ch/4410_
+#EXTINF:-1 tvg-id="4412" tvg-name="Cosmo FHD ES" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="ES| Spain",Cosmo FHD ES
+http://localhost/ch/4412_
+#EXTINF:-1 tvg-id="4413" tvg-name="AXN White FHD ES" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="ES| Spain",AXN White FHD ES
+http://localhost/ch/4413_
+#EXTINF:-1 tvg-id="4414" tvg-name="AXN FHD ES" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="ES| Spain",AXN FHD ES
+http://localhost/ch/4414_
+#EXTINF:-1 tvg-id="4415" tvg-name="Fox FHD ES" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="ES| Spain",Fox FHD ES
+http://localhost/ch/4415_
+#EXTINF:-1 tvg-id="4416" tvg-name="Calle 13 FHD ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES| Spain",Calle 13 FHD ES
+http://localhost/ch/4416_
+#EXTINF:-1 tvg-id="4417" tvg-name="Caza Y Pesca FHD ES" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="ES| Spain",Caza Y Pesca FHD ES
+http://localhost/ch/4417_
+#EXTINF:-1 tvg-id="4418" tvg-name="Nat Geo Wild FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="ES| Spain",Nat Geo Wild FHD ES
+http://localhost/ch/4418_
+#EXTINF:-1 tvg-id="4419" tvg-name="Nat Geo FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png" group-title="ES| Spain",Nat Geo FHD ES
+http://localhost/ch/4419_
+#EXTINF:-1 tvg-id="4420" tvg-name="SyFy FHD ES" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="ES| Spain",SyFy FHD ES
+http://localhost/ch/4420_
+#EXTINF:-1 tvg-id="4422" tvg-name="Disney Channel FHD ES" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="ES| Spain",Disney Channel FHD ES
+http://localhost/ch/4422_
+#EXTINF:-1 tvg-id="44226" tvg-name="Divinity ES" tvg-logo="http://tugapt.com/picons/divinity.png" group-title="ES| Spain",Divinity ES
+http://localhost/ch/44226_
+#EXTINF:-1 tvg-id="4424" tvg-name="LA Sexta FHD ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="ES| Spain",LA Sexta FHD ES
+http://localhost/ch/4424_
+#EXTINF:-1 tvg-id="4425" tvg-name="Telecinco FHD ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="ES| Spain",Telecinco FHD ES
+http://localhost/ch/4425_
+#EXTINF:-1 tvg-id="4426" tvg-name="Cuatro FHD ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="ES| Spain",Cuatro FHD ES
+http://localhost/ch/4426_
+#EXTINF:-1 tvg-id="4427" tvg-name="Antena 3 FHD ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES| Spain",Antena 3 FHD ES
+http://localhost/ch/4427_
+#EXTINF:-1 tvg-id="4428" tvg-name="LA 1 FHD ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="ES| Spain",LA 1 FHD ES
+http://localhost/ch/4428_
+#EXTINF:-1 tvg-id="44471" tvg-name="Somos FHD ES" tvg-logo="http://tugapt.com/picons/somos.png" group-title="ES| Spain",Somos FHD ES
+http://localhost/ch/44471_
+#EXTINF:-1 tvg-id="44472" tvg-name="Somos ES" tvg-logo="http://tugapt.com/picons/somos.png" group-title="ES| Spain",Somos ES
+http://localhost/ch/44472_
+#EXTINF:-1 tvg-id="6040" tvg-name="DKiss TV ES" tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="ES| Spain",DKiss TV ES
+http://localhost/ch/6040_
+#EXTINF:-1 tvg-id="6042" tvg-name="Classica ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/stingray-classica-es.png" group-title="ES| Spain",Classica ES
+http://localhost/ch/6042_
+#EXTINF:-1 tvg-id="6043" tvg-name="Mezzo Live FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/mezzo-live-hd-es.png" group-title="ES| Spain",Mezzo Live FHD ES
+http://localhost/ch/6043_
+#EXTINF:-1 tvg-id="6044" tvg-name="MTV 00s ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-00s-uk.png" group-title="ES| Spain",MTV 00s ES
+http://localhost/ch/6044_
+#EXTINF:-1 tvg-id="6045" tvg-name="MTV Rocks ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-rocks-uk.png" group-title="ES| Spain",MTV Rocks ES
+http://localhost/ch/6045_
+#EXTINF:-1 tvg-id="6046" tvg-name="MTV ES" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="ES| Spain",MTV ES
+http://localhost/ch/6046_
+#EXTINF:-1 tvg-id="6048" tvg-name="Nickelodeon FHD ES" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="ES| Spain",Nickelodeon FHD ES
+http://localhost/ch/6048_
+#EXTINF:-1 tvg-id="6050" tvg-name="Disney Junior ES" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="ES| Spain",Disney Junior ES
+http://localhost/ch/6050_
+#EXTINF:-1 tvg-id="6051" tvg-name="Baby TV ES" tvg-logo="https://static.epg.best/es/BabyTV.es.png" group-title="ES| Spain",Baby TV ES
+http://localhost/ch/6051_
+#EXTINF:-1 tvg-id="6055" tvg-name="Historia FHD ES" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="ES| Spain",Historia FHD ES
+http://localhost/ch/6055_
+#EXTINF:-1 tvg-id="6056" tvg-name="Iberalia TV ES" tvg-logo="https://static.epg.best/es/IberaliaTV.es.png" group-title="ES| Spain",Iberalia TV ES
+http://localhost/ch/6056_
+#EXTINF:-1 tvg-id="6057" tvg-name="Discovery Channel FHD ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ES| Spain",Discovery Channel FHD ES
+http://localhost/ch/6057_
+#EXTINF:-1 tvg-id="6058" tvg-name="Crimen e Investigacion ES" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="ES| Spain",Crimen e Investigacion ES
+http://localhost/ch/6058_
+#EXTINF:-1 tvg-id="6063" tvg-name="Olympic Channel HD ES" tvg-logo="https://static.epg.best/es/OlympicChannelEs.es.png" group-title="ES| Spain",Olympic Channel HD ES
+http://localhost/ch/6063_
+#EXTINF:-1 tvg-id="6064" tvg-name="Eurosport 2 HD ES" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="ES| Spain",Eurosport 2 HD ES
+http://localhost/ch/6064_
+#EXTINF:-1 tvg-id="6065" tvg-name="Eurosport 1 FHD ES" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="ES| Spain",Eurosport 1 FHD ES
+http://localhost/ch/6065_
+#EXTINF:-1 tvg-id="6066" tvg-name="Gol TV HD ES" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="ES| Spain",Gol TV HD ES
+http://localhost/ch/6066_
+#EXTINF:-1 tvg-id="6067" tvg-name="Toros TV FHD ES" tvg-logo="https://static.epg.best/es/Toros.es.png" group-title="ES| Spain",Toros TV FHD ES
+http://localhost/ch/6067_
+#EXTINF:-1 tvg-id="6069" tvg-name="LaLigaTV FHD ES" tvg-logo="https://static.epg.best/es/LaLigaTV.es.png" group-title="ES| Spain",LaLigaTV FHD ES
+http://localhost/ch/6069_
+#EXTINF:-1 tvg-id="6071" tvg-name="Movistar Deportes 1 FHD ES" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="ES| Spain",Movistar Deportes 1 FHD ES
+http://localhost/ch/6071_
+#EXTINF:-1 tvg-id="6072" tvg-name="Sundance TV ES" tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="ES| Spain",Sundance TV ES
+http://localhost/ch/6072_
+#EXTINF:-1 tvg-id="6073" tvg-name="Comedy Central FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="ES| Spain",Comedy Central FHD ES
+http://localhost/ch/6073_
+#EXTINF:-1 tvg-id="6074" tvg-name="TNT FHD ES" tvg-logo="http://tugapt.com/picons/tntse.png" group-title="ES| Spain",TNT FHD ES
+http://localhost/ch/6074_
+#EXTINF:-1 tvg-id="6076" tvg-name="XTRM ES" tvg-logo="https://static.epg.best/es/Xtrm.es.png" group-title="ES| Spain",XTRM ES
+http://localhost/ch/6076_
+#EXTINF:-1 tvg-id="6080" tvg-name="Hollywood HD ES" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="ES| Spain",Hollywood HD ES
+http://localhost/ch/6080_
+#EXTINF:-1 tvg-id="6081" tvg-name="TCM FHD ES" tvg-logo="" group-title="ES| Spain",TCM FHD ES
+http://localhost/ch/6081_
+#EXTINF:-1 tvg-id="6082" tvg-name="AMC FHD ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ES| Spain",AMC FHD ES
+http://localhost/ch/6082_
+#EXTINF:-1 tvg-id="6083" tvg-name="Movistar Comedia FHD ES" tvg-logo="http://tugapt.com/picons/movistarcomedia.png" group-title="ES| Spain",Movistar Comedia FHD ES
+http://localhost/ch/6083_
+#EXTINF:-1 tvg-id="6091" tvg-name="Aragon TV ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/aragon-tv-es.png" group-title="ES| Spain",Aragon TV ES
+http://localhost/ch/6091_
+#EXTINF:-1 tvg-id="6092" tvg-name="TVE 24h ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ES| Spain",TVE 24h ES
+http://localhost/ch/6092_
+#EXTINF:-1 tvg-id="6093" tvg-name="13 TV ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES| Spain",13 TV ES
+http://localhost/ch/6093_
+#EXTINF:-1 tvg-id="6094" tvg-name="8TV Madrid ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/8tv-es.png" group-title="ES| Spain",8TV Madrid ES
+http://localhost/ch/6094_
+#EXTINF:-1 tvg-id="6097" tvg-name="a3series HD ES" tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="ES| Spain",a3series HD ES
+http://localhost/ch/6097_
+#EXTINF:-1 tvg-id="6488" tvg-name="TF1 FHD FR" tvg-logo="http://tugapt.com/picons/tf1hd.png" group-title="FR| France",TF1 FHD FR
+http://localhost/ch/6488_
+#EXTINF:-1 tvg-id="6489" tvg-name="M6 FHD FR" tvg-logo="http://tugapt.com/picons/m6hd.png" group-title="FR| France",M6 FHD FR
+http://localhost/ch/6489_
+#EXTINF:-1 tvg-id="6515" tvg-name="Disney Channel FHD FR" tvg-logo="http://tugapt.com/picons/disneychannelhd.png" group-title="FR| France",Disney Channel FHD FR
+http://localhost/ch/6515_
+#EXTINF:-1 tvg-id="6516" tvg-name="Piwi+ FHD FR" tvg-logo="http://tugapt.com/picons/piwiplus.png" group-title="FR| France",Piwi+ FHD FR
+http://localhost/ch/6516_
+#EXTINF:-1 tvg-id="6517" tvg-name="Boing FHD FR" tvg-logo="http://tugapt.com/picons/boingfr.png" group-title="FR| France",Boing FHD FR
+http://localhost/ch/6517_
+#EXTINF:-1 tvg-id="6518" tvg-name="C-News FHD FR" tvg-logo="http://tugapt.com/picons/cnewshd.png" group-title="FR| France",C-News FHD FR
+http://localhost/ch/6518_
+#EXTINF:-1 tvg-id="6519" tvg-name="Trek FHD FR" tvg-logo="http://tugapt.com/picons/trekhd.png" group-title="FR| France",Trek FHD FR
+http://localhost/ch/6519_
+#EXTINF:-1 tvg-id="6520" tvg-name="Nat Geo Wild FHD FR" tvg-logo="http://tugapt.com/picons/natgeowildhd.png" group-title="FR| France",Nat Geo Wild FHD FR
+http://localhost/ch/6520_
+#EXTINF:-1 tvg-id="6521" tvg-name="National Geographic FHD FR" tvg-logo="http://tugapt.com/picons/nationalgeographichd.png" group-title="FR| France",National Geographic FHD FR
+http://localhost/ch/6521_
+#EXTINF:-1 tvg-id="6522" tvg-name="Planète+ Crime+Investigation FHD FR" tvg-logo="http://tugapt.com/picons/planetepluscihd.png" group-title="FR| France",Planète+ Crime+Investigation FHD FR
+http://localhost/ch/6522_
+#EXTINF:-1 tvg-id="6523" tvg-name="Planète+ FHD FR" tvg-logo="http://tugapt.com/picons/planeteplushd.png" group-title="FR| France",Planète+ FHD FR
+http://localhost/ch/6523_
+#EXTINF:-1 tvg-id="6524" tvg-name="Histoire FHD FR" tvg-logo="http://tugapt.com/picons/histoire.png" group-title="FR| France",Histoire FHD FR
+http://localhost/ch/6524_
+#EXTINF:-1 tvg-id="6525" tvg-name="Discovery Science FHD FR" tvg-logo="http://tugapt.com/picons/discoverysciencehd.png" group-title="FR| France",Discovery Science FHD FR
+http://localhost/ch/6525_
+#EXTINF:-1 tvg-id="6526" tvg-name="Discovery Channel FHD FR" tvg-logo="http://tugapt.com/picons/discoverychannelhd.png" group-title="FR| France",Discovery Channel FHD FR
+http://localhost/ch/6526_
+#EXTINF:-1 tvg-id="6528" tvg-name="Ushuaïa TV FHD FR" tvg-logo="http://tugapt.com/picons/ushuaiatvhd.png" group-title="FR| France",Ushuaïa TV FHD FR
+http://localhost/ch/6528_
+#EXTINF:-1 tvg-id="6529" tvg-name="Action FHD FR" tvg-logo="http://tugapt.com/picons/action.png" group-title="FR| France",Action FHD FR
+http://localhost/ch/6529_
+#EXTINF:-1 tvg-id="6530" tvg-name="Arte FHD FR" tvg-logo="http://tugapt.com/picons/artehd.png" group-title="FR| France",Arte FHD FR
+http://localhost/ch/6530_
+#EXTINF:-1 tvg-id="6531" tvg-name="OCS City FHD FR" tvg-logo="http://tugapt.com/picons/ocscityhd.png" group-title="FR| France",OCS City FHD FR
+http://localhost/ch/6531_
+#EXTINF:-1 tvg-id="6532" tvg-name="OCS Max HD FR" tvg-logo="http://tugapt.com/picons/ocsmaxhd.png" group-title="FR| France",OCS Max HD FR
+http://localhost/ch/6532_
+#EXTINF:-1 tvg-id="6533" tvg-name="OCS Geants FHD FR" tvg-logo="http://tugapt.com/picons/ocsgeantshd.png" group-title="FR| France",OCS Geants FHD FR
+http://localhost/ch/6533_
+#EXTINF:-1 tvg-id="6534" tvg-name="Cine+ Classic FHD FR" tvg-logo="http://tugapt.com/picons/cineplusclassichd.png" group-title="FR| France",Cine+ Classic FHD FR
+http://localhost/ch/6534_
+#EXTINF:-1 tvg-id="6535" tvg-name="France 2 FHD FR" tvg-logo="http://tugapt.com/picons/france2hd.png" group-title="FR| France",France 2 FHD FR
+http://localhost/ch/6535_
+#EXTINF:-1 tvg-id="6536" tvg-name="InfoSport+ FHD FR" tvg-logo="http://tugapt.com/picons/infosportplus.png" group-title="FR| France",InfoSport+ FHD FR
+http://localhost/ch/6536_
+#EXTINF:-1 tvg-id="6537" tvg-name="Eurosport 2 FHD FR" tvg-logo="http://tugapt.com/picons/eurosport2hd.png" group-title="FR| France",Eurosport 2 FHD FR
+http://localhost/ch/6537_
+#EXTINF:-1 tvg-id="6538" tvg-name="Eurosport 1 FHD FR" tvg-logo="http://tugapt.com/picons/eurosport1hd.png" group-title="FR| France",Eurosport 1 FHD FR
+http://localhost/ch/6538_
+#EXTINF:-1 tvg-id="7091" tvg-name="Gracia TV ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_canal_TVGracia.png" group-title="ES| Spain",Gracia TV ES
+http://localhost/ch/7091_
+#EXTINF:-1 tvg-id="7427" tvg-name="TVE Internacional ES" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png" group-title="ES| Spain",TVE Internacional ES
+http://localhost/ch/7427_
+#EXTINF:-1 tvg-id="7428" tvg-name="Movistar LaLiga ES" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="ES| Spain",Movistar LaLiga ES
+http://localhost/ch/7428_
+#EXTINF:-1 tvg-id="7536" tvg-name="beIN SPORTS MAX 8 FR" tvg-logo="http://tugapt.com/picons/beinsportsmax8.png" group-title="FR| France",beIN SPORTS MAX 8 FR
+http://localhost/ch/7536_
+#EXTINF:-1 tvg-id="7537" tvg-name="beIN SPORTS MAX 8 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax8hd.png" group-title="FR| France",beIN SPORTS MAX 8 HD FR
+http://localhost/ch/7537_
+#EXTINF:-1 tvg-id="7538" tvg-name="beIN SPORTS 1 SD+ FR" tvg-logo="http://tugapt.com/picons/beinsports1fr.png" group-title="FR| France",beIN SPORTS 1 SD+ FR
+http://localhost/ch/7538_
+#EXTINF:-1 tvg-id="75417" tvg-name="tdp FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-hd-es.png" group-title="ES| Spain",tdp FHD ES
+http://localhost/ch/75417_
+#EXTINF:-1 tvg-id="77675" tvg-name="MULTISPORTS 1 FR" tvg-logo="" group-title="FR| France",MULTISPORTS 1 FR
+http://localhost/ch/77675_
+#EXTINF:-1 tvg-id="77676" tvg-name="MULTISPORTS 2 FR" tvg-logo="" group-title="FR| France",MULTISPORTS 2 FR
+http://localhost/ch/77676_
+#EXTINF:-1 tvg-id="77677" tvg-name="MULTISPORTS 3 FR" tvg-logo="" group-title="FR| France",MULTISPORTS 3 FR
+http://localhost/ch/77677_
+#EXTINF:-1 tvg-id="77678" tvg-name="MULTISPORTS 4 FR" tvg-logo="" group-title="FR| France",MULTISPORTS 4 FR
+http://localhost/ch/77678_
+#EXTINF:-1 tvg-id="77679" tvg-name="MULTISPORTS 5 FR" tvg-logo="" group-title="FR| France",MULTISPORTS 5 FR
+http://localhost/ch/77679_
+#EXTINF:-1 tvg-id="77680" tvg-name="MULTISPORTS 6 FR" tvg-logo="" group-title="FR| France",MULTISPORTS 6 FR
+http://localhost/ch/77680_
+#EXTINF:-1 tvg-id="78592" tvg-name="LCI FHD FR" tvg-logo="" group-title="FR| France",LCI FHD FR
+http://localhost/ch/78592_
+#EXTINF:-1 tvg-id="78593" tvg-name="LCI HD FR" tvg-logo="" group-title="FR| France",LCI HD FR
+http://localhost/ch/78593_
+#EXTINF:-1 tvg-id="79725" tvg-name="MULTIDEPORTE ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-multideporte-es.png" group-title="ES| Spain",MULTIDEPORTE ES
+http://localhost/ch/79725_
+#EXTINF:-1 tvg-id="79726" tvg-name="Movistar Disney HD ES" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ES| Spain",Movistar Disney HD ES
+http://localhost/ch/79726_
+#EXTINF:-1 tvg-id="79727" tvg-name="Movistar Disney ES" tvg-logo="https://static.epg.best/es/MovistarDisney.es.png" group-title="ES| Spain",Movistar Disney ES
+http://localhost/ch/79727_
+#EXTINF:-1 tvg-id="79730" tvg-name="MOVISTAR SERIESMANIA SD ES" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="ES| Spain",MOVISTAR SERIESMANIA SD ES
+http://localhost/ch/79730_
+#EXTINF:-1 tvg-id="79731" tvg-name="MOVISTAR SERIESMANIA FHD ES" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="ES| Spain",MOVISTAR SERIESMANIA FHD ES
+http://localhost/ch/79731_
+#EXTINF:-1 tvg-id="79778" tvg-name="MOVISTAR VAMOS SD ES" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="ES| Spain",MOVISTAR VAMOS SD ES
+http://localhost/ch/79778_
+#EXTINF:-1 tvg-id="79779" tvg-name="MOVISTAR VAMOS FHD ES" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="ES| Spain",MOVISTAR VAMOS FHD ES
+http://localhost/ch/79779_
+#EXTINF:-1 tvg-id="79780" tvg-name="BE MAD ES" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="ES| Spain",BE MAD ES
+http://localhost/ch/79780_
+#EXTINF:-1 tvg-id="79781" tvg-name="BE MAD TV HD ES" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="ES| Spain",BE MAD TV HD ES
+http://localhost/ch/79781_
+#EXTINF:-1 tvg-id="79782" tvg-name="CUBAVISION ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/640px-CUBAVISION_2017.png" group-title="ES| Spain",CUBAVISION ES
+http://localhost/ch/79782_
+#EXTINF:-1 tvg-id="79783" tvg-name="CARACOL ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Caracoltv2017bluefondit.png" group-title="ES| Spain",CARACOL ES
+http://localhost/ch/79783_
+#EXTINF:-1 tvg-id="79784" tvg-name="ECUAVISA FHD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ES| Spain",ECUAVISA FHD ES
+http://localhost/ch/79784_
+#EXTINF:-1 tvg-id="79785" tvg-name="ETC TV ECUADOR ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="ES| Spain",ETC TV ECUADOR ES
+http://localhost/ch/79785_
+#EXTINF:-1 tvg-id="79786" tvg-name="EVISION ES" tvg-logo="https://mva.org/wp-content/uploads/2018/11/eVision-Logo-Blue-Letters-without-Trademark-Symbol-R.png" group-title="ES| Spain",EVISION ES
+http://localhost/ch/79786_
+#EXTINF:-1 tvg-id="79787" tvg-name="RCN ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/873px-Canal_RCN_logo.svg.png" group-title="ES| Spain",RCN ES
+http://localhost/ch/79787_
+#EXTINF:-1 tvg-id="79788" tvg-name="TYC SPORT HD ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ES| Spain",TYC SPORT HD ES
+http://localhost/ch/79788_
+#EXTINF:-1 tvg-id="79790" tvg-name="TELE MADRID FHD ES" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="ES| Spain",TELE MADRID FHD ES
+http://localhost/ch/79790_
+#EXTINF:-1 tvg-id="79791" tvg-name="AMC ES" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="ES| Spain",AMC ES
+http://localhost/ch/79791_
+#EXTINF:-1 tvg-id="79792" tvg-name="TV3 FHD ES" tvg-logo="https://static.epg.best/es/TV3Catalunya.es.png" group-title="ES| Spain",TV3 FHD ES
+http://localhost/ch/79792_
+#EXTINF:-1 tvg-id="79794" tvg-name="DMAX ES" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="ES| Spain",DMAX ES
+http://localhost/ch/79794_
+#EXTINF:-1 tvg-id="79795" tvg-name="tdp ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/tdp-es.png" group-title="ES| Spain",tdp ES
+http://localhost/ch/79795_
+#EXTINF:-1 tvg-id="79796" tvg-name="PARAMOUNT CHANNEL ES" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="ES| Spain",PARAMOUNT CHANNEL ES
+http://localhost/ch/79796_
+#EXTINF:-1 tvg-id="79797" tvg-name="DISCOVERY CHANNEL ES" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="ES| Spain",DISCOVERY CHANNEL ES
+http://localhost/ch/79797_
+#EXTINF:-1 tvg-id="79798" tvg-name="ODISEA ES" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="ES| Spain",ODISEA ES
+http://localhost/ch/79798_
+#EXTINF:-1 tvg-id="79799" tvg-name="RCN HD ES" tvg-logo="https://e7.pngegg.com/pngimages/622/954/png-clipart-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle.png" group-title="ES| Spain",RCN HD ES
+http://localhost/ch/79799_
+#EXTINF:-1 tvg-id="79800" tvg-name="EUROSPORT 1 ES" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="ES| Spain",EUROSPORT 1 ES
+http://localhost/ch/79800_
+#EXTINF:-1 tvg-id="79801" tvg-name="EUROSPORT 2 ES" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="ES| Spain",EUROSPORT 2 ES
+http://localhost/ch/79801_
+#EXTINF:-1 tvg-id="79802" tvg-name="Movistar Liga Campeones ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ES| Spain",Movistar Liga Campeones ES
+http://localhost/ch/79802_
+#EXTINF:-1 tvg-id="79803" tvg-name="COMEDY CENTRAL ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="ES| Spain",COMEDY CENTRAL ES
+http://localhost/ch/79803_
+#EXTINF:-1 tvg-id="79804" tvg-name="DECASA ES" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="ES| Spain",DECASA ES
+http://localhost/ch/79804_
+#EXTINF:-1 tvg-id="79805" tvg-name="CALLE 13 ES" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="ES| Spain",CALLE 13 ES
+http://localhost/ch/79805_
+#EXTINF:-1 tvg-id="79808" tvg-name="MOVISTAR+ VAMOS HD ES" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vamos-es.png" group-title="ES| Spain",MOVISTAR+ VAMOS HD ES
+http://localhost/ch/79808_
+#EXTINF:-1 tvg-id="79809" tvg-name="Movistar Deportes FHD ES" tvg-logo="https://static.epg.best/es/MovistarDeportes.es.png" group-title="ES| Spain",Movistar Deportes FHD ES
+http://localhost/ch/79809_
+#EXTINF:-1 tvg-id="79810" tvg-name="Movistar Liga Campeones FHD ES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="ES| Spain",Movistar Liga Campeones FHD ES
+http://localhost/ch/79810_
+#EXTINF:-1 tvg-id="79811" tvg-name="ANTENA 3 ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="ES| Spain",ANTENA 3 ES
+http://localhost/ch/79811_
+#EXTINF:-1 tvg-id="79812" tvg-name="BLAZE ES" tvg-logo="https://static.epg.best/es/Blaze.es.png" group-title="ES| Spain",BLAZE ES
+http://localhost/ch/79812_
+#EXTINF:-1 tvg-id="79813" tvg-name="TELENOVELAS ES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Telenovela_Channel_logo.jpg" group-title="ES| Spain",TELENOVELAS ES
+http://localhost/ch/79813_
+#EXTINF:-1 tvg-id="79814" tvg-name="DAZN ES" tvg-logo="https://static.epg.best/it/DAZN.it.png" group-title="ES| Spain",DAZN ES
+http://localhost/ch/79814_
+#EXTINF:-1 tvg-id="80104" tvg-name="DISCOVERY FAMILY FHD FR" tvg-logo="" group-title="FR| France",DISCOVERY FAMILY FHD FR
+http://localhost/ch/80104_
+#EXTINF:-1 tvg-id="80161" tvg-name="LIVE PEPPA PIG HD FR" tvg-logo="https://logodix.com/logo/574561.jpg" group-title="FR| France",LIVE PEPPA PIG HD FR
+http://localhost/ch/80161_
+#EXTINF:-1 tvg-id="80165" tvg-name="GAME ONE+1 FHD FR" tvg-logo="" group-title="FR| France",GAME ONE+1 FHD FR
+http://localhost/ch/80165_
+#EXTINF:-1 tvg-id="80166" tvg-name="MY COMEDY TV HD FR" tvg-logo="" group-title="FR| France",MY COMEDY TV HD FR
+http://localhost/ch/80166_
+#EXTINF:-1 tvg-id="80167" tvg-name="EXTRÊME SPORTS FHD FR" tvg-logo="" group-title="FR| France",EXTRÊME SPORTS FHD FR
+http://localhost/ch/80167_
+#EXTINF:-1 tvg-id="80168" tvg-name="CLIQUE TV HD FR" tvg-logo="" group-title="FR| France",CLIQUE TV HD FR
+http://localhost/ch/80168_
+#EXTINF:-1 tvg-id="80169" tvg-name="TRACE LATINA HD FR" tvg-logo="" group-title="FR| France",TRACE LATINA HD FR
+http://localhost/ch/80169_
+#EXTINF:-1 tvg-id="80170" tvg-name="TRACE GOSPEL FR" tvg-logo="" group-title="FR| France",TRACE GOSPEL FR
+http://localhost/ch/80170_
+#EXTINF:-1 tvg-id="80171" tvg-name="TRACE MZIKI HD FR" tvg-logo="" group-title="FR| France",TRACE MZIKI HD FR
+http://localhost/ch/80171_
+#EXTINF:-1 tvg-id="80172" tvg-name="TRACE NAIJA HD FR" tvg-logo="" group-title="FR| France",TRACE NAIJA HD FR
+http://localhost/ch/80172_
+#EXTINF:-1 tvg-id="80173" tvg-name="TRACE TOCA HD FR" tvg-logo="" group-title="FR| France",TRACE TOCA HD FR
+http://localhost/ch/80173_
+#EXTINF:-1 tvg-id="80175" tvg-name="VH1 FR" tvg-logo="" group-title="FR| France",VH1 FR
+http://localhost/ch/80175_
+#EXTINF:-1 tvg-id="80177" tvg-name="OLYMPIA HD FR" tvg-logo="" group-title="FR| France",OLYMPIA HD FR
+http://localhost/ch/80177_
+#EXTINF:-1 tvg-id="80178" tvg-name="DJAZZ TV FHD FR" tvg-logo="" group-title="FR| France",DJAZZ TV FHD FR
+http://localhost/ch/80178_
+#EXTINF:-1 tvg-id="80179" tvg-name="STINGRAY CLASSICA FHD FR" tvg-logo="" group-title="FR| France",STINGRAY CLASSICA FHD FR
+http://localhost/ch/80179_
+#EXTINF:-1 tvg-id="80180" tvg-name="M6 BOUTIQUE & CO HD" tvg-logo="" group-title="FR| France",M6 BOUTIQUE & CO HD
+http://localhost/ch/80180_
+#EXTINF:-1 tvg-id="80181" tvg-name="FRANCE 3 NOA FHD FR" tvg-logo="" group-title="FR| France",FRANCE 3 NOA FHD FR
+http://localhost/ch/80181_
+#EXTINF:-1 tvg-id="80182" tvg-name="LUCKY JACK TV FHD FR" tvg-logo="" group-title="FR| France",LUCKY JACK TV FHD FR
+http://localhost/ch/80182_
+#EXTINF:-1 tvg-id="80185" tvg-name="LA CHAINE METEO FHD FR" tvg-logo="" group-title="FR| France",LA CHAINE METEO FHD FR
+http://localhost/ch/80185_
+#EXTINF:-1 tvg-id="80186" tvg-name="BFM PARIS FHD FR" tvg-logo="" group-title="FR| France",BFM PARIS FHD FR
+http://localhost/ch/80186_
+#EXTINF:-1 tvg-id="80187" tvg-name="BFM LYON FHD FR" tvg-logo="" group-title="FR| France",BFM LYON FHD FR
+http://localhost/ch/80187_
+#EXTINF:-1 tvg-id="80188" tvg-name="CNEWS FHD FR" tvg-logo="" group-title="FR| France",CNEWS FHD FR
+http://localhost/ch/80188_
+#EXTINF:-1 tvg-id="80189" tvg-name="BFM GRAND LITTORAL FHD FR" tvg-logo="" group-title="FR| France",BFM GRAND LITTORAL FHD FR
+http://localhost/ch/80189_
+#EXTINF:-1 tvg-id="80191" tvg-name="C-STAR HITS FHD FR" tvg-logo="" group-title="FR| France",C-STAR HITS FHD FR
+http://localhost/ch/80191_
+#EXTINF:-1 tvg-id="8090" tvg-name="MySports 1 FHD FR [Multi-Language]" tvg-logo="http://tugapt.com/picons/mysports1hd.png" group-title="FR| France",MySports 1 FHD FR [Multi-Language]
+http://localhost/ch/8090_
+#EXTINF:-1 tvg-id="8091" tvg-name="MySports FHD FR [Multi-Language]" tvg-logo="http://tugapt.com/picons/mysportshd.png" group-title="FR| France",MySports FHD FR [Multi-Language]
+http://localhost/ch/8091_
+#EXTINF:-1 tvg-id="82744" tvg-name="ETB 1 ES" tvg-logo="https://static.epg.best/es/ETB1.es.png" group-title="ES| Spain",ETB 1 ES
+http://localhost/ch/82744_
+#EXTINF:-1 tvg-id="83212" tvg-name="TV5 MONDE INFO FHD FR" tvg-logo="" group-title="FR| France",TV5 MONDE INFO FHD FR
+http://localhost/ch/83212_
+#EXTINF:-1 tvg-id="83571" tvg-name="WARNER TV FHD FR" tvg-logo="" group-title="FR| France",WARNER TV FHD FR
+http://localhost/ch/83571_
+#EXTINF:-1 tvg-id="83572" tvg-name="WARNER TV HD FR" tvg-logo="" group-title="FR| France",WARNER TV HD FR
+http://localhost/ch/83572_
+#EXTINF:-1 tvg-id="83573" tvg-name="CGTN Français FR" tvg-logo="http://tugapt.com/picons/cgtnfr.png" group-title="FR| France",CGTN Français FR
+http://localhost/ch/83573_
+#EXTINF:-1 tvg-id="8784" tvg-name="Bet HD FR" tvg-logo="http://tugapt.com/picons/bet.png" group-title="FR| France",Bet HD FR
+http://localhost/ch/8784_
+#EXTINF:-1 tvg-id="8786" tvg-name="GOLF+ HD FR" tvg-logo="http://tugapt.com/picons/golfplushd.png" group-title="FR| France",GOLF+ HD FR
+http://localhost/ch/8786_
+#EXTINF:-1 tvg-id="8787" tvg-name="Golf Channel FHD FR" tvg-logo="http://tugapt.com/picons/golfchannel.png" group-title="FR| France",Golf Channel FHD FR
+http://localhost/ch/8787_
+#EXTINF:-1 tvg-id="8788" tvg-name="BFM Business HD FR" tvg-logo="http://tugapt.com/picons/bfmbusiness.png" group-title="FR| France",BFM Business HD FR
+http://localhost/ch/8788_
+#EXTINF:-1 tvg-id="8881" tvg-name="Nollywood TV FR" tvg-logo="http://tugapt.com/picons/nollywoodtv.png" group-title="FR| France",Nollywood TV FR
+http://localhost/ch/8881_
+#EXTINF:-1 tvg-id="8882" tvg-name="A+ FR" tvg-logo="http://tugapt.com/picons/aplus.png" group-title="FR| France",A+ FR
+http://localhost/ch/8882_
+#EXTINF:-1 tvg-id="8883" tvg-name="TV8 Mont+Blanc FHD FR" tvg-logo="http://tugapt.com/picons/tv8montblanc.png" group-title="FR| France",TV8 Mont+Blanc FHD FR
+http://localhost/ch/8883_
+#EXTINF:-1 tvg-id="8884" tvg-name="TV5 Monde FHD FR" tvg-logo="http://tugapt.com/picons/tv5monde.png" group-title="FR| France",TV5 Monde FHD FR
+http://localhost/ch/8884_
+#EXTINF:-1 tvg-id="8885" tvg-name="Luxe TV FHD FR" tvg-logo="http://tugapt.com/picons/luxetv.png" group-title="FR| France",Luxe TV FHD FR
+http://localhost/ch/8885_
+#EXTINF:-1 tvg-id="8887" tvg-name="One TV FHD FR" tvg-logo="http://tugapt.com/picons/onetv.png" group-title="FR| France",One TV FHD FR
+http://localhost/ch/8887_
+#EXTINF:-1 tvg-id="8888" tvg-name="Stingray Brava FHD FR" tvg-logo="http://tugapt.com/picons/stingraybrava.png" group-title="FR| France",Stingray Brava FHD FR
+http://localhost/ch/8888_
+#EXTINF:-1 tvg-id="8889" tvg-name="Mezzo Live FHD FR" tvg-logo="http://tugapt.com/picons/mezzolivehd.png" group-title="FR| France",Mezzo Live FHD FR
+http://localhost/ch/8889_
+#EXTINF:-1 tvg-id="8890" tvg-name="RFM TV FHD FR" tvg-logo="http://tugapt.com/picons/rfmtv.png" group-title="FR| France",RFM TV FHD FR
+http://localhost/ch/8890_
+#EXTINF:-1 tvg-id="8891" tvg-name="Trace Africa HD FR" tvg-logo="http://tugapt.com/picons/traceafrica.png" group-title="FR| France",Trace Africa HD FR
+http://localhost/ch/8891_
+#EXTINF:-1 tvg-id="8892" tvg-name="Trace CARRIBEAN FHD FR" tvg-logo="http://tugapt.com/picons/tracetropicalhd.png" group-title="FR| France",Trace CARRIBEAN FHD FR
+http://localhost/ch/8892_
+#EXTINF:-1 tvg-id="8893" tvg-name="Trace Urban FHD FR" tvg-logo="http://tugapt.com/picons/traceurbanhd.png" group-title="FR| France",Trace Urban FHD FR
+http://localhost/ch/8893_
+#EXTINF:-1 tvg-id="8894" tvg-name="MCM Top FHD FR" tvg-logo="http://tugapt.com/picons/mcmtop.png" group-title="FR| France",MCM Top FHD FR
+http://localhost/ch/8894_
+#EXTINF:-1 tvg-id="8895" tvg-name="MCM FHD FR" tvg-logo="http://tugapt.com/picons/mcm.png" group-title="FR| France",MCM FHD FR
+http://localhost/ch/8895_
+#EXTINF:-1 tvg-id="8896" tvg-name="MTV Hits FHD FR" tvg-logo="http://tugapt.com/picons/mtvhits.png" group-title="FR| France",MTV Hits FHD FR
+http://localhost/ch/8896_
+#EXTINF:-1 tvg-id="8897" tvg-name="MTV FHD FR" tvg-logo="http://tugapt.com/picons/mtvhd.png" group-title="FR| France",MTV FHD FR
+http://localhost/ch/8897_
+#EXTINF:-1 tvg-id="8899" tvg-name="Motorsport.TV HD FR" tvg-logo="http://tugapt.com/picons/motorsporttv.png" group-title="FR| France",Motorsport.TV HD FR
+http://localhost/ch/8899_
+#EXTINF:-1 tvg-id="8900" tvg-name="Trace Sport Stars FHD FR" tvg-logo="http://tugapt.com/picons/tracesportstars.png" group-title="FR| France",Trace Sport Stars FHD FR
+http://localhost/ch/8900_
+#EXTINF:-1 tvg-id="8905" tvg-name="beIN SPORTS MAX 10 FHD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax10hd.png" group-title="FR| France",beIN SPORTS MAX 10 FHD FR
+http://localhost/ch/8905_
+#EXTINF:-1 tvg-id="8906" tvg-name="beIN SPORTS MAX 9 FHD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax9hd.png" group-title="FR| France",beIN SPORTS MAX 9 FHD FR
+http://localhost/ch/8906_
+#EXTINF:-1 tvg-id="8907" tvg-name="beIN SPORTS MAX 8 FHD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax8hd.png" group-title="FR| France",beIN SPORTS MAX 8 FHD FR
+http://localhost/ch/8907_
+#EXTINF:-1 tvg-id="8909" tvg-name="Gong FR" tvg-logo="http://tugapt.com/picons/gong.png" group-title="FR| France",Gong FR
+http://localhost/ch/8909_
+#EXTINF:-1 tvg-id="8910" tvg-name="Toonami FHD FR" tvg-logo="http://tugapt.com/picons/toonami.png" group-title="FR| France",Toonami FHD FR
+http://localhost/ch/8910_
+#EXTINF:-1 tvg-id="8911" tvg-name="téléTOON+1 FHD FR" tvg-logo="http://tugapt.com/picons/teletoonplushd.png" group-title="FR| France",téléTOON+1 FHD FR
+http://localhost/ch/8911_
+#EXTINF:-1 tvg-id="8912" tvg-name="Nickelodeon 4 Teen FHD FR" tvg-logo="http://tugapt.com/picons/nickelodeon4teen.png" group-title="FR| France",Nickelodeon 4 Teen FHD FR
+http://localhost/ch/8912_
+#EXTINF:-1 tvg-id="8913" tvg-name="Nickelodeon Junior FHD FR" tvg-logo="http://tugapt.com/picons/nickelodeonjunior.png" group-title="FR| France",Nickelodeon Junior FHD FR
+http://localhost/ch/8913_
+#EXTINF:-1 tvg-id="8914" tvg-name="Nickelodeon +1 FHD FR" tvg-logo="http://tugapt.com/picons/nickelodeon.png" group-title="FR| France",Nickelodeon +1 FHD FR
+http://localhost/ch/8914_
+#EXTINF:-1 tvg-id="8916" tvg-name="My Cuisine FHD FR" tvg-logo="http://tugapt.com/picons/mycuisine.png" group-title="FR| France",My Cuisine FHD FR
+http://localhost/ch/8916_
+#EXTINF:-1 tvg-id="8918" tvg-name="Crime District FHD FR" tvg-logo="http://tugapt.com/picons/crimedistrict.png" group-title="FR| France",Crime District FHD FR
+http://localhost/ch/8918_
+#EXTINF:-1 tvg-id="8920" tvg-name="Viceland HD FR" tvg-logo="http://tugapt.com/picons/vice.png" group-title="FR| France",Viceland HD FR
+http://localhost/ch/8920_
+#EXTINF:-1 tvg-id="8922" tvg-name="Paramount Channel Décalé FHD FR" tvg-logo="http://tugapt.com/picons/paramountchanneldecale.png" group-title="FR| France",Paramount Channel Décalé FHD FR
+http://localhost/ch/8922_
+#EXTINF:-1 tvg-id="8924" tvg-name="La Chaîne Parlementaire FHD FR" tvg-logo="http://tugapt.com/picons/lcppublicsenat.png" group-title="FR| France",La Chaîne Parlementaire FHD FR
+http://localhost/ch/8924_
+#EXTINF:-1 tvg-id="8926" tvg-name="IDF1 HD FR" tvg-logo="http://tugapt.com/picons/idf1.png" group-title="FR| France",IDF1 HD FR
+http://localhost/ch/8926_
+#EXTINF:-1 tvg-id="8927" tvg-name="Mélody FR" tvg-logo="http://tugapt.com/picons/melody.png" group-title="FR| France",Mélody FR
+http://localhost/ch/8927_
+#EXTINF:-1 tvg-id="8929" tvg-name="beIN SPORTS MAX 7 FHD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax7hd.png" group-title="FR| France",beIN SPORTS MAX 7 FHD FR
+http://localhost/ch/8929_
+#EXTINF:-1 tvg-id="8930" tvg-name="beIN SPORTS MAX 6 FHD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax6hd.png" group-title="FR| France",beIN SPORTS MAX 6 FHD FR
+http://localhost/ch/8930_
+#EXTINF:-1 tvg-id="8931" tvg-name="beIN SPORTS MAX 5 FHD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax5hd.png" group-title="FR| France",beIN SPORTS MAX 5 FHD FR
+http://localhost/ch/8931_
+#EXTINF:-1 tvg-id="8932" tvg-name="beIN SPORTS MAX 4 FHD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax4hd.png" group-title="FR| France",beIN SPORTS MAX 4 FHD FR
+http://localhost/ch/8932_
+#EXTINF:-1 tvg-id="89977" tvg-name="MEZZO FR" tvg-logo="" group-title="FR| France",MEZZO FR
+http://localhost/ch/89977_
+#EXTINF:-1 tvg-id="89980" tvg-name="France 4 FR" tvg-logo="http://tugapt.com/picons/france4hd.png" group-title="FR| France",France 4 FR
+http://localhost/ch/89980_
+#EXTINF:-1 tvg-id="89981" tvg-name="France 4 FHD FR" tvg-logo="http://tugapt.com/picons/france4hd.png" group-title="FR| France",France 4 FHD FR
+http://localhost/ch/89981_
+#EXTINF:-1 tvg-id="89984" tvg-name="Nature Time FHD ES" tvg-logo="" group-title="ES| Spain",Nature Time FHD ES
+http://localhost/ch/89984_
+#EXTINF:-1 tvg-id="89987" tvg-name="TF1 +1 FR" tvg-logo="" group-title="FR| France",TF1 +1 FR
+http://localhost/ch/89987_
+#EXTINF:-1 tvg-id="89988" tvg-name="TMC +1 FHD FR" tvg-logo="" group-title="FR| France",TMC +1 FHD FR
+http://localhost/ch/89988_
+#EXTINF:-1 tvg-id="89989" tvg-name="Clubbing TV FR" tvg-logo="" group-title="FR| France",Clubbing TV FR
+http://localhost/ch/89989_
+#EXTINF:-1 tvg-id="89991" tvg-name="ES1 FHD FR" tvg-logo="" group-title="FR| France",ES1 FHD FR
+http://localhost/ch/89991_
+#EXTINF:-1 tvg-id="91068" tvg-name="Barca+ TV FHD ES" tvg-logo="https://static.epg.best/es/BarcaTV.es.png" group-title="ES| Spain",Barca+ TV FHD ES
+http://localhost/ch/91068_
+#EXTINF:-1 tvg-id="94368" tvg-name="SPORT EN FRANCE HD FR" tvg-logo="" group-title="FR| France",SPORT EN FRANCE HD FR
+http://localhost/ch/94368_
+#EXTINF:-1 tvg-id="94592" tvg-name="GOLF+ HEVC FR" tvg-logo="" group-title="FR| France HEVC",GOLF+ HEVC FR
+http://localhost/ch/94592_
+#EXTINF:-1 tvg-id="94593" tvg-name="BOING HEVC FR" tvg-logo="" group-title="FR| France HEVC",BOING HEVC FR
+http://localhost/ch/94593_
+#EXTINF:-1 tvg-id="94594" tvg-name="RMC SPORTS 4 FHD HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC SPORTS 4 FHD HEVC FR
+http://localhost/ch/94594_
+#EXTINF:-1 tvg-id="94595" tvg-name="RMC SPORTS 3 FHD HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC SPORTS 3 FHD HEVC FR
+http://localhost/ch/94595_
+#EXTINF:-1 tvg-id="94596" tvg-name="RMC SPORTS 2 FHD HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC SPORTS 2 FHD HEVC FR
+http://localhost/ch/94596_
+#EXTINF:-1 tvg-id="94597" tvg-name="RMC SPORTS 1 FHD HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC SPORTS 1 FHD HEVC FR
+http://localhost/ch/94597_
+#EXTINF:-1 tvg-id="94598" tvg-name="TV BREIZH HEVC FR" tvg-logo="" group-title="FR| France HEVC",TV BREIZH HEVC FR
+http://localhost/ch/94598_
+#EXTINF:-1 tvg-id="94599" tvg-name="Canal+ Foot HEVC FR" tvg-logo="" group-title="FR| France HEVC",Canal+ Foot HEVC FR
+http://localhost/ch/94599_
+#EXTINF:-1 tvg-id="94600" tvg-name="CHERIE 25 HEVC FR" tvg-logo="" group-title="FR| France HEVC",CHERIE 25 HEVC FR
+http://localhost/ch/94600_
+#EXTINF:-1 tvg-id="94601" tvg-name="BFM PARIS HEVC FR" tvg-logo="" group-title="FR| France HEVC",BFM PARIS HEVC FR
+http://localhost/ch/94601_
+#EXTINF:-1 tvg-id="94602" tvg-name="NICKELODEON HEVC FR" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="FR| France HEVC",NICKELODEON HEVC FR
+http://localhost/ch/94602_
+#EXTINF:-1 tvg-id="94603" tvg-name="NICKELODEON TEEN HEVC FR" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="FR| France HEVC",NICKELODEON TEEN HEVC FR
+http://localhost/ch/94603_
+#EXTINF:-1 tvg-id="94604" tvg-name="EUROSPORT 2 HEVC FR" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="FR| France HEVC",EUROSPORT 2 HEVC FR
+http://localhost/ch/94604_
+#EXTINF:-1 tvg-id="94605" tvg-name="EUROSPORT 1 HEVC FR" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="FR| France HEVC",EUROSPORT 1 HEVC FR
+http://localhost/ch/94605_
+#EXTINF:-1 tvg-id="94606" tvg-name="DISCOVERY INVES HEVC FR" tvg-logo="" group-title="FR| France HEVC",DISCOVERY INVES HEVC FR
+http://localhost/ch/94606_
+#EXTINF:-1 tvg-id="94607" tvg-name="M6 Music HEVC FR" tvg-logo="" group-title="FR| France HEVC",M6 Music HEVC FR
+http://localhost/ch/94607_
+#EXTINF:-1 tvg-id="94608" tvg-name="InfoSport+ HEVC FR" tvg-logo="" group-title="FR| France HEVC",InfoSport+ HEVC FR
+http://localhost/ch/94608_
+#EXTINF:-1 tvg-id="94609" tvg-name="TOUTE L'HISTOIRE HEVC FR" tvg-logo="" group-title="FR| France HEVC",TOUTE L'HISTOIRE HEVC FR
+http://localhost/ch/94609_
+#EXTINF:-1 tvg-id="94610" tvg-name="LCP HEVC FR" tvg-logo="" group-title="FR| France HEVC",LCP HEVC FR
+http://localhost/ch/94610_
+#EXTINF:-1 tvg-id="94611" tvg-name="PIWI+ HEVC FR" tvg-logo="" group-title="FR| France HEVC",PIWI+ HEVC FR
+http://localhost/ch/94611_
+#EXTINF:-1 tvg-id="94612" tvg-name="NICK JUNIOR HEVC FR" tvg-logo="" group-title="FR| France HEVC",NICK JUNIOR HEVC FR
+http://localhost/ch/94612_
+#EXTINF:-1 tvg-id="94613" tvg-name="SERIE CLUB HEVC FR" tvg-logo="" group-title="FR| France HEVC",SERIE CLUB HEVC FR
+http://localhost/ch/94613_
+#EXTINF:-1 tvg-id="94614" tvg-name="CANAL J HEVC FR" tvg-logo="" group-title="FR| France HEVC",CANAL J HEVC FR
+http://localhost/ch/94614_
+#EXTINF:-1 tvg-id="94615" tvg-name="DISNEY JUNIOR HEVC FR" tvg-logo="" group-title="FR| France HEVC",DISNEY JUNIOR HEVC FR
+http://localhost/ch/94615_
+#EXTINF:-1 tvg-id="94616" tvg-name="DISNEY CHANNEL HEVC FR" tvg-logo="" group-title="FR| France HEVC",DISNEY CHANNEL HEVC FR
+http://localhost/ch/94616_
+#EXTINF:-1 tvg-id="94617" tvg-name="BOOMERANG HEVC FR" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="FR| France HEVC",BOOMERANG HEVC FR
+http://localhost/ch/94617_
+#EXTINF:-1 tvg-id="94618" tvg-name="CARTOON Network HEVC FR" tvg-logo="http://tugapt.com/picons/cartoonnetworkse.png" group-title="FR| France HEVC",CARTOON Network HEVC FR
+http://localhost/ch/94618_
+#EXTINF:-1 tvg-id="94619" tvg-name="GULLI HEVC FR" tvg-logo="" group-title="FR| France HEVC",GULLI HEVC FR
+http://localhost/ch/94619_
+#EXTINF:-1 tvg-id="94620" tvg-name="RMC DECOUVERTE HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC DECOUVERTE HEVC FR
+http://localhost/ch/94620_
+#EXTINF:-1 tvg-id="94621" tvg-name="COMEDIE + HEVC FR" tvg-logo="" group-title="FR| France HEVC",COMEDIE + HEVC FR
+http://localhost/ch/94621_
+#EXTINF:-1 tvg-id="94622" tvg-name="RTL9 HEVC FR" tvg-logo="" group-title="FR| France HEVC",RTL9 HEVC FR
+http://localhost/ch/94622_
+#EXTINF:-1 tvg-id="94623" tvg-name="CHASSE & PECHE HEVC FR" tvg-logo="" group-title="FR| France HEVC",CHASSE & PECHE HEVC FR
+http://localhost/ch/94623_
+#EXTINF:-1 tvg-id="94624" tvg-name="USHUAIA HEVC FR" tvg-logo="" group-title="FR| France HEVC",USHUAIA HEVC FR
+http://localhost/ch/94624_
+#EXTINF:-1 tvg-id="94625" tvg-name="PLANETE+ CI HEVC FR" tvg-logo="" group-title="FR| France HEVC",PLANETE+ CI HEVC FR
+http://localhost/ch/94625_
+#EXTINF:-1 tvg-id="94626" tvg-name="PLANETE+ A&E HEVC FR" tvg-logo="" group-title="FR| France HEVC",PLANETE+ A&E HEVC FR
+http://localhost/ch/94626_
+#EXTINF:-1 tvg-id="94627" tvg-name="PLANETE+ HEVC FR" tvg-logo="" group-title="FR| France HEVC",PLANETE+ HEVC FR
+http://localhost/ch/94627_
+#EXTINF:-1 tvg-id="94628" tvg-name="SCIENCES&amp;VIE HEVC FR" tvg-logo="" group-title="FR| France HEVC",SCIENCES&amp;VIE HEVC FR
+http://localhost/ch/94628_
+#EXTINF:-1 tvg-id="94629" tvg-name="DISCOVERY SCIENCE HEVC FR" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="FR| France HEVC",DISCOVERY SCIENCE HEVC FR
+http://localhost/ch/94629_
+#EXTINF:-1 tvg-id="94630" tvg-name="Discovery Family HEVC FR" tvg-logo="" group-title="FR| France HEVC",Discovery Family HEVC FR
+http://localhost/ch/94630_
+#EXTINF:-1 tvg-id="94631" tvg-name="Discovery HEVC FR" tvg-logo="" group-title="FR| France HEVC",Discovery HEVC FR
+http://localhost/ch/94631_
+#EXTINF:-1 tvg-id="94632" tvg-name="MY CUISINE HEVC FR" tvg-logo="" group-title="FR| France HEVC",MY CUISINE HEVC FR
+http://localhost/ch/94632_
+#EXTINF:-1 tvg-id="94633" tvg-name="NAT GEO WILD HEVC FR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="FR| France HEVC",NAT GEO WILD HEVC FR
+http://localhost/ch/94633_
+#EXTINF:-1 tvg-id="94634" tvg-name="NATIONAL GEO CHANNEL" tvg-logo="" group-title="FR| France HEVC",NATIONAL GEO CHANNEL
+http://localhost/ch/94634_
+#EXTINF:-1 tvg-id="94635" tvg-name="ANIMAUX HEVC FR" tvg-logo="" group-title="FR| France HEVC",ANIMAUX HEVC FR
+http://localhost/ch/94635_
+#EXTINF:-1 tvg-id="94637" tvg-name="SYFY HEVC FR" tvg-logo="" group-title="FR| France HEVC",SYFY HEVC FR
+http://localhost/ch/94637_
+#EXTINF:-1 tvg-id="94638" tvg-name="TELETOON+ HEVC FR" tvg-logo="" group-title="FR| France HEVC",TELETOON+ HEVC FR
+http://localhost/ch/94638_
+#EXTINF:-1 tvg-id="94639" tvg-name="Game One HEVC FR" tvg-logo="" group-title="FR| France HEVC",Game One HEVC FR
+http://localhost/ch/94639_
+#EXTINF:-1 tvg-id="94640" tvg-name="TIJI HEVC FR" tvg-logo="" group-title="FR| France HEVC",TIJI HEVC FR
+http://localhost/ch/94640_
+#EXTINF:-1 tvg-id="94641" tvg-name="TEVA HEVC FR" tvg-logo="" group-title="FR| France HEVC",TEVA HEVC FR
+http://localhost/ch/94641_
+#EXTINF:-1 tvg-id="94642" tvg-name="ACTION HEVC FR" tvg-logo="" group-title="FR| France HEVC",ACTION HEVC FR
+http://localhost/ch/94642_
+#EXTINF:-1 tvg-id="94643" tvg-name="OCS GEANTS HEVC FR" tvg-logo="" group-title="FR| France HEVC",OCS GEANTS HEVC FR
+http://localhost/ch/94643_
+#EXTINF:-1 tvg-id="94644" tvg-name="OCS CITY HEVC FR" tvg-logo="" group-title="FR| France HEVC",OCS CITY HEVC FR
+http://localhost/ch/94644_
+#EXTINF:-1 tvg-id="94645" tvg-name="OCS MAX HEVC FR" tvg-logo="" group-title="FR| France HEVC",OCS MAX HEVC FR
+http://localhost/ch/94645_
+#EXTINF:-1 tvg-id="94646" tvg-name="OCS CHOC HEVC FR" tvg-logo="" group-title="FR| France HEVC",OCS CHOC HEVC FR
+http://localhost/ch/94646_
+#EXTINF:-1 tvg-id="94647" tvg-name="CINE+ CLASSIC HEVC FR" tvg-logo="" group-title="FR| France HEVC",CINE+ CLASSIC HEVC FR
+http://localhost/ch/94647_
+#EXTINF:-1 tvg-id="94648" tvg-name="CINE+ FAMIZ HEVC FR" tvg-logo="" group-title="FR| France HEVC",CINE+ FAMIZ HEVC FR
+http://localhost/ch/94648_
+#EXTINF:-1 tvg-id="94649" tvg-name="CINE+ PREMIER HEVC FR" tvg-logo="" group-title="FR| France HEVC",CINE+ PREMIER HEVC FR
+http://localhost/ch/94649_
+#EXTINF:-1 tvg-id="94650" tvg-name="CINE+ FRISSON HEVC FR" tvg-logo="" group-title="FR| France HEVC",CINE+ FRISSON HEVC FR
+http://localhost/ch/94650_
+#EXTINF:-1 tvg-id="94651" tvg-name="CINE+ EMOTION HEVC FR" tvg-logo="" group-title="FR| France HEVC",CINE+ EMOTION HEVC FR
+http://localhost/ch/94651_
+#EXTINF:-1 tvg-id="94652" tvg-name="WARNER TV HEVC FR" tvg-logo="" group-title="FR| France HEVC",WARNER TV HEVC FR
+http://localhost/ch/94652_
+#EXTINF:-1 tvg-id="94653" tvg-name="AB1 HEVC FR" tvg-logo="" group-title="FR| France HEVC",AB1 HEVC FR
+http://localhost/ch/94653_
+#EXTINF:-1 tvg-id="94654" tvg-name="TMC HEVC FR" tvg-logo="" group-title="FR| France HEVC",TMC HEVC FR
+http://localhost/ch/94654_
+#EXTINF:-1 tvg-id="94655" tvg-name="TF1 SERIES FILMS HEVC FR" tvg-logo="" group-title="FR| France HEVC",TF1 SERIES FILMS HEVC FR
+http://localhost/ch/94655_
+#EXTINF:-1 tvg-id="94656" tvg-name="TFX HEVC FR" tvg-logo="" group-title="FR| France HEVC",TFX HEVC FR
+http://localhost/ch/94656_
+#EXTINF:-1 tvg-id="94657" tvg-name="NRJ 12 HEVC FR" tvg-logo="" group-title="FR| France HEVC",NRJ 12 HEVC FR
+http://localhost/ch/94657_
+#EXTINF:-1 tvg-id="94659" tvg-name="LCI HEVC FR" tvg-logo="" group-title="FR| France HEVC",LCI HEVC FR
+http://localhost/ch/94659_
+#EXTINF:-1 tvg-id="94660" tvg-name="CSTAR HEVC FR" tvg-logo="" group-title="FR| France HEVC",CSTAR HEVC FR
+http://localhost/ch/94660_
+#EXTINF:-1 tvg-id="94661" tvg-name="CNEWS HEVC FR" tvg-logo="" group-title="FR| France HEVC",CNEWS HEVC FR
+http://localhost/ch/94661_
+#EXTINF:-1 tvg-id="94662" tvg-name="ARTE HEVC FR" tvg-logo="" group-title="FR| France HEVC",ARTE HEVC FR
+http://localhost/ch/94662_
+#EXTINF:-1 tvg-id="94663" tvg-name="FRANCE INFO HEVC FR" tvg-logo="" group-title="FR| France HEVC",FRANCE INFO HEVC FR
+http://localhost/ch/94663_
+#EXTINF:-1 tvg-id="94664" tvg-name="6TER HEVC FR" tvg-logo="" group-title="FR| France HEVC",6TER HEVC FR
+http://localhost/ch/94664_
+#EXTINF:-1 tvg-id="94665" tvg-name="FRANCE O HEVC FR" tvg-logo="" group-title="FR| France HEVC",FRANCE O HEVC FR
+http://localhost/ch/94665_
+#EXTINF:-1 tvg-id="94666" tvg-name="BFM TV HEVC FR" tvg-logo="" group-title="FR| France HEVC",BFM TV HEVC FR
+http://localhost/ch/94666_
+#EXTINF:-1 tvg-id="94667" tvg-name="C8 HEVC FR" tvg-logo="" group-title="FR| France HEVC",C8 HEVC FR
+http://localhost/ch/94667_
+#EXTINF:-1 tvg-id="94668" tvg-name="W9 HEVC FR" tvg-logo="" group-title="FR| France HEVC",W9 HEVC FR
+http://localhost/ch/94668_
+#EXTINF:-1 tvg-id="94669" tvg-name="FRANCE5 HEVC FR" tvg-logo="" group-title="FR| France HEVC",FRANCE5 HEVC FR
+http://localhost/ch/94669_
+#EXTINF:-1 tvg-id="94670" tvg-name="FRANCE4 HEVC FR" tvg-logo="" group-title="FR| France HEVC",FRANCE4 HEVC FR
+http://localhost/ch/94670_
+#EXTINF:-1 tvg-id="94671" tvg-name="FRANCE3 HEVC FR" tvg-logo="" group-title="FR| France HEVC",FRANCE3 HEVC FR
+http://localhost/ch/94671_
+#EXTINF:-1 tvg-id="94672" tvg-name="FRANCE2 HEVC FR" tvg-logo="" group-title="FR| France HEVC",FRANCE2 HEVC FR
+http://localhost/ch/94672_
+#EXTINF:-1 tvg-id="94673" tvg-name="M6 FHD HEVC FR" tvg-logo="" group-title="FR| France HEVC",M6 FHD HEVC FR
+http://localhost/ch/94673_
+#EXTINF:-1 tvg-id="94674" tvg-name="TF1 FHD HEVC FR" tvg-logo="" group-title="FR| France HEVC",TF1 FHD HEVC FR
+http://localhost/ch/94674_
+#EXTINF:-1 tvg-id="94675" tvg-name="CANAL+ FAMILY HEVC FR" tvg-logo="" group-title="FR| France HEVC",CANAL+ FAMILY HEVC FR
+http://localhost/ch/94675_
+#EXTINF:-1 tvg-id="94676" tvg-name="CANAL+ SERIES HD HEVC FR" tvg-logo="" group-title="FR| France HEVC",CANAL+ SERIES HD HEVC FR
+http://localhost/ch/94676_
+#EXTINF:-1 tvg-id="94677" tvg-name="CANAL+ CINEMA HEVC FR" tvg-logo="" group-title="FR| France HEVC",CANAL+ CINEMA HEVC FR
+http://localhost/ch/94677_
+#EXTINF:-1 tvg-id="94678" tvg-name="CANAL+ Sport 360 HEVC FR" tvg-logo="" group-title="FR| France HEVC",CANAL+ Sport 360 HEVC FR
+http://localhost/ch/94678_
+#EXTINF:-1 tvg-id="94679" tvg-name="CANAL+ SPORT HD HEVC FR" tvg-logo="" group-title="FR| France HEVC",CANAL+ SPORT HD HEVC FR
+http://localhost/ch/94679_
+#EXTINF:-1 tvg-id="94680" tvg-name="CANAL+ HD HEVC FR" tvg-logo="" group-title="FR| France HEVC",CANAL+ HD HEVC FR
+http://localhost/ch/94680_
+#EXTINF:-1 tvg-id="94681" tvg-name="13EME RUE HEVC FR" tvg-logo="" group-title="FR| France HEVC",13EME RUE HEVC FR
+http://localhost/ch/94681_
+#EXTINF:-1 tvg-id="94682" tvg-name="L'EQUIPE TV HEVC FR" tvg-logo="" group-title="FR| France HEVC",L'EQUIPE TV HEVC FR
+http://localhost/ch/94682_
+#EXTINF:-1 tvg-id="94684" tvg-name="EQUIDIA HEVC FR" tvg-logo="" group-title="FR| France HEVC",EQUIDIA HEVC FR
+http://localhost/ch/94684_
+#EXTINF:-1 tvg-id="94685" tvg-name="beIN SPORTS 3 HEVC FR" tvg-logo="" group-title="FR| France HEVC",beIN SPORTS 3 HEVC FR
+http://localhost/ch/94685_
+#EXTINF:-1 tvg-id="94686" tvg-name="beIN SPORTS 2 HEVC FR" tvg-logo="" group-title="FR| France HEVC",beIN SPORTS 2 HEVC FR
+http://localhost/ch/94686_
+#EXTINF:-1 tvg-id="94687" tvg-name="beIN SPORTS 1 HEVC FR" tvg-logo="" group-title="FR| France HEVC",beIN SPORTS 1 HEVC FR
+http://localhost/ch/94687_
+#EXTINF:-1 tvg-id="94688" tvg-name="OLYMPIA TV HEVC FR" tvg-logo="" group-title="FR| France HEVC",OLYMPIA TV HEVC FR
+http://localhost/ch/94688_
+#EXTINF:-1 tvg-id="94689" tvg-name="RMC SPORT 4 HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC SPORT 4 HEVC FR
+http://localhost/ch/94689_
+#EXTINF:-1 tvg-id="94690" tvg-name="RMC SPORT 3 HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC SPORT 3 HEVC FR
+http://localhost/ch/94690_
+#EXTINF:-1 tvg-id="94691" tvg-name="RMC SPORT 2 HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC SPORT 2 HEVC FR
+http://localhost/ch/94691_
+#EXTINF:-1 tvg-id="94692" tvg-name="RMC SPORT 1 HEVC FR" tvg-logo="" group-title="FR| France HEVC",RMC SPORT 1 HEVC FR
+http://localhost/ch/94692_
+#EXTINF:-1 tvg-id="94693" tvg-name="MCM HEVC FR" tvg-logo="" group-title="FR| France HEVC",MCM HEVC FR
+http://localhost/ch/94693_
+#EXTINF:-1 tvg-id="96025" tvg-name="CINE+ EMOTION HD VIP FR" tvg-logo="" group-title="FR| France",CINE+ EMOTION HD VIP FR
+http://localhost/ch/96025_
+#EXTINF:-1 tvg-id="96026" tvg-name="CINE+ PREMIER HD VIP FR" tvg-logo="" group-title="FR| France",CINE+ PREMIER HD VIP FR
+http://localhost/ch/96026_
+#EXTINF:-1 tvg-id="96027" tvg-name="CINE+ FRISSON HD VIP FR" tvg-logo="" group-title="FR| France",CINE+ FRISSON HD VIP FR
+http://localhost/ch/96027_
+#EXTINF:-1 tvg-id="96028" tvg-name="CANAL+ SERIES HD VIP FR" tvg-logo="" group-title="FR| France",CANAL+ SERIES HD VIP FR
+http://localhost/ch/96028_
+#EXTINF:-1 tvg-id="96029" tvg-name="CANAL+ CINEMA HD VIP FR" tvg-logo="" group-title="FR| France",CANAL+ CINEMA HD VIP FR
+http://localhost/ch/96029_
+#EXTINF:-1 tvg-id="96030" tvg-name="CANAL+ Sport 360 HD VIP FR" tvg-logo="" group-title="FR| France",CANAL+ Sport 360 HD VIP FR
+http://localhost/ch/96030_
+#EXTINF:-1 tvg-id="96031" tvg-name="CINE+ FAMIZ HD VIP FR" tvg-logo="" group-title="FR| France",CINE+ FAMIZ HD VIP FR
+http://localhost/ch/96031_
+#EXTINF:-1 tvg-id="96037" tvg-name="CANAL PLAY 10 HD VIP FR" tvg-logo="" group-title="FR| France",CANAL PLAY 10 HD VIP FR
+http://localhost/ch/96037_
+#EXTINF:-1 tvg-id="96038" tvg-name="CANAL PLAY 9 HD VIP FR" tvg-logo="" group-title="FR| France",CANAL PLAY 9 HD VIP FR
+http://localhost/ch/96038_
+#EXTINF:-1 tvg-id="96039" tvg-name="CANAL PLAY 8 HD VIP FR" tvg-logo="" group-title="FR| France",CANAL PLAY 8 HD VIP FR
+http://localhost/ch/96039_
+#EXTINF:-1 tvg-id="96040" tvg-name="CANAL PLAY 7 HD VIP FR" tvg-logo="" group-title="FR| France",CANAL PLAY 7 HD VIP FR
+http://localhost/ch/96040_
+#EXTINF:-1 tvg-id="96041" tvg-name="CANAL PLAY 6 HD VIP FR" tvg-logo="" group-title="FR| France",CANAL PLAY 6 HD VIP FR
+http://localhost/ch/96041_
+#EXTINF:-1 tvg-id="96044" tvg-name="A La Carte 10 VIP FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 10 VIP FR
+http://localhost/ch/96044_
+#EXTINF:-1 tvg-id="96045" tvg-name="A La Carte 9 VIP FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 9 VIP FR
+http://localhost/ch/96045_
+#EXTINF:-1 tvg-id="96046" tvg-name="A La Carte 8 VIP FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 8 VIP FR
+http://localhost/ch/96046_
+#EXTINF:-1 tvg-id="96047" tvg-name="A La Carte 7 VIP FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 7 VIP FR
+http://localhost/ch/96047_
+#EXTINF:-1 tvg-id="96048" tvg-name="A La Carte 6 VIP FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 6 VIP FR
+http://localhost/ch/96048_
+#EXTINF:-1 tvg-id="96050" tvg-name="A La Carte 11 VIP FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 11 VIP FR
+http://localhost/ch/96050_
+#EXTINF:-1 tvg-id="96052" tvg-name="A La Carte 12 VIP FR" tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="FR| France",A La Carte 12 VIP FR
+http://localhost/ch/96052_
+#EXTINF:-1 tvg-id="96065" tvg-name="Alquiler 18 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 18 ES
+http://localhost/ch/96065_
+#EXTINF:-1 tvg-id="96066" tvg-name="Alquiler 17 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 17 ES
+http://localhost/ch/96066_
+#EXTINF:-1 tvg-id="96067" tvg-name="Alquiler 16 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 16 ES
+http://localhost/ch/96067_
+#EXTINF:-1 tvg-id="96068" tvg-name="Alquiler 15 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 15 ES
+http://localhost/ch/96068_
+#EXTINF:-1 tvg-id="96069" tvg-name="Alquiler 14 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 14 ES
+http://localhost/ch/96069_
+#EXTINF:-1 tvg-id="96070" tvg-name="Alquiler 13 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 13 ES
+http://localhost/ch/96070_
+#EXTINF:-1 tvg-id="96071" tvg-name="Alquiler 12 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 12 ES
+http://localhost/ch/96071_
+#EXTINF:-1 tvg-id="96072" tvg-name="Alquiler 11 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 11 ES
+http://localhost/ch/96072_
+#EXTINF:-1 tvg-id="96073" tvg-name="Alquiler 10 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 10 ES
+http://localhost/ch/96073_
+#EXTINF:-1 tvg-id="96074" tvg-name="Alquiler 9 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 9 ES
+http://localhost/ch/96074_
+#EXTINF:-1 tvg-id="96075" tvg-name="Alquiler 8 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 8 ES
+http://localhost/ch/96075_
+#EXTINF:-1 tvg-id="96076" tvg-name="Alquiler 7 ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler 7 ES
+http://localhost/ch/96076_
+#EXTINF:-1 tvg-id="96077" tvg-name="Alquiler 6 ES" tvg-logo="https://static.epg.best/es/Alquiler6.es.png" group-title="ES| Spain",Alquiler 6 ES
+http://localhost/ch/96077_
+#EXTINF:-1 tvg-id="96078" tvg-name="Alquiler 5 ES" tvg-logo="https://static.epg.best/es/Alquiler5.es.png" group-title="ES| Spain",Alquiler 5 ES
+http://localhost/ch/96078_
+#EXTINF:-1 tvg-id="96079" tvg-name="Alquiler 4 ES" tvg-logo="https://static.epg.best/es/Alquiler4.es.png" group-title="ES| Spain",Alquiler 4 ES
+http://localhost/ch/96079_
+#EXTINF:-1 tvg-id="96080" tvg-name="Alquiler 3 ES" tvg-logo="https://static.epg.best/es/Alquiler3.es.png" group-title="ES| Spain",Alquiler 3 ES
+http://localhost/ch/96080_
+#EXTINF:-1 tvg-id="96081" tvg-name="Alquiler 2 ES" tvg-logo="https://static.epg.best/es/Alquiler2.es.png" group-title="ES| Spain",Alquiler 2 ES
+http://localhost/ch/96081_
+#EXTINF:-1 tvg-id="96082" tvg-name="Alquiler 1 ES" tvg-logo="https://static.epg.best/es/Alquiler.es.png" group-title="ES| Spain",Alquiler 1 ES
+http://localhost/ch/96082_
+#EXTINF:-1 tvg-id="96083" tvg-name="Alquiler Presentation ES" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="ES| Spain",Alquiler Presentation ES
+http://localhost/ch/96083_
+#EXTINF:-1 tvg-id="96351" tvg-name="Dazn 2 FHD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/dazn2-de.png" group-title="ES| Spain",Dazn 2 FHD ES
+http://localhost/ch/96351_
+#EXTINF:-1 tvg-id="97237" tvg-name="Movistar LaLiga 5 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-5-es.png" group-title="ES| Spain",Movistar LaLiga 5 HD ES
+http://localhost/ch/97237_
+#EXTINF:-1 tvg-id="97238" tvg-name="Movistar LaLiga 4 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-4-es.png" group-title="ES| Spain",Movistar LaLiga 4 HD ES
+http://localhost/ch/97238_
+#EXTINF:-1 tvg-id="97239" tvg-name="Movistar LaLiga 3 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-3-es.png" group-title="ES| Spain",Movistar LaLiga 3 HD ES
+http://localhost/ch/97239_
+#EXTINF:-1 tvg-id="97240" tvg-name="Movistar LaLiga 2 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-2-es.png" group-title="ES| Spain",Movistar LaLiga 2 HD ES
+http://localhost/ch/97240_
+#EXTINF:-1 tvg-id="97241" tvg-name="Movistar LaLiga 1 HD ES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-1-es.png" group-title="ES| Spain",Movistar LaLiga 1 HD ES
+http://localhost/ch/97241_
