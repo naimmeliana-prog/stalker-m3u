@@ -337,7 +337,7 @@ def main(argv=None):
                     done[mid] = e
                     entries.append(e)
         cats_done.add(cid)
-        ck["cats_done"] = sorted(cats_done)
+        ck["cats_done"] = sorted(x for x in cats_done if x is not None)
         save_and_push(force=True)
         print("[+] VOD: %d peliculas unicas" % len(done))
 

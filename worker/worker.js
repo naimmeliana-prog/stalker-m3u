@@ -143,10 +143,15 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   headers["Cookie"] += `; token=${token}`;
   headers["Authorization"] = `Bearer ${token}`;
 
+  let clCmd = rawCmd;
+  if (!clCmd.startsWith("ffmpeg ") && !clCmd.startsWith("ffrt ")) {
+    clCmd = "ffmpeg " + clCmd;
+  }
+
   const clParams = new URLSearchParams({
     type: type,
     action: "create_link",
-    cmd: rawCmd,
+    cmd: clCmd,
     JsHttpRequest: "1-xml"
   });
 

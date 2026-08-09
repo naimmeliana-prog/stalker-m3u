@@ -358,7 +358,7 @@ def main(argv=None):
                 known_ids.add(mid)
                 new += 1
             genres_done.add(gid)
-            ck["genres_done"] = sorted(genres_done)
+            ck["genres_done"] = sorted(x for x in genres_done if x is not None)
             print("[+] Genero %s '%s': %d canales (%d nuevos)" % (gid, group, len(channels), new))
             save_and_push()
 
