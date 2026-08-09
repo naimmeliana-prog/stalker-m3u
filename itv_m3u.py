@@ -173,7 +173,11 @@ def select_genres(genres, cfg):
     remove = [_norm(k) for k in (cfg.get("remove") or DEFAULT_REMOVE)]
     out = []
     for g in genres:
+        gid = str(g.get("id") or "").strip()
         title = str(g.get("title") or "")
+        title_lower = title.lower().strip()
+        if gid in ["*", "all", "0"] or title_lower in ["all", "todos", "all channels", "todos los canales", "tous"]:
+            continue
         if any(r in _norm(title) for r in EXCLUDED_REGIONS):
             continue
         base = clean_name(title)

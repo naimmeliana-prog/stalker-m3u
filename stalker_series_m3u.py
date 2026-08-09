@@ -519,7 +519,7 @@ def _git_push(*paths):
         last = None
         for i in range(6):
             try:
-                subprocess.run(["git", "push"], check=True, capture_output=True)
+                subprocess.run(["git", "push", "origin", "HEAD:main"], check=True, capture_output=True)
                 return
             except subprocess.CalledProcessError as exc:
                 last = exc
@@ -579,9 +579,12 @@ def _run(args):
     filtered_cat_ids = []
     for cat in categories:
         title = str(cat.get("title") or "")
+        cid = str(cat.get("id") or "").strip()
+        title_lower = title.lower().strip()
+        if cid in ["*", "all", "0"] or title_lower in ["all", "todos", "all series", "todas las series", "tous"]:
+            continue
         if any(r in _norm(title) for r in banned_regions):
             continue
-        cid = str(cat.get("id") or "")
         if cid:
             cat_names[cid] = title
             filtered_cat_ids.append(cid)

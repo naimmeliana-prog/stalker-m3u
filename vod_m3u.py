@@ -142,7 +142,11 @@ def select_categories(cats, languages, exclude, remove_fr=None):
     needles = [_norm(k) for k in exclude]
     out = []
     for c in cats:
+        cid = str(c.get("id") or "").strip()
         title = str(c.get("title") or "")
+        title_lower = title.lower().strip()
+        if cid in ["*", "all", "0"] or title_lower in ["all", "todos", "all movies", "todas las peliculas", "tous"]:
+            continue
         up = _norm(title)
         if any(n in up for n in needles):
             continue
