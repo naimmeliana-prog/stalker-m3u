@@ -59,10 +59,20 @@ def _title_lang(title):
     raw = str(title or "").strip()
     if raw.startswith("|"):
         parts = raw.split("|")
-        if len(parts) > 1:
-            return parts[1].strip()
+        val = parts[1].strip() if len(parts) > 1 else ""
+        if val in ["ES", "FR", "UK", "EN"]:
+            return val
     if "|" in raw:
-        return raw.split("|", 1)[0].strip()
+        val = raw.split("|", 1)[0].strip()
+        if val in ["ES", "FR", "UK", "EN"]:
+            return val
+    t_upper = raw.upper()
+    if any(k in t_upper for k in ["ESPAÑA", "ESPANA", "SPAIN", "SPANISH", "CASTELLANO", "ES |", "| ES"]):
+        return "ES"
+    if any(k in t_upper for k in ["FRANCE", "FRENCH", "FR |", "| FR"]):
+        return "FR"
+    if any(k in t_upper for k in ["UK |", "| UK", "UNITED KINGDOM", "ENGLAND", "ENGLISH", "ANGLAIS", "BRITISH", "GB"]):
+        return "UK"
     return ""
 
 

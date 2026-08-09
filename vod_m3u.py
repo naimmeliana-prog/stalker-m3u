@@ -47,9 +47,20 @@ def lang_prefix(title):
     t = str(title or "").strip()
     if t.startswith("|"):
         parts = t.split("|")
-        return parts[1].strip() if len(parts) > 1 else ""
+        val = parts[1].strip() if len(parts) > 1 else ""
+        if val in ["ES", "FR", "UK", "EN"]:
+            return val
     if "|" in t:
-        return t.split("|", 1)[0].strip()
+        val = t.split("|", 1)[0].strip()
+        if val in ["ES", "FR", "UK", "EN"]:
+            return val
+    t_upper = t.upper()
+    if any(k in t_upper for k in ["ESPAÑA", "ESPANA", "SPAIN", "SPANISH", "CASTELLANO", "ES |", "| ES"]):
+        return "ES"
+    if any(k in t_upper for k in ["FRANCE", "FRENCH", "FR |", "| FR"]):
+        return "FR"
+    if any(k in t_upper for k in ["UK |", "| UK", "UNITED KINGDOM", "ENGLAND", "ENGLISH", "ANGLAIS", "BRITISH", "GB"]):
+        return "UK"
     return ""
 
 
