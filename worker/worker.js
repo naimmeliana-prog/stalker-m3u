@@ -93,6 +93,81 @@ async function streamProxy(target) {
   return new Response(upstream.body, { status: 200, headers });
 }
 
+const STALKER_TOKENS = {};
+
+async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
+  const headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "X-User-Agent": "Model: MAG250; Link: WiFi",
+    "Cookie": `mac=${mac}; stb_lang=en; timezone=Europe/London`
+  };
+
+  const key = `${portalUrl}|${mac}`;
+  let cached = STALKER_TOKENS[key];
+  let token = "";
+  let activeEntry = "";
+
+  if (cached && (Date.now() - cached.ts < 3600 * 1000)) {
+    token = cached.token;
+    activeEntry = cached.entry;
+  } else {
+    const entryPoints = [
+      "/server/load.php",
+      "/portal.php",
+      "/c/server/load.php",
+      "/stalker_portal/server/load.php",
+    ];
+
+    for (const entry of entryPoints) {
+      try {
+        const hsUrl = `${portalUrl.replace(/\/$/, "")}${entry}?type=stb&action=handshake&JsHttpRequest=1-xml`;
+        const res = await fetch(hsUrl, { headers });
+        if (res.ok) {
+          const body = await res.json();
+          const js = body.js || body;
+          if (js && js.token) {
+            token = js.token;
+            activeEntry = entry;
+            STALKER_TOKENS[key] = { token, entry, ts: Date.now() };
+            break;
+          }
+        }
+      } catch (e) {}
+    }
+  }
+
+  if (!token) {
+    throw new Error("Handshake failed");
+  }
+
+  headers["Cookie"] += `; token=${token}`;
+  headers["Authorization"] = `Bearer ${token}`;
+
+  const clParams = new URLSearchParams({
+    type: type,
+    action: "create_link",
+    cmd: rawCmd,
+    JsHttpRequest: "1-xml"
+  });
+
+  const clUrl = `${portalUrl.replace(/\/$/, "")}${activeEntry}?${clParams.toString()}`;
+  const res = await fetch(clUrl, { headers });
+  if (!res.ok) {
+    throw new Error("Create link request failed: " + res.status);
+  }
+  const body = await res.json();
+  const js = body.js || body;
+  const rawUrl = js.cmd || body.cmd || "";
+  if (!rawUrl) {
+    throw new Error("No URL returned from create_link");
+  }
+
+  let cleanUrl = rawUrl.replace(/^(ffmpeg|ffrt)\s+/i, "").trim();
+  cleanUrl = cleanUrl.replace(/^\d+:\d+\s+/, "").trim();
+  return cleanUrl;
+}
+
+
 async function handleApi(params, host, dataBase) {
   const action = params.get("action") || "";
   if (!action) {
@@ -238,10 +313,25 @@ export default {
       if (!target) {
         return corsJson({}, 404);
       }
-      if (env && env.PROXY_STREAM === "off") {
-        return redirectCors(target);
+      let finalTarget = target;
+      if (target.includes("localhost") || !target.startsWith("http")) {
+        try {
+          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+          const configRes = await fetch(configUrl);
+          if (configRes.ok) {
+            const config = await configRes.json();
+            if (config.portal && config.mac) {
+              finalTarget = await resolveStalkerLink(config.portal, config.mac, target, "vod");
+            }
+          }
+        } catch (e) {
+          console.error("Dynamic series resolution failed:", e);
+        }
       }
-      return withCors(await streamProxy(target));
+      if (env && env.PROXY_STREAM === "off") {
+        return redirectCors(finalTarget);
+      }
+      return withCors(await streamProxy(finalTarget));
     }
 
     if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
@@ -252,25 +342,80 @@ export default {
       if (!target) {
         return corsJson({}, 404);
       }
-      if (env && env.PROXY_STREAM === "off") {
-        return redirectCors(target);
+      let finalTarget = target;
+      if (target.includes("localhost") || !target.startsWith("http")) {
+        try {
+          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+          const configRes = await fetch(configUrl);
+          if (configRes.ok) {
+            const config = await configRes.json();
+            if (config.portal && config.mac) {
+              const type = parts[0] === "live" ? "itv" : "vod";
+              finalTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
+            }
+          }
+        } catch (e) {
+          console.error("Dynamic stream resolution failed:", e);
+        }
       }
-      return withCors(await streamProxy(target));
+      if (env && env.PROXY_STREAM === "off") {
+        return redirectCors(finalTarget);
+      }
+      return withCors(await streamProxy(finalTarget));
     }
 
     if (parts.length === 3) {
       const sid = decodeURIComponent(parts[2]).replace(/\.\w+$/, "");
       const live = await fetchData(dataBase + "live_urls.json", 600);
       if (live[sid]) {
-        return redirectCors(live[sid]);
+        let finalTarget = live[sid];
+        if (finalTarget.includes("localhost") || !finalTarget.startsWith("http")) {
+          try {
+            const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+            const configRes = await fetch(configUrl);
+            if (configRes.ok) {
+              const config = await configRes.json();
+              if (config.portal && config.mac) {
+                finalTarget = await resolveStalkerLink(config.portal, config.mac, finalTarget, "itv");
+              }
+            }
+          } catch (e) {}
+        }
+        return redirectCors(finalTarget);
       }
       const vod = await fetchData(dataBase + "vod_urls.json", 600);
       if (vod[sid]) {
-        return redirectCors(vod[sid]);
+        let finalTarget = vod[sid];
+        if (finalTarget.includes("localhost") || !finalTarget.startsWith("http")) {
+          try {
+            const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+            const configRes = await fetch(configUrl);
+            if (configRes.ok) {
+              const config = await configRes.json();
+              if (config.portal && config.mac) {
+                finalTarget = await resolveStalkerLink(config.portal, config.mac, finalTarget, "vod");
+              }
+            }
+          } catch (e) {}
+        }
+        return redirectCors(finalTarget);
       }
       const streams = await fetchData(dataBase + "streams.json", 600);
       if (streams[sid]) {
-        return redirectCors(streams[sid]);
+        let finalTarget = streams[sid];
+        if (finalTarget.includes("localhost") || !finalTarget.startsWith("http")) {
+          try {
+            const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+            const configRes = await fetch(configUrl);
+            if (configRes.ok) {
+              const config = await configRes.json();
+              if (config.portal && config.mac) {
+                finalTarget = await resolveStalkerLink(config.portal, config.mac, finalTarget, "vod");
+              }
+            }
+          } catch (e) {}
+        }
+        return redirectCors(finalTarget);
       }
       return corsJson({}, 404);
     }
