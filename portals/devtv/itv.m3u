@@ -1,1 +1,127 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="37728" tvg-name="(FR) W9 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/w9hd.png" group-title="FR| FR - FRANCE",(FR) W9 HD
+http://localhost/ch/37728_
+#EXTINF:-1 tvg-id="37730" tvg-name="(FR) Viceland HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Viceland HD
+http://localhost/ch/37730_
+#EXTINF:-1 tvg-id="37731" tvg-name="(FR) Ushuaia HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ushuaiatv.png" group-title="FR| FR - FRANCE",(FR) Ushuaia HD
+http://localhost/ch/37731_
+#EXTINF:-1 tvg-id="37733" tvg-name="(FR) TV5 Monde" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv5monde.png" group-title="FR| FR - FRANCE",(FR) TV5 Monde
+http://localhost/ch/37733_
+#EXTINF:-1 tvg-id="37734" tvg-name="(FR) TV Breizh" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvbreizh.png" group-title="FR| FR - FRANCE",(FR) TV Breizh
+http://localhost/ch/37734_
+#EXTINF:-1 tvg-id="37735" tvg-name="(FR) Trek" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Trek
+http://localhost/ch/37735_
+#EXTINF:-1 tvg-id="37736" tvg-name="(FR) Trace Tropical" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Trace Tropical
+http://localhost/ch/37736_
+#EXTINF:-1 tvg-id="37737" tvg-name="(FR) Trace Africa" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Trace Africa
+http://localhost/ch/37737_
+#EXTINF:-1 tvg-id="37738" tvg-name="(FR) Toute l'Histoire" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Toute l'Histoire
+http://localhost/ch/37738_
+#EXTINF:-1 tvg-id="37739" tvg-name="(FR) TMC HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tmc.png" group-title="FR| FR - FRANCE",(FR) TMC HD
+http://localhost/ch/37739_
+#EXTINF:-1 tvg-id="37740" tvg-name="(FR) Tiji HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Tiji HD
+http://localhost/ch/37740_
+#EXTINF:-1 tvg-id="37741" tvg-name="(FR) TFX" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) TFX
+http://localhost/ch/37741_
+#EXTINF:-1 tvg-id="37743" tvg-name="(FR) TF1 4K" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/francebayrak.gif" group-title="FR| FR - FRANCE",(FR) TF1 4K
+http://localhost/ch/37743_
+#EXTINF:-1 tvg-id="37744" tvg-name="(FR) Teva" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teva.png" group-title="FR| FR - FRANCE",(FR) Teva
+http://localhost/ch/37744_
+#EXTINF:-1 tvg-id="37745" tvg-name="(FR) Teletoon HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teletoonplus.png" group-title="FR| FR - FRANCE",(FR) Teletoon HD
+http://localhost/ch/37745_
+#EXTINF:-1 tvg-id="37752" tvg-name="(FR) RTL 9 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl9.png" group-title="FR| FR - FRANCE",(FR) RTL 9 HD
+http://localhost/ch/37752_
+#EXTINF:-1 tvg-id="37762" tvg-name="(FR) RMC Decouverte HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rmcdecouverte.png" group-title="FR| FR - FRANCE",(FR) RMC Decouverte HD
+http://localhost/ch/37762_
+#EXTINF:-1 tvg-id="37764" tvg-name="(FR) Planete A&E HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/planeteplusaventureexperience.png" group-title="FR| FR - FRANCE",(FR) Planete A&E HD
+http://localhost/ch/37764_
+#EXTINF:-1 tvg-id="37765" tvg-name="(FR) Piwi HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Piwi HD
+http://localhost/ch/37765_
+#EXTINF:-1 tvg-id="37772" tvg-name="(FR) NRJ 12 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nrj12.png" group-title="FR| FR - FRANCE",(FR) NRJ 12 HD
+http://localhost/ch/37772_
+#EXTINF:-1 tvg-id="37773" tvg-name="(FR) Trace Urban" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/traceurban.png" group-title="FR| FR - FRANCE",(FR) Trace Urban
+http://localhost/ch/37773_
+#EXTINF:-1 tvg-id="37774" tvg-name="(FR) Nickelodeon HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nickelodeon.png" group-title="FR| FR - FRANCE",(FR) Nickelodeon HD
+http://localhost/ch/37774_
+#EXTINF:-1 tvg-id="37776" tvg-name="(FR) Nat Geo Wild HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowild.png" group-title="FR| FR - FRANCE",(FR) Nat Geo Wild HD
+http://localhost/ch/37776_
+#EXTINF:-1 tvg-id="37777" tvg-name="(FR) Nat Geo HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeoushd.png" group-title="FR| FR - FRANCE",(FR) Nat Geo HD
+http://localhost/ch/37777_
+#EXTINF:-1 tvg-id="37778" tvg-name="(FR) KTO" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) KTO
+http://localhost/ch/37778_
+#EXTINF:-1 tvg-id="37779" tvg-name="(FR) Mezzo Live HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Mezzo Live HD
+http://localhost/ch/37779_
+#EXTINF:-1 tvg-id="37781" tvg-name="(FR) M6 Music HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/m6music.png" group-title="FR| FR - FRANCE",(FR) M6 Music HD
+http://localhost/ch/37781_
+#EXTINF:-1 tvg-id="37782" tvg-name="(FR) M6 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/m6hd.png" group-title="FR| FR - FRANCE",(FR) M6 HD
+http://localhost/ch/37782_
+#EXTINF:-1 tvg-id="37785" tvg-name="(FR) Lci HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lci.png" group-title="FR| FR - FRANCE",(FR) Lci HD
+http://localhost/ch/37785_
+#EXTINF:-1 tvg-id="37792" tvg-name="(FR) Game One HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Game One HD
+http://localhost/ch/37792_
+#EXTINF:-1 tvg-id="37793" tvg-name="(FR) France O HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/franceohd.png" group-title="FR| FR - FRANCE",(FR) France O HD
+http://localhost/ch/37793_
+#EXTINF:-1 tvg-id="37794" tvg-name="(FR) France Info" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/franceinfo.png" group-title="FR| FR - FRANCE",(FR) France Info
+http://localhost/ch/37794_
+#EXTINF:-1 tvg-id="37801" tvg-name="(FR) France 24 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) France 24 HD
+http://localhost/ch/37801_
+#EXTINF:-1 tvg-id="37806" tvg-name="(FR) Equidia HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Equidia HD
+http://localhost/ch/37806_
+#EXTINF:-1 tvg-id="37807" tvg-name="(FR) AB3" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) AB3
+http://localhost/ch/37807_
+#EXTINF:-1 tvg-id="37808" tvg-name="(FR) E!" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) E!
+http://localhost/ch/37808_
+#EXTINF:-1 tvg-id="37810" tvg-name="(FR) Disney Junior HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjunior.png" group-title="FR| FR - FRANCE",(FR) Disney Junior HD
+http://localhost/ch/37810_
+#EXTINF:-1 tvg-id="37812" tvg-name="(FR) Disney Channel HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannel.png" group-title="FR| FR - FRANCE",(FR) Disney Channel HD
+http://localhost/ch/37812_
+#EXTINF:-1 tvg-id="37813" tvg-name="(FR) Discovery Science HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Discovery Science HD
+http://localhost/ch/37813_
+#EXTINF:-1 tvg-id="37814" tvg-name="(FR) Discovery HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Discovery HD
+http://localhost/ch/37814_
+#EXTINF:-1 tvg-id="37815" tvg-name="(FR) Cstar HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cstar.png" group-title="FR| FR - FRANCE",(FR) Cstar HD
+http://localhost/ch/37815_
+#EXTINF:-1 tvg-id="37816" tvg-name="(FR) Crime District HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) Crime District HD
+http://localhost/ch/37816_
+#EXTINF:-1 tvg-id="37817" tvg-name="(FR) Comedie+ HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/comedieplus.png" group-title="FR| FR - FRANCE",(FR) Comedie+ HD
+http://localhost/ch/37817_
+#EXTINF:-1 tvg-id="37818" tvg-name="(FR) CNews HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cnews.png" group-title="FR| FR - FRANCE",(FR) CNews HD
+http://localhost/ch/37818_
+#EXTINF:-1 tvg-id="37819" tvg-name="(FR) Club RTL" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/clubrtl.png" group-title="FR| FR - FRANCE",(FR) Club RTL
+http://localhost/ch/37819_
+#EXTINF:-1 tvg-id="37827" tvg-name="(FR) Cartoon Network HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png" group-title="FR| FR - FRANCE",(FR) Cartoon Network HD
+http://localhost/ch/37827_
+#EXTINF:-1 tvg-id="37835" tvg-name="(FR) Canal J HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalj.png" group-title="FR| FR - FRANCE",(FR) Canal J HD
+http://localhost/ch/37835_
+#EXTINF:-1 tvg-id="37836" tvg-name="(FR) C8" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/c8.png" group-title="FR| FR - FRANCE",(FR) C8
+http://localhost/ch/37836_
+#EXTINF:-1 tvg-id="37838" tvg-name="(FR) Boomerang HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boomerang.png" group-title="FR| FR - FRANCE",(FR) Boomerang HD
+http://localhost/ch/37838_
+#EXTINF:-1 tvg-id="37839" tvg-name="(FR) Boing HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boing.png" group-title="FR| FR - FRANCE",(FR) Boing HD
+http://localhost/ch/37839_
+#EXTINF:-1 tvg-id="37840" tvg-name="(FR) Bfm TV HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bfmtv.png" group-title="FR| FR - FRANCE",(FR) Bfm TV HD
+http://localhost/ch/37840_
+#EXTINF:-1 tvg-id="37843" tvg-name="(FR) Planete+ HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/planeteplus.png" group-title="FR| FR - FRANCE",(FR) Planete+ HD
+http://localhost/ch/37843_
+#EXTINF:-1 tvg-id="37856" tvg-name="(FR) Arte HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/artehd.png" group-title="FR| FR - FRANCE",(FR) Arte HD
+http://localhost/ch/37856_
+#EXTINF:-1 tvg-id="37857" tvg-name="(FR) Animaux HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animaux.png" group-title="FR| FR - FRANCE",(FR) Animaux HD
+http://localhost/ch/37857_
+#EXTINF:-1 tvg-id="37860" tvg-name="(FR) AB1 HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ab1.png" group-title="FR| FR - FRANCE",(FR) AB1 HD
+http://localhost/ch/37860_
+#EXTINF:-1 tvg-id="37861" tvg-name="(FR) AB EXPLORE" tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR| FR - FRANCE",(FR) AB EXPLORE
+http://localhost/ch/37861_
+#EXTINF:-1 tvg-id="37868" tvg-name="(FR) 6ter HD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ab1.png" group-title="FR| FR - FRANCE",(FR) 6ter HD
+http://localhost/ch/37868_
+#EXTINF:-1 tvg-id="44963" tvg-name="(FR) Gulli 4K" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/gulli.png" group-title="FR| FR - FRANCE",(FR) Gulli 4K
+http://localhost/ch/44963_
+#EXTINF:-1 tvg-id="44964" tvg-name="(FR) LCP 4K" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lcp.png" group-title="FR| FR - FRANCE",(FR) LCP 4K
+http://localhost/ch/44964_
+#EXTINF:-1 tvg-id="44970" tvg-name="(FR) France 5 4K" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france5hd.png" group-title="FR| FR - FRANCE",(FR) France 5 4K
+http://localhost/ch/44970_
+#EXTINF:-1 tvg-id="44971" tvg-name="(FR) France 4 4K" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france4hd.png" group-title="FR| FR - FRANCE",(FR) France 4 4K
+http://localhost/ch/44971_
+#EXTINF:-1 tvg-id="44972" tvg-name="(FR) France 3 4K" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france3hd.png" group-title="FR| FR - FRANCE",(FR) France 3 4K
+http://localhost/ch/44972_
+#EXTINF:-1 tvg-id="44973" tvg-name="(FR) France 2 FHD" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france2hd.png" group-title="FR| FR - FRANCE",(FR) France 2 FHD
+http://localhost/ch/44973_
