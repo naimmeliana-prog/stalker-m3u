@@ -230,8 +230,6 @@ export default {
         );
       }
     }
-
-    const parts = path.split("/").filter(Boolean);
     if (parts.length >= 4 && parts[0] === "series") {
       const ep = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
       const streams = await fetchData(dataBase + "streams.json", 600);
