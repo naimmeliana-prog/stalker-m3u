@@ -1,0 +1,98 @@
+name: Generar VOD m3u
+
+on:
+  schedule:
+    - cron: "40 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate:
+    concurrency:
+      group: vod-gen
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Renovar tokens (solo cron diario)
+        if: github.event_name == 'schedule'
+        run: rm -f portals/*/vod_checkpoint.json.gz portals/*/progress_vod.log
+
+      - name: Generar lista VOD para todos los portales
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for dir in portals/*/; do
+            if [ -f "${dir}config.json" ]; then
+              echo "[+] Generando VOD para ${dir}..."
+              PORTAL_CONFIG_PATH="${dir}config.json" python vod_m3u.py || true
+            fi
+          done
+
+      - name: Publicar cambios finales
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add portals/ || true
+          git diff --cached --quiet || git commit -m "Actualizar vod.m3u ($(date -u +'%F %R UTC'))"
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
+
+  publish:
+    needs: generate
+    if: always()
+    concurrency:
+      group: pages-pub
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Combinar global.m3u
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
+          for dir in portals/*/; do
+            if [ -f "${dir}config.json" ]; then
+              echo "[+] Combinando playlist para ${dir}..."
+              PORTAL_CONFIG_PATH="${dir}config.json" python combine.py || true
+            fi
+          done
+          git add portals/
+          git diff --cached --quiet || git commit -m "Actualizar global.m3u ($(date -u +'%F %R UTC'))"
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
+
+      - name: Desplegar Worker Xtream
+        if: env.CF_API_TOKEN != ''
+        working-directory: worker
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: npx wrangler@latest deploy
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir artefacto a Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
