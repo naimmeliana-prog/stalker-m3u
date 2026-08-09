@@ -543,6 +543,206 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1338522&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1347433&extension=ts&play_token=3WQCkv0zNi
 #EXTINF:-1 tvg-id="1353932" tvg-name="M.ELLAS #V SD" tvg-logo="http://103.176.90.95/images/1353932.png" group-title="ES| M+ VAMOS",M.ELLAS #V SD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1353932&extension=ts&play_token=Ld8sDqK1na
+#EXTINF:-1 tvg-id="1364010" tvg-name="(AU) ESPN PLAY 1 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 1 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364010&extension=ts&play_token=NAUmYdfEVY
+#EXTINF:-1 tvg-id="1364011" tvg-name="(AU) ESPN PLAY 2 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 2 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364011&extension=ts&play_token=cas1arqido
+#EXTINF:-1 tvg-id="1364012" tvg-name="(AU) ESPN PLAY 3 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 3 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364012&extension=ts&play_token=FVUe2JzTqF
+#EXTINF:-1 tvg-id="1364013" tvg-name="(AU) ESPN PLAY 4 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 4 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364013&extension=ts&play_token=89H8uPhjuG
+#EXTINF:-1 tvg-id="1364014" tvg-name="(AU) ESPN PLAY 5 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 5 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364014&extension=ts&play_token=lbcUvQikGn
+#EXTINF:-1 tvg-id="1364015" tvg-name="(AU) ESPN PLAY 6 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 6 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364015&extension=ts&play_token=yHwFzYec4q
+#EXTINF:-1 tvg-id="1364016" tvg-name="(AU) ESPN PLAY 7 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 7 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364016&extension=ts&play_token=EFVKeJZsRD
+#EXTINF:-1 tvg-id="1364017" tvg-name="(AU) ESPN PLAY 8 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 8 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364017&extension=ts&play_token=zU5q3xKUN7
+#EXTINF:-1 tvg-id="1364018" tvg-name="(AU) ESPN PLAY 9 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 9 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364018&extension=ts&play_token=jy3GBVrVTR
+#EXTINF:-1 tvg-id="1364019" tvg-name="(AU) ESPN PLAY 10 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 10 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364019&extension=ts&play_token=7uALR4JCsR
+#EXTINF:-1 tvg-id="1364020" tvg-name="(AU) ESPN PLAY 11 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 11 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364020&extension=ts&play_token=7CcNkb8vZH
+#EXTINF:-1 tvg-id="1364021" tvg-name="(AU) ESPN PLAY 12 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 12 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364021&extension=ts&play_token=Xu6q6MREFl
+#EXTINF:-1 tvg-id="1364022" tvg-name="(AU) ESPN PLAY 13 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 13 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364022&extension=ts&play_token=Lo6iP9fltZ
+#EXTINF:-1 tvg-id="1364023" tvg-name="(AU) ESPN PLAY 14 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 14 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364023&extension=ts&play_token=Z90EE7W0Re
+#EXTINF:-1 tvg-id="1364024" tvg-name="(AU) ESPN PLAY 15 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 15 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364024&extension=ts&play_token=vnXc3uQUCF
+#EXTINF:-1 tvg-id="1364025" tvg-name="(AU) ESPN PLAY 16 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 16 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364025&extension=ts&play_token=Yu2ZWX0RSE
+#EXTINF:-1 tvg-id="1364026" tvg-name="(AU) ESPN PLAY 17 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 17 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364026&extension=ts&play_token=3d08LPMDU7
+#EXTINF:-1 tvg-id="1364027" tvg-name="(AU) ESPN PLAY 18 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 18 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364027&extension=ts&play_token=UsJwJeCh0Q
+#EXTINF:-1 tvg-id="1364028" tvg-name="(AU) ESPN PLAY 19 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 19 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364028&extension=ts&play_token=1EzdXcENVa
+#EXTINF:-1 tvg-id="1364029" tvg-name="(AU) ESPN PLAY 20 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 20 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364029&extension=ts&play_token=Avrn1p21hX
+#EXTINF:-1 tvg-id="1364030" tvg-name="(AU) ESPN PLAY 21 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 21 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364030&extension=ts&play_token=WXqXbF7UUX
+#EXTINF:-1 tvg-id="1364031" tvg-name="(AU) ESPN PLAY 22 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 22 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364031&extension=ts&play_token=sjJMjHAqGT
+#EXTINF:-1 tvg-id="1364032" tvg-name="(AU) ESPN PLAY 23 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 23 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364032&extension=ts&play_token=v8n9MU8m09
+#EXTINF:-1 tvg-id="1364033" tvg-name="(AU) ESPN PLAY 24 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 24 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364033&extension=ts&play_token=QXNXw2ddne
+#EXTINF:-1 tvg-id="1364034" tvg-name="(AU) ESPN PLAY 25 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 25 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364034&extension=ts&play_token=u8lKiCcXuv
+#EXTINF:-1 tvg-id="1364035" tvg-name="(AU) ESPN PLAY 26 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 26 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364035&extension=ts&play_token=dwbfe5Msgl
+#EXTINF:-1 tvg-id="1364036" tvg-name="(AU) ESPN PLAY 27 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 27 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364036&extension=ts&play_token=1zJm8tDCft
+#EXTINF:-1 tvg-id="1364037" tvg-name="(AU) ESPN PLAY 28 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 28 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364037&extension=ts&play_token=oUeNhDRxh7
+#EXTINF:-1 tvg-id="1364038" tvg-name="(AU) ESPN PLAY 29 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 29 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364038&extension=ts&play_token=hpvJ4Tidsg
+#EXTINF:-1 tvg-id="1364039" tvg-name="(AU) ESPN PLAY 30 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 30 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364039&extension=ts&play_token=m8oOOO0AGp
+#EXTINF:-1 tvg-id="1364040" tvg-name="(AU) ESPN PLAY 31 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 31 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364040&extension=ts&play_token=bSJoC507y4
+#EXTINF:-1 tvg-id="1364041" tvg-name="(AU) ESPN PLAY 32 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 32 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364041&extension=ts&play_token=cy279gFWen
+#EXTINF:-1 tvg-id="1364042" tvg-name="(AU) ESPN PLAY 33 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 33 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364042&extension=ts&play_token=Xy0Pv0udiU
+#EXTINF:-1 tvg-id="1364043" tvg-name="(AU) ESPN PLAY 34 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 34 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364043&extension=ts&play_token=Dt9IKaLRoe
+#EXTINF:-1 tvg-id="1364044" tvg-name="(AU) ESPN PLAY 35 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 35 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364044&extension=ts&play_token=ZweythV4wP
+#EXTINF:-1 tvg-id="1364045" tvg-name="(AU) ESPN PLAY 36 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 36 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364045&extension=ts&play_token=zLFzyLmiMT
+#EXTINF:-1 tvg-id="1364046" tvg-name="(AU) ESPN PLAY 37 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 37 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364046&extension=ts&play_token=Z3fdgN11M1
+#EXTINF:-1 tvg-id="1364047" tvg-name="(AU) ESPN PLAY 38 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 38 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364047&extension=ts&play_token=SV8YizOHt0
+#EXTINF:-1 tvg-id="1364048" tvg-name="(AU) ESPN PLAY 39 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 39 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364048&extension=ts&play_token=6Hy9MnwWeZ
+#EXTINF:-1 tvg-id="1364049" tvg-name="(AU) ESPN PLAY 40 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 40 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364049&extension=ts&play_token=1ZyDPwjLqk
+#EXTINF:-1 tvg-id="1364050" tvg-name="(AU) ESPN PLAY 41 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 41 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364050&extension=ts&play_token=85dNR4nOiB
+#EXTINF:-1 tvg-id="1364051" tvg-name="(AU) ESPN PLAY 42 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 42 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364051&extension=ts&play_token=nH27uYOcQ4
+#EXTINF:-1 tvg-id="1364052" tvg-name="(AU) ESPN PLAY 43 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 43 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364052&extension=ts&play_token=OKCHEmYZJR
+#EXTINF:-1 tvg-id="1364053" tvg-name="(AU) ESPN PLAY 44 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 44 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364053&extension=ts&play_token=2hhFPhPOoB
+#EXTINF:-1 tvg-id="1364054" tvg-name="(AU) ESPN PLAY 45 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 45 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364054&extension=ts&play_token=o2UFvMXqns
+#EXTINF:-1 tvg-id="1364055" tvg-name="(AU) ESPN PLAY 46 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 46 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364055&extension=ts&play_token=f71B7UTjxh
+#EXTINF:-1 tvg-id="1364056" tvg-name="(AU) ESPN PLAY 47 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 47 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364056&extension=ts&play_token=i7BC5fOJTg
+#EXTINF:-1 tvg-id="1364057" tvg-name="(AU) ESPN PLAY 48 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 48 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364057&extension=ts&play_token=Niar6yIXYF
+#EXTINF:-1 tvg-id="1364058" tvg-name="(AU) ESPN PLAY 49 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 49 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364058&extension=ts&play_token=XIyGZz2d3I
+#EXTINF:-1 tvg-id="1364059" tvg-name="(AU) ESPN PLAY 50 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 50 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364059&extension=ts&play_token=vEp1xSDk1z
+#EXTINF:-1 tvg-id="1364060" tvg-name="(AU) ESPN PLAY 51 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 51 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364060&extension=ts&play_token=g8FhMfw6PD
+#EXTINF:-1 tvg-id="1364061" tvg-name="(AU) ESPN PLAY 52 (D): WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 52 (D): WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364061&extension=ts&play_token=frzZrLatXM
+#EXTINF:-1 tvg-id="1364062" tvg-name="(AU) ESPN PLAY 53 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 53 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364062&extension=ts&play_token=HFzOjOUMuA
+#EXTINF:-1 tvg-id="1364063" tvg-name="(AU) ESPN PLAY 54 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 54 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364063&extension=ts&play_token=ccG1k1ZLhR
+#EXTINF:-1 tvg-id="1364064" tvg-name="(AU) ESPN PLAY 55 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 55 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364064&extension=ts&play_token=VCjXXNulWI
+#EXTINF:-1 tvg-id="1364065" tvg-name="(AU) ESPN PLAY 56 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 56 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364065&extension=ts&play_token=8NGZQe66xH
+#EXTINF:-1 tvg-id="1364066" tvg-name="(AU) ESPN PLAY 57 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 57 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364066&extension=ts&play_token=AqwIdFah9q
+#EXTINF:-1 tvg-id="1364067" tvg-name="(AU) ESPN PLAY 58 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 58 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364067&extension=ts&play_token=5mWCRez0bc
+#EXTINF:-1 tvg-id="1364068" tvg-name="(AU) ESPN PLAY 59 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 59 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364068&extension=ts&play_token=PiAHisU3mi
+#EXTINF:-1 tvg-id="1364069" tvg-name="(AU) ESPN PLAY 60 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 60 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364069&extension=ts&play_token=jfqgNVu6mL
+#EXTINF:-1 tvg-id="1364070" tvg-name="(AU) ESPN PLAY 61 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 61 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364070&extension=ts&play_token=iN3k3lwxFO
+#EXTINF:-1 tvg-id="1364071" tvg-name="(AU) ESPN PLAY 62 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 62 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364071&extension=ts&play_token=IE9YeflAYb
+#EXTINF:-1 tvg-id="1364072" tvg-name="(AU) ESPN PLAY 63 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 63 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364072&extension=ts&play_token=vanGObFmPr
+#EXTINF:-1 tvg-id="1364073" tvg-name="(AU) ESPN PLAY 64 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 64 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364073&extension=ts&play_token=EpeDEwl5TO
+#EXTINF:-1 tvg-id="1364074" tvg-name="(AU) ESPN PLAY 65 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 65 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364074&extension=ts&play_token=1ABbwrUdF0
+#EXTINF:-1 tvg-id="1364075" tvg-name="(AU) ESPN PLAY 66 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 66 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364075&extension=ts&play_token=9Q78QBRGw1
+#EXTINF:-1 tvg-id="1364076" tvg-name="(AU) ESPN PLAY 67 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 67 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364076&extension=ts&play_token=nFxWPThW3u
+#EXTINF:-1 tvg-id="1364077" tvg-name="(AU) ESPN PLAY 68 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 68 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364077&extension=ts&play_token=LOx3p8q1OV
+#EXTINF:-1 tvg-id="1364078" tvg-name="(AU) ESPN PLAY 69 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 69 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364078&extension=ts&play_token=7urbBZZ2XW
+#EXTINF:-1 tvg-id="1364079" tvg-name="(AU) ESPN PLAY 70 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 70 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364079&extension=ts&play_token=L7UL2MrVxp
+#EXTINF:-1 tvg-id="1364080" tvg-name="(AU) ESPN PLAY 71 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 71 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364080&extension=ts&play_token=bSiTF8KaYZ
+#EXTINF:-1 tvg-id="1364081" tvg-name="(AU) ESPN PLAY 72 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 72 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364081&extension=ts&play_token=rV5cpWDetY
+#EXTINF:-1 tvg-id="1364082" tvg-name="(AU) ESPN PLAY 73 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 73 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364082&extension=ts&play_token=MLRSfOMQ2I
+#EXTINF:-1 tvg-id="1364083" tvg-name="(AU) ESPN PLAY 74 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 74 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364083&extension=ts&play_token=IZ9y39fS1u
+#EXTINF:-1 tvg-id="1364084" tvg-name="(AU) ESPN PLAY 75 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 75 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364084&extension=ts&play_token=wSECXYl9d2
+#EXTINF:-1 tvg-id="1364085" tvg-name="(AU) ESPN PLAY 76 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 76 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364085&extension=ts&play_token=mxbDeZg9oA
+#EXTINF:-1 tvg-id="1364086" tvg-name="(AU) ESPN PLAY 77 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 77 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364086&extension=ts&play_token=wQBpXUJlbE
+#EXTINF:-1 tvg-id="1364087" tvg-name="(AU) ESPN PLAY 78 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 78 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364087&extension=ts&play_token=e4v4NsLRMO
+#EXTINF:-1 tvg-id="1364088" tvg-name="(AU) ESPN PLAY 79 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 79 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364088&extension=ts&play_token=nH4pWwCIem
+#EXTINF:-1 tvg-id="1364089" tvg-name="(AU) ESPN PLAY 80 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 80 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364089&extension=ts&play_token=AFcDooTXEh
+#EXTINF:-1 tvg-id="1364090" tvg-name="(AU) ESPN PLAY 81 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 81 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364090&extension=ts&play_token=YeSVTkF9FU
+#EXTINF:-1 tvg-id="1364091" tvg-name="(AU) ESPN PLAY 82 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 82 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364091&extension=ts&play_token=jY6IkWDBHg
+#EXTINF:-1 tvg-id="1364092" tvg-name="(AU) ESPN PLAY 83 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 83 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364092&extension=ts&play_token=dakU9nehho
+#EXTINF:-1 tvg-id="1364093" tvg-name="(AU) ESPN PLAY 84 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 84 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364093&extension=ts&play_token=5ptyEKWXjM
+#EXTINF:-1 tvg-id="1364094" tvg-name="(AU) ESPN PLAY 85 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 85 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364094&extension=ts&play_token=qzmBHrN37y
+#EXTINF:-1 tvg-id="1364095" tvg-name="(AU) ESPN PLAY 86 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 86 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364095&extension=ts&play_token=4d1zOJkLYF
+#EXTINF:-1 tvg-id="1364096" tvg-name="(AU) ESPN PLAY 87 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 87 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364096&extension=ts&play_token=hulGqnzTHm
+#EXTINF:-1 tvg-id="1364097" tvg-name="(AU) ESPN PLAY 88 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 88 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364097&extension=ts&play_token=hmpEAzDwxo
+#EXTINF:-1 tvg-id="1364098" tvg-name="(AU) ESPN PLAY 89 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 89 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364098&extension=ts&play_token=iMnWCgUMxG
+#EXTINF:-1 tvg-id="1364099" tvg-name="(AU) ESPN PLAY 90 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 90 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364099&extension=ts&play_token=74Lo2nkTT5
+#EXTINF:-1 tvg-id="1364100" tvg-name="(AU) ESPN PLAY 91 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 91 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364100&extension=ts&play_token=cyUH2fvNH2
+#EXTINF:-1 tvg-id="1364101" tvg-name="(AU) ESPN PLAY 92 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 92 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364101&extension=ts&play_token=fUjd3ZcmG7
+#EXTINF:-1 tvg-id="1364102" tvg-name="(AU) ESPN PLAY 93 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 93 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364102&extension=ts&play_token=v5R9M5u1JJ
+#EXTINF:-1 tvg-id="1364103" tvg-name="(AU) ESPN PLAY 94 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 94 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364103&extension=ts&play_token=TNJ1KzKiaY
+#EXTINF:-1 tvg-id="1364104" tvg-name="(AU) ESPN PLAY 95 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 95 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364104&extension=ts&play_token=3lRC9CJjF9
+#EXTINF:-1 tvg-id="1364105" tvg-name="(AU) ESPN PLAY 96 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 96 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364105&extension=ts&play_token=Lv3qNYFyRx
+#EXTINF:-1 tvg-id="1364106" tvg-name="(AU) ESPN PLAY 97 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 97 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364106&extension=ts&play_token=cBTEZHKCx6
+#EXTINF:-1 tvg-id="1364107" tvg-name="(AU) ESPN PLAY 98 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 98 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364107&extension=ts&play_token=5DBBLAJVyV
+#EXTINF:-1 tvg-id="1364108" tvg-name="(AU) ESPN PLAY 99 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 99 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364108&extension=ts&play_token=1apaXT6IE8
+#EXTINF:-1 tvg-id="1364109" tvg-name="(AU) ESPN PLAY 100 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| ESPN PLAY PPV",(AU) ESPN PLAY 100 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1364109&extension=ts&play_token=3WC7nGhLtj
 #EXTINF:-1 tvg-id="136724" tvg-name="ANTENA 3 INT." tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ANTENA3.png" group-title="ES| TDT ESPAÑA VIP",ANTENA 3 INT.
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=136724&extension=ts&play_token=Z58yUydLjl
 #EXTINF:-1 tvg-id="1384166" tvg-name="HARRY POTTER" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",HARRY POTTER
@@ -593,6 +793,206 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1414094&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1414095&extension=ts&play_token=yUPKzCuqRj
 #EXTINF:-1 tvg-id="1414096" tvg-name="NETFLIX KIDS" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",NETFLIX KIDS
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1414096&extension=ts&play_token=nqV4naHVJi
+#EXTINF:-1 tvg-id="1433002" tvg-name="(JM) ESPN PLAY 1 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 1 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433002&extension=ts&play_token=s33EoJxV7i
+#EXTINF:-1 tvg-id="1433003" tvg-name="(JM) ESPN PLAY 2 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 2 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433003&extension=ts&play_token=TeA0UXqxbJ
+#EXTINF:-1 tvg-id="1433004" tvg-name="(JM) ESPN PLAY 3 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 3 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433004&extension=ts&play_token=wnQUdkY3pQ
+#EXTINF:-1 tvg-id="1433005" tvg-name="(JM) ESPN PLAY 4 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 4 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433005&extension=ts&play_token=F2KgyCPGWE
+#EXTINF:-1 tvg-id="1433006" tvg-name="(JM) ESPN PLAY 5 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 5 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433006&extension=ts&play_token=jyiPD6MRtX
+#EXTINF:-1 tvg-id="1433007" tvg-name="(JM) ESPN PLAY 6 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 6 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433007&extension=ts&play_token=WLcc4QoC80
+#EXTINF:-1 tvg-id="1433008" tvg-name="(JM) ESPN PLAY 7 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 7 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433008&extension=ts&play_token=FtX2dd47zx
+#EXTINF:-1 tvg-id="1433009" tvg-name="(JM) ESPN PLAY 8 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 8 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433009&extension=ts&play_token=aQ0Lt0RB4Y
+#EXTINF:-1 tvg-id="1433010" tvg-name="(JM) ESPN PLAY 9 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 9 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433010&extension=ts&play_token=hEqp9BRnjB
+#EXTINF:-1 tvg-id="1433011" tvg-name="(JM) ESPN PLAY 10 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 10 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433011&extension=ts&play_token=lIp1aypCUn
+#EXTINF:-1 tvg-id="1433012" tvg-name="(JM) ESPN PLAY 11 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 11 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433012&extension=ts&play_token=o2I0JBHj6f
+#EXTINF:-1 tvg-id="1433013" tvg-name="(JM) ESPN PLAY 12 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 12 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433013&extension=ts&play_token=d5pnmEy6BF
+#EXTINF:-1 tvg-id="1433014" tvg-name="(JM) ESPN PLAY 13 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 13 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433014&extension=ts&play_token=l55VEJZftw
+#EXTINF:-1 tvg-id="1433015" tvg-name="(JM) ESPN PLAY 14 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 14 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433015&extension=ts&play_token=LgiJOSGQjR
+#EXTINF:-1 tvg-id="1433016" tvg-name="(JM) ESPN PLAY 15 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 15 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433016&extension=ts&play_token=GDYoM8GiGX
+#EXTINF:-1 tvg-id="1433017" tvg-name="(JM) ESPN PLAY 16 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 16 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433017&extension=ts&play_token=VP1Ccolr14
+#EXTINF:-1 tvg-id="1433018" tvg-name="(JM) ESPN PLAY 17 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 17 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433018&extension=ts&play_token=yG9HwZvQRC
+#EXTINF:-1 tvg-id="1433019" tvg-name="(JM) ESPN PLAY 18 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 18 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433019&extension=ts&play_token=vDPKiRDoJc
+#EXTINF:-1 tvg-id="1433020" tvg-name="(JM) ESPN PLAY 19 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 19 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433020&extension=ts&play_token=930RFBW9Dx
+#EXTINF:-1 tvg-id="1433021" tvg-name="(JM) ESPN PLAY 20 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 20 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433021&extension=ts&play_token=MLJQFHDfn7
+#EXTINF:-1 tvg-id="1433022" tvg-name="(JM) ESPN PLAY 21 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 21 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433022&extension=ts&play_token=ByOphC7lL8
+#EXTINF:-1 tvg-id="1433023" tvg-name="(JM) ESPN PLAY 22 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 22 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433023&extension=ts&play_token=pOV5EohFGN
+#EXTINF:-1 tvg-id="1433024" tvg-name="(JM) ESPN PLAY 23 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 23 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433024&extension=ts&play_token=bz3HFMtSpn
+#EXTINF:-1 tvg-id="1433025" tvg-name="(JM) ESPN PLAY 24 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 24 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433025&extension=ts&play_token=oaazo7EU2J
+#EXTINF:-1 tvg-id="1433026" tvg-name="(JM) ESPN PLAY 25 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 25 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433026&extension=ts&play_token=0LYoNqFj1V
+#EXTINF:-1 tvg-id="1433027" tvg-name="(JM) ESPN PLAY 26 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 26 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433027&extension=ts&play_token=cCuO5VWRfp
+#EXTINF:-1 tvg-id="1433028" tvg-name="(JM) ESPN PLAY 27 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 27 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433028&extension=ts&play_token=3erF6F8szO
+#EXTINF:-1 tvg-id="1433029" tvg-name="(JM) ESPN PLAY 28 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 28 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433029&extension=ts&play_token=NZh4lDTR49
+#EXTINF:-1 tvg-id="1433030" tvg-name="(JM) ESPN PLAY 29 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 29 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433030&extension=ts&play_token=TKQ4c0dquo
+#EXTINF:-1 tvg-id="1433031" tvg-name="(JM) ESPN PLAY 30 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 30 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433031&extension=ts&play_token=iFZZz5CN8U
+#EXTINF:-1 tvg-id="1433032" tvg-name="(JM) ESPN PLAY 31 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 31 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433032&extension=ts&play_token=aHOra2uopM
+#EXTINF:-1 tvg-id="1433033" tvg-name="(JM) ESPN PLAY 32 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 32 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433033&extension=ts&play_token=QOpWsiBrhw
+#EXTINF:-1 tvg-id="1433034" tvg-name="(JM) ESPN PLAY 33 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 33 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433034&extension=ts&play_token=rCCo5A0fmP
+#EXTINF:-1 tvg-id="1433035" tvg-name="(JM) ESPN PLAY 34 (D): ESPN Play NHL | Colorado Avalanche vs. Boston Bruins | 01-18-2024 7:00pm" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 34 (D): ESPN Play NHL | Colorado Avalanche vs. Boston Bruins | 01-18-2024 7:00pm
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433035&extension=ts&play_token=uhD506P41P
+#EXTINF:-1 tvg-id="1433036" tvg-name="(JM) ESPN PLAY 35 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 35 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433036&extension=ts&play_token=6dny36uiJl
+#EXTINF:-1 tvg-id="1433037" tvg-name="(JM) ESPN PLAY 36 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 36 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433037&extension=ts&play_token=AtvcOy1Cac
+#EXTINF:-1 tvg-id="1433038" tvg-name="(JM) ESPN PLAY 37 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 37 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433038&extension=ts&play_token=R0rEW67kcY
+#EXTINF:-1 tvg-id="1433039" tvg-name="(JM) ESPN PLAY 38 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 38 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433039&extension=ts&play_token=r8qgiegzGX
+#EXTINF:-1 tvg-id="1433040" tvg-name="(JM) ESPN PLAY 39 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 39 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433040&extension=ts&play_token=XMwSIvWauF
+#EXTINF:-1 tvg-id="1433041" tvg-name="(JM) ESPN PLAY 40 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 40 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433041&extension=ts&play_token=OPmU6bQTyH
+#EXTINF:-1 tvg-id="1433042" tvg-name="(JM) ESPN PLAY 41 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 41 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433042&extension=ts&play_token=N4brIJeCnr
+#EXTINF:-1 tvg-id="1433043" tvg-name="(JM) ESPN PLAY 42 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 42 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433043&extension=ts&play_token=7wBj7v1SiJ
+#EXTINF:-1 tvg-id="1433044" tvg-name="(JM) ESPN PLAY 43 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 43 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433044&extension=ts&play_token=ZgYgzEEV5J
+#EXTINF:-1 tvg-id="1433045" tvg-name="(JM) ESPN PLAY 44 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 44 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433045&extension=ts&play_token=VR7CDH4W32
+#EXTINF:-1 tvg-id="1433046" tvg-name="(JM) ESPN PLAY 45 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 45 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433046&extension=ts&play_token=OZKNnCHxsI
+#EXTINF:-1 tvg-id="1433047" tvg-name="(JM) ESPN PLAY 46 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 46 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433047&extension=ts&play_token=I7UtI2Zmnz
+#EXTINF:-1 tvg-id="1433048" tvg-name="(JM) ESPN PLAY 47 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 47 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433048&extension=ts&play_token=c3ZtEg7ieO
+#EXTINF:-1 tvg-id="1433049" tvg-name="(JM) ESPN PLAY 48 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 48 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433049&extension=ts&play_token=P1OqgH80Yt
+#EXTINF:-1 tvg-id="1433050" tvg-name="(JM) ESPN PLAY 49 (D): ESPN Play NCAAW | #19 Notre Dame vs. Virginia | 01-18-2024 7:00pm" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 49 (D): ESPN Play NCAAW | #19 Notre Dame vs. Virginia | 01-18-2024 7:00pm
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433050&extension=ts&play_token=vuPD9sdMzA
+#EXTINF:-1 tvg-id="1433051" tvg-name="(JM) ESPN PLAY 50 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 50 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433051&extension=ts&play_token=hHmZWqa2YR
+#EXTINF:-1 tvg-id="1433052" tvg-name="(JM) ESPN PLAY 51 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 51 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433052&extension=ts&play_token=u2D9cauBaB
+#EXTINF:-1 tvg-id="1433053" tvg-name="(JM) ESPN PLAY 52 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 52 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433053&extension=ts&play_token=JV095QetuC
+#EXTINF:-1 tvg-id="1433054" tvg-name="(JM) ESPN PLAY 53 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 53 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433054&extension=ts&play_token=S3T1azlBlk
+#EXTINF:-1 tvg-id="1433055" tvg-name="(JM) ESPN PLAY 54 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 54 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433055&extension=ts&play_token=NfRxwPElwz
+#EXTINF:-1 tvg-id="1433056" tvg-name="(JM) ESPN PLAY 55 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 55 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433056&extension=ts&play_token=7n0L2T0Xaf
+#EXTINF:-1 tvg-id="1433057" tvg-name="(JM) ESPN PLAY 56 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 56 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433057&extension=ts&play_token=jDb5Rn39DC
+#EXTINF:-1 tvg-id="1433058" tvg-name="(JM) ESPN PLAY 57 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 57 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433058&extension=ts&play_token=VE9LVCgmCe
+#EXTINF:-1 tvg-id="1433059" tvg-name="(JM) ESPN PLAY 58 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 58 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433059&extension=ts&play_token=hh5mHXWVQf
+#EXTINF:-1 tvg-id="1433060" tvg-name="(JM) ESPN PLAY 59 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 59 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433060&extension=ts&play_token=NuC5JUi495
+#EXTINF:-1 tvg-id="1433061" tvg-name="(JM) ESPN PLAY 60 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 60 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433061&extension=ts&play_token=VtJgjH6NQF
+#EXTINF:-1 tvg-id="1433062" tvg-name="(JM) ESPN PLAY 61 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 61 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433062&extension=ts&play_token=ZIyRLpGFzY
+#EXTINF:-1 tvg-id="1433063" tvg-name="(JM) ESPN PLAY 62 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 62 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433063&extension=ts&play_token=cya9amqUdL
+#EXTINF:-1 tvg-id="1433064" tvg-name="(JM) ESPN PLAY 63 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 63 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433064&extension=ts&play_token=GOgEH1jTOh
+#EXTINF:-1 tvg-id="1433065" tvg-name="(JM) ESPN PLAY 64 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 64 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433065&extension=ts&play_token=2NZkcVoyqq
+#EXTINF:-1 tvg-id="1433066" tvg-name="(JM) ESPN PLAY 65 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 65 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433066&extension=ts&play_token=MN1W3aCM2v
+#EXTINF:-1 tvg-id="1433067" tvg-name="(JM) ESPN PLAY 66 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 66 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433067&extension=ts&play_token=3S2fe6fds4
+#EXTINF:-1 tvg-id="1433068" tvg-name="(JM) ESPN PLAY 67 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 67 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433068&extension=ts&play_token=JkNyA6alCX
+#EXTINF:-1 tvg-id="1433069" tvg-name="(JM) ESPN PLAY 68 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 68 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433069&extension=ts&play_token=7xo0XXzRnR
+#EXTINF:-1 tvg-id="1433070" tvg-name="(JM) ESPN PLAY 69 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 69 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433070&extension=ts&play_token=1CeUCJWuHs
+#EXTINF:-1 tvg-id="1433071" tvg-name="(JM) ESPN PLAY 70 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 70 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433071&extension=ts&play_token=i5yU23Gz2z
+#EXTINF:-1 tvg-id="1433072" tvg-name="(JM) ESPN PLAY 71 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 71 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433072&extension=ts&play_token=dZ7LEQHIIj
+#EXTINF:-1 tvg-id="1433073" tvg-name="(JM) ESPN PLAY 72 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 72 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433073&extension=ts&play_token=QVqLjQQH2D
+#EXTINF:-1 tvg-id="1433074" tvg-name="(JM) ESPN PLAY 73 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 73 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433074&extension=ts&play_token=hnv2N2zRxl
+#EXTINF:-1 tvg-id="1433075" tvg-name="(JM) ESPN PLAY 74 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 74 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433075&extension=ts&play_token=hWGYNO7hSS
+#EXTINF:-1 tvg-id="1433076" tvg-name="(JM) ESPN PLAY 75 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 75 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433076&extension=ts&play_token=5aD9PIueMq
+#EXTINF:-1 tvg-id="1433077" tvg-name="(JM) ESPN PLAY 76 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 76 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433077&extension=ts&play_token=MgkXV4kNuH
+#EXTINF:-1 tvg-id="1433078" tvg-name="(JM) ESPN PLAY 77 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 77 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433078&extension=ts&play_token=DHEtS2kdkU
+#EXTINF:-1 tvg-id="1433079" tvg-name="(JM) ESPN PLAY 78 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 78 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433079&extension=ts&play_token=k1gfHDso8V
+#EXTINF:-1 tvg-id="1433080" tvg-name="(JM) ESPN PLAY 79 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 79 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433080&extension=ts&play_token=UcMVq22DfL
+#EXTINF:-1 tvg-id="1433081" tvg-name="(JM) ESPN PLAY 80 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 80 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433081&extension=ts&play_token=3ZpU1hUaU5
+#EXTINF:-1 tvg-id="1433082" tvg-name="(JM) ESPN PLAY 81 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 81 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433082&extension=ts&play_token=0LCJ5odH2U
+#EXTINF:-1 tvg-id="1433083" tvg-name="(JM) ESPN PLAY 82 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 82 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433083&extension=ts&play_token=ldeRJDf2q2
+#EXTINF:-1 tvg-id="1433084" tvg-name="(JM) ESPN PLAY 83 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 83 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433084&extension=ts&play_token=1Uw9AccWim
+#EXTINF:-1 tvg-id="1433085" tvg-name="(JM) ESPN PLAY 84 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 84 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433085&extension=ts&play_token=ulvfUVM4S5
+#EXTINF:-1 tvg-id="1433086" tvg-name="(JM) ESPN PLAY 85 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 85 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433086&extension=ts&play_token=zaDg2LGrAt
+#EXTINF:-1 tvg-id="1433087" tvg-name="(JM) ESPN PLAY 86 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 86 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433087&extension=ts&play_token=4KR5GlJpai
+#EXTINF:-1 tvg-id="1433088" tvg-name="(JM) ESPN PLAY 87 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 87 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433088&extension=ts&play_token=hW5uLlUDYA
+#EXTINF:-1 tvg-id="1433089" tvg-name="(JM) ESPN PLAY 88 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 88 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433089&extension=ts&play_token=GNXToJXpwM
+#EXTINF:-1 tvg-id="1433090" tvg-name="(JM) ESPN PLAY 89 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 89 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433090&extension=ts&play_token=clo2npt6Un
+#EXTINF:-1 tvg-id="1433091" tvg-name="(JM) ESPN PLAY 90 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 90 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433091&extension=ts&play_token=18p5MbgheZ
+#EXTINF:-1 tvg-id="1433092" tvg-name="(JM) ESPN PLAY 91 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 91 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433092&extension=ts&play_token=3oGNUa8R9W
+#EXTINF:-1 tvg-id="1433093" tvg-name="(JM) ESPN PLAY 92 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 92 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433093&extension=ts&play_token=hzS7mZmhs4
+#EXTINF:-1 tvg-id="1433094" tvg-name="(JM) ESPN PLAY 93 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 93 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433094&extension=ts&play_token=X3irKhJP1j
+#EXTINF:-1 tvg-id="1433095" tvg-name="(JM) ESPN PLAY 94 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 94 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433095&extension=ts&play_token=TCRmq0yOQl
+#EXTINF:-1 tvg-id="1433096" tvg-name="(JM) ESPN PLAY 95 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 95 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433096&extension=ts&play_token=vpmMCSenI5
+#EXTINF:-1 tvg-id="1433097" tvg-name="(JM) ESPN PLAY 96 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 96 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433097&extension=ts&play_token=w4oMkTEdzw
+#EXTINF:-1 tvg-id="1433098" tvg-name="(JM) ESPN PLAY 97 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 97 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433098&extension=ts&play_token=eA9efgSJTv
+#EXTINF:-1 tvg-id="1433099" tvg-name="(JM) ESPN PLAY 98 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 98 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433099&extension=ts&play_token=GkixcUHnir
+#EXTINF:-1 tvg-id="1433100" tvg-name="(JM) ESPN PLAY 99 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 99 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433100&extension=ts&play_token=bZ5YVtrED7
+#EXTINF:-1 tvg-id="1433101" tvg-name="(JM) ESPN PLAY 100 (D)" tvg-logo="http://picons.cmshulk.com/picons/espn.png" group-title="ES| CRB| ESPN PLAY PPV",(JM) ESPN PLAY 100 (D)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1433101&extension=ts&play_token=C1DJXfsWor
 #EXTINF:-1 tvg-id="1437222" tvg-name="NETFLIX ACCIÓN 4K" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX ACCIÓN 4K
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1437222&extension=ts&play_token=qZkQuzrE9w
 #EXTINF:-1 tvg-id="1437223" tvg-name="NETFLIX COMEDIA 4K" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/NETFLIX.png" group-title="ES| 24/7 ESPAÑA",NETFLIX COMEDIA 4K
@@ -1563,6 +1963,106 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1624751&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1624784&extension=ts&play_token=rWA1st8n9L
 #EXTINF:-1 tvg-id="1624785" tvg-name="RMC MYSTÈRE HD" tvg-logo="http://51.158.145.100/picons/logos/france/1624785.png" group-title="FR| FRANCE HD",RMC MYSTÈRE HD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1624785&extension=ts&play_token=E05TYzN19l
+#EXTINF:-1 tvg-id="1629405" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 50" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 50
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629405&extension=ts&play_token=vPfsMOaLKL
+#EXTINF:-1 tvg-id="1629406" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 49" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 49
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629406&extension=ts&play_token=9Vq5znODyd
+#EXTINF:-1 tvg-id="1629407" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 48" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 48
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629407&extension=ts&play_token=Nt4Bq5quM9
+#EXTINF:-1 tvg-id="1629408" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 47" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 47
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629408&extension=ts&play_token=Sv2jllmSMU
+#EXTINF:-1 tvg-id="1629409" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 46" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 46
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629409&extension=ts&play_token=ubT6xrHptL
+#EXTINF:-1 tvg-id="1629410" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 45" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 45
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629410&extension=ts&play_token=vOPQoAVCGi
+#EXTINF:-1 tvg-id="1629411" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 44" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 44
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629411&extension=ts&play_token=rtxz9tT2gB
+#EXTINF:-1 tvg-id="1629412" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 43" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 43
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629412&extension=ts&play_token=w9TeDv3LMz
+#EXTINF:-1 tvg-id="1629413" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 42" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 42
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629413&extension=ts&play_token=JyJ0fRDmXC
+#EXTINF:-1 tvg-id="1629414" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 41" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 41
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629414&extension=ts&play_token=F5qi9vrz6r
+#EXTINF:-1 tvg-id="1629415" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 40" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 40
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629415&extension=ts&play_token=cCUQD83snT
+#EXTINF:-1 tvg-id="1629416" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 39" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 39
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629416&extension=ts&play_token=CmdyrJKChQ
+#EXTINF:-1 tvg-id="1629417" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 38" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 38
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629417&extension=ts&play_token=1NMV4cntO4
+#EXTINF:-1 tvg-id="1629418" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 37" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 37
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629418&extension=ts&play_token=hq5Z0lZ3E3
+#EXTINF:-1 tvg-id="1629419" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 36" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 36
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629419&extension=ts&play_token=rP69DtDXoQ
+#EXTINF:-1 tvg-id="1629420" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 35" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 35
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629420&extension=ts&play_token=Q6C2CL67HZ
+#EXTINF:-1 tvg-id="1629421" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 34" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 34
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629421&extension=ts&play_token=EIjvWejmJp
+#EXTINF:-1 tvg-id="1629422" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 33" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 33
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629422&extension=ts&play_token=ewrUYFzZHA
+#EXTINF:-1 tvg-id="1629423" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 32" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 32
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629423&extension=ts&play_token=az3xydQcu4
+#EXTINF:-1 tvg-id="1629424" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 31" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 31
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629424&extension=ts&play_token=P07pwwDeCA
+#EXTINF:-1 tvg-id="1629425" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 30" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 30
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629425&extension=ts&play_token=yLuUQXmlyY
+#EXTINF:-1 tvg-id="1629426" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 29" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 29
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629426&extension=ts&play_token=BiQrpbW7x0
+#EXTINF:-1 tvg-id="1629427" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 28" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 28
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629427&extension=ts&play_token=aq2WZ2haMH
+#EXTINF:-1 tvg-id="1629428" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 27" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 27
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629428&extension=ts&play_token=3HunEKaII9
+#EXTINF:-1 tvg-id="1629429" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 26" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 26
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629429&extension=ts&play_token=qW8uJ8XmZD
+#EXTINF:-1 tvg-id="1629430" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 25" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 25
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629430&extension=ts&play_token=lxrTb2I43u
+#EXTINF:-1 tvg-id="1629431" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 24" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 24
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629431&extension=ts&play_token=z8ZToLTPV6
+#EXTINF:-1 tvg-id="1629432" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 23" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 23
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629432&extension=ts&play_token=bxGIlGfs9M
+#EXTINF:-1 tvg-id="1629433" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 22" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 22
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629433&extension=ts&play_token=yPXRP8CqKu
+#EXTINF:-1 tvg-id="1629434" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 21" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 21
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629434&extension=ts&play_token=UyI1m3vGnZ
+#EXTINF:-1 tvg-id="1629435" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 20" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 20
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629435&extension=ts&play_token=RkfsY2eH0O
+#EXTINF:-1 tvg-id="1629436" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 19" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 19
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629436&extension=ts&play_token=gZtdGW3IuF
+#EXTINF:-1 tvg-id="1629437" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 18" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 18
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629437&extension=ts&play_token=WNMPAixGnK
+#EXTINF:-1 tvg-id="1629438" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 17" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 17
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629438&extension=ts&play_token=VAItyKIOPb
+#EXTINF:-1 tvg-id="1629439" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 16" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 16
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629439&extension=ts&play_token=jsmJ6wWHL3
+#EXTINF:-1 tvg-id="1629440" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 15" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 15
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629440&extension=ts&play_token=9B4P5FPDxQ
+#EXTINF:-1 tvg-id="1629441" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 14" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 14
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629441&extension=ts&play_token=B06352794n
+#EXTINF:-1 tvg-id="1629442" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 13" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 13
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629442&extension=ts&play_token=vuFCzkYn4i
+#EXTINF:-1 tvg-id="1629443" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 12" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 12
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629443&extension=ts&play_token=aqfV6j2OXI
+#EXTINF:-1 tvg-id="1629444" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 11" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 11
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629444&extension=ts&play_token=iZbgAduQQQ
+#EXTINF:-1 tvg-id="1629445" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 10" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 10
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629445&extension=ts&play_token=LR8G2ZvaoE
+#EXTINF:-1 tvg-id="1629446" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 9" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 9
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629446&extension=ts&play_token=98fmsh6b3t
+#EXTINF:-1 tvg-id="1629447" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 8" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 8
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629447&extension=ts&play_token=hY8oXsNzOU
+#EXTINF:-1 tvg-id="1629448" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 7" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 7
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629448&extension=ts&play_token=mIbOBYUdhz
+#EXTINF:-1 tvg-id="1629449" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 6
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629449&extension=ts&play_token=1jSgKhrfuI
+#EXTINF:-1 tvg-id="1629450" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 5
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629450&extension=ts&play_token=e9CwwFm2Zp
+#EXTINF:-1 tvg-id="1629451" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 4
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629451&extension=ts&play_token=VihtKVUGPA
+#EXTINF:-1 tvg-id="1629452" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 3
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629452&extension=ts&play_token=gd3AOJu1X3
+#EXTINF:-1 tvg-id="1629453" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 2
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629453&extension=ts&play_token=j0hcaZIApY
+#EXTINF:-1 tvg-id="1629454" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="ES| ESPN PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: ESPN PPV 1
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1629454&extension=ts&play_token=WPvCGeuz6o
 #EXTINF:-1 tvg-id="164004" tvg-name="DMAX" tvg-logo="http://51.158.145.100/picons/logos/UK/164004.png" group-title="EN| DOCUMENTARY",DMAX
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=164004&extension=ts&play_token=QX32UNgAJj
 #EXTINF:-1 tvg-id="164005" tvg-name="5 SELECT" tvg-logo="http://51.158.145.100/picons/logos/UK/164005.png" group-title="EN| DOCUMENTARY",5 SELECT
@@ -1737,6 +2237,18 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1688696&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1688697&extension=ts&play_token=06GL4HDibI
 #EXTINF:-1 tvg-id="1688698" tvg-name="ES: LALIGA+ PPV 1 - NO EVENT STREAMING -" tvg-logo="http://103.176.90.92/images/1688698.png" group-title="ES| LALIGA+ PPV",ES: LALIGA+ PPV 1 - NO EVENT STREAMING -
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1688698&extension=ts&play_token=YQVAIVacVA
+#EXTINF:-1 tvg-id="1718746" tvg-name="DISNEY+ ESPN 6 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="ES| ESPN/DISNEY+ SPORT",DISNEY+ ESPN 6 ᴴᴰ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1718746&extension=ts&play_token=GfZaWdwwg7
+#EXTINF:-1 tvg-id="1718747" tvg-name="DISNEY+ ESPN 5 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="ES| ESPN/DISNEY+ SPORT",DISNEY+ ESPN 5 ᴴᴰ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1718747&extension=ts&play_token=TOg8vEPxHx
+#EXTINF:-1 tvg-id="1718748" tvg-name="DISNEY+ ESPN 4 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="ES| ESPN/DISNEY+ SPORT",DISNEY+ ESPN 4 ᴴᴰ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1718748&extension=ts&play_token=SL1cZkrD5l
+#EXTINF:-1 tvg-id="1718749" tvg-name="DISNEY+ ESPN 3 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="ES| ESPN/DISNEY+ SPORT",DISNEY+ ESPN 3 ᴴᴰ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1718749&extension=ts&play_token=ra2LlaCacl
+#EXTINF:-1 tvg-id="1718750" tvg-name="DISNEY+ ESPN 2 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/logos/DISNEY-PLUS-ESPN.png" group-title="ES| ESPN/DISNEY+ SPORT",DISNEY+ ESPN 2 ᴴᴰ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1718750&extension=ts&play_token=BxGzOkYxuR
+#EXTINF:-1 tvg-id="1718751" tvg-name="DISNEY+ ESPN ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/1718751.png" group-title="ES| ESPN/DISNEY+ SPORT",DISNEY+ ESPN ᴴᴰ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1718751&extension=ts&play_token=9sO7RJawYP
 #EXTINF:-1 tvg-id="174330" tvg-name="XTRM SD" tvg-logo="http://103.176.90.95/images/174330.png" group-title="ES| M+ CINE",XTRM SD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=174330&extension=ts&play_token=2YzKMRIXSX
 #EXTINF:-1 tvg-id="174331" tvg-name="ODISEA SD" tvg-logo="http://103.176.90.92/images/174331.png" group-title="ES| DOCUMENTALES",ODISEA SD
@@ -6277,6 +6789,16 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=2117948&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=2117949&extension=ts&play_token=6C1qmJDX1Y
 #EXTINF:-1 tvg-id="2117950" tvg-name="PRIME VIDEO SERIES INFO ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/PRIMEVIDEO.png" group-title="ES| PRIME VIDEO",PRIME VIDEO SERIES INFO ᴴᴰ
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=2117950&extension=ts&play_token=lGBPS5q9WB
+#EXTINF:-1 tvg-id="226905" tvg-name="EST| ETV 1 FHD" tvg-logo="http://picons.cmshulk.com/picons/226905.png" group-title="ES| EST| ESTONIA",EST| ETV 1 FHD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=226905&extension=ts&play_token=gBUpHdBkxj
+#EXTINF:-1 tvg-id="226906" tvg-name="EST| ETV 2" tvg-logo="http://picons.cmshulk.com/picons/226906.png" group-title="ES| EST| ESTONIA",EST| ETV 2
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=226906&extension=ts&play_token=c9RVt96xUO
+#EXTINF:-1 tvg-id="226907" tvg-name="EST| ETV+ HD" tvg-logo="http://picons.cmshulk.com/picons/226907.png" group-title="ES| EST| ESTONIA",EST| ETV+ HD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=226907&extension=ts&play_token=8hhyA4ouH5
+#EXTINF:-1 tvg-id="226921" tvg-name="EST| SETANTA SPORTS FHD" tvg-logo="http://picons.cmshulk.com/picons/226921.png" group-title="ES| EST| ESTONIA",EST| SETANTA SPORTS FHD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=226921&extension=ts&play_token=hhc4nkwnaW
+#EXTINF:-1 tvg-id="226924" tvg-name="EST| TV 7  STI FI" tvg-logo="http://picons.cmshulk.com/picons/226924.png" group-title="ES| EST| ESTONIA",EST| TV 7  STI FI
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=226924&extension=ts&play_token=BZbvgMMuf0
 #EXTINF:-1 tvg-id="228475" tvg-name="BUENVIAJE SD" tvg-logo="http://103.176.90.92/images/228475.png" group-title="ES| DOCUMENTALES",BUENVIAJE SD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=228475&extension=ts&play_token=IzaADPeu7G
 #EXTINF:-1 tvg-id="228476" tvg-name="13 TV SD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/13TV.png" group-title="ES| TDT ESPAÑA VIP",13 TV SD
