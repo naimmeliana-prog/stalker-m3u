@@ -57,16 +57,20 @@ def _clean_series_name(title):
 
 def _title_lang(title):
     raw = str(title or "").strip()
+    t_upper = raw.upper()
+    match = re.match(r"^(ES|FR|UK|EN)\b", t_upper)
+    if match:
+        val = match.group(1)
+        return "UK" if val == "EN" else val
     if raw.startswith("|"):
         parts = raw.split("|")
         val = parts[1].strip() if len(parts) > 1 else ""
         if val in ["ES", "FR", "UK", "EN"]:
-            return val
+            return "UK" if val == "EN" else val
     if "|" in raw:
         val = raw.split("|", 1)[0].strip()
         if val in ["ES", "FR", "UK", "EN"]:
-            return val
-    t_upper = raw.upper()
+            return "UK" if val == "EN" else val
     if any(k in t_upper for k in ["ESPAÑA", "ESPANA", "SPAIN", "SPANISH", "CASTELLANO", "ES |", "| ES"]):
         return "ES"
     if any(k in t_upper for k in ["FRANCE", "FRENCH", "FR |", "| FR"]):
@@ -462,7 +466,7 @@ def _write_m3u(path, entries):
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8", newline="\n") as fh:
         fh.write("#EXTM3U\n")
-        fh.writelines(sorted(entries))
+        fh.writelines(sorted(x for x in entries if x is not None))
     os.replace(tmp, path)
 
 

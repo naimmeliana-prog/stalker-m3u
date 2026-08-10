@@ -81,16 +81,20 @@ def load_config():
 
 def lang_prefix(title):
     t = str(title or "").strip()
+    t_upper = t.upper()
+    match = re.match(r"^(ES|FR|UK|EN)\b", t_upper)
+    if match:
+        val = match.group(1)
+        return "UK" if val == "EN" else val
     if t.startswith("|"):
         parts = t.split("|")
         val = parts[1].strip() if len(parts) > 1 else ""
         if val in ["ES", "FR", "UK", "EN"]:
-            return val
+            return "UK" if val == "EN" else val
     if "|" in t:
         val = t.split("|", 1)[0].strip()
         if val in ["ES", "FR", "UK", "EN"]:
-            return val
-    t_upper = t.upper()
+            return "UK" if val == "EN" else val
     if any(k in t_upper for k in ["ESPAÑA", "ESPANA", "SPAIN", "SPANISH", "CASTELLANO", "ES |", "| ES"]):
         return "ES"
     if any(k in t_upper for k in ["FRANCE", "FRENCH", "FR |", "| FR"]):
