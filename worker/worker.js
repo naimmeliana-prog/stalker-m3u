@@ -341,27 +341,51 @@ export default {
 
     if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
       const sid = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
-      const mapFile = parts[0] === "live" ? "live_urls.json" : "vod_urls.json";
-      const urls = await fetchData(dataBase + mapFile, 600);
-      const target = urls[sid];
-      if (!target) {
-        return corsJson({}, 404);
-      }
-      let finalTarget = target;
-      if (target.includes("localhost") || !target.startsWith("http")) {
+      let finalTarget = "";
+      
+      if (parts[0] === "live") {
         try {
           const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
           const configRes = await fetch(configUrl);
           if (configRes.ok) {
             const config = await configRes.json();
             if (config.portal && config.mac) {
-              const type = parts[0] === "live" ? "itv" : "vod";
-              finalTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
+              const cmd = `ffmpeg http://localhost/ch/${sid}_`;
+              finalTarget = await resolveStalkerLink(config.portal, config.mac, cmd, "itv");
             }
           }
         } catch (e) {
-          console.error("Dynamic stream resolution failed:", e);
+          console.error("Dynamic live stream resolution failed, using fallback:", e);
         }
+      }
+
+      if (!finalTarget) {
+        const mapFile = parts[0] === "live" ? "live_urls.json" : "vod_urls.json";
+        const urls = await fetchData(dataBase + mapFile, 600);
+        const target = urls[sid];
+        if (!target) {
+          return corsJson({}, 404);
+        }
+        finalTarget = target;
+        if (target.includes("localhost") || !target.startsWith("http")) {
+          try {
+            const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+            const configRes = await fetch(configUrl);
+            if (configRes.ok) {
+              const config = await configRes.json();
+              if (config.portal && config.mac) {
+                const type = parts[0] === "live" ? "itv" : "vod";
+                finalTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
+              }
+            }
+          } catch (e) {
+            console.error("Dynamic fallback stream resolution failed:", e);
+          }
+        }
+      }
+
+      if (!finalTarget) {
+        return corsJson({}, 404);
       }
       if (env && env.PROXY_STREAM === "off") {
         return redirectCors(finalTarget);
@@ -371,57 +395,78 @@ export default {
 
     if (parts.length === 3) {
       const sid = decodeURIComponent(parts[2]).replace(/\.\w+$/, "");
+      let finalTarget = "";
+
+      try {
+        const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+        const configRes = await fetch(configUrl);
+        if (configRes.ok) {
+          const config = await configRes.json();
+          if (config.portal && config.mac) {
+            const cmd = `ffmpeg http://localhost/ch/${sid}_`;
+            finalTarget = await resolveStalkerLink(config.portal, config.mac, cmd, "itv");
+          }
+        }
+      } catch (e) {}
+
+      if (finalTarget) {
+        return redirectCors(finalTarget);
+      }
+
       const live = await fetchData(dataBase + "live_urls.json", 600);
       if (live[sid]) {
-        let finalTarget = live[sid];
-        if (finalTarget.includes("localhost") || !finalTarget.startsWith("http")) {
+        let fallbackTarget = live[sid];
+        if (fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) {
           try {
             const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
             const configRes = await fetch(configUrl);
             if (configRes.ok) {
               const config = await configRes.json();
               if (config.portal && config.mac) {
-                finalTarget = await resolveStalkerLink(config.portal, config.mac, finalTarget, "itv");
+                fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "itv");
               }
             }
           } catch (e) {}
         }
-        return redirectCors(finalTarget);
+        return redirectCors(fallbackTarget);
       }
+
       const vod = await fetchData(dataBase + "vod_urls.json", 600);
       if (vod[sid]) {
-        let finalTarget = vod[sid];
-        if (finalTarget.includes("localhost") || !finalTarget.startsWith("http")) {
+        let fallbackTarget = vod[sid];
+        if (fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) {
           try {
             const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
             const configRes = await fetch(configUrl);
             if (configRes.ok) {
               const config = await configRes.json();
               if (config.portal && config.mac) {
-                finalTarget = await resolveStalkerLink(config.portal, config.mac, finalTarget, "vod");
+                fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
               }
             }
           } catch (e) {}
         }
-        return redirectCors(finalTarget);
+        return redirectCors(fallbackTarget);
       }
+
       const streams = await fetchData(dataBase + "streams.json", 600);
       if (streams[sid]) {
-        let finalTarget = streams[sid];
-        if (finalTarget.includes("localhost") || !finalTarget.startsWith("http")) {
+        let fallbackTarget = streams[sid];
+        if (fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) {
           try {
             const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
             const configRes = await fetch(configUrl);
             if (configRes.ok) {
               const config = await configRes.json();
               if (config.portal && config.mac) {
-                finalTarget = await resolveStalkerLink(config.portal, config.mac, finalTarget, "vod");
+                fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
               }
             }
           } catch (e) {}
         }
-        return redirectCors(finalTarget);
+        return redirectCors(fallbackTarget);
       }
+
       return corsJson({}, 404);
     }
 
