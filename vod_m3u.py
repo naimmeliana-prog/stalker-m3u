@@ -147,8 +147,10 @@ def select_categories(cats, languages, exclude, remove_fr=None):
         title_lower = title.lower().strip()
         if cid in ["*", "all", "0"] or title_lower in ["all", "todos", "all movies", "todas las peliculas", "tous"]:
             continue
-        up = _norm(title)
-        if any(n in up for n in needles):
+        if any(r in _norm(title) for r in needles):
+            continue
+        lp = lang_prefix(title)
+        if lp not in ["ES", "FR"]:
             continue
         out.append(c)
     return out

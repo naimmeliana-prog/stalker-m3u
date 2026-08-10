@@ -180,6 +180,9 @@ def select_genres(genres, cfg):
             continue
         if any(r in _norm(title) for r in EXCLUDED_REGIONS):
             continue
+        lp = lang_prefix(title)
+        if lp not in ["ES", "FR", "UK"]:
+            continue
         base = clean_name(title)
         if remove and any(n in _norm(base) for n in remove):
             continue

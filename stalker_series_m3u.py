@@ -585,6 +585,9 @@ def _run(args):
             continue
         if any(r in _norm(title) for r in banned_regions):
             continue
+        lp = _title_lang(title)
+        if lp not in ["ES", "FR"]:
+            continue
         if cid:
             cat_names[cid] = title
             filtered_cat_ids.append(cid)
