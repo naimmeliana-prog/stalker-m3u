@@ -2006,768 +2006,768 @@ http://backup.xp1.tv:80/play/movie.php?mac=00:1A:79:21:09:C7&stream=99935.mkv&pl
 #EXTINF:-1 tvg-id="99936" tvg-name="UFO (FR)" tvg-logo="http://iptv.jinbox.eu:1339/images/movies/dMtKov3q8stWGcy7UFuRzpMliUy.jpg" group-title="FR| FR - Films",UFO (FR)
 http://backup.xp1.tv:80/play/movie.php?mac=00:1A:79:21:09:C7&stream=99936.mkv&play_token=il2E3P17Ne&type=movie
 #EXTINF:-1 tvg-id="1004" tvg-name="(FR) Cartoon Network 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/cartoon_network_global.png" group-title="FR| FR - France",(FR) Cartoon Network 4K+
-ffmpeg http://localhost/ch/1004_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1004&extension=ts&play_token=XmKMkRFpaM
 #EXTINF:-1 tvg-id="1005" tvg-name="(FR) Action 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/action_fr.png" group-title="FR| FR - Cinéma",(FR) Action 4K+
-ffmpeg http://localhost/ch/1005_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1005&extension=ts&play_token=XihvSTz5pa
 #EXTINF:-1 tvg-id="102359" tvg-name="(UK) BBC Two HD+" tvg-logo="http://tv.iptvboss.net/ch_logo/BBC2.png" group-title="EN| UK - English",(UK) BBC Two HD+
-ffmpeg http://localhost/ch/102359_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=102359&extension=ts&play_token=iP42ooIkKW
 #EXTINF:-1 tvg-id="102360" tvg-name="(UK) BBC One  HD+" tvg-logo="http://tv.iptvboss.net/ch_logo/BBC1.png" group-title="EN| UK - English",(UK) BBC One  HD+
-ffmpeg http://localhost/ch/102360_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=102360&extension=ts&play_token=Yx6cQr6I6z
 #EXTINF:-1 tvg-id="10714" tvg-name="(ES) 24 Horas" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/tve_canal_24horas.png" group-title="ES| ES - España",(ES) 24 Horas
-ffmpeg http://localhost/ch/10714_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=10714&extension=ts&play_token=vIz5sWvzxk
 #EXTINF:-1 tvg-id="10715" tvg-name="(ES) Neox" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/antena_neox.png" group-title="ES| ES - España",(ES) Neox
-ffmpeg http://localhost/ch/10715_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=10715&extension=ts&play_token=9D0DIVhjcI
 #EXTINF:-1 tvg-id="10716" tvg-name="(ES) Divinity" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/divinity_tv_es.png" group-title="ES| ES - España",(ES) Divinity
-ffmpeg http://localhost/ch/10716_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=10716&extension=ts&play_token=MXPEVieeac
 #EXTINF:-1 tvg-id="107766" tvg-name="(ES) LA 2 HD+" tvg-logo="https://i.postimg.cc/mrq7K0dx/TVE-2.png" group-title="ES| ES - España",(ES) LA 2 HD+
-ffmpeg http://localhost/ch/107766_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=107766&extension=ts&play_token=VvpjXjt3rF
 #EXTINF:-1 tvg-id="107767" tvg-name="(ES) LA 1 HD+" tvg-logo="https://i.postimg.cc/htD8m8JY/TVE-1.png" group-title="ES| ES - España",(ES) LA 1 HD+
-ffmpeg http://localhost/ch/107767_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=107767&extension=ts&play_token=vPWrgfFx6X
 #EXTINF:-1 tvg-id="108204" tvg-name="UFC Event 15" tvg-logo="" group-title="EN| UK - Sport",UFC Event 15
-ffmpeg http://localhost/ch/108204_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108204&extension=ts&play_token=2xxLjvdsBE
 #EXTINF:-1 tvg-id="108205" tvg-name="UFC Event 14" tvg-logo="" group-title="EN| UK - Sport",UFC Event 14
-ffmpeg http://localhost/ch/108205_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108205&extension=ts&play_token=whyUQLoESN
 #EXTINF:-1 tvg-id="108206" tvg-name="UFC Event 13" tvg-logo="" group-title="EN| UK - Sport",UFC Event 13
-ffmpeg http://localhost/ch/108206_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108206&extension=ts&play_token=VEyHPcisxg
 #EXTINF:-1 tvg-id="108207" tvg-name="UFC Event 12" tvg-logo="" group-title="EN| UK - Sport",UFC Event 12
-ffmpeg http://localhost/ch/108207_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108207&extension=ts&play_token=GyGpRjdRvr
 #EXTINF:-1 tvg-id="108208" tvg-name="UFC Event 11" tvg-logo="" group-title="EN| UK - Sport",UFC Event 11
-ffmpeg http://localhost/ch/108208_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108208&extension=ts&play_token=PJ0iKIPccJ
 #EXTINF:-1 tvg-id="108209" tvg-name="UFC Event 10" tvg-logo="" group-title="EN| UK - Sport",UFC Event 10
-ffmpeg http://localhost/ch/108209_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108209&extension=ts&play_token=lS4hCapk4Q
 #EXTINF:-1 tvg-id="108210" tvg-name="UFC Event 9" tvg-logo="" group-title="EN| UK - Sport",UFC Event 9
-ffmpeg http://localhost/ch/108210_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108210&extension=ts&play_token=sFO5yyj3cG
 #EXTINF:-1 tvg-id="108211" tvg-name="UFC Event 8" tvg-logo="" group-title="EN| UK - Sport",UFC Event 8
-ffmpeg http://localhost/ch/108211_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108211&extension=ts&play_token=LLabDRk2if
 #EXTINF:-1 tvg-id="108212" tvg-name="UFC Event 7" tvg-logo="" group-title="EN| UK - Sport",UFC Event 7
-ffmpeg http://localhost/ch/108212_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108212&extension=ts&play_token=K28WBOwzMt
 #EXTINF:-1 tvg-id="108213" tvg-name="UFC Event 6" tvg-logo="http://sltv-logo.cms-s.com/logo/USA/PPV%20Channels.png" group-title="EN| UK - Sport",UFC Event 6
-ffmpeg http://localhost/ch/108213_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108213&extension=ts&play_token=CIHgzTkjpq
 #EXTINF:-1 tvg-id="108214" tvg-name="UFC Event 5" tvg-logo="http://tv.iptvboss.net/ch_logo/UFC_Logo.svg.png" group-title="EN| UK - Sport",UFC Event 5
-ffmpeg http://localhost/ch/108214_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108214&extension=ts&play_token=8008DCeaPX
 #EXTINF:-1 tvg-id="108215" tvg-name="UFC Event 4" tvg-logo="http://tv.iptvboss.net/ch_logo/UFC_Logo.svg.png" group-title="EN| UK - Sport",UFC Event 4
-ffmpeg http://localhost/ch/108215_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108215&extension=ts&play_token=3brNq4p45C
 #EXTINF:-1 tvg-id="108216" tvg-name="UFC Event 3" tvg-logo="http://tv.iptvboss.net/ch_logo/UFC_Logo.svg.png" group-title="EN| UK - Sport",UFC Event 3
-ffmpeg http://localhost/ch/108216_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108216&extension=ts&play_token=g1srCd61iR
 #EXTINF:-1 tvg-id="108217" tvg-name="UFC Event 2" tvg-logo="http://tv.iptvboss.net/ch_logo/UFC_Logo.svg.png" group-title="EN| UK - Sport",UFC Event 2
-ffmpeg http://localhost/ch/108217_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108217&extension=ts&play_token=m1NBW8MMjV
 #EXTINF:-1 tvg-id="108218" tvg-name="UFC Event 1" tvg-logo="" group-title="EN| UK - Sport",UFC Event 1
-ffmpeg http://localhost/ch/108218_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=108218&extension=ts&play_token=z77OeUDj83
 #EXTINF:-1 tvg-id="109870" tvg-name="(UK) BT Sport 5 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 5 4K+
-ffmpeg http://localhost/ch/109870_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=109870&extension=ts&play_token=sLGFnacvnS
 #EXTINF:-1 tvg-id="109871" tvg-name="(UK) BT Sport 6 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 6 4K+
-ffmpeg http://localhost/ch/109871_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=109871&extension=ts&play_token=9j32lafoHb
 #EXTINF:-1 tvg-id="109872" tvg-name="(UK) BT Sport 7 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 7 4K+
-ffmpeg http://localhost/ch/109872_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=109872&extension=ts&play_token=rnScpnva1I
 #EXTINF:-1 tvg-id="109873" tvg-name="(UK) BT Sport 8 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 8 4K+
-ffmpeg http://localhost/ch/109873_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=109873&extension=ts&play_token=RTVTxkm0Fc
 #EXTINF:-1 tvg-id="109874" tvg-name="(UK) BT Sport 9 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 9 4K+
-ffmpeg http://localhost/ch/109874_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=109874&extension=ts&play_token=6rNZP2cq7c
 #EXTINF:-1 tvg-id="1099" tvg-name="(ES) LA 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/tve_la2.png" group-title="ES| ES - España",(ES) LA 2 4K+
-ffmpeg http://localhost/ch/1099_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1099&extension=ts&play_token=aLfIyVRAz0
 #EXTINF:-1 tvg-id="1100" tvg-name="(ES) Cuatro 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/cuatro_es.png" group-title="ES| ES - España",(ES) Cuatro 4K+
-ffmpeg http://localhost/ch/1100_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1100&extension=ts&play_token=sxiRHvtyqt
 #EXTINF:-1 tvg-id="1101" tvg-name="(ES) Telecinco 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/telecinco.png" group-title="ES| ES - España",(ES) Telecinco 4K+
-ffmpeg http://localhost/ch/1101_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1101&extension=ts&play_token=qWcSb0ccFa
 #EXTINF:-1 tvg-id="1102" tvg-name="(ES) Nova" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/antena_nova.png" group-title="ES| ES - España",(ES) Nova
-ffmpeg http://localhost/ch/1102_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1102&extension=ts&play_token=9Hn6BdDDY3
 #EXTINF:-1 tvg-id="1103" tvg-name="(ES) #0 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/%230.png" group-title="ES| ES - Cine",(ES) #0 4K+
-ffmpeg http://localhost/ch/1103_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1103&extension=ts&play_token=CqdVGecqHu
 #EXTINF:-1 tvg-id="1106" tvg-name="(ES) Be Mad" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/ae_us.png" group-title="ES| ES - España",(ES) Be Mad
-ffmpeg http://localhost/ch/1106_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1106&extension=ts&play_token=5WulOkon6Z
 #EXTINF:-1 tvg-id="1113" tvg-name="(ES) Fox Life 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/fox_life_global.png" group-title="ES| ES - España",(ES) Fox Life 4K+
-ffmpeg http://localhost/ch/1113_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1113&extension=ts&play_token=pd2ZKaiEwb
 #EXTINF:-1 tvg-id="11400" tvg-name="(UK) Sky Sports Action 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_action.png" group-title="EN| UK - Sport",(UK) Sky Sports Action 4K+
-ffmpeg http://localhost/ch/11400_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11400&extension=ts&play_token=GiwSDLETY3
 #EXTINF:-1 tvg-id="11401" tvg-name="(UK) Sky Sports Golf 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_golf.png" group-title="EN| UK - Sport",(UK) Sky Sports Golf 4K+
-ffmpeg http://localhost/ch/11401_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11401&extension=ts&play_token=CknLrnl5Lu
 #EXTINF:-1 tvg-id="11403" tvg-name="(UK) Racing UK 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/racing_uk.png" group-title="EN| UK - Sport",(UK) Racing UK 4K+
-ffmpeg http://localhost/ch/11403_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11403&extension=ts&play_token=Ou9AftkD2W
 #EXTINF:-1 tvg-id="11404" tvg-name="(UK) RTE 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/rte2.png" group-title="EN| UK - English",(UK) RTE 2 4K+
-ffmpeg http://localhost/ch/11404_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11404&extension=ts&play_token=SSj6OAZH79
 #EXTINF:-1 tvg-id="11408" tvg-name="(UK) Comedy Central 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/comedy_central_us.png" group-title="EN| UK - Music & Kids",(UK) Comedy Central 4K+
-ffmpeg http://localhost/ch/11408_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11408&extension=ts&play_token=JmMziTnuIB
 #EXTINF:-1 tvg-id="11410" tvg-name="(UK) Discovery Turbo" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_turbo_us.png" group-title="EN| UK - English",(UK) Discovery Turbo
-ffmpeg http://localhost/ch/11410_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11410&extension=ts&play_token=IaNyo9esyj
 #EXTINF:-1 tvg-id="11411" tvg-name="(UK) E! 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/e_global_us.png" group-title="EN| UK - English",(UK) E! 4K+
-ffmpeg http://localhost/ch/11411_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11411&extension=ts&play_token=0xet0BH05P
 #EXTINF:-1 tvg-id="11412" tvg-name="(UK) BBC News" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_news.png" group-title="EN| UK - English",(UK) BBC News
-ffmpeg http://localhost/ch/11412_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11412&extension=ts&play_token=NWYFn1TASY
 #EXTINF:-1 tvg-id="11415" tvg-name="(UK) History Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/history_us.png" group-title="EN| UK - English",(UK) History Channel 4K+
-ffmpeg http://localhost/ch/11415_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11415&extension=ts&play_token=5AJus6mNES
 #EXTINF:-1 tvg-id="11418" tvg-name="(UK) Sony Movies 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/true_movies1_uk.png" group-title="EN| UK - Cinema",(UK) Sony Movies 4K+
-ffmpeg http://localhost/ch/11418_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11418&extension=ts&play_token=QO2YFebOrA
 #EXTINF:-1 tvg-id="11419" tvg-name="(UK) Sony Movies +1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ss/sony-movies-us-uk.png" group-title="EN| UK - Cinema",(UK) Sony Movies +1 4K+
-ffmpeg http://localhost/ch/11419_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11419&extension=ts&play_token=hBWZH8Msce
 #EXTINF:-1 tvg-id="11422" tvg-name="(UK) TCM" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/tcm_global.png" group-title="EN| UK - English",(UK) TCM
-ffmpeg http://localhost/ch/11422_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11422&extension=ts&play_token=NW5qbFZSgO
 #EXTINF:-1 tvg-id="11423" tvg-name="(UK) Al Jazeera UK" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/al_jazeera.jpg" group-title="EN| UK - English",(UK) Al Jazeera UK
-ffmpeg http://localhost/ch/11423_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11423&extension=ts&play_token=dSSFvMzAd9
 #EXTINF:-1 tvg-id="11425" tvg-name="(UK) Travel Channel" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/travel_channel_us.png" group-title="EN| UK - English",(UK) Travel Channel
-ffmpeg http://localhost/ch/11425_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11425&extension=ts&play_token=PvhSyLNuUJ
 #EXTINF:-1 tvg-id="11426" tvg-name="(UK) Pick TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/pick_tv_uk.png" group-title="EN| UK - English",(UK) Pick TV
-ffmpeg http://localhost/ch/11426_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11426&extension=ts&play_token=NrOQfkLQzz
 #EXTINF:-1 tvg-id="11428" tvg-name="(UK) More 4" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/channel_4_more4_uk.png" group-title="EN| UK - English",(UK) More 4
-ffmpeg http://localhost/ch/11428_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11428&extension=ts&play_token=0XpE6Sueq2
 #EXTINF:-1 tvg-id="11432" tvg-name="(UK) Sky Cinema Greats 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_greats.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Greats 4K+
-ffmpeg http://localhost/ch/11432_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11432&extension=ts&play_token=Ic9eWmtkvM
 #EXTINF:-1 tvg-id="11433" tvg-name="(UK) NickToons" tvg-logo="http://picons.iptvservicenijmegen.nl/own/nl/nicktoons.png" group-title="EN| UK - Music & Kids",(UK) NickToons
-ffmpeg http://localhost/ch/11433_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11433&extension=ts&play_token=vDfRxlk2WF
 #EXTINF:-1 tvg-id="11434" tvg-name="(UK) Nickelodeon" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/nickelodeon_us.png" group-title="EN| UK - Music & Kids",(UK) Nickelodeon
-ffmpeg http://localhost/ch/11434_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11434&extension=ts&play_token=kPr29qhEAJ
 #EXTINF:-1 tvg-id="11435" tvg-name="(UK) MUTV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mutv.png" group-title="EN| UK - Sport",(UK) MUTV
-ffmpeg http://localhost/ch/11435_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11435&extension=ts&play_token=MHNJwemPO2
 #EXTINF:-1 tvg-id="11436" tvg-name="(UK) Dave 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/dave_uktv.png" group-title="EN| UK - English",(UK) Dave 4K+
-ffmpeg http://localhost/ch/11436_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11436&extension=ts&play_token=JY1A85pbs7
 #EXTINF:-1 tvg-id="11437" tvg-name="(UK) Film 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/film_4_uk.png" group-title="EN| UK - Cinema",(UK) Film 4 4K+
-ffmpeg http://localhost/ch/11437_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11437&extension=ts&play_token=alF0K3T64G
 #EXTINF:-1 tvg-id="11438" tvg-name="(UK) Horror Channel" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/horror_channel_uk.png" group-title="EN| UK - Cinema",(UK) Horror Channel
-ffmpeg http://localhost/ch/11438_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11438&extension=ts&play_token=DVEJ4xMkNf
 #EXTINF:-1 tvg-id="11439" tvg-name="(UK) BT Sport X4 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_4.png" group-title="EN| UK - Sport",(UK) BT Sport X4 (Match Time Only) 4K+
-ffmpeg http://localhost/ch/11439_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11439&extension=ts&play_token=E9fdm8x6Ie
 #EXTINF:-1 tvg-id="11440" tvg-name="(UK) Bloomberg 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/bloomberg_tv_us.png" group-title="EN| UK - English",(UK) Bloomberg 4K+
-ffmpeg http://localhost/ch/11440_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11440&extension=ts&play_token=etogLpIX3o
 #EXTINF:-1 tvg-id="11441" tvg-name="(UK) Baby TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/baby_tv_uk.png" group-title="EN| UK - Music & Kids",(UK) Baby TV
-ffmpeg http://localhost/ch/11441_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11441&extension=ts&play_token=FERnJjRLG7
 #EXTINF:-1 tvg-id="11442" tvg-name="(UK) BT Sport X6 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_6.png" group-title="EN| UK - Sport",(UK) BT Sport X6 (Match Time Only) 4K+
-ffmpeg http://localhost/ch/11442_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11442&extension=ts&play_token=VdBXbzmMvP
 #EXTINF:-1 tvg-id="11443" tvg-name="(UK) CNN News 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/cnn_news.jpg" group-title="EN| UK - English",(UK) CNN News 4K+
-ffmpeg http://localhost/ch/11443_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11443&extension=ts&play_token=aL3sI2kCrU
 #EXTINF:-1 tvg-id="11484" tvg-name="(UK) BT Sport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_1_hd.png" group-title="EN| UK - Sport",(UK) BT Sport 1 4K+
-ffmpeg http://localhost/ch/11484_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11484&extension=ts&play_token=0LLqBSI2rd
 #EXTINF:-1 tvg-id="11485" tvg-name="(UK) BT Sport 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_2_hd.png" group-title="EN| UK - Sport",(UK) BT Sport 2 4K+
-ffmpeg http://localhost/ch/11485_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11485&extension=ts&play_token=862DM2CTmQ
 #EXTINF:-1 tvg-id="11486" tvg-name="(UK) BT Sport 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_3.png" group-title="EN| UK - Sport",(UK) BT Sport 3 4K+
-ffmpeg http://localhost/ch/11486_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=11486&extension=ts&play_token=b6Y32whv0j
 #EXTINF:-1 tvg-id="117792" tvg-name="(FR) Canal+ Foot 4k+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_hd.png" group-title="FR| FR - Sport",(FR) Canal+ Foot 4k+
-ffmpeg http://localhost/ch/117792_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=117792&extension=ts&play_token=gzzeNlnKa0
 #EXTINF:-1 tvg-id="1219" tvg-name="(FR) beIN Sports 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_03_hd.png" group-title="FR| FR - Sport",(FR) beIN Sports 3 4K+
-ffmpeg http://localhost/ch/1219_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1219&extension=ts&play_token=c2X2Jedkf3
 #EXTINF:-1 tvg-id="12661" tvg-name="(UK) BT Sport X5 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_5.png" group-title="EN| UK - Sport",(UK) BT Sport X5 (Match Time Only) 4K+
-ffmpeg http://localhost/ch/12661_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=12661&extension=ts&play_token=P7YmpAP91F
 #EXTINF:-1 tvg-id="13153" tvg-name="(ES) Cosmo 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/cosmopolitan_tv_es.png" group-title="ES| ES - España",(ES) Cosmo 4K+
-ffmpeg http://localhost/ch/13153_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13153&extension=ts&play_token=JIkxG3XLVy
 #EXTINF:-1 tvg-id="13155" tvg-name="(ES) Teledeporte" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/tve_teledeporte.png" group-title="ES| ES - Deporte",(ES) Teledeporte
-ffmpeg http://localhost/ch/13155_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13155&extension=ts&play_token=FCTTWS9jyp
 #EXTINF:-1 tvg-id="13160" tvg-name="(ES) Movistar Cine 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_d_cine.png" group-title="ES| ES - Cine",(ES) Movistar Cine 4K+
-ffmpeg http://localhost/ch/13160_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13160&extension=ts&play_token=PkTXvep0ZA
 #EXTINF:-1 tvg-id="13162" tvg-name="(ES) Movistar Comedia 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/movistar_comedia.png" group-title="ES| ES - Cine",(ES) Movistar Comedia 4K+
-ffmpeg http://localhost/ch/13162_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13162&extension=ts&play_token=wnDhPYigUT
 #EXTINF:-1 tvg-id="13164" tvg-name="(ES) Movistar Accion 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_accion.png" group-title="ES| ES - Cine",(ES) Movistar Accion 4K+
-ffmpeg http://localhost/ch/13164_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13164&extension=ts&play_token=3WJyxv2x9y
 #EXTINF:-1 tvg-id="13167" tvg-name="(ES) AXN 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/axn_global_hd.png" group-title="ES| ES - Cine",(ES) AXN 4K+
-ffmpeg http://localhost/ch/13167_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13167&extension=ts&play_token=NsvhVjdKWX
 #EXTINF:-1 tvg-id="13168" tvg-name="(ES) Caza y Pesca 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/caza_y_pesca_es.png" group-title="ES| ES - España",(ES) Caza y Pesca 4K+
-ffmpeg http://localhost/ch/13168_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13168&extension=ts&play_token=9Bf91axXwM
 #EXTINF:-1 tvg-id="13171" tvg-name="(ES) Fox 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/fox_global.png" group-title="ES| ES - España",(ES) Fox 4K+
-ffmpeg http://localhost/ch/13171_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13171&extension=ts&play_token=OnW0eVLDaU
 #EXTINF:-1 tvg-id="13173" tvg-name="(ES) Eurosport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/eurosport_fr_1_hd.png" group-title="ES| ES - Deporte",(ES) Eurosport 1 4K+
-ffmpeg http://localhost/ch/13173_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13173&extension=ts&play_token=DcBYmfSvFc
 #EXTINF:-1 tvg-id="13175" tvg-name="(ES) AXN White 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/axn_white_es.png" group-title="ES| ES - Cine",(ES) AXN White 4K+
-ffmpeg http://localhost/ch/13175_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13175&extension=ts&play_token=1H5ci0Vzmc
 #EXTINF:-1 tvg-id="13176" tvg-name="(ES) Energy" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/energy_tv_es.png" group-title="ES| ES - España",(ES) Energy
-ffmpeg http://localhost/ch/13176_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13176&extension=ts&play_token=YcDb5onoEm
 #EXTINF:-1 tvg-id="13178" tvg-name="(ES) Comedy Central 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/comedy_central_us.png" group-title="ES| ES - España",(ES) Comedy Central 4K+
-ffmpeg http://localhost/ch/13178_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13178&extension=ts&play_token=Nc2UUzVWMv
 #EXTINF:-1 tvg-id="13182" tvg-name="(ES) Antena 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/antena3.png" group-title="ES| ES - España",(ES) Antena 3 4K+
-ffmpeg http://localhost/ch/13182_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13182&extension=ts&play_token=khZ91GhBDj
 #EXTINF:-1 tvg-id="13251" tvg-name="(UK) beIN Sports 11 (ENG)" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/be_in_mena_sports_11_hd.png" group-title="EN| UK - Sport",(UK) beIN Sports 11 (ENG)
-ffmpeg http://localhost/ch/13251_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=13251&extension=ts&play_token=kQ73ceqn3I
 #EXTINF:-1 tvg-id="1421" tvg-name="(FR) TFX 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/nt1_fr.png" group-title="FR| FR - France",(FR) TFX 4K+
-ffmpeg http://localhost/ch/1421_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1421&extension=ts&play_token=PA8hLKSp5x
 #EXTINF:-1 tvg-id="1422" tvg-name="(FR) Cherie 25 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/cherie_25_fr.png" group-title="FR| FR - France",(FR) Cherie 25 4K+
-ffmpeg http://localhost/ch/1422_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1422&extension=ts&play_token=1xdUjp7mTZ
 #EXTINF:-1 tvg-id="1425" tvg-name="(FR) Mangas 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/mangas_fr.png" group-title="FR| FR - France",(FR) Mangas 4K+
-ffmpeg http://localhost/ch/1425_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1425&extension=ts&play_token=r13gR1e8Ne
 #EXTINF:-1 tvg-id="1426" tvg-name="(FR) Gulli 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/gulli_fr.png" group-title="FR| FR - France",(FR) Gulli 4K+
-ffmpeg http://localhost/ch/1426_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1426&extension=ts&play_token=XDRwDxl027
 #EXTINF:-1 tvg-id="1428" tvg-name="(FR) RMC Decouverte 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/rmc_decouverte.png" group-title="FR| FR - France",(FR) RMC Decouverte 4K+
-ffmpeg http://localhost/ch/1428_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1428&extension=ts&play_token=jzHRfCIwLk
 #EXTINF:-1 tvg-id="1430" tvg-name="(FR) Chasse & Peche 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/chasse_et_peche.png" group-title="FR| FR - France",(FR) Chasse & Peche 4K+
-ffmpeg http://localhost/ch/1430_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1430&extension=ts&play_token=Ef8aIF4gzS
 #EXTINF:-1 tvg-id="143091" tvg-name="(FR) Cine+ Club 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_emotion_hd.png" group-title="FR| FR - Cinéma",(FR) Cine+ Club 4K+
-ffmpeg http://localhost/ch/143091_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143091&extension=ts&play_token=jeDSlwqWkr
 #EXTINF:-1 tvg-id="1431" tvg-name="(FR) Animaux 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/animaux_fr.png" group-title="FR| FR - France",(FR) Animaux 4K+
-ffmpeg http://localhost/ch/1431_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1431&extension=ts&play_token=vZiRD48t5P
 #EXTINF:-1 tvg-id="143124" tvg-name="(FR) TF1 Series Films 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/hd1_fr.png" group-title="FR| FR - Cinéma",(FR) TF1 Series Films 4K+
-ffmpeg http://localhost/ch/143124_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143124&extension=ts&play_token=2voHDxacS4
 #EXTINF:-1 tvg-id="143125" tvg-name="(FR) Tmc 4K+" tvg-logo="https://asiagrandiptv.us/logo//tmc.png" group-title="FR| FR - Cinéma",(FR) Tmc 4K+
-ffmpeg http://localhost/ch/143125_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143125&extension=ts&play_token=9Mp78akpMA
 #EXTINF:-1 tvg-id="143145" tvg-name="(FR) TV Breizh 4K+" tvg-logo="https://asiagrandiptv.us/logo//TVBREIZH.png" group-title="FR| FR - Cinéma",(FR) TV Breizh 4K+
-ffmpeg http://localhost/ch/143145_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143145&extension=ts&play_token=Ag9QS96hsw
 #EXTINF:-1 tvg-id="143147" tvg-name="(FR) Warner TV" tvg-logo="https://asiagrandiptv.us/logo//warnertv.png" group-title="FR| FR - Cinéma",(FR) Warner TV
-ffmpeg http://localhost/ch/143147_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143147&extension=ts&play_token=cJLZd5y4aZ
 #EXTINF:-1 tvg-id="143148" tvg-name="(FR) Altice Studio 4K+" tvg-logo="https://xplanetiptv.com/Logotv/countries/france/altice-studio-fr.png" group-title="FR| FR - Cinéma",(FR) Altice Studio 4K+
-ffmpeg http://localhost/ch/143148_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143148&extension=ts&play_token=VdK6iodEba
 #EXTINF:-1 tvg-id="143149" tvg-name="(FR) Novelas 4K+" tvg-logo="https://asiagrandiptv.us/logo//novelastvafr.png" group-title="FR| FR - Cinéma",(FR) Novelas 4K+
-ffmpeg http://localhost/ch/143149_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143149&extension=ts&play_token=PkwBkK5pMK
 #EXTINF:-1 tvg-id="143160" tvg-name="(FR) Canal+ Formula 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_hd.png" group-title="FR| FR - Sport",(FR) Canal+ Formula 1 4K+
-ffmpeg http://localhost/ch/143160_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143160&extension=ts&play_token=1eeQqKh7Hz
 #EXTINF:-1 tvg-id="143161" tvg-name="(FR) Canal+ Premier League 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_sport.png" group-title="FR| FR - Sport",(FR) Canal+ Premier League 4K+
-ffmpeg http://localhost/ch/143161_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143161&extension=ts&play_token=hlmoH0N0qJ
 #EXTINF:-1 tvg-id="143162" tvg-name="(FR) Golf + Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/canalplus_fr_golf_plus_hd.png" group-title="FR| FR - Sport",(FR) Golf + Channel 4K+
-ffmpeg http://localhost/ch/143162_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143162&extension=ts&play_token=B2mfWkk4dw
 #EXTINF:-1 tvg-id="143163" tvg-name="(FR) Equida Live 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/equidia-fr.png" group-title="FR| FR - Sport",(FR) Equida Live 4K+
-ffmpeg http://localhost/ch/143163_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143163&extension=ts&play_token=j5SAFfa4gc
 #EXTINF:-1 tvg-id="143166" tvg-name="(FR) Trek 4K+" tvg-logo="https://asiagrandiptv.us/logo/trek.png" group-title="FR| FR - Sport",(FR) Trek 4K+
-ffmpeg http://localhost/ch/143166_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143166&extension=ts&play_token=0tvG8WOEVT
 #EXTINF:-1 tvg-id="143167" tvg-name="(FR) L'Equipe 21 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/equidia-fr.png" group-title="FR| FR - Sport",(FR) L'Equipe 21 4K+
-ffmpeg http://localhost/ch/143167_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143167&extension=ts&play_token=cQphTkGbEg
 #EXTINF:-1 tvg-id="143168" tvg-name="(FR) Multisport 1 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 1 4K+
-ffmpeg http://localhost/ch/143168_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143168&extension=ts&play_token=wLkd0DwPVY
 #EXTINF:-1 tvg-id="143169" tvg-name="(FR) Multisport 2 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 2 4K+
-ffmpeg http://localhost/ch/143169_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143169&extension=ts&play_token=ifoxaK2EF3
 #EXTINF:-1 tvg-id="143170" tvg-name="(FR) Multisport 3 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 3 4K+
-ffmpeg http://localhost/ch/143170_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143170&extension=ts&play_token=cP4vy5pDtm
 #EXTINF:-1 tvg-id="143171" tvg-name="(FR) Multisport 4 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 4 4K+
-ffmpeg http://localhost/ch/143171_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143171&extension=ts&play_token=5QzKuartUb
 #EXTINF:-1 tvg-id="143172" tvg-name="(FR) Multisport 5 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 5 4K+
-ffmpeg http://localhost/ch/143172_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143172&extension=ts&play_token=kNKs6h5rpM
 #EXTINF:-1 tvg-id="143173" tvg-name="(FR) Multisport 6 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 6 4K+
-ffmpeg http://localhost/ch/143173_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143173&extension=ts&play_token=hkQIqKt79M
 #EXTINF:-1 tvg-id="1432" tvg-name="(FR) Science & Vie" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/science_et_vie_tv_fr.png" group-title="FR| FR - France",(FR) Science & Vie
-ffmpeg http://localhost/ch/1432_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1432&extension=ts&play_token=6dKynPwhZZ
 #EXTINF:-1 tvg-id="143324" tvg-name="(FR) i24 News 4K+" tvg-logo="https://i.postimg.cc/9fxFwSsN/I24-News.png" group-title="FR| FR - France",(FR) i24 News 4K+
-ffmpeg http://localhost/ch/143324_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143324&extension=ts&play_token=aM5VkLDkvy
 #EXTINF:-1 tvg-id="143325" tvg-name="(FR) Lcp 4K+" tvg-logo="https://i.postimg.cc/yd6GCHhW/LCP-PS.jpg" group-title="FR| FR - France",(FR) Lcp 4K+
-ffmpeg http://localhost/ch/143325_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=143325&extension=ts&play_token=3MHfY2tRrL
 #EXTINF:-1 tvg-id="1438" tvg-name="(FR) C News 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_c_news.png" group-title="FR| FR - France",(FR) C News 4K+
-ffmpeg http://localhost/ch/1438_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1438&extension=ts&play_token=11l05RSoQE
 #EXTINF:-1 tvg-id="146" tvg-name="(FR) France O 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france_o.png" group-title="FR| FR - France",(FR) France O 4K+
-ffmpeg http://localhost/ch/146_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=146&extension=ts&play_token=7c7E6aU8iq
 #EXTINF:-1 tvg-id="147" tvg-name="(FR) France 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france2_hd.png" group-title="FR| FR - France",(FR) France 2 4K+
-ffmpeg http://localhost/ch/147_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=147&extension=ts&play_token=VPyD2HgUFV
 #EXTINF:-1 tvg-id="148" tvg-name="(FR) France 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france3-fr.png" group-title="FR| FR - France",(FR) France 3 4K+
-ffmpeg http://localhost/ch/148_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=148&extension=ts&play_token=s2N4J88UG1
 #EXTINF:-1 tvg-id="149" tvg-name="(FR) France 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france4-fr.png" group-title="FR| FR - France",(FR) France 4 4K+
-ffmpeg http://localhost/ch/149_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=149&extension=ts&play_token=1XO340ohXJ
 #EXTINF:-1 tvg-id="150" tvg-name="(FR) France 5 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france5-fr.png" group-title="FR| FR - France",(FR) France 5 4K+
-ffmpeg http://localhost/ch/150_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=150&extension=ts&play_token=3E6zW6wic1
 #EXTINF:-1 tvg-id="151" tvg-name="(FR) TF1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/tf1_hd.png" group-title="FR| FR - France",(FR) TF1 4K+
-ffmpeg http://localhost/ch/151_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=151&extension=ts&play_token=iZkfCR8zsP
 #EXTINF:-1 tvg-id="151735" tvg-name="(UK) Rangers FC TV (Live for Matches)" tvg-logo="http://www.dfcdirect.co.uk/assets/images/site/dfc_footer_logo.png" group-title="EN| UK - Sport",(UK) Rangers FC TV (Live for Matches)
-ffmpeg http://localhost/ch/151735_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=151735&extension=ts&play_token=shh8UabHOk
 #EXTINF:-1 tvg-id="151736" tvg-name="(UK) Celtic FC TV (Live for Matches)" tvg-logo="http://cdn.celticfc.net/assets/images/web/crest.png" group-title="EN| UK - Sport",(UK) Celtic FC TV (Live for Matches)
-ffmpeg http://localhost/ch/151736_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=151736&extension=ts&play_token=umwIBXqkef
 #EXTINF:-1 tvg-id="152" tvg-name="(FR) Arte 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/arte_fr_hd.png" group-title="FR| FR - France",(FR) Arte 4K+
-ffmpeg http://localhost/ch/152_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=152&extension=ts&play_token=YVByp7Fu9K
 #EXTINF:-1 tvg-id="153" tvg-name="(FR) TMC 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/tt/tmc_ch.png" group-title="FR| FR - France",(FR) TMC 4K+
-ffmpeg http://localhost/ch/153_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=153&extension=ts&play_token=EJQQLsFj4S
 #EXTINF:-1 tvg-id="156" tvg-name="(FR) Canal+ Family" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_family_hd.png" group-title="FR| FR - Cinéma",(FR) Canal+ Family
-ffmpeg http://localhost/ch/156_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=156&extension=ts&play_token=rHH7Y9ZHfk
 #EXTINF:-1 tvg-id="1560" tvg-name="(UK) Channel 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/channel_4_uk.png" group-title="EN| UK - English",(UK) Channel 4 4K+
-ffmpeg http://localhost/ch/1560_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1560&extension=ts&play_token=rqK6Wl2hfc
 #EXTINF:-1 tvg-id="1563" tvg-name="(UK) Discovery Science" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_science_global.png" group-title="EN| UK - English",(UK) Discovery Science
-ffmpeg http://localhost/ch/1563_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1563&extension=ts&play_token=9yJy7s2VAr
 #EXTINF:-1 tvg-id="1564" tvg-name="(UK) Disney Junior 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/disney_junior_us.png" group-title="EN| UK - Music & Kids",(UK) Disney Junior 4K+
-ffmpeg http://localhost/ch/1564_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1564&extension=ts&play_token=unv7kqwKll
 #EXTINF:-1 tvg-id="1566" tvg-name="(UK) E4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/e4_uk.png" group-title="EN| UK - English",(UK) E4 4K+
-ffmpeg http://localhost/ch/1566_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1566&extension=ts&play_token=88gSFzPbcy
 #EXTINF:-1 tvg-id="1568" tvg-name="(UK) Nat Geo Wild 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/nat_geo_wild_us.png" group-title="EN| UK - English",(UK) Nat Geo Wild 4K+
-ffmpeg http://localhost/ch/1568_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1568&extension=ts&play_token=qGMIuxpeOD
 #EXTINF:-1 tvg-id="1569" tvg-name="(UK) RTE One 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/rte1.jpg" group-title="EN| UK - English",(UK) RTE One 4K+
-ffmpeg http://localhost/ch/1569_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1569&extension=ts&play_token=5K3TD9assM
 #EXTINF:-1 tvg-id="157" tvg-name="(FR) Canal+ Sport 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_sport.png" group-title="FR| FR - Sport",(FR) Canal+ Sport 4K+
-ffmpeg http://localhost/ch/157_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=157&extension=ts&play_token=OhJBhKC4Bk
 #EXTINF:-1 tvg-id="1570" tvg-name="(UK) Sky Arts 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_arts.png" group-title="EN| UK - Cinema",(UK) Sky Arts 4K+
-ffmpeg http://localhost/ch/1570_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1570&extension=ts&play_token=Vn83yfzo9p
 #EXTINF:-1 tvg-id="1571" tvg-name="(UK) Sky Sport News 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_news_hq.png" group-title="EN| UK - Sport",(UK) Sky Sport News 4K+
-ffmpeg http://localhost/ch/1571_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1571&extension=ts&play_token=sksSFdlMmK
 #EXTINF:-1 tvg-id="1575" tvg-name="(UK) Sky Atlantic 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_atlantic.png" group-title="EN| UK - Cinema",(UK) Sky Atlantic 4K+
-ffmpeg http://localhost/ch/1575_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1575&extension=ts&play_token=MFy5K7dwgr
 #EXTINF:-1 tvg-id="158" tvg-name="(FR) beIN Sports 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="FR| FR - Sport",(FR) beIN Sports 1 4K+
-ffmpeg http://localhost/ch/158_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=158&extension=ts&play_token=XuxaO0rBbw
 #EXTINF:-1 tvg-id="1580" tvg-name="(UK) MTV Music" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_music_uk.png" group-title="EN| UK - Music & Kids",(UK) MTV Music
-ffmpeg http://localhost/ch/1580_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1580&extension=ts&play_token=RSIktyqucc
 #EXTINF:-1 tvg-id="1581" tvg-name="(UK) Nick Jr" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/nick_jr_us.png" group-title="EN| UK - Music & Kids",(UK) Nick Jr
-ffmpeg http://localhost/ch/1581_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1581&extension=ts&play_token=DMtUSzxFZf
 #EXTINF:-1 tvg-id="1582" tvg-name="(UK) Sky One 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_1.png" group-title="EN| UK - Cinema",(UK) Sky One 4K+
-ffmpeg http://localhost/ch/1582_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1582&extension=ts&play_token=OMNYokJpWQ
 #EXTINF:-1 tvg-id="15876" tvg-name="(UK) VH1 Classic" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/vh1_classic_europe.png" group-title="EN| UK - Music & Kids",(UK) VH1 Classic
-ffmpeg http://localhost/ch/15876_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=15876&extension=ts&play_token=R37xMZ6tfh
 #EXTINF:-1 tvg-id="159" tvg-name="(FR) beIN Sports 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_02_hd.png" group-title="FR| FR - Sport",(FR) beIN Sports 2 4K+
-ffmpeg http://localhost/ch/159_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=159&extension=ts&play_token=f0ELLsVNQV
 #EXTINF:-1 tvg-id="1594" tvg-name="(UK) Eir Sports 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ee/eir_sport_ie_1.png" group-title="EN| UK - Sport",(UK) Eir Sports 1 4K+
-ffmpeg http://localhost/ch/1594_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1594&extension=ts&play_token=L9CEbIzSvY
 #EXTINF:-1 tvg-id="16129" tvg-name="(FR) RTL TVI 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/belgique/rtl_tvi_hd.png" group-title="FR| FR - France",(FR) RTL TVI 4K+
-ffmpeg http://localhost/ch/16129_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16129&extension=ts&play_token=MoztjrgGc0
 #EXTINF:-1 tvg-id="16130" tvg-name="(FR) La Une 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_a_la_une.png" group-title="FR| FR - France",(FR) La Une 4K+
-ffmpeg http://localhost/ch/16130_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16130&extension=ts&play_token=oax4xN0CZr
 #EXTINF:-1 tvg-id="16131" tvg-name="(FR) La Deux" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/belgique/rtbf_la_deux_hd.png" group-title="FR| FR - France",(FR) La Deux
-ffmpeg http://localhost/ch/16131_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16131&extension=ts&play_token=PvmyQkVvi6
 #EXTINF:-1 tvg-id="16132" tvg-name="(FR) La Trois 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/belgique/rtbf_la_trois_hd.png" group-title="FR| FR - France",(FR) La Trois 4K+
-ffmpeg http://localhost/ch/16132_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16132&extension=ts&play_token=3pZgY1wpX4
 #EXTINF:-1 tvg-id="16133" tvg-name="(FR) Club RTL" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/club_rtl.png" group-title="FR| FR - France",(FR) Club RTL
-ffmpeg http://localhost/ch/16133_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16133&extension=ts&play_token=fSW0M5lQh5
 #EXTINF:-1 tvg-id="16134" tvg-name="(FR) Plug RTL 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/belgique/plug_rtl.png" group-title="FR| FR - France",(FR) Plug RTL 4K+
-ffmpeg http://localhost/ch/16134_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16134&extension=ts&play_token=7uNdLfmTk3
 #EXTINF:-1 tvg-id="16135" tvg-name="(FR) AB3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/ab3.png" group-title="FR| FR - France",(FR) AB3 4K+
-ffmpeg http://localhost/ch/16135_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16135&extension=ts&play_token=Ip3MkuQj3f
 #EXTINF:-1 tvg-id="1633" tvg-name="(FR) RTS Une 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rtbf_la_une.png" group-title="FR| FR - France",(FR) RTS Une 4K+
-ffmpeg http://localhost/ch/1633_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1633&extension=ts&play_token=43O3lmmuB5
 #EXTINF:-1 tvg-id="1634" tvg-name="(FR) RTS Deux 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rtbf_la_deux.png" group-title="FR| FR - France",(FR) RTS Deux 4K+
-ffmpeg http://localhost/ch/1634_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1634&extension=ts&play_token=HSQbYoWkCi
 #EXTINF:-1 tvg-id="16504" tvg-name="(ES) Movistar Estrenos 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_estrenos.png" group-title="ES| ES - Cine",(ES) Movistar Estrenos 4K+
-ffmpeg http://localhost/ch/16504_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16504&extension=ts&play_token=VTxX2Y1ZIP
 #EXTINF:-1 tvg-id="16505" tvg-name="(ES) Movistar Drama 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_series.png" group-title="ES| ES - Cine",(ES) Movistar Drama 4K+
-ffmpeg http://localhost/ch/16505_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16505&extension=ts&play_token=ksUZElsRWY
 #EXTINF:-1 tvg-id="16507" tvg-name="(ES) Movistar F1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_moto_gp.png" group-title="ES| ES - Deporte",(ES) Movistar F1 4K+
-ffmpeg http://localhost/ch/16507_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16507&extension=ts&play_token=ZmpL0YHVaV
 #EXTINF:-1 tvg-id="16509" tvg-name="(ES) Movistar Golf 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_golf.png" group-title="ES| ES - Deporte",(ES) Movistar Golf 4K+
-ffmpeg http://localhost/ch/16509_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16509&extension=ts&play_token=lrXbojJNT4
 #EXTINF:-1 tvg-id="16512" tvg-name="(ES) Movistar Liga de Campeones 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_deportes_2.png" group-title="ES| ES - Deporte",(ES) Movistar Liga de Campeones 4K+
-ffmpeg http://localhost/ch/16512_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16512&extension=ts&play_token=zy7UtDZzEw
 #EXTINF:-1 tvg-id="16514" tvg-name="(ES) Gol" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/gol_tv.jpg" group-title="ES| ES - Deporte",(ES) Gol
-ffmpeg http://localhost/ch/16514_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16514&extension=ts&play_token=OOUZw7xRLx
 #EXTINF:-1 tvg-id="16516" tvg-name="(ES) AMC 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/amc_us.png" group-title="ES| ES - Cine",(ES) AMC 4K+
-ffmpeg http://localhost/ch/16516_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16516&extension=ts&play_token=uuexBRFKCx
 #EXTINF:-1 tvg-id="16518" tvg-name="(ES) Boing" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/boing_es.png" group-title="ES| ES - Niños",(ES) Boing
-ffmpeg http://localhost/ch/16518_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16518&extension=ts&play_token=NsmXpeC33J
 #EXTINF:-1 tvg-id="16519" tvg-name="(ES) Esperanza TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/esperanza.png" group-title="ES| ES - España",(ES) Esperanza TV
-ffmpeg http://localhost/ch/16519_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16519&extension=ts&play_token=kzaA6jLF69
 #EXTINF:-1 tvg-id="16521" tvg-name="(ES) Mezzo Live 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/Mezzo_Live_HD.png" group-title="ES| ES - Música",(ES) Mezzo Live 4K+
-ffmpeg http://localhost/ch/16521_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16521&extension=ts&play_token=XYMjIs4zxq
 #EXTINF:-1 tvg-id="16522" tvg-name="(ES) National Geographic 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/nat_geo_us.png" group-title="ES| ES - España",(ES) National Geographic 4K+
-ffmpeg http://localhost/ch/16522_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16522&extension=ts&play_token=WIYuKEelKh
 #EXTINF:-1 tvg-id="16524" tvg-name="(ES) Nat Geo Wild 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/nat_geo_wild_us.png" group-title="ES| ES - España",(ES) Nat Geo Wild 4K+
-ffmpeg http://localhost/ch/16524_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16524&extension=ts&play_token=YrzNaXBiLz
 #EXTINF:-1 tvg-id="16525" tvg-name="(ES) Extremadura TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_extremadura.png" group-title="ES| ES - España",(ES) Extremadura TV
-ffmpeg http://localhost/ch/16525_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16525&extension=ts&play_token=6zjqCVfazW
 #EXTINF:-1 tvg-id="16528" tvg-name="(ES) Disney Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/disney_channel_global.png" group-title="ES| ES - Niños",(ES) Disney Channel 4K+
-ffmpeg http://localhost/ch/16528_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16528&extension=ts&play_token=TjWmTRR8n0
 #EXTINF:-1 tvg-id="16529" tvg-name="(ES) Blaze 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/non_stop_people_es.png" group-title="ES| ES - España",(ES) Blaze 4K+
-ffmpeg http://localhost/ch/16529_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16529&extension=ts&play_token=Ff489k1g1x
 #EXTINF:-1 tvg-id="16530" tvg-name="(ES) Discovery Channel" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/discovery_global_us.png" group-title="ES| ES - España",(ES) Discovery Channel
-ffmpeg http://localhost/ch/16530_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16530&extension=ts&play_token=0mhVRN5zqu
 #EXTINF:-1 tvg-id="16531" tvg-name="(ES) Crimen + Investigacion" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/crimen_investigacion.png" group-title="ES| ES - España",(ES) Crimen + Investigacion
-ffmpeg http://localhost/ch/16531_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16531&extension=ts&play_token=3unzAbvLBX
 #EXTINF:-1 tvg-id="16533" tvg-name="(ES) TV 3 Catalunya 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/tv_3_es_cat.png" group-title="ES| ES - España",(ES) TV 3 Catalunya 4K+
-ffmpeg http://localhost/ch/16533_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16533&extension=ts&play_token=6E7VOZWUKa
 #EXTINF:-1 tvg-id="16534" tvg-name="(ES) Galicia TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/galicia_tv_eu.png" group-title="ES| ES - España",(ES) Galicia TV 4K+
-ffmpeg http://localhost/ch/16534_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16534&extension=ts&play_token=6Zb9ZCIG1M
 #EXTINF:-1 tvg-id="16537" tvg-name="(ES) FDF" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/factoria_de_ficcion.png" group-title="ES| ES - Cine",(ES) FDF
-ffmpeg http://localhost/ch/16537_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16537&extension=ts&play_token=38UKKRFWwo
 #EXTINF:-1 tvg-id="16539" tvg-name="(ES) Eurosport 2" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/be_in_mena_sports_es_la_liga.png" group-title="ES| ES - Deporte",(ES) Eurosport 2
-ffmpeg http://localhost/ch/16539_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=16539&extension=ts&play_token=MxuyVvsgOU
 #EXTINF:-1 tvg-id="17" tvg-name="(UK) SyFy 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/syfy_us_global.png" group-title="EN| UK - Cinema",(UK) SyFy 4K+
-ffmpeg http://localhost/ch/17_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=17&extension=ts&play_token=38RiC8WSvv
 #EXTINF:-1 tvg-id="1785" tvg-name="(UK) Liverpool TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/liverpool_football_club.png" group-title="EN| UK - Sport",(UK) Liverpool TV 4K+
-ffmpeg http://localhost/ch/1785_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1785&extension=ts&play_token=Vh57cL2kkl
 #EXTINF:-1 tvg-id="1802" tvg-name="(ES) LA 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/TVE_la1.png" group-title="ES| ES - España",(ES) LA 1 4K+
-ffmpeg http://localhost/ch/1802_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1802&extension=ts&play_token=TTqeVvwcsw
 #EXTINF:-1 tvg-id="1803" tvg-name="(ES) La Sexta 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/la_sexta_es.png" group-title="ES| ES - España",(ES) La Sexta 4K+
-ffmpeg http://localhost/ch/1803_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1803&extension=ts&play_token=UDkPLmLCD8
 #EXTINF:-1 tvg-id="1805" tvg-name="(ES) Mega 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/MEGA.jpg" group-title="ES| ES - España",(ES) Mega 4K+
-ffmpeg http://localhost/ch/1805_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1805&extension=ts&play_token=5FGxs2VMrH
 #EXTINF:-1 tvg-id="180575" tvg-name="(FR) France 2 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france2_hd.png" group-title="FR| FR - France",(FR) France 2 HD+
-ffmpeg http://localhost/ch/180575_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=180575&extension=ts&play_token=SqRUTcwDOy
 #EXTINF:-1 tvg-id="180576" tvg-name="(FR) France Info HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/france_info_tv.png" group-title="FR| FR - France",(FR) France Info HD+
-ffmpeg http://localhost/ch/180576_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=180576&extension=ts&play_token=9l7LxysLyj
 #EXTINF:-1 tvg-id="180588" tvg-name="(FR) France 24 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france24_english.png" group-title="FR| FR - France",(FR) France 24 HD+
-ffmpeg http://localhost/ch/180588_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=180588&extension=ts&play_token=Id99KrCJzQ
 #EXTINF:-1 tvg-id="1806" tvg-name="(ES) Canal Cocina" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_cocina.png" group-title="ES| ES - España",(ES) Canal Cocina
-ffmpeg http://localhost/ch/1806_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1806&extension=ts&play_token=W82QbinWAh
 #EXTINF:-1 tvg-id="180604" tvg-name="(FR) France 3 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france3-fr.png" group-title="FR| FR - France",(FR) France 3 HD+
-ffmpeg http://localhost/ch/180604_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=180604&extension=ts&play_token=OKxi9oKUvI
 #EXTINF:-1 tvg-id="180605" tvg-name="(FR) France 4 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france4-fr.png" group-title="FR| FR - France",(FR) France 4 HD+
-ffmpeg http://localhost/ch/180605_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=180605&extension=ts&play_token=dyjc3SL0Ll
 #EXTINF:-1 tvg-id="180606" tvg-name="(FR) France 5 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france5-fr.png" group-title="FR| FR - France",(FR) France 5 HD+
-ffmpeg http://localhost/ch/180606_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=180606&extension=ts&play_token=Tf0082xAre
 #EXTINF:-1 tvg-id="1809" tvg-name="(ES) Movistar Series 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_xtra.png" group-title="ES| ES - Cine",(ES) Movistar Series 4K+
-ffmpeg http://localhost/ch/1809_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1809&extension=ts&play_token=E7HVKbdArq
 #EXTINF:-1 tvg-id="1811" tvg-name="(ES) TCM 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/tcm_global.png" group-title="ES| ES - Cine",(ES) TCM 4K+
-ffmpeg http://localhost/ch/1811_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1811&extension=ts&play_token=PJyYHjEJ3P
 #EXTINF:-1 tvg-id="1812" tvg-name="(ES) Syfy 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/syfy_us_global.png" group-title="ES| ES - Cine",(ES) Syfy 4K+
-ffmpeg http://localhost/ch/1812_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=1812&extension=ts&play_token=nBwRSYMxqI
 #EXTINF:-1 tvg-id="185009" tvg-name="(FR) TF 1 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/tf1_hd.png" group-title="FR| FR - France",(FR) TF 1 HD+
-ffmpeg http://localhost/ch/185009_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=185009&extension=ts&play_token=OxoClcMOkZ
 #EXTINF:-1 tvg-id="191" tvg-name="(UK) Gold 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/gold_uktv.png" group-title="EN| UK - English",(UK) Gold 4K+
-ffmpeg http://localhost/ch/191_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=191&extension=ts&play_token=jBra7FgeMK
 #EXTINF:-1 tvg-id="192" tvg-name="(UK) Animal Planet 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/animal_planet_us.png" group-title="EN| UK - English",(UK) Animal Planet 4K+
-ffmpeg http://localhost/ch/192_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=192&extension=ts&play_token=IkCZkeG83e
 #EXTINF:-1 tvg-id="192663" tvg-name="(ES) TVE Internacional HD+" tvg-logo="https://static.epg.best/es/TVEIntEu.es.png" group-title="ES| ES - España",(ES) TVE Internacional HD+
-ffmpeg http://localhost/ch/192663_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=192663&extension=ts&play_token=PtcbZLKflg
 #EXTINF:-1 tvg-id="193" tvg-name="(UK) Discovery History" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_history.png" group-title="EN| UK - English",(UK) Discovery History
-ffmpeg http://localhost/ch/193_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=193&extension=ts&play_token=yQzI5V2bWy
 #EXTINF:-1 tvg-id="19327" tvg-name="(FR) beIN Sport Max 8 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_08_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 8 4K+
-ffmpeg http://localhost/ch/19327_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=19327&extension=ts&play_token=RtHd5Ozc5Z
 #EXTINF:-1 tvg-id="19328" tvg-name="(FR) beIN Sport Max 7 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_07_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 7 4K+
-ffmpeg http://localhost/ch/19328_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=19328&extension=ts&play_token=eax4e5CwTi
 #EXTINF:-1 tvg-id="19329" tvg-name="(FR) beIN Sport Max 6 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_06_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 6 4K+
-ffmpeg http://localhost/ch/19329_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=19329&extension=ts&play_token=G2KvAv4H9u
 #EXTINF:-1 tvg-id="19330" tvg-name="(FR) beIN Sport Max 5 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_05_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 5 4K+
-ffmpeg http://localhost/ch/19330_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=19330&extension=ts&play_token=VZUGhmVfMq
 #EXTINF:-1 tvg-id="19331" tvg-name="(FR) beIN Sport Max 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_04_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 4 4K+
-ffmpeg http://localhost/ch/19331_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=19331&extension=ts&play_token=IT95EtgaYP
 #EXTINF:-1 tvg-id="19332" tvg-name="(FR) RMC Sport 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-2-fr.png" group-title="FR| FR - Sport",(FR) RMC Sport 2 4K+
-ffmpeg http://localhost/ch/19332_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=19332&extension=ts&play_token=qbciv15qBe
 #EXTINF:-1 tvg-id="19333" tvg-name="(FR) RMC Sport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-1-fr.png" group-title="FR| FR - Sport",(FR) RMC Sport 1 4K+
-ffmpeg http://localhost/ch/19333_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=19333&extension=ts&play_token=nqp4t5xAoO
 #EXTINF:-1 tvg-id="194" tvg-name="(UK) National Geographic Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/nat_geo_us.png" group-title="EN| UK - English",(UK) National Geographic Channel 4K+
-ffmpeg http://localhost/ch/194_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=194&extension=ts&play_token=Aqf2Dio03y
 #EXTINF:-1 tvg-id="195" tvg-name="(UK) Discovery Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/nerdeland/discovery_global_us.png" group-title="EN| UK - English",(UK) Discovery Channel 4K+
-ffmpeg http://localhost/ch/195_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=195&extension=ts&play_token=Uu9lwUqdxy
 #EXTINF:-1 tvg-id="196" tvg-name="(UK) Investigation Discovery 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/investigation_discovery_us.png" group-title="EN| UK - English",(UK) Investigation Discovery 4K+
-ffmpeg http://localhost/ch/196_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=196&extension=ts&play_token=fYrb2OcEAP
 #EXTINF:-1 tvg-id="198" tvg-name="(UK) Sky Cinema Premiere 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/sky_cinema_premiere.jpg" group-title="EN| UK - Cinema",(UK) Sky Cinema Premiere 4K+
-ffmpeg http://localhost/ch/198_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=198&extension=ts&play_token=8wXOL48nAa
 #EXTINF:-1 tvg-id="199" tvg-name="(UK) Sky Cinema Action 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_action_adventure.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Action 4K+
-ffmpeg http://localhost/ch/199_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=199&extension=ts&play_token=N9V1bGDpGA
 #EXTINF:-1 tvg-id="200" tvg-name="(UK) Sky Cinema Thriller 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_crime_thriller.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Thriller 4K+
-ffmpeg http://localhost/ch/200_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=200&extension=ts&play_token=u3TyzL84tl
 #EXTINF:-1 tvg-id="201" tvg-name="(UK) Sky Cinema Comedy 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_comedy.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Comedy 4K+
-ffmpeg http://localhost/ch/201_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=201&extension=ts&play_token=CH2jEWCo9k
 #EXTINF:-1 tvg-id="202" tvg-name="(UK) Sky Cinema Family 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_family.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Family 4K+
-ffmpeg http://localhost/ch/202_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=202&extension=ts&play_token=1bQoxRxFdd
 #EXTINF:-1 tvg-id="203" tvg-name="(UK) Sky Cinema Sci-Fi & Horror 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_scifi_horror.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Sci-Fi & Horror 4K+
-ffmpeg http://localhost/ch/203_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=203&extension=ts&play_token=I9mcFwAOVI
 #EXTINF:-1 tvg-id="210" tvg-name="(UK) Sky Sports Cricket 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_cricket.png" group-title="EN| UK - Sport",(UK) Sky Sports Cricket 4K+
-ffmpeg http://localhost/ch/210_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=210&extension=ts&play_token=eQGAqrTOHB
 #EXTINF:-1 tvg-id="213" tvg-name="(UK) Sky Sports Premier League 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_premier_league.png" group-title="EN| UK - Sport",(UK) Sky Sports Premier League 4K+
-ffmpeg http://localhost/ch/213_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=213&extension=ts&play_token=X1uNOwZNUQ
 #EXTINF:-1 tvg-id="214" tvg-name="(UK) Sky Sports F1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_f1.png" group-title="EN| UK - Sport",(UK) Sky Sports F1 4K+
-ffmpeg http://localhost/ch/214_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=214&extension=ts&play_token=cCl9iHlA5N
 #EXTINF:-1 tvg-id="22222" tvg-name="(FR) AB1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/ab1.png" group-title="FR| FR - France",(FR) AB1 4K+
-ffmpeg http://localhost/ch/22222_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=22222&extension=ts&play_token=gDykhudzEb
 #EXTINF:-1 tvg-id="22456" tvg-name="(UK) Sky Sports Mix 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_mix.png" group-title="EN| UK - Sport",(UK) Sky Sports Mix 4K+
-ffmpeg http://localhost/ch/22456_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=22456&extension=ts&play_token=FMbpHC7bUx
 #EXTINF:-1 tvg-id="22457" tvg-name="(UK) H2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/history_us_2.png" group-title="EN| UK - English",(UK) H2 4K+
-ffmpeg http://localhost/ch/22457_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=22457&extension=ts&play_token=wemo1SYv0j
 #EXTINF:-1 tvg-id="22459" tvg-name="(UK) Alibi 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/alibi_uktv_uk.png" group-title="EN| UK - English",(UK) Alibi 4K+
-ffmpeg http://localhost/ch/22459_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=22459&extension=ts&play_token=fUoZW12AT5
 #EXTINF:-1 tvg-id="22468" tvg-name="(UK) iTV 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/itv_uk_4_hd.png" group-title="EN| UK - English",(UK) iTV 4 4K+
-ffmpeg http://localhost/ch/22468_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=22468&extension=ts&play_token=vfz4SNiV7L
 #EXTINF:-1 tvg-id="22469" tvg-name="(UK) iTV 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/itv_uk_3_hd.png" group-title="EN| UK - English",(UK) iTV 3 4K+
-ffmpeg http://localhost/ch/22469_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=22469&extension=ts&play_token=9QQh123gUG
 #EXTINF:-1 tvg-id="22470" tvg-name="(UK) iTV 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/itv_uk_2_hd.png" group-title="EN| UK - English",(UK) iTV 2 4K+
-ffmpeg http://localhost/ch/22470_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=22470&extension=ts&play_token=ANcVZBCTuK
 #EXTINF:-1 tvg-id="22471" tvg-name="(UK) iTV 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/itv_uk_hd.png" group-title="EN| UK - English",(UK) iTV 1 4K+
-ffmpeg http://localhost/ch/22471_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=22471&extension=ts&play_token=coYwmWBXHa
 #EXTINF:-1 tvg-id="23167" tvg-name="(FR) E! 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/e_global_us.png" group-title="FR| FR - France",(FR) E! 4K+
-ffmpeg http://localhost/ch/23167_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=23167&extension=ts&play_token=QAU4I12Cud
 #EXTINF:-1 tvg-id="23168" tvg-name="(FR) TV5 Monde Info 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/tv5_monde_europe.png" group-title="FR| FR - France",(FR) TV5 Monde Info 4K+
-ffmpeg http://localhost/ch/23168_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=23168&extension=ts&play_token=6f0uRjFJwb
 #EXTINF:-1 tvg-id="23169" tvg-name="(FR) TV5 Monde 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/tv5_monde_global_fr.png" group-title="FR| FR - France",(FR) TV5 Monde 4K+
-ffmpeg http://localhost/ch/23169_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=23169&extension=ts&play_token=y63lRoPmRX
 #EXTINF:-1 tvg-id="23660" tvg-name="(UK) Rok TV" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/ROK.png" group-title="EN| UK - English",(UK) Rok TV
-ffmpeg http://localhost/ch/23660_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=23660&extension=ts&play_token=3cIWE3dkMX
 #EXTINF:-1 tvg-id="23666" tvg-name="(UK) Eden 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/eden_uktv.png" group-title="EN| UK - English",(UK) Eden 4K+
-ffmpeg http://localhost/ch/23666_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=23666&extension=ts&play_token=RUIOcXh3MY
 #EXTINF:-1 tvg-id="24123" tvg-name="(FR) LCI 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/lci_fr.png" group-title="FR| FR - France",(FR) LCI 4K+
-ffmpeg http://localhost/ch/24123_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=24123&extension=ts&play_token=PogimELGSt
 #EXTINF:-1 tvg-id="250342" tvg-name="(UK) Sky Sports F1 ᵁˡᵗʳᵃ" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_f1.png" group-title="EN| UK - Sport",(UK) Sky Sports F1 ᵁˡᵗʳᵃ
-ffmpeg http://localhost/ch/250342_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=250342&extension=ts&play_token=y2Z3qJdvtL
 #EXTINF:-1 tvg-id="250343" tvg-name="(UK) Sky Sports F1 ᴴᴰ" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_f1.png" group-title="EN| UK - Sport",(UK) Sky Sports F1 ᴴᴰ
-ffmpeg http://localhost/ch/250343_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=250343&extension=ts&play_token=Vjs0MuCN1K
 #EXTINF:-1 tvg-id="2522" tvg-name="(UK) Disney Channel" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/disney_channel_global.png" group-title="EN| UK - Music & Kids",(UK) Disney Channel
-ffmpeg http://localhost/ch/2522_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=2522&extension=ts&play_token=5dHZiaewSB
 #EXTINF:-1 tvg-id="25962" tvg-name="(UK) Horse and Country 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/horse_country_tv_uk.png" group-title="EN| UK - English",(UK) Horse and Country 4K+
-ffmpeg http://localhost/ch/25962_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=25962&extension=ts&play_token=OH1DRgr7wC
 #EXTINF:-1 tvg-id="25970" tvg-name="(FR) France 24 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france24_english.png" group-title="FR| FR - France",(FR) France 24 4K+
-ffmpeg http://localhost/ch/25970_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=25970&extension=ts&play_token=SmBGmimPo0
 #EXTINF:-1 tvg-id="25979" tvg-name="(UK) Food Network 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/food_network_uk.png" group-title="EN| UK - English",(UK) Food Network 4K+
-ffmpeg http://localhost/ch/25979_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=25979&extension=ts&play_token=rVp3QqPxcr
 #EXTINF:-1 tvg-id="25982" tvg-name="(FR) Euronews 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/euronews_fr.png" group-title="FR| FR - France",(FR) Euronews 4K+
-ffmpeg http://localhost/ch/25982_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=25982&extension=ts&play_token=MiMkao5WsD
 #EXTINF:-1 tvg-id="27176" tvg-name="(ES) Andalucia TV" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/andalucia_tv.png" group-title="ES| ES - España",(ES) Andalucia TV
-ffmpeg http://localhost/ch/27176_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=27176&extension=ts&play_token=vBlrigadb8
 #EXTINF:-1 tvg-id="28034" tvg-name="(UK) Sky Sports Football 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_football.png" group-title="EN| UK - Sport",(UK) Sky Sports Football 4K+
-ffmpeg http://localhost/ch/28034_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=28034&extension=ts&play_token=isCgGNk7yR
 #EXTINF:-1 tvg-id="28035" tvg-name="(UK) Sky Sports Arena 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_arena.png" group-title="EN| UK - Sport",(UK) Sky Sports Arena 4K+
-ffmpeg http://localhost/ch/28035_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=28035&extension=ts&play_token=xlunffUD2y
 #EXTINF:-1 tvg-id="28039" tvg-name="(UK) BT Sport X2 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_2.png" group-title="EN| UK - Sport",(UK) BT Sport X2 (Match Time Only) 4K+
-ffmpeg http://localhost/ch/28039_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=28039&extension=ts&play_token=RStshCn9yZ
 #EXTINF:-1 tvg-id="28040" tvg-name="(UK) BT Sport X3 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_3.png" group-title="EN| UK - Sport",(UK) BT Sport X3 (Match Time Only) 4K+
-ffmpeg http://localhost/ch/28040_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=28040&extension=ts&play_token=LhvdMJkit1
 #EXTINF:-1 tvg-id="303" tvg-name="(FR) M6 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/m6_fr_hd.png" group-title="FR| FR - France",(FR) M6 4K+
-ffmpeg http://localhost/ch/303_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=303&extension=ts&play_token=EQhf9RXcMP
 #EXTINF:-1 tvg-id="30343" tvg-name="(FR) Equidia 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/equidia-fr.png" group-title="FR| FR - Sport",(FR) Equidia 4K+
-ffmpeg http://localhost/ch/30343_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=30343&extension=ts&play_token=vY2IMdRVK0
 #EXTINF:-1 tvg-id="304" tvg-name="(FR) NRJ12 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/nrj_fr_12_hd.png" group-title="FR| FR - France",(FR) NRJ12 4K+
-ffmpeg http://localhost/ch/304_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=304&extension=ts&play_token=6avP0jzrqc
 #EXTINF:-1 tvg-id="313" tvg-name="(UK) Premier Sports 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/premier_sports.png" group-title="EN| UK - Sport",(UK) Premier Sports 1 4K+
-ffmpeg http://localhost/ch/313_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=313&extension=ts&play_token=xIwMnEXEhW
 #EXTINF:-1 tvg-id="316" tvg-name="(UK) BT Sport 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk.png" group-title="EN| UK - Sport",(UK) BT Sport 4 4K+
-ffmpeg http://localhost/ch/316_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=316&extension=ts&play_token=u2n7KnWtYB
 #EXTINF:-1 tvg-id="31693" tvg-name="(FR) RMC Sport 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-3-fr.png" group-title="FR| FR - Sport",(FR) RMC Sport 3 4K+
-ffmpeg http://localhost/ch/31693_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=31693&extension=ts&play_token=wl4j2TfN0g
 #EXTINF:-1 tvg-id="323" tvg-name="(UK) BBC Entertainment" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_entertainment_uk.png" group-title="EN| UK - English",(UK) BBC Entertainment
-ffmpeg http://localhost/ch/323_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=323&extension=ts&play_token=j4RYlTbQtK
 #EXTINF:-1 tvg-id="3281" tvg-name="(ES) Nickelodeon 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/nickelodeon_us.png" group-title="ES| ES - Niños",(ES) Nickelodeon 4K+
-ffmpeg http://localhost/ch/3281_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=3281&extension=ts&play_token=YKXX2vkPyL
 #EXTINF:-1 tvg-id="3282" tvg-name="(ES) Historia" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/historia_es.png" group-title="ES| ES - España",(ES) Historia
-ffmpeg http://localhost/ch/3282_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=3282&extension=ts&play_token=00mgH2CL1c
 #EXTINF:-1 tvg-id="3283" tvg-name="(ES) Disney Junior" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/disney_junior_us.png" group-title="ES| ES - Niños",(ES) Disney Junior
-ffmpeg http://localhost/ch/3283_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=3283&extension=ts&play_token=yigSb80B4k
 #EXTINF:-1 tvg-id="329" tvg-name="(UK) BT Sport X1 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_1.png" group-title="EN| UK - Sport",(UK) BT Sport X1 (Match Time Only) 4K+
-ffmpeg http://localhost/ch/329_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=329&extension=ts&play_token=ICSFAEIRaU
 #EXTINF:-1 tvg-id="331" tvg-name="(UK) Channel 5 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/five.png" group-title="EN| UK - English",(UK) Channel 5 4K+
-ffmpeg http://localhost/ch/331_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=331&extension=ts&play_token=I26DNmmECC
 #EXTINF:-1 tvg-id="332" tvg-name="(UK) BBC One 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_one.png" group-title="EN| UK - English",(UK) BBC One 4K+
-ffmpeg http://localhost/ch/332_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=332&extension=ts&play_token=c1JTOXXdq0
 #EXTINF:-1 tvg-id="333" tvg-name="(UK) BBC Two 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_two_uk.png" group-title="EN| UK - English",(UK) BBC Two 4K+
-ffmpeg http://localhost/ch/333_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=333&extension=ts&play_token=mBlcqhbFRD
 #EXTINF:-1 tvg-id="347" tvg-name="(UK) MTV Hits" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_hits_us_global.png" group-title="EN| UK - Music & Kids",(UK) MTV Hits
-ffmpeg http://localhost/ch/347_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=347&extension=ts&play_token=oVZjyp1Glz
 #EXTINF:-1 tvg-id="348" tvg-name="(UK) MTV Music" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_rocks_uk.png" group-title="EN| UK - Music & Kids",(UK) MTV Music
-ffmpeg http://localhost/ch/348_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=348&extension=ts&play_token=YN7GS7lNF7
 #EXTINF:-1 tvg-id="349" tvg-name="(UK) Club MTV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_dance_uk.png" group-title="EN| UK - Music & Kids",(UK) Club MTV
-ffmpeg http://localhost/ch/349_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=349&extension=ts&play_token=vsrStRwV1w
 #EXTINF:-1 tvg-id="359" tvg-name="(UK) Cartoon Network 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cartoon_network_global.png" group-title="EN| UK - Music & Kids",(UK) Cartoon Network 4K+
-ffmpeg http://localhost/ch/359_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=359&extension=ts&play_token=MKedL5TbYO
 #EXTINF:-1 tvg-id="39939" tvg-name="(ES) Movistar Series Mania 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_partidazo.png" group-title="ES| ES - Cine",(ES) Movistar Series Mania 4K+
-ffmpeg http://localhost/ch/39939_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=39939&extension=ts&play_token=XfuL8FFxNU
 #EXTINF:-1 tvg-id="439" tvg-name="(FR) Canal+ Series 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_series.png" group-title="FR| FR - Cinéma",(FR) Canal+ Series 4K+
-ffmpeg http://localhost/ch/439_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=439&extension=ts&play_token=0PhiMo0vwV
 #EXTINF:-1 tvg-id="440" tvg-name="(FR) C8 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_c_8.png" group-title="FR| FR - France",(FR) C8 4K+
-ffmpeg http://localhost/ch/440_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=440&extension=ts&play_token=LGnj0R2XFt
 #EXTINF:-1 tvg-id="441" tvg-name="(FR) W9 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/w9_fr_hd.png" group-title="FR| FR - France",(FR) W9 4K+
-ffmpeg http://localhost/ch/441_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=441&extension=ts&play_token=OiPJ5nGYwd
 #EXTINF:-1 tvg-id="442" tvg-name="(FR) 13éme Rue 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/13eme_rue_fr.png" group-title="FR| FR - Cinéma",(FR) 13éme Rue 4K+
-ffmpeg http://localhost/ch/442_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=442&extension=ts&play_token=Y287ITVNa0
 #EXTINF:-1 tvg-id="458" tvg-name="(UK) Box Nation 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/box_nation_uk.png" group-title="EN| UK - Sport",(UK) Box Nation 4K+
-ffmpeg http://localhost/ch/458_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=458&extension=ts&play_token=Y5TAO7pR6e
 #EXTINF:-1 tvg-id="46845" tvg-name="(FR) Canal+ 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_hd.png" group-title="FR| FR - Cinéma",(FR) Canal+ 4K+
-ffmpeg http://localhost/ch/46845_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=46845&extension=ts&play_token=7xlNtul5Mr
 #EXTINF:-1 tvg-id="560" tvg-name="(ES) Movistar Deportes 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_deportes_1.png" group-title="ES| ES - Deporte",(ES) Movistar Deportes 4K+
-ffmpeg http://localhost/ch/560_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=560&extension=ts&play_token=yvRHAQagiS
 #EXTINF:-1 tvg-id="565" tvg-name="(UK) Sky Cinema Drama & Romance 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_drama_romance.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Drama & Romance 4K+
-ffmpeg http://localhost/ch/565_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=565&extension=ts&play_token=qbnNMGPQSq
 #EXTINF:-1 tvg-id="569" tvg-name="(UK) Sky Cinema Select 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_select.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Select 4K+
-ffmpeg http://localhost/ch/569_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=569&extension=ts&play_token=0j5Vu9Dm4e
 #EXTINF:-1 tvg-id="577" tvg-name="(FR) BFM TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/bfm_fr_tv.png" group-title="FR| FR - France",(FR) BFM TV 4K+
-ffmpeg http://localhost/ch/577_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=577&extension=ts&play_token=yBsybZgUNJ
 #EXTINF:-1 tvg-id="579" tvg-name="(FR) Eurosport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/eurosport_fr_1_hd.png" group-title="FR| FR - Sport",(FR) Eurosport 1 4K+
-ffmpeg http://localhost/ch/579_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=579&extension=ts&play_token=WX2BlaaV9R
 #EXTINF:-1 tvg-id="61169" tvg-name="(UK) At The Races" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/at_the_races_uk.png" group-title="EN| UK - Sport",(UK) At The Races
-ffmpeg http://localhost/ch/61169_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61169&extension=ts&play_token=tM7MaC9aMZ
 #EXTINF:-1 tvg-id="61974" tvg-name="(ES) Movistar LaLiga 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/M.LaLiga1.png" group-title="ES| ES - Deporte",(ES) Movistar LaLiga 1 4K+
-ffmpeg http://localhost/ch/61974_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61974&extension=ts&play_token=5dFceGk7O3
 #EXTINF:-1 tvg-id="61975" tvg-name="(ES) Movistar LaLiga 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/M.LaLiga2.png" group-title="ES| ES - Deporte",(ES) Movistar LaLiga 2 4K+
-ffmpeg http://localhost/ch/61975_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61975&extension=ts&play_token=kcJdxvt5vH
 #EXTINF:-1 tvg-id="61976" tvg-name="(ES) Movistar LaLiga 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/M.LaLiga3.png" group-title="ES| ES - Deporte",(ES) Movistar LaLiga 3 4K+
-ffmpeg http://localhost/ch/61976_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61976&extension=ts&play_token=ZavACqkt1u
 #EXTINF:-1 tvg-id="61977" tvg-name="(ES) Movistar Formula 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/MovistarFormula1.png" group-title="ES| ES - Deporte",(ES) Movistar Formula 1 4K+
-ffmpeg http://localhost/ch/61977_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61977&extension=ts&play_token=He8ykFC0Cl
 #EXTINF:-1 tvg-id="61978" tvg-name="(ES) Baby TV" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/baby.png" group-title="ES| ES - Niños",(ES) Baby TV
-ffmpeg http://localhost/ch/61978_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61978&extension=ts&play_token=FyRdWjNmKT
 #EXTINF:-1 tvg-id="61979" tvg-name="(ES) Canal Panda" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_panda_es.png" group-title="ES| ES - Niños",(ES) Canal Panda
-ffmpeg http://localhost/ch/61979_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61979&extension=ts&play_token=3jBlaloNSi
 #EXTINF:-1 tvg-id="61980" tvg-name="(ES) Stingray Classica" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ss/stingray-classica-ca.png" group-title="ES| ES - Música",(ES) Stingray Classica
-ffmpeg http://localhost/ch/61980_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61980&extension=ts&play_token=osZ7mIbe95
 #EXTINF:-1 tvg-id="61981" tvg-name="(ES) Canal Hollywood 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_hollywood_es_hd.png" group-title="ES| ES - Cine",(ES) Canal Hollywood 4K+
-ffmpeg http://localhost/ch/61981_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61981&extension=ts&play_token=m12qdWUwaW
 #EXTINF:-1 tvg-id="61982" tvg-name="(ES) Calle 13 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/calle13_universal_hd.png" group-title="ES| ES - Cine",(ES) Calle 13 4K+
-ffmpeg http://localhost/ch/61982_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61982&extension=ts&play_token=yeA61wKeXo
 #EXTINF:-1 tvg-id="61983" tvg-name="(ES) Paramount Network" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/paramount_channel_us.png" group-title="ES| ES - Cine",(ES) Paramount Network
-ffmpeg http://localhost/ch/61983_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61983&extension=ts&play_token=MiomtSn62c
 #EXTINF:-1 tvg-id="61985" tvg-name="(ES) Canal Orbe 21" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/canal_orbe_21_ar.png" group-title="ES| ES - España",(ES) Canal Orbe 21
-ffmpeg http://localhost/ch/61985_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61985&extension=ts&play_token=F1ykCIUxTK
 #EXTINF:-1 tvg-id="61986" tvg-name="(ES) MTV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/mtv_us.png" group-title="ES| ES - Música",(ES) MTV
-ffmpeg http://localhost/ch/61986_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61986&extension=ts&play_token=ADvqXfMjzx
 #EXTINF:-1 tvg-id="61987" tvg-name="(ES) Canal Decasa" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/decasa.png" group-title="ES| ES - España",(ES) Canal Decasa
-ffmpeg http://localhost/ch/61987_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=61987&extension=ts&play_token=6v4YV0BeGA
 #EXTINF:-1 tvg-id="63132" tvg-name="(FR) AB Explore 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/ABExplorer.jpg" group-title="FR| FR - France",(FR) AB Explore 4K+
-ffmpeg http://localhost/ch/63132_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63132&extension=ts&play_token=z28Bw9jYRI
 #EXTINF:-1 tvg-id="63133" tvg-name="(FR) Automoto 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/aa/automoto-la-chaine-fr.png" group-title="FR| FR - Sport",(FR) Automoto 4K+
-ffmpeg http://localhost/ch/63133_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63133&extension=ts&play_token=mLfebMKX40
 #EXTINF:-1 tvg-id="63135" tvg-name="(FR) Bein Sports Max 9 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/be_in_mena_sports_max_09_hd.png" group-title="FR| FR - Sport",(FR) Bein Sports Max 9 4K+
-ffmpeg http://localhost/ch/63135_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63135&extension=ts&play_token=A1OYjjTeDz
 #EXTINF:-1 tvg-id="63136" tvg-name="(FR) Bein Sports Max 10 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/be_in_mena_sports_max_10_hd.png" group-title="FR| FR - Sport",(FR) Bein Sports Max 10 4K+
-ffmpeg http://localhost/ch/63136_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63136&extension=ts&play_token=Lsoqtj7oNg
 #EXTINF:-1 tvg-id="63137" tvg-name="(FR) BFM Business 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/bfm_fr_business.png" group-title="FR| FR - Sport",(FR) BFM Business 4K+
-ffmpeg http://localhost/ch/63137_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63137&extension=ts&play_token=XYjQxPByJw
 #EXTINF:-1 tvg-id="63138" tvg-name="(FR) RMC Sports 1 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-1-fr.png" group-title="FR| FR - Sport",(FR) RMC Sports 1 HD+
-ffmpeg http://localhost/ch/63138_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63138&extension=ts&play_token=O4BRzZjp3h
 #EXTINF:-1 tvg-id="63139" tvg-name="(FR) RMC Sports 2 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-2-fr.png" group-title="FR| FR - Sport",(FR) RMC Sports 2 HD+
-ffmpeg http://localhost/ch/63139_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63139&extension=ts&play_token=mGo5QK755a
 #EXTINF:-1 tvg-id="63141" tvg-name="(FR) Canal+ Cinema 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/canalplus_fr_cinema_hd.png" group-title="FR| FR - Cinéma",(FR) Canal+ Cinema 4K+
-ffmpeg http://localhost/ch/63141_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63141&extension=ts&play_token=IvyllUpLyK
 #EXTINF:-1 tvg-id="63142" tvg-name="(FR) Crime District 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/crime_district_fr.png" group-title="FR| FR - France",(FR) Crime District 4K+
-ffmpeg http://localhost/ch/63142_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63142&extension=ts&play_token=mesxITInXk
 #EXTINF:-1 tvg-id="63143" tvg-name="(FR) Disney+ HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/disney_channel_global.png" group-title="FR| FR - France",(FR) Disney+ HD+
-ffmpeg http://localhost/ch/63143_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63143&extension=ts&play_token=4ensALZIGE
 #EXTINF:-1 tvg-id="63144" tvg-name="(FR) Disney Junior 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/disney_junior_us_hd.png" group-title="FR| FR - France",(FR) Disney Junior 4K+
-ffmpeg http://localhost/ch/63144_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63144&extension=ts&play_token=jV7WU3aMiE
 #EXTINF:-1 tvg-id="63145" tvg-name="(FR) France Info 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/france_info_tv.png" group-title="FR| FR - France",(FR) France Info 4K+
-ffmpeg http://localhost/ch/63145_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63145&extension=ts&play_token=e2DVoPY5Mx
 #EXTINF:-1 tvg-id="63146" tvg-name="(FR) Game One 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/game_one.png" group-title="FR| FR - France",(FR) Game One 4K+
-ffmpeg http://localhost/ch/63146_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63146&extension=ts&play_token=c8bax1IaVv
 #EXTINF:-1 tvg-id="63148" tvg-name="(FR) ID 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ii/investigation_discovery_us.png" group-title="FR| FR - France",(FR) ID 4K+
-ffmpeg http://localhost/ch/63148_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63148&extension=ts&play_token=6HVdhuzqQX
 #EXTINF:-1 tvg-id="63149" tvg-name="(FR) Mezzo Live 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/mezzo_live_hd.png" group-title="FR| FR - France",(FR) Mezzo Live 4K+
-ffmpeg http://localhost/ch/63149_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63149&extension=ts&play_token=Tr4BBDLpxN
 #EXTINF:-1 tvg-id="63150" tvg-name="(FR) Nickelodeon 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/nickelodeon_us.png" group-title="FR| FR - France",(FR) Nickelodeon 4K+
-ffmpeg http://localhost/ch/63150_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63150&extension=ts&play_token=owkMAnPPFv
 #EXTINF:-1 tvg-id="63151" tvg-name="(FR) Trace Urban 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/trace_fr_urban_hd.png" group-title="FR| FR - Sport",(FR) Trace Urban 4K+
-ffmpeg http://localhost/ch/63151_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63151&extension=ts&play_token=DnHcvoFZXD
 #EXTINF:-1 tvg-id="63152" tvg-name="(FR) Piwi 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/canalplus_fr_piwi_plus.png" group-title="FR| FR - France",(FR) Piwi 4K+
-ffmpeg http://localhost/ch/63152_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63152&extension=ts&play_token=efGAU0cIAX
 #EXTINF:-1 tvg-id="63153" tvg-name="(FR) RMC Sport 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-4-fr.png" group-title="FR| FR - Sport",(FR) RMC Sport 4 4K+
-ffmpeg http://localhost/ch/63153_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63153&extension=ts&play_token=RJ3iG2atir
 #EXTINF:-1 tvg-id="63154" tvg-name="(FR) RMC Story 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-story-fr.png" group-title="FR| FR - Sport",(FR) RMC Story 4K+
-ffmpeg http://localhost/ch/63154_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63154&extension=ts&play_token=ppurDdWmMC
 #EXTINF:-1 tvg-id="63156" tvg-name="(FR) Tiji 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/tiji_fr.png" group-title="FR| FR - France",(FR) Tiji 4K+
-ffmpeg http://localhost/ch/63156_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63156&extension=ts&play_token=f7lg7apPCt
 #EXTINF:-1 tvg-id="63157" tvg-name="(FR) Toute L.history 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/toute_histoire_fr.png" group-title="FR| FR - France",(FR) Toute L.history 4K+
-ffmpeg http://localhost/ch/63157_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63157&extension=ts&play_token=ylziyrme82
 #EXTINF:-1 tvg-id="63158" tvg-name="(FR) Trace Africa 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/trace_fr_africa.png" group-title="FR| FR - France",(FR) Trace Africa 4K+
-ffmpeg http://localhost/ch/63158_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63158&extension=ts&play_token=9A9c4xKP0X
 #EXTINF:-1 tvg-id="63159" tvg-name="(FR) Trace Tropical 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/trace_fr_tropical_hd.png" group-title="FR| FR - France",(FR) Trace Tropical 4K+
-ffmpeg http://localhost/ch/63159_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63159&extension=ts&play_token=xRJxuhtxti
 #EXTINF:-1 tvg-id="63160" tvg-name="(FR) Trek" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/trek_fr.png" group-title="FR| FR - France",(FR) Trek
-ffmpeg http://localhost/ch/63160_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63160&extension=ts&play_token=J4uNQEic5z
 #EXTINF:-1 tvg-id="63161" tvg-name="(FR) Viceland 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/viceland_us.png" group-title="FR| FR - France",(FR) Viceland 4K+
-ffmpeg http://localhost/ch/63161_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63161&extension=ts&play_token=fnXakAKmrQ
 #EXTINF:-1 tvg-id="63177" tvg-name="(ES) Mega TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/mega_cl.png" group-title="ES| ES - Deporte",(ES) Mega TV 4K+
-ffmpeg http://localhost/ch/63177_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63177&extension=ts&play_token=42cqtj5cYZ
 #EXTINF:-1 tvg-id="63182" tvg-name="(UK) 5USA HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/channel_5_uk_usa.png" group-title="EN| UK - English",(UK) 5USA HD+
-ffmpeg http://localhost/ch/63182_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63182&extension=ts&play_token=hGugV4RNep
 #EXTINF:-1 tvg-id="63184" tvg-name="(UK) BBC World News HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_world_news_uk.png" group-title="EN| UK - English",(UK) BBC World News HD+
-ffmpeg http://localhost/ch/63184_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63184&extension=ts&play_token=IexPyTaziX
 #EXTINF:-1 tvg-id="63185" tvg-name="(UK) Boomerang HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/boomerang_global_hd.png" group-title="EN| UK - Music & Kids",(UK) Boomerang HD+
-ffmpeg http://localhost/ch/63185_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63185&extension=ts&play_token=aZv7xKjsnP
 #EXTINF:-1 tvg-id="63186" tvg-name="(UK) CBeebies HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_cbeebies_uk_hd.png" group-title="EN| UK - Music & Kids",(UK) CBeebies HD+
-ffmpeg http://localhost/ch/63186_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63186&extension=ts&play_token=QqJfUut3Rc
 #EXTINF:-1 tvg-id="63187" tvg-name="(UK) CBS Justice HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/cbs-justice-us-uk.png" group-title="EN| UK - Cinema",(UK) CBS Justice HD+
-ffmpeg http://localhost/ch/63187_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63187&extension=ts&play_token=qih1S9qZvc
 #EXTINF:-1 tvg-id="63188" tvg-name="(UK) CBS Drama HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cbs_drama.png" group-title="EN| UK - English",(UK) CBS Drama HD+
-ffmpeg http://localhost/ch/63188_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63188&extension=ts&play_token=NxIqgqyC9o
 #EXTINF:-1 tvg-id="63189" tvg-name="(UK) CBS Reality HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cbs_reality_uk.png" group-title="EN| UK - English",(UK) CBS Reality HD+
-ffmpeg http://localhost/ch/63189_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63189&extension=ts&play_token=9Y6SCP1WiL
 #EXTINF:-1 tvg-id="63192" tvg-name="(UK) CNBC News HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cnbc_uk.png" group-title="EN| UK - English",(UK) CNBC News HD+
-ffmpeg http://localhost/ch/63192_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63192&extension=ts&play_token=PXQyrhrhhH
 #EXTINF:-1 tvg-id="63193" tvg-name="(UK) CNN International" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cnn_international_global.png" group-title="EN| UK - English",(UK) CNN International
-ffmpeg http://localhost/ch/63193_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63193&extension=ts&play_token=hYVq45c1Fu
 #EXTINF:-1 tvg-id="63196" tvg-name="(UK) Disney XD HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/disney_xd_us_hd.png" group-title="EN| UK - Music & Kids",(UK) Disney XD HD+
-ffmpeg http://localhost/ch/63196_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63196&extension=ts&play_token=9lVqxsDcAJ
 #EXTINF:-1 tvg-id="63197" tvg-name="(UK) Euronews HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/euronews_fr.png" group-title="EN| UK - English",(UK) Euronews HD+
-ffmpeg http://localhost/ch/63197_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63197&extension=ts&play_token=ZUvFyGHiz2
 #EXTINF:-1 tvg-id="63200" tvg-name="(UK) FOX News HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ff/fox_news_channel.png" group-title="EN| UK - English",(UK) FOX News HD+
-ffmpeg http://localhost/ch/63200_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63200&extension=ts&play_token=c06a3mJypU
 #EXTINF:-1 tvg-id="63201" tvg-name="(UK) History Channel 2 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/history_us_2.png" group-title="EN| UK - English",(UK) History Channel 2 HD+
-ffmpeg http://localhost/ch/63201_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63201&extension=ts&play_token=3isgow3iEm
 #EXTINF:-1 tvg-id="63203" tvg-name="(UK) MTV Base HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_base_uk.png" group-title="EN| UK - Music & Kids",(UK) MTV Base HD+
-ffmpeg http://localhost/ch/63203_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63203&extension=ts&play_token=UDp2TP4GVn
 #EXTINF:-1 tvg-id="63205" tvg-name="(UK) Really HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/really_uktv.png" group-title="EN| UK - English",(UK) Really HD+
-ffmpeg http://localhost/ch/63205_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63205&extension=ts&play_token=H90sjX1s41
 #EXTINF:-1 tvg-id="63207" tvg-name="(UK) Universal Channel HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/universal_channel_global.png" group-title="EN| UK - Cinema",(UK) Universal Channel HD+
-ffmpeg http://localhost/ch/63207_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63207&extension=ts&play_token=kxnMNebIxE
 #EXTINF:-1 tvg-id="63748" tvg-name="(UK) Sky News HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_news.png" group-title="EN| UK - English",(UK) Sky News HD+
-ffmpeg http://localhost/ch/63748_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=63748&extension=ts&play_token=T2z47Qe5mF
 #EXTINF:-1 tvg-id="6399" tvg-name="(FR) Disney Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/disney_channel_global_hd.png" group-title="FR| FR - France",(FR) Disney Channel 4K+
-ffmpeg http://localhost/ch/6399_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6399&extension=ts&play_token=K6aQxdB1Hp
 #EXTINF:-1 tvg-id="6401" tvg-name="(FR) Disney XD 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/disney_xd_us.png" group-title="FR| FR - France",(FR) Disney XD 4K+
-ffmpeg http://localhost/ch/6401_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6401&extension=ts&play_token=xseIDBFfQI
 #EXTINF:-1 tvg-id="6404" tvg-name="(FR) Planete+ 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/planete_plus_hd.png" group-title="FR| FR - France",(FR) Planete+ 4K+
-ffmpeg http://localhost/ch/6404_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6404&extension=ts&play_token=q5Or9os1vF
 #EXTINF:-1 tvg-id="6405" tvg-name="(FR) Planete+Ci 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/planete_plus_crime_investigation.png" group-title="FR| FR - France",(FR) Planete+Ci 4K+
-ffmpeg http://localhost/ch/6405_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6405&extension=ts&play_token=CDx76SNmPO
 #EXTINF:-1 tvg-id="6406" tvg-name="(FR) Nat Geo 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/nat_geo_us_hd.png" group-title="FR| FR - France",(FR) Nat Geo 4K+
-ffmpeg http://localhost/ch/6406_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6406&extension=ts&play_token=GzyUKCxDAZ
 #EXTINF:-1 tvg-id="6407" tvg-name="(FR) Discovery Science 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_science_global_hd.png" group-title="FR| FR - France",(FR) Discovery Science 4K+
-ffmpeg http://localhost/ch/6407_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6407&extension=ts&play_token=45O4wOuyX6
 #EXTINF:-1 tvg-id="6408" tvg-name="(FR) Voyage 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/voyage_fr.png" group-title="FR| FR - France",(FR) Voyage 4K+
-ffmpeg http://localhost/ch/6408_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6408&extension=ts&play_token=HCfZcQ6Rtx
 #EXTINF:-1 tvg-id="6410" tvg-name="(FR) Ciné+ Famiz 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_famiz.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Famiz 4K+
-ffmpeg http://localhost/ch/6410_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6410&extension=ts&play_token=n7GMsGmCqe
 #EXTINF:-1 tvg-id="6411" tvg-name="(FR) Ocs Choc 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/ocs_choc.png" group-title="FR| FR - Cinéma",(FR) Ocs Choc 4K+
-ffmpeg http://localhost/ch/6411_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6411&extension=ts&play_token=C442CzAWfp
 #EXTINF:-1 tvg-id="6414" tvg-name="(FR) LCP 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/lcp_an_fr.png" group-title="FR| FR - France",(FR) LCP 4K+
-ffmpeg http://localhost/ch/6414_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=6414&extension=ts&play_token=SRtRQoND3b
 #EXTINF:-1 tvg-id="65566" tvg-name="(UK) Crime & Investigation" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/crime_investigation_us.png" group-title="EN| UK - English",(UK) Crime & Investigation
-ffmpeg http://localhost/ch/65566_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=65566&extension=ts&play_token=JReTTmLt2R
 #EXTINF:-1 tvg-id="65567" tvg-name="(UK) Colors" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/colors-in.png" group-title="EN| UK - English",(UK) Colors
-ffmpeg http://localhost/ch/65567_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=65567&extension=ts&play_token=XjOMEEexYP
 #EXTINF:-1 tvg-id="71463" tvg-name="(FR) A La Carte 5 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 5 4K+
-ffmpeg http://localhost/ch/71463_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=71463&extension=ts&play_token=jRGM264q1b
 #EXTINF:-1 tvg-id="7415" tvg-name="(FR) Discovery 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_global_us_hd.png" group-title="FR| FR - France",(FR) Discovery 4K+
-ffmpeg http://localhost/ch/7415_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7415&extension=ts&play_token=ioiLLJW3VU
 #EXTINF:-1 tvg-id="7477" tvg-name="(FR) Teva 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/teva_fr.png" group-title="FR| FR - France",(FR) Teva 4K+
-ffmpeg http://localhost/ch/7477_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7477&extension=ts&play_token=px5oO9rHpV
 #EXTINF:-1 tvg-id="7478" tvg-name="(FR) Serie Club 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/canalplus_fr_serie_club.png" group-title="FR| FR - Cinéma",(FR) Serie Club 4K+
-ffmpeg http://localhost/ch/7478_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7478&extension=ts&play_token=oQ7RwOr0FD
 #EXTINF:-1 tvg-id="7480" tvg-name="(FR) Paris Premiere 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/paris_premiere_hd.png" group-title="FR| FR - France",(FR) Paris Premiere 4K+
-ffmpeg http://localhost/ch/7480_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7480&extension=ts&play_token=Ux0Fxg5nKZ
 #EXTINF:-1 tvg-id="7483" tvg-name="(FR) Planete A&E 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/planete_plus_action_experience.png" group-title="FR| FR - France",(FR) Planete A&E 4K+
-ffmpeg http://localhost/ch/7483_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7483&extension=ts&play_token=ue496oTkuC
 #EXTINF:-1 tvg-id="7484" tvg-name="(FR) Ushuaia TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/ushuaia_tv_hd.png" group-title="FR| FR - France",(FR) Ushuaia TV
-ffmpeg http://localhost/ch/7484_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7484&extension=ts&play_token=rSUo2ryprs
 #EXTINF:-1 tvg-id="7485" tvg-name="(FR) Golf+ 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/canalplus_fr_golf_plus_hd.png" group-title="FR| FR - Sport",(FR) Golf+ 4K+
-ffmpeg http://localhost/ch/7485_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7485&extension=ts&play_token=i8yMovzTzk
 #EXTINF:-1 tvg-id="7486" tvg-name="(FR) KTO" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/kto.png" group-title="FR| FR - France",(FR) KTO
-ffmpeg http://localhost/ch/7486_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7486&extension=ts&play_token=G3FZpDamct
 #EXTINF:-1 tvg-id="7489" tvg-name="(FR) Teletoon+ 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_teletoon_plus1.png" group-title="FR| FR - France",(FR) Teletoon+ 1 4K+
-ffmpeg http://localhost/ch/7489_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7489&extension=ts&play_token=mb8QJgbvME
 #EXTINF:-1 tvg-id="7495" tvg-name="(FR) Comedie+ 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_comedie_plus.png" group-title="FR| FR - France",(FR) Comedie+ 4K+
-ffmpeg http://localhost/ch/7495_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7495&extension=ts&play_token=pQ1ajUNDpR
 #EXTINF:-1 tvg-id="7497" tvg-name="(FR) Nat Geo Wild 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/nat_geo_wild_us.png" group-title="FR| FR - France",(FR) Nat Geo Wild 4K+
-ffmpeg http://localhost/ch/7497_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7497&extension=ts&play_token=eKHNYBQrOO
 #EXTINF:-1 tvg-id="7498" tvg-name="(FR) MTV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/mtv_us.png" group-title="FR| FR - France",(FR) MTV 4K+
-ffmpeg http://localhost/ch/7498_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7498&extension=ts&play_token=13IbfKfknZ
 #EXTINF:-1 tvg-id="7514" tvg-name="(FR) Canal J 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canal_j_fr.png" group-title="FR| FR - France",(FR) Canal J 4K+
-ffmpeg http://localhost/ch/7514_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7514&extension=ts&play_token=0VHPFmTngl
 #EXTINF:-1 tvg-id="7515" tvg-name="(FR) Boomerang 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/boomerang_global_hd.png" group-title="FR| FR - France",(FR) Boomerang 4K+
-ffmpeg http://localhost/ch/7515_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7515&extension=ts&play_token=Di5fOBWbbQ
 #EXTINF:-1 tvg-id="7518" tvg-name="(FR) Eurosport 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/eurosport_fr_2_hd.png" group-title="FR| FR - Sport",(FR) Eurosport 2 4K+
-ffmpeg http://localhost/ch/7518_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7518&extension=ts&play_token=fPmM1Aw1iN
 #EXTINF:-1 tvg-id="7519" tvg-name="(FR) M6 Music 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/m6_music_fr.png" group-title="FR| FR - France",(FR) M6 Music 4K+
-ffmpeg http://localhost/ch/7519_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7519&extension=ts&play_token=L0HP1sztzW
 #EXTINF:-1 tvg-id="7520" tvg-name="(FR) A La Carte 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 1 4K+
-ffmpeg http://localhost/ch/7520_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7520&extension=ts&play_token=CMtEFjD5B2
 #EXTINF:-1 tvg-id="7521" tvg-name="(FR) A La Carte 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 2 4K+
-ffmpeg http://localhost/ch/7521_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7521&extension=ts&play_token=OeK0cF8Lvq
 #EXTINF:-1 tvg-id="7522" tvg-name="(FR) A La Carte 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 3 4K+
-ffmpeg http://localhost/ch/7522_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7522&extension=ts&play_token=a3XHlbLZvr
 #EXTINF:-1 tvg-id="7523" tvg-name="(FR) A La Carte 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 4 4K+
-ffmpeg http://localhost/ch/7523_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7523&extension=ts&play_token=fABwqut815
 #EXTINF:-1 tvg-id="7641" tvg-name="(UK) Sky Sports Main Event 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_main_event.png" group-title="EN| UK - Sport",(UK) Sky Sports Main Event 4K+
-ffmpeg http://localhost/ch/7641_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7641&extension=ts&play_token=9M1lV0dwGl
 #EXTINF:-1 tvg-id="7885" tvg-name="(ES) Canal Iberalia 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_iberalia.png" group-title="ES| ES - España",(ES) Canal Iberalia 4K+
-ffmpeg http://localhost/ch/7885_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7885&extension=ts&play_token=IODIouSFYk
 #EXTINF:-1 tvg-id="7886" tvg-name="(ES) Odisea 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/odisea_es.png" group-title="ES| ES - España",(ES) Odisea 4K+
-ffmpeg http://localhost/ch/7886_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=7886&extension=ts&play_token=GwPan2G85f
 #EXTINF:-1 tvg-id="8153" tvg-name="(UK) iTV Be" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/itv_uk_be.png" group-title="EN| UK - English",(UK) iTV Be
-ffmpeg http://localhost/ch/8153_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=8153&extension=ts&play_token=4WBWdIVeaW
 #EXTINF:-1 tvg-id="8171" tvg-name="(UK) MTV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_us.png" group-title="EN| UK - Music & Kids",(UK) MTV 4K+
-ffmpeg http://localhost/ch/8171_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=8171&extension=ts&play_token=c8RMoORHHJ
 #EXTINF:-1 tvg-id="841" tvg-name="(ES) Toros TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/toros_tv_es.png" group-title="ES| ES - España",(ES) Toros TV 4K+
-ffmpeg http://localhost/ch/841_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=841&extension=ts&play_token=Fy0myxxfN2
 #EXTINF:-1 tvg-id="845" tvg-name="(ES) Real Madrid TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/real_madrid_tv_es.png" group-title="ES| ES - Deporte",(ES) Real Madrid TV 4K+
-ffmpeg http://localhost/ch/845_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=845&extension=ts&play_token=Iq2r9stH5H
 #EXTINF:-1 tvg-id="846" tvg-name="(ES) Barca TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/barca_tv.png" group-title="ES| ES - Deporte",(ES) Barca TV
-ffmpeg http://localhost/ch/846_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=846&extension=ts&play_token=RYO8WGB60z
 #EXTINF:-1 tvg-id="88734" tvg-name="(UK) BBC Parliament" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/bbc_parliament.png" group-title="EN| UK - English",(UK) BBC Parliament
-ffmpeg http://localhost/ch/88734_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=88734&extension=ts&play_token=ERuvC27UQc
 #EXTINF:-1 tvg-id="891" tvg-name="(FR) C Star 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_c_star.png" group-title="FR| FR - France",(FR) C Star 4K+
-ffmpeg http://localhost/ch/891_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=891&extension=ts&play_token=WIzT4c3iG1
 #EXTINF:-1 tvg-id="905" tvg-name="(FR) TV Breizh" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/tv_breizh_fr.png" group-title="FR| FR - France",(FR) TV Breizh
-ffmpeg http://localhost/ch/905_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=905&extension=ts&play_token=koHjMe5suR
 #EXTINF:-1 tvg-id="906" tvg-name="(FR) 6ter 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/6ter_fr.png" group-title="FR| FR - France",(FR) 6ter 4K+
-ffmpeg http://localhost/ch/906_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=906&extension=ts&play_token=29WVrg8x63
 #EXTINF:-1 tvg-id="907" tvg-name="(FR) RTL 9 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/rtl9.png" group-title="FR| FR - France",(FR) RTL 9 4K+
-ffmpeg http://localhost/ch/907_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=907&extension=ts&play_token=SwhI9JeM1e
 #EXTINF:-1 tvg-id="909" tvg-name="(FR) Canal+ Décalé 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_decale_hd.png" group-title="FR| FR - Cinéma",(FR) Canal+ Décalé 4K+
-ffmpeg http://localhost/ch/909_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=909&extension=ts&play_token=knEb2hCDnm
 #EXTINF:-1 tvg-id="910" tvg-name="(FR) Ciné+ Classic 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_classic.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Classic 4K+
-ffmpeg http://localhost/ch/910_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=910&extension=ts&play_token=HxRRgzlqZk
 #EXTINF:-1 tvg-id="911" tvg-name="(FR) Ciné+ Emotion 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_emotion_hd.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Emotion 4K+
-ffmpeg http://localhost/ch/911_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=911&extension=ts&play_token=JLDudYxRF6
 #EXTINF:-1 tvg-id="912" tvg-name="(FR) Ciné+ Frisson 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_frisson_hd.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Frisson 4K+
-ffmpeg http://localhost/ch/912_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=912&extension=ts&play_token=EjlY6xgFg6
 #EXTINF:-1 tvg-id="913" tvg-name="(FR) Ciné+ Premier 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_premier_hd.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Premier 4K+
-ffmpeg http://localhost/ch/913_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=913&extension=ts&play_token=jRPAkBkFWB
 #EXTINF:-1 tvg-id="914" tvg-name="(FR) SyFy 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/syfy_us_global.png" group-title="FR| FR - Cinéma",(FR) SyFy 4K+
-ffmpeg http://localhost/ch/914_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=914&extension=ts&play_token=HtdjpUtqaf
 #EXTINF:-1 tvg-id="915" tvg-name="(FR) Ocs City 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/ocs_city.png" group-title="FR| FR - Cinéma",(FR) Ocs City 4K+
-ffmpeg http://localhost/ch/915_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=915&extension=ts&play_token=mDGxCrYldR
 #EXTINF:-1 tvg-id="916" tvg-name="(FR) Ocs Géants 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/ocs_geants.png" group-title="FR| FR - Cinéma",(FR) Ocs Géants 4K+
-ffmpeg http://localhost/ch/916_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=916&extension=ts&play_token=KRRsdwHPb7
 #EXTINF:-1 tvg-id="917" tvg-name="(FR) OCS Max 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/ocs_max_hd.png" group-title="FR| FR - France",(FR) OCS Max 4K+
-ffmpeg http://localhost/ch/917_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=917&extension=ts&play_token=Nhj7UwiK8M
 #EXTINF:-1 tvg-id="931" tvg-name="(ES) Nick JR" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/nick_jr_us.png" group-title="ES| ES - Niños",(ES) Nick JR
-ffmpeg http://localhost/ch/931_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=931&extension=ts&play_token=j6LtSTZDvE
 #EXTINF:-1 tvg-id="933" tvg-name="(ES) Viajar 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/viajar.png" group-title="ES| ES - España",(ES) Viajar 4K+
-ffmpeg http://localhost/ch/933_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=933&extension=ts&play_token=ds8DjuJ24m
 #EXTINF:-1 tvg-id="985" tvg-name="(UK) Eurosport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/eurosport_fr_1.png" group-title="EN| UK - Sport",(UK) Eurosport 1 4K+
-ffmpeg http://localhost/ch/985_
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:21:09:C7&stream=985&extension=ts&play_token=VlFOClFYQo
