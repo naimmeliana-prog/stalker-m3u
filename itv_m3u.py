@@ -246,13 +246,29 @@ def list_channels(portal, genre_id):
 EXCLUDED_REGIONS = ["LATINO", "QUEBEC", "SUISSE", "SUIZA", "BELGIQUE", "BELGICA", "CANADA", "CANADIAN"]
 
 
+def resolve_channel(portal, cmd):
+    params = {
+        "type": "itv",
+        "action": "create_link",
+        "cmd": cmd,
+        "JsHttpRequest": "1-xml",
+    }
+    try:
+        out = _request(portal, params, attempts=3)
+        js = portal._js(out)
+        url = js.get("cmd") or out.get("cmd") or ""
+        return StalkerPortal._clean_cmd(url)
+    except Exception:
+        return None
+
+
 def make_entry(ch, group):
     cid = str(ch.get("id") or "")
     name = clean_name(ch.get("name")) or cid
     if any(r in _norm(name) for r in EXCLUDED_REGIONS) or any(r in _norm(group) for r in EXCLUDED_REGIONS):
         return None
     logo = ch.get("logo") or ""
-    url = (ch.get("cmd") or "").strip()
+    url = ch.get("resolved_url") or (ch.get("cmd") or "").strip()
     if not url:
         return None
     extinf = (
@@ -293,6 +309,7 @@ def main(argv=None):
     progress = resolve_path(cfg.get("progress", "progress_itv.log"))
     push_interval = cfg.get("push_interval", 0)
     threads = cfg.get("threads", 8)
+    resolve_live = cfg.get("resolve", False)
 
     genres = select_genres(get_genres(portal), cfg)
     print("[+] Generos ITV seleccionados: %d" % len(genres))
@@ -342,6 +359,13 @@ def main(argv=None):
             channels = list_channels(portal, gid)
         except PortalError:
             return gid, group, None
+        if resolve_live and channels:
+            for ch in channels:
+                cmd = (ch.get("cmd") or "").strip()
+                if cmd:
+                    resolved = resolve_channel(portal, cmd)
+                    if resolved:
+                        ch["resolved_url"] = resolved
         return gid, group, channels
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as pool:
