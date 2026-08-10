@@ -341,46 +341,27 @@ export default {
 
     if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
       const sid = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
-      let finalTarget = "";
-      
-      if (parts[0] === "live") {
+      const mapFile = parts[0] === "live" ? "live_urls.json" : "vod_urls.json";
+      const urls = await fetchData(dataBase + mapFile, 600);
+      const target = urls[sid];
+      if (!target) {
+        return corsJson({}, 404);
+      }
+
+      let finalTarget = target;
+      if (target.includes("localhost") || !target.startsWith("http")) {
         try {
           const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
           const configRes = await fetch(configUrl);
           if (configRes.ok) {
             const config = await configRes.json();
             if (config.portal && config.mac) {
-              const cmd = `ffmpeg http://localhost/ch/${sid}_`;
-              finalTarget = await resolveStalkerLink(config.portal, config.mac, cmd, "itv");
+              const type = parts[0] === "live" ? "itv" : "vod";
+              finalTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
             }
           }
         } catch (e) {
-          console.error("Dynamic live stream resolution failed, using fallback:", e);
-        }
-      }
-
-      if (!finalTarget) {
-        const mapFile = parts[0] === "live" ? "live_urls.json" : "vod_urls.json";
-        const urls = await fetchData(dataBase + mapFile, 600);
-        const target = urls[sid];
-        if (!target) {
-          return corsJson({}, 404);
-        }
-        finalTarget = target;
-        if (target.includes("localhost") || !target.startsWith("http")) {
-          try {
-            const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-            const configRes = await fetch(configUrl);
-            if (configRes.ok) {
-              const config = await configRes.json();
-              if (config.portal && config.mac) {
-                const type = parts[0] === "live" ? "itv" : "vod";
-                finalTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
-              }
-            }
-          } catch (e) {
-            console.error("Dynamic fallback stream resolution failed:", e);
-          }
+          console.error("Dynamic stream resolution failed, using fallback:", e);
         }
       }
 
@@ -395,24 +376,8 @@ export default {
 
     if (parts.length === 3) {
       const sid = decodeURIComponent(parts[2]).replace(/\.\w+$/, "");
-      let finalTarget = "";
 
-      try {
-        const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-        const configRes = await fetch(configUrl);
-        if (configRes.ok) {
-          const config = await configRes.json();
-          if (config.portal && config.mac) {
-            const cmd = `ffmpeg http://localhost/ch/${sid}_`;
-            finalTarget = await resolveStalkerLink(config.portal, config.mac, cmd, "itv");
-          }
-        }
-      } catch (e) {}
-
-      if (finalTarget) {
-        return redirectCors(finalTarget);
-      }
-
+      // 1. Check live_urls.json
       const live = await fetchData(dataBase + "live_urls.json", 600);
       if (live[sid]) {
         let fallbackTarget = live[sid];
@@ -431,6 +396,7 @@ export default {
         return redirectCors(fallbackTarget);
       }
 
+      // 2. Check vod_urls.json
       const vod = await fetchData(dataBase + "vod_urls.json", 600);
       if (vod[sid]) {
         let fallbackTarget = vod[sid];
@@ -449,6 +415,7 @@ export default {
         return redirectCors(fallbackTarget);
       }
 
+      // 3. Check streams.json (Xtream Series)
       const streams = await fetchData(dataBase + "streams.json", 600);
       if (streams[sid]) {
         let fallbackTarget = streams[sid];

@@ -41,7 +41,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add portals/ || true
           git diff --cached --quiet || git commit -m "Actualizar EPG ($(date -u +'%F %R UTC'))"
-          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase -X theirs origin main; sleep 3); done; exit 1
 
   publish:
     needs: generate

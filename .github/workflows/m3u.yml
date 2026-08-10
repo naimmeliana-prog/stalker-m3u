@@ -45,7 +45,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add portals/ || true
           git diff --cached --quiet || git commit -m "Actualizar lista M3U + datos Xtream ($(date -u +'%F %R UTC'))"
-          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase -X theirs origin main; sleep 3); done; exit 1
 
   publish:
     needs: generate
@@ -65,7 +65,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main || true
+          git pull --rebase -X theirs origin main || true
           for dir in portals/*/; do
             if [ -f "${dir}config.json" ]; then
               echo "[+] Combinando playlist para ${dir}..."
@@ -74,7 +74,7 @@ jobs:
           done
           git add portals/
           git diff --cached --quiet || git commit -m "Actualizar global.m3u ($(date -u +'%F %R UTC'))"
-          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase origin main; sleep 3); done; exit 1
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase -X theirs origin main; sleep 3); done; exit 1
 
       - name: Desplegar Worker Xtream
         if: env.CF_API_TOKEN != ''
