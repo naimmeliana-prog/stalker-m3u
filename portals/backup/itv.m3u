@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1004" tvg-name="(FR) Cartoon Network 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/cartoon_network_global.png" group-title="FR| FR - France",(FR) Cartoon Network 4K+
 http://localhost/ch/1004_
+#EXTINF:-1 tvg-id="1005" tvg-name="(FR) Action 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/action_fr.png" group-title="FR| FR - Cinéma",(FR) Action 4K+
+http://localhost/ch/1005_
 #EXTINF:-1 tvg-id="102359" tvg-name="(UK) BBC Two HD+" tvg-logo="http://tv.iptvboss.net/ch_logo/BBC2.png" group-title="EN| UK - English",(UK) BBC Two HD+
 http://localhost/ch/102359_
 #EXTINF:-1 tvg-id="102360" tvg-name="(UK) BBC One  HD+" tvg-logo="http://tv.iptvboss.net/ch_logo/BBC1.png" group-title="EN| UK - English",(UK) BBC One  HD+
@@ -15,6 +17,46 @@ http://localhost/ch/10716_
 http://localhost/ch/107766_
 #EXTINF:-1 tvg-id="107767" tvg-name="(ES) LA 1 HD+" tvg-logo="https://i.postimg.cc/htD8m8JY/TVE-1.png" group-title="ES| ES - España",(ES) LA 1 HD+
 http://localhost/ch/107767_
+#EXTINF:-1 tvg-id="108204" tvg-name="UFC Event 15" tvg-logo="" group-title="EN| UK - Sport",UFC Event 15
+http://localhost/ch/108204_
+#EXTINF:-1 tvg-id="108205" tvg-name="UFC Event 14" tvg-logo="" group-title="EN| UK - Sport",UFC Event 14
+http://localhost/ch/108205_
+#EXTINF:-1 tvg-id="108206" tvg-name="UFC Event 13" tvg-logo="" group-title="EN| UK - Sport",UFC Event 13
+http://localhost/ch/108206_
+#EXTINF:-1 tvg-id="108207" tvg-name="UFC Event 12" tvg-logo="" group-title="EN| UK - Sport",UFC Event 12
+http://localhost/ch/108207_
+#EXTINF:-1 tvg-id="108208" tvg-name="UFC Event 11" tvg-logo="" group-title="EN| UK - Sport",UFC Event 11
+http://localhost/ch/108208_
+#EXTINF:-1 tvg-id="108209" tvg-name="UFC Event 10" tvg-logo="" group-title="EN| UK - Sport",UFC Event 10
+http://localhost/ch/108209_
+#EXTINF:-1 tvg-id="108210" tvg-name="UFC Event 9" tvg-logo="" group-title="EN| UK - Sport",UFC Event 9
+http://localhost/ch/108210_
+#EXTINF:-1 tvg-id="108211" tvg-name="UFC Event 8" tvg-logo="" group-title="EN| UK - Sport",UFC Event 8
+http://localhost/ch/108211_
+#EXTINF:-1 tvg-id="108212" tvg-name="UFC Event 7" tvg-logo="" group-title="EN| UK - Sport",UFC Event 7
+http://localhost/ch/108212_
+#EXTINF:-1 tvg-id="108213" tvg-name="UFC Event 6" tvg-logo="http://sltv-logo.cms-s.com/logo/USA/PPV%20Channels.png" group-title="EN| UK - Sport",UFC Event 6
+http://localhost/ch/108213_
+#EXTINF:-1 tvg-id="108214" tvg-name="UFC Event 5" tvg-logo="http://tv.iptvboss.net/ch_logo/UFC_Logo.svg.png" group-title="EN| UK - Sport",UFC Event 5
+http://localhost/ch/108214_
+#EXTINF:-1 tvg-id="108215" tvg-name="UFC Event 4" tvg-logo="http://tv.iptvboss.net/ch_logo/UFC_Logo.svg.png" group-title="EN| UK - Sport",UFC Event 4
+http://localhost/ch/108215_
+#EXTINF:-1 tvg-id="108216" tvg-name="UFC Event 3" tvg-logo="http://tv.iptvboss.net/ch_logo/UFC_Logo.svg.png" group-title="EN| UK - Sport",UFC Event 3
+http://localhost/ch/108216_
+#EXTINF:-1 tvg-id="108217" tvg-name="UFC Event 2" tvg-logo="http://tv.iptvboss.net/ch_logo/UFC_Logo.svg.png" group-title="EN| UK - Sport",UFC Event 2
+http://localhost/ch/108217_
+#EXTINF:-1 tvg-id="108218" tvg-name="UFC Event 1" tvg-logo="" group-title="EN| UK - Sport",UFC Event 1
+http://localhost/ch/108218_
+#EXTINF:-1 tvg-id="109870" tvg-name="(UK) BT Sport 5 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 5 4K+
+http://localhost/ch/109870_
+#EXTINF:-1 tvg-id="109871" tvg-name="(UK) BT Sport 6 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 6 4K+
+http://localhost/ch/109871_
+#EXTINF:-1 tvg-id="109872" tvg-name="(UK) BT Sport 7 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 7 4K+
+http://localhost/ch/109872_
+#EXTINF:-1 tvg-id="109873" tvg-name="(UK) BT Sport 8 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 8 4K+
+http://localhost/ch/109873_
+#EXTINF:-1 tvg-id="109874" tvg-name="(UK) BT Sport 9 4K+" tvg-logo="" group-title="EN| UK - Sport",(UK) BT Sport 9 4K+
+http://localhost/ch/109874_
 #EXTINF:-1 tvg-id="1099" tvg-name="(ES) LA 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/tve_la2.png" group-title="ES| ES - España",(ES) LA 2 4K+
 http://localhost/ch/1099_
 #EXTINF:-1 tvg-id="1100" tvg-name="(ES) Cuatro 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/cuatro_es.png" group-title="ES| ES - España",(ES) Cuatro 4K+
@@ -23,12 +65,22 @@ http://localhost/ch/1100_
 http://localhost/ch/1101_
 #EXTINF:-1 tvg-id="1102" tvg-name="(ES) Nova" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/antena_nova.png" group-title="ES| ES - España",(ES) Nova
 http://localhost/ch/1102_
+#EXTINF:-1 tvg-id="1103" tvg-name="(ES) #0 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/%230.png" group-title="ES| ES - Cine",(ES) #0 4K+
+http://localhost/ch/1103_
 #EXTINF:-1 tvg-id="1106" tvg-name="(ES) Be Mad" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/ae_us.png" group-title="ES| ES - España",(ES) Be Mad
 http://localhost/ch/1106_
 #EXTINF:-1 tvg-id="1113" tvg-name="(ES) Fox Life 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/fox_life_global.png" group-title="ES| ES - España",(ES) Fox Life 4K+
 http://localhost/ch/1113_
+#EXTINF:-1 tvg-id="11400" tvg-name="(UK) Sky Sports Action 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_action.png" group-title="EN| UK - Sport",(UK) Sky Sports Action 4K+
+http://localhost/ch/11400_
+#EXTINF:-1 tvg-id="11401" tvg-name="(UK) Sky Sports Golf 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_golf.png" group-title="EN| UK - Sport",(UK) Sky Sports Golf 4K+
+http://localhost/ch/11401_
+#EXTINF:-1 tvg-id="11403" tvg-name="(UK) Racing UK 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/racing_uk.png" group-title="EN| UK - Sport",(UK) Racing UK 4K+
+http://localhost/ch/11403_
 #EXTINF:-1 tvg-id="11404" tvg-name="(UK) RTE 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/rte2.png" group-title="EN| UK - English",(UK) RTE 2 4K+
 http://localhost/ch/11404_
+#EXTINF:-1 tvg-id="11408" tvg-name="(UK) Comedy Central 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/comedy_central_us.png" group-title="EN| UK - Music & Kids",(UK) Comedy Central 4K+
+http://localhost/ch/11408_
 #EXTINF:-1 tvg-id="11410" tvg-name="(UK) Discovery Turbo" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_turbo_us.png" group-title="EN| UK - English",(UK) Discovery Turbo
 http://localhost/ch/11410_
 #EXTINF:-1 tvg-id="11411" tvg-name="(UK) E! 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/e_global_us.png" group-title="EN| UK - English",(UK) E! 4K+
@@ -37,6 +89,10 @@ http://localhost/ch/11411_
 http://localhost/ch/11412_
 #EXTINF:-1 tvg-id="11415" tvg-name="(UK) History Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/history_us.png" group-title="EN| UK - English",(UK) History Channel 4K+
 http://localhost/ch/11415_
+#EXTINF:-1 tvg-id="11418" tvg-name="(UK) Sony Movies 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/true_movies1_uk.png" group-title="EN| UK - Cinema",(UK) Sony Movies 4K+
+http://localhost/ch/11418_
+#EXTINF:-1 tvg-id="11419" tvg-name="(UK) Sony Movies +1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ss/sony-movies-us-uk.png" group-title="EN| UK - Cinema",(UK) Sony Movies +1 4K+
+http://localhost/ch/11419_
 #EXTINF:-1 tvg-id="11422" tvg-name="(UK) TCM" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/tcm_global.png" group-title="EN| UK - English",(UK) TCM
 http://localhost/ch/11422_
 #EXTINF:-1 tvg-id="11423" tvg-name="(UK) Al Jazeera UK" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/al_jazeera.jpg" group-title="EN| UK - English",(UK) Al Jazeera UK
@@ -47,24 +103,70 @@ http://localhost/ch/11425_
 http://localhost/ch/11426_
 #EXTINF:-1 tvg-id="11428" tvg-name="(UK) More 4" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/channel_4_more4_uk.png" group-title="EN| UK - English",(UK) More 4
 http://localhost/ch/11428_
+#EXTINF:-1 tvg-id="11432" tvg-name="(UK) Sky Cinema Greats 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_greats.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Greats 4K+
+http://localhost/ch/11432_
+#EXTINF:-1 tvg-id="11433" tvg-name="(UK) NickToons" tvg-logo="http://picons.iptvservicenijmegen.nl/own/nl/nicktoons.png" group-title="EN| UK - Music & Kids",(UK) NickToons
+http://localhost/ch/11433_
+#EXTINF:-1 tvg-id="11434" tvg-name="(UK) Nickelodeon" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/nickelodeon_us.png" group-title="EN| UK - Music & Kids",(UK) Nickelodeon
+http://localhost/ch/11434_
+#EXTINF:-1 tvg-id="11435" tvg-name="(UK) MUTV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mutv.png" group-title="EN| UK - Sport",(UK) MUTV
+http://localhost/ch/11435_
 #EXTINF:-1 tvg-id="11436" tvg-name="(UK) Dave 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/dave_uktv.png" group-title="EN| UK - English",(UK) Dave 4K+
 http://localhost/ch/11436_
+#EXTINF:-1 tvg-id="11437" tvg-name="(UK) Film 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/film_4_uk.png" group-title="EN| UK - Cinema",(UK) Film 4 4K+
+http://localhost/ch/11437_
+#EXTINF:-1 tvg-id="11438" tvg-name="(UK) Horror Channel" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/horror_channel_uk.png" group-title="EN| UK - Cinema",(UK) Horror Channel
+http://localhost/ch/11438_
+#EXTINF:-1 tvg-id="11439" tvg-name="(UK) BT Sport X4 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_4.png" group-title="EN| UK - Sport",(UK) BT Sport X4 (Match Time Only) 4K+
+http://localhost/ch/11439_
 #EXTINF:-1 tvg-id="11440" tvg-name="(UK) Bloomberg 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/bloomberg_tv_us.png" group-title="EN| UK - English",(UK) Bloomberg 4K+
 http://localhost/ch/11440_
+#EXTINF:-1 tvg-id="11441" tvg-name="(UK) Baby TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/baby_tv_uk.png" group-title="EN| UK - Music & Kids",(UK) Baby TV
+http://localhost/ch/11441_
+#EXTINF:-1 tvg-id="11442" tvg-name="(UK) BT Sport X6 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_6.png" group-title="EN| UK - Sport",(UK) BT Sport X6 (Match Time Only) 4K+
+http://localhost/ch/11442_
 #EXTINF:-1 tvg-id="11443" tvg-name="(UK) CNN News 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/cnn_news.jpg" group-title="EN| UK - English",(UK) CNN News 4K+
 http://localhost/ch/11443_
+#EXTINF:-1 tvg-id="11484" tvg-name="(UK) BT Sport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_1_hd.png" group-title="EN| UK - Sport",(UK) BT Sport 1 4K+
+http://localhost/ch/11484_
+#EXTINF:-1 tvg-id="11485" tvg-name="(UK) BT Sport 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_2_hd.png" group-title="EN| UK - Sport",(UK) BT Sport 2 4K+
+http://localhost/ch/11485_
+#EXTINF:-1 tvg-id="11486" tvg-name="(UK) BT Sport 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_3.png" group-title="EN| UK - Sport",(UK) BT Sport 3 4K+
+http://localhost/ch/11486_
+#EXTINF:-1 tvg-id="117792" tvg-name="(FR) Canal+ Foot 4k+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_hd.png" group-title="FR| FR - Sport",(FR) Canal+ Foot 4k+
+http://localhost/ch/117792_
+#EXTINF:-1 tvg-id="1219" tvg-name="(FR) beIN Sports 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_03_hd.png" group-title="FR| FR - Sport",(FR) beIN Sports 3 4K+
+http://localhost/ch/1219_
+#EXTINF:-1 tvg-id="12661" tvg-name="(UK) BT Sport X5 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_5.png" group-title="EN| UK - Sport",(UK) BT Sport X5 (Match Time Only) 4K+
+http://localhost/ch/12661_
 #EXTINF:-1 tvg-id="13153" tvg-name="(ES) Cosmo 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/cosmopolitan_tv_es.png" group-title="ES| ES - España",(ES) Cosmo 4K+
 http://localhost/ch/13153_
+#EXTINF:-1 tvg-id="13155" tvg-name="(ES) Teledeporte" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/tve_teledeporte.png" group-title="ES| ES - Deporte",(ES) Teledeporte
+http://localhost/ch/13155_
+#EXTINF:-1 tvg-id="13160" tvg-name="(ES) Movistar Cine 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_d_cine.png" group-title="ES| ES - Cine",(ES) Movistar Cine 4K+
+http://localhost/ch/13160_
+#EXTINF:-1 tvg-id="13162" tvg-name="(ES) Movistar Comedia 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/movistar_comedia.png" group-title="ES| ES - Cine",(ES) Movistar Comedia 4K+
+http://localhost/ch/13162_
+#EXTINF:-1 tvg-id="13164" tvg-name="(ES) Movistar Accion 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_accion.png" group-title="ES| ES - Cine",(ES) Movistar Accion 4K+
+http://localhost/ch/13164_
+#EXTINF:-1 tvg-id="13167" tvg-name="(ES) AXN 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/axn_global_hd.png" group-title="ES| ES - Cine",(ES) AXN 4K+
+http://localhost/ch/13167_
 #EXTINF:-1 tvg-id="13168" tvg-name="(ES) Caza y Pesca 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/caza_y_pesca_es.png" group-title="ES| ES - España",(ES) Caza y Pesca 4K+
 http://localhost/ch/13168_
 #EXTINF:-1 tvg-id="13171" tvg-name="(ES) Fox 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/fox_global.png" group-title="ES| ES - España",(ES) Fox 4K+
 http://localhost/ch/13171_
+#EXTINF:-1 tvg-id="13173" tvg-name="(ES) Eurosport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/eurosport_fr_1_hd.png" group-title="ES| ES - Deporte",(ES) Eurosport 1 4K+
+http://localhost/ch/13173_
+#EXTINF:-1 tvg-id="13175" tvg-name="(ES) AXN White 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/axn_white_es.png" group-title="ES| ES - Cine",(ES) AXN White 4K+
+http://localhost/ch/13175_
 #EXTINF:-1 tvg-id="13176" tvg-name="(ES) Energy" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/energy_tv_es.png" group-title="ES| ES - España",(ES) Energy
 http://localhost/ch/13176_
 #EXTINF:-1 tvg-id="13178" tvg-name="(ES) Comedy Central 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/comedy_central_us.png" group-title="ES| ES - España",(ES) Comedy Central 4K+
 http://localhost/ch/13178_
 #EXTINF:-1 tvg-id="13182" tvg-name="(ES) Antena 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/antena3.png" group-title="ES| ES - España",(ES) Antena 3 4K+
 http://localhost/ch/13182_
+#EXTINF:-1 tvg-id="13251" tvg-name="(UK) beIN Sports 11 (ENG)" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/be_in_mena_sports_11_hd.png" group-title="EN| UK - Sport",(UK) beIN Sports 11 (ENG)
+http://localhost/ch/13251_
 #EXTINF:-1 tvg-id="1421" tvg-name="(FR) TFX 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/nt1_fr.png" group-title="FR| FR - France",(FR) TFX 4K+
 http://localhost/ch/1421_
 #EXTINF:-1 tvg-id="1422" tvg-name="(FR) Cherie 25 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/cherie_25_fr.png" group-title="FR| FR - France",(FR) Cherie 25 4K+
@@ -77,8 +179,46 @@ http://localhost/ch/1426_
 http://localhost/ch/1428_
 #EXTINF:-1 tvg-id="1430" tvg-name="(FR) Chasse & Peche 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/chasse_et_peche.png" group-title="FR| FR - France",(FR) Chasse & Peche 4K+
 http://localhost/ch/1430_
+#EXTINF:-1 tvg-id="143091" tvg-name="(FR) Cine+ Club 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_emotion_hd.png" group-title="FR| FR - Cinéma",(FR) Cine+ Club 4K+
+http://localhost/ch/143091_
 #EXTINF:-1 tvg-id="1431" tvg-name="(FR) Animaux 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/animaux_fr.png" group-title="FR| FR - France",(FR) Animaux 4K+
 http://localhost/ch/1431_
+#EXTINF:-1 tvg-id="143124" tvg-name="(FR) TF1 Series Films 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/hd1_fr.png" group-title="FR| FR - Cinéma",(FR) TF1 Series Films 4K+
+http://localhost/ch/143124_
+#EXTINF:-1 tvg-id="143125" tvg-name="(FR) Tmc 4K+" tvg-logo="https://asiagrandiptv.us/logo//tmc.png" group-title="FR| FR - Cinéma",(FR) Tmc 4K+
+http://localhost/ch/143125_
+#EXTINF:-1 tvg-id="143145" tvg-name="(FR) TV Breizh 4K+" tvg-logo="https://asiagrandiptv.us/logo//TVBREIZH.png" group-title="FR| FR - Cinéma",(FR) TV Breizh 4K+
+http://localhost/ch/143145_
+#EXTINF:-1 tvg-id="143147" tvg-name="(FR) Warner TV" tvg-logo="https://asiagrandiptv.us/logo//warnertv.png" group-title="FR| FR - Cinéma",(FR) Warner TV
+http://localhost/ch/143147_
+#EXTINF:-1 tvg-id="143148" tvg-name="(FR) Altice Studio 4K+" tvg-logo="https://xplanetiptv.com/Logotv/countries/france/altice-studio-fr.png" group-title="FR| FR - Cinéma",(FR) Altice Studio 4K+
+http://localhost/ch/143148_
+#EXTINF:-1 tvg-id="143149" tvg-name="(FR) Novelas 4K+" tvg-logo="https://asiagrandiptv.us/logo//novelastvafr.png" group-title="FR| FR - Cinéma",(FR) Novelas 4K+
+http://localhost/ch/143149_
+#EXTINF:-1 tvg-id="143160" tvg-name="(FR) Canal+ Formula 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_hd.png" group-title="FR| FR - Sport",(FR) Canal+ Formula 1 4K+
+http://localhost/ch/143160_
+#EXTINF:-1 tvg-id="143161" tvg-name="(FR) Canal+ Premier League 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_sport.png" group-title="FR| FR - Sport",(FR) Canal+ Premier League 4K+
+http://localhost/ch/143161_
+#EXTINF:-1 tvg-id="143162" tvg-name="(FR) Golf + Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/canalplus_fr_golf_plus_hd.png" group-title="FR| FR - Sport",(FR) Golf + Channel 4K+
+http://localhost/ch/143162_
+#EXTINF:-1 tvg-id="143163" tvg-name="(FR) Equida Live 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/equidia-fr.png" group-title="FR| FR - Sport",(FR) Equida Live 4K+
+http://localhost/ch/143163_
+#EXTINF:-1 tvg-id="143166" tvg-name="(FR) Trek 4K+" tvg-logo="https://asiagrandiptv.us/logo/trek.png" group-title="FR| FR - Sport",(FR) Trek 4K+
+http://localhost/ch/143166_
+#EXTINF:-1 tvg-id="143167" tvg-name="(FR) L'Equipe 21 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/equidia-fr.png" group-title="FR| FR - Sport",(FR) L'Equipe 21 4K+
+http://localhost/ch/143167_
+#EXTINF:-1 tvg-id="143168" tvg-name="(FR) Multisport 1 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 1 4K+
+http://localhost/ch/143168_
+#EXTINF:-1 tvg-id="143169" tvg-name="(FR) Multisport 2 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 2 4K+
+http://localhost/ch/143169_
+#EXTINF:-1 tvg-id="143170" tvg-name="(FR) Multisport 3 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 3 4K+
+http://localhost/ch/143170_
+#EXTINF:-1 tvg-id="143171" tvg-name="(FR) Multisport 4 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 4 4K+
+http://localhost/ch/143171_
+#EXTINF:-1 tvg-id="143172" tvg-name="(FR) Multisport 5 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 5 4K+
+http://localhost/ch/143172_
+#EXTINF:-1 tvg-id="143173" tvg-name="(FR) Multisport 6 4K+" tvg-logo="http://i.postimg.cc/jSW-FjyXf/multisports.png" group-title="FR| FR - Sport",(FR) Multisport 6 4K+
+http://localhost/ch/143173_
 #EXTINF:-1 tvg-id="1432" tvg-name="(FR) Science & Vie" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/science_et_vie_tv_fr.png" group-title="FR| FR - France",(FR) Science & Vie
 http://localhost/ch/1432_
 #EXTINF:-1 tvg-id="143324" tvg-name="(FR) i24 News 4K+" tvg-logo="https://i.postimg.cc/9fxFwSsN/I24-News.png" group-title="FR| FR - France",(FR) i24 News 4K+
@@ -99,20 +239,50 @@ http://localhost/ch/149_
 http://localhost/ch/150_
 #EXTINF:-1 tvg-id="151" tvg-name="(FR) TF1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/tf1_hd.png" group-title="FR| FR - France",(FR) TF1 4K+
 http://localhost/ch/151_
+#EXTINF:-1 tvg-id="151735" tvg-name="(UK) Rangers FC TV (Live for Matches)" tvg-logo="http://www.dfcdirect.co.uk/assets/images/site/dfc_footer_logo.png" group-title="EN| UK - Sport",(UK) Rangers FC TV (Live for Matches)
+http://localhost/ch/151735_
+#EXTINF:-1 tvg-id="151736" tvg-name="(UK) Celtic FC TV (Live for Matches)" tvg-logo="http://cdn.celticfc.net/assets/images/web/crest.png" group-title="EN| UK - Sport",(UK) Celtic FC TV (Live for Matches)
+http://localhost/ch/151736_
 #EXTINF:-1 tvg-id="152" tvg-name="(FR) Arte 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/arte_fr_hd.png" group-title="FR| FR - France",(FR) Arte 4K+
 http://localhost/ch/152_
 #EXTINF:-1 tvg-id="153" tvg-name="(FR) TMC 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/tt/tmc_ch.png" group-title="FR| FR - France",(FR) TMC 4K+
 http://localhost/ch/153_
+#EXTINF:-1 tvg-id="156" tvg-name="(FR) Canal+ Family" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_family_hd.png" group-title="FR| FR - Cinéma",(FR) Canal+ Family
+http://localhost/ch/156_
 #EXTINF:-1 tvg-id="1560" tvg-name="(UK) Channel 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/channel_4_uk.png" group-title="EN| UK - English",(UK) Channel 4 4K+
 http://localhost/ch/1560_
 #EXTINF:-1 tvg-id="1563" tvg-name="(UK) Discovery Science" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_science_global.png" group-title="EN| UK - English",(UK) Discovery Science
 http://localhost/ch/1563_
+#EXTINF:-1 tvg-id="1564" tvg-name="(UK) Disney Junior 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/disney_junior_us.png" group-title="EN| UK - Music & Kids",(UK) Disney Junior 4K+
+http://localhost/ch/1564_
 #EXTINF:-1 tvg-id="1566" tvg-name="(UK) E4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/e4_uk.png" group-title="EN| UK - English",(UK) E4 4K+
 http://localhost/ch/1566_
 #EXTINF:-1 tvg-id="1568" tvg-name="(UK) Nat Geo Wild 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/nat_geo_wild_us.png" group-title="EN| UK - English",(UK) Nat Geo Wild 4K+
 http://localhost/ch/1568_
 #EXTINF:-1 tvg-id="1569" tvg-name="(UK) RTE One 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/rte1.jpg" group-title="EN| UK - English",(UK) RTE One 4K+
 http://localhost/ch/1569_
+#EXTINF:-1 tvg-id="157" tvg-name="(FR) Canal+ Sport 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_sport.png" group-title="FR| FR - Sport",(FR) Canal+ Sport 4K+
+http://localhost/ch/157_
+#EXTINF:-1 tvg-id="1570" tvg-name="(UK) Sky Arts 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_arts.png" group-title="EN| UK - Cinema",(UK) Sky Arts 4K+
+http://localhost/ch/1570_
+#EXTINF:-1 tvg-id="1571" tvg-name="(UK) Sky Sport News 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_news_hq.png" group-title="EN| UK - Sport",(UK) Sky Sport News 4K+
+http://localhost/ch/1571_
+#EXTINF:-1 tvg-id="1575" tvg-name="(UK) Sky Atlantic 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_atlantic.png" group-title="EN| UK - Cinema",(UK) Sky Atlantic 4K+
+http://localhost/ch/1575_
+#EXTINF:-1 tvg-id="158" tvg-name="(FR) beIN Sports 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_01_hd.png" group-title="FR| FR - Sport",(FR) beIN Sports 1 4K+
+http://localhost/ch/158_
+#EXTINF:-1 tvg-id="1580" tvg-name="(UK) MTV Music" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_music_uk.png" group-title="EN| UK - Music & Kids",(UK) MTV Music
+http://localhost/ch/1580_
+#EXTINF:-1 tvg-id="1581" tvg-name="(UK) Nick Jr" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/nick_jr_us.png" group-title="EN| UK - Music & Kids",(UK) Nick Jr
+http://localhost/ch/1581_
+#EXTINF:-1 tvg-id="1582" tvg-name="(UK) Sky One 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_1.png" group-title="EN| UK - Cinema",(UK) Sky One 4K+
+http://localhost/ch/1582_
+#EXTINF:-1 tvg-id="15876" tvg-name="(UK) VH1 Classic" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/vh1_classic_europe.png" group-title="EN| UK - Music & Kids",(UK) VH1 Classic
+http://localhost/ch/15876_
+#EXTINF:-1 tvg-id="159" tvg-name="(FR) beIN Sports 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/turkey/be_in_tr_sports_02_hd.png" group-title="FR| FR - Sport",(FR) beIN Sports 2 4K+
+http://localhost/ch/159_
+#EXTINF:-1 tvg-id="1594" tvg-name="(UK) Eir Sports 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ee/eir_sport_ie_1.png" group-title="EN| UK - Sport",(UK) Eir Sports 1 4K+
+http://localhost/ch/1594_
 #EXTINF:-1 tvg-id="16129" tvg-name="(FR) RTL TVI 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/belgique/rtl_tvi_hd.png" group-title="FR| FR - France",(FR) RTL TVI 4K+
 http://localhost/ch/16129_
 #EXTINF:-1 tvg-id="16130" tvg-name="(FR) La Une 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_a_la_une.png" group-title="FR| FR - France",(FR) La Une 4K+
@@ -131,14 +301,34 @@ http://localhost/ch/16135_
 http://localhost/ch/1633_
 #EXTINF:-1 tvg-id="1634" tvg-name="(FR) RTS Deux 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rtbf_la_deux.png" group-title="FR| FR - France",(FR) RTS Deux 4K+
 http://localhost/ch/1634_
+#EXTINF:-1 tvg-id="16504" tvg-name="(ES) Movistar Estrenos 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_estrenos.png" group-title="ES| ES - Cine",(ES) Movistar Estrenos 4K+
+http://localhost/ch/16504_
+#EXTINF:-1 tvg-id="16505" tvg-name="(ES) Movistar Drama 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_series.png" group-title="ES| ES - Cine",(ES) Movistar Drama 4K+
+http://localhost/ch/16505_
+#EXTINF:-1 tvg-id="16507" tvg-name="(ES) Movistar F1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_moto_gp.png" group-title="ES| ES - Deporte",(ES) Movistar F1 4K+
+http://localhost/ch/16507_
+#EXTINF:-1 tvg-id="16509" tvg-name="(ES) Movistar Golf 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_golf.png" group-title="ES| ES - Deporte",(ES) Movistar Golf 4K+
+http://localhost/ch/16509_
+#EXTINF:-1 tvg-id="16512" tvg-name="(ES) Movistar Liga de Campeones 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_deportes_2.png" group-title="ES| ES - Deporte",(ES) Movistar Liga de Campeones 4K+
+http://localhost/ch/16512_
+#EXTINF:-1 tvg-id="16514" tvg-name="(ES) Gol" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/gol_tv.jpg" group-title="ES| ES - Deporte",(ES) Gol
+http://localhost/ch/16514_
+#EXTINF:-1 tvg-id="16516" tvg-name="(ES) AMC 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/amc_us.png" group-title="ES| ES - Cine",(ES) AMC 4K+
+http://localhost/ch/16516_
+#EXTINF:-1 tvg-id="16518" tvg-name="(ES) Boing" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/boing_es.png" group-title="ES| ES - Niños",(ES) Boing
+http://localhost/ch/16518_
 #EXTINF:-1 tvg-id="16519" tvg-name="(ES) Esperanza TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/esperanza.png" group-title="ES| ES - España",(ES) Esperanza TV
 http://localhost/ch/16519_
+#EXTINF:-1 tvg-id="16521" tvg-name="(ES) Mezzo Live 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/Mezzo_Live_HD.png" group-title="ES| ES - Música",(ES) Mezzo Live 4K+
+http://localhost/ch/16521_
 #EXTINF:-1 tvg-id="16522" tvg-name="(ES) National Geographic 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/nat_geo_us.png" group-title="ES| ES - España",(ES) National Geographic 4K+
 http://localhost/ch/16522_
 #EXTINF:-1 tvg-id="16524" tvg-name="(ES) Nat Geo Wild 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/nat_geo_wild_us.png" group-title="ES| ES - España",(ES) Nat Geo Wild 4K+
 http://localhost/ch/16524_
 #EXTINF:-1 tvg-id="16525" tvg-name="(ES) Extremadura TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_extremadura.png" group-title="ES| ES - España",(ES) Extremadura TV
 http://localhost/ch/16525_
+#EXTINF:-1 tvg-id="16528" tvg-name="(ES) Disney Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/disney_channel_global.png" group-title="ES| ES - Niños",(ES) Disney Channel 4K+
+http://localhost/ch/16528_
 #EXTINF:-1 tvg-id="16529" tvg-name="(ES) Blaze 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/non_stop_people_es.png" group-title="ES| ES - España",(ES) Blaze 4K+
 http://localhost/ch/16529_
 #EXTINF:-1 tvg-id="16530" tvg-name="(ES) Discovery Channel" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/discovery_global_us.png" group-title="ES| ES - España",(ES) Discovery Channel
@@ -149,6 +339,14 @@ http://localhost/ch/16531_
 http://localhost/ch/16533_
 #EXTINF:-1 tvg-id="16534" tvg-name="(ES) Galicia TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/galicia_tv_eu.png" group-title="ES| ES - España",(ES) Galicia TV 4K+
 http://localhost/ch/16534_
+#EXTINF:-1 tvg-id="16537" tvg-name="(ES) FDF" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/factoria_de_ficcion.png" group-title="ES| ES - Cine",(ES) FDF
+http://localhost/ch/16537_
+#EXTINF:-1 tvg-id="16539" tvg-name="(ES) Eurosport 2" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/be_in_mena_sports_es_la_liga.png" group-title="ES| ES - Deporte",(ES) Eurosport 2
+http://localhost/ch/16539_
+#EXTINF:-1 tvg-id="17" tvg-name="(UK) SyFy 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/syfy_us_global.png" group-title="EN| UK - Cinema",(UK) SyFy 4K+
+http://localhost/ch/17_
+#EXTINF:-1 tvg-id="1785" tvg-name="(UK) Liverpool TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/liverpool_football_club.png" group-title="EN| UK - Sport",(UK) Liverpool TV 4K+
+http://localhost/ch/1785_
 #EXTINF:-1 tvg-id="1802" tvg-name="(ES) LA 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/TVE_la1.png" group-title="ES| ES - España",(ES) LA 1 4K+
 http://localhost/ch/1802_
 #EXTINF:-1 tvg-id="1803" tvg-name="(ES) La Sexta 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/la_sexta_es.png" group-title="ES| ES - España",(ES) La Sexta 4K+
@@ -169,6 +367,12 @@ http://localhost/ch/180604_
 http://localhost/ch/180605_
 #EXTINF:-1 tvg-id="180606" tvg-name="(FR) France 5 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france5-fr.png" group-title="FR| FR - France",(FR) France 5 HD+
 http://localhost/ch/180606_
+#EXTINF:-1 tvg-id="1809" tvg-name="(ES) Movistar Series 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_xtra.png" group-title="ES| ES - Cine",(ES) Movistar Series 4K+
+http://localhost/ch/1809_
+#EXTINF:-1 tvg-id="1811" tvg-name="(ES) TCM 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/tcm_global.png" group-title="ES| ES - Cine",(ES) TCM 4K+
+http://localhost/ch/1811_
+#EXTINF:-1 tvg-id="1812" tvg-name="(ES) Syfy 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/syfy_us_global.png" group-title="ES| ES - Cine",(ES) Syfy 4K+
+http://localhost/ch/1812_
 #EXTINF:-1 tvg-id="185009" tvg-name="(FR) TF 1 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/tf1_hd.png" group-title="FR| FR - France",(FR) TF 1 HD+
 http://localhost/ch/185009_
 #EXTINF:-1 tvg-id="191" tvg-name="(UK) Gold 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/gold_uktv.png" group-title="EN| UK - English",(UK) Gold 4K+
@@ -179,14 +383,48 @@ http://localhost/ch/192_
 http://localhost/ch/192663_
 #EXTINF:-1 tvg-id="193" tvg-name="(UK) Discovery History" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_history.png" group-title="EN| UK - English",(UK) Discovery History
 http://localhost/ch/193_
+#EXTINF:-1 tvg-id="19327" tvg-name="(FR) beIN Sport Max 8 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_08_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 8 4K+
+http://localhost/ch/19327_
+#EXTINF:-1 tvg-id="19328" tvg-name="(FR) beIN Sport Max 7 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_07_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 7 4K+
+http://localhost/ch/19328_
+#EXTINF:-1 tvg-id="19329" tvg-name="(FR) beIN Sport Max 6 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_06_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 6 4K+
+http://localhost/ch/19329_
+#EXTINF:-1 tvg-id="19330" tvg-name="(FR) beIN Sport Max 5 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_05_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 5 4K+
+http://localhost/ch/19330_
+#EXTINF:-1 tvg-id="19331" tvg-name="(FR) beIN Sport Max 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/be_in_mena_sports_max_04_hd.png" group-title="FR| FR - Sport",(FR) beIN Sport Max 4 4K+
+http://localhost/ch/19331_
+#EXTINF:-1 tvg-id="19332" tvg-name="(FR) RMC Sport 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-2-fr.png" group-title="FR| FR - Sport",(FR) RMC Sport 2 4K+
+http://localhost/ch/19332_
+#EXTINF:-1 tvg-id="19333" tvg-name="(FR) RMC Sport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-1-fr.png" group-title="FR| FR - Sport",(FR) RMC Sport 1 4K+
+http://localhost/ch/19333_
 #EXTINF:-1 tvg-id="194" tvg-name="(UK) National Geographic Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/nat_geo_us.png" group-title="EN| UK - English",(UK) National Geographic Channel 4K+
 http://localhost/ch/194_
 #EXTINF:-1 tvg-id="195" tvg-name="(UK) Discovery Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/nerdeland/discovery_global_us.png" group-title="EN| UK - English",(UK) Discovery Channel 4K+
 http://localhost/ch/195_
 #EXTINF:-1 tvg-id="196" tvg-name="(UK) Investigation Discovery 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/investigation_discovery_us.png" group-title="EN| UK - English",(UK) Investigation Discovery 4K+
 http://localhost/ch/196_
+#EXTINF:-1 tvg-id="198" tvg-name="(UK) Sky Cinema Premiere 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/sky_cinema_premiere.jpg" group-title="EN| UK - Cinema",(UK) Sky Cinema Premiere 4K+
+http://localhost/ch/198_
+#EXTINF:-1 tvg-id="199" tvg-name="(UK) Sky Cinema Action 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_action_adventure.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Action 4K+
+http://localhost/ch/199_
+#EXTINF:-1 tvg-id="200" tvg-name="(UK) Sky Cinema Thriller 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_crime_thriller.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Thriller 4K+
+http://localhost/ch/200_
+#EXTINF:-1 tvg-id="201" tvg-name="(UK) Sky Cinema Comedy 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_comedy.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Comedy 4K+
+http://localhost/ch/201_
+#EXTINF:-1 tvg-id="202" tvg-name="(UK) Sky Cinema Family 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_family.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Family 4K+
+http://localhost/ch/202_
+#EXTINF:-1 tvg-id="203" tvg-name="(UK) Sky Cinema Sci-Fi & Horror 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_scifi_horror.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Sci-Fi & Horror 4K+
+http://localhost/ch/203_
+#EXTINF:-1 tvg-id="210" tvg-name="(UK) Sky Sports Cricket 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_cricket.png" group-title="EN| UK - Sport",(UK) Sky Sports Cricket 4K+
+http://localhost/ch/210_
+#EXTINF:-1 tvg-id="213" tvg-name="(UK) Sky Sports Premier League 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_premier_league.png" group-title="EN| UK - Sport",(UK) Sky Sports Premier League 4K+
+http://localhost/ch/213_
+#EXTINF:-1 tvg-id="214" tvg-name="(UK) Sky Sports F1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_f1.png" group-title="EN| UK - Sport",(UK) Sky Sports F1 4K+
+http://localhost/ch/214_
 #EXTINF:-1 tvg-id="22222" tvg-name="(FR) AB1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/ab1.png" group-title="FR| FR - France",(FR) AB1 4K+
 http://localhost/ch/22222_
+#EXTINF:-1 tvg-id="22456" tvg-name="(UK) Sky Sports Mix 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_mix.png" group-title="EN| UK - Sport",(UK) Sky Sports Mix 4K+
+http://localhost/ch/22456_
 #EXTINF:-1 tvg-id="22457" tvg-name="(UK) H2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/history_us_2.png" group-title="EN| UK - English",(UK) H2 4K+
 http://localhost/ch/22457_
 #EXTINF:-1 tvg-id="22459" tvg-name="(UK) Alibi 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/alibi_uktv_uk.png" group-title="EN| UK - English",(UK) Alibi 4K+
@@ -211,6 +449,12 @@ http://localhost/ch/23660_
 http://localhost/ch/23666_
 #EXTINF:-1 tvg-id="24123" tvg-name="(FR) LCI 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/lci_fr.png" group-title="FR| FR - France",(FR) LCI 4K+
 http://localhost/ch/24123_
+#EXTINF:-1 tvg-id="250342" tvg-name="(UK) Sky Sports F1 ᵁˡᵗʳᵃ" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_f1.png" group-title="EN| UK - Sport",(UK) Sky Sports F1 ᵁˡᵗʳᵃ
+http://localhost/ch/250342_
+#EXTINF:-1 tvg-id="250343" tvg-name="(UK) Sky Sports F1 ᴴᴰ" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_f1.png" group-title="EN| UK - Sport",(UK) Sky Sports F1 ᴴᴰ
+http://localhost/ch/250343_
+#EXTINF:-1 tvg-id="2522" tvg-name="(UK) Disney Channel" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/disney_channel_global.png" group-title="EN| UK - Music & Kids",(UK) Disney Channel
+http://localhost/ch/2522_
 #EXTINF:-1 tvg-id="25962" tvg-name="(UK) Horse and Country 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/horse_country_tv_uk.png" group-title="EN| UK - English",(UK) Horse and Country 4K+
 http://localhost/ch/25962_
 #EXTINF:-1 tvg-id="25970" tvg-name="(FR) France 24 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/france24_english.png" group-title="FR| FR - France",(FR) France 24 4K+
@@ -221,32 +465,118 @@ http://localhost/ch/25979_
 http://localhost/ch/25982_
 #EXTINF:-1 tvg-id="27176" tvg-name="(ES) Andalucia TV" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/andalucia_tv.png" group-title="ES| ES - España",(ES) Andalucia TV
 http://localhost/ch/27176_
+#EXTINF:-1 tvg-id="28034" tvg-name="(UK) Sky Sports Football 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_football.png" group-title="EN| UK - Sport",(UK) Sky Sports Football 4K+
+http://localhost/ch/28034_
+#EXTINF:-1 tvg-id="28035" tvg-name="(UK) Sky Sports Arena 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_arena.png" group-title="EN| UK - Sport",(UK) Sky Sports Arena 4K+
+http://localhost/ch/28035_
+#EXTINF:-1 tvg-id="28039" tvg-name="(UK) BT Sport X2 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_2.png" group-title="EN| UK - Sport",(UK) BT Sport X2 (Match Time Only) 4K+
+http://localhost/ch/28039_
+#EXTINF:-1 tvg-id="28040" tvg-name="(UK) BT Sport X3 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_3.png" group-title="EN| UK - Sport",(UK) BT Sport X3 (Match Time Only) 4K+
+http://localhost/ch/28040_
 #EXTINF:-1 tvg-id="303" tvg-name="(FR) M6 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/m6_fr_hd.png" group-title="FR| FR - France",(FR) M6 4K+
 http://localhost/ch/303_
+#EXTINF:-1 tvg-id="30343" tvg-name="(FR) Equidia 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/equidia-fr.png" group-title="FR| FR - Sport",(FR) Equidia 4K+
+http://localhost/ch/30343_
 #EXTINF:-1 tvg-id="304" tvg-name="(FR) NRJ12 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/nrj_fr_12_hd.png" group-title="FR| FR - France",(FR) NRJ12 4K+
 http://localhost/ch/304_
+#EXTINF:-1 tvg-id="313" tvg-name="(UK) Premier Sports 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/premier_sports.png" group-title="EN| UK - Sport",(UK) Premier Sports 1 4K+
+http://localhost/ch/313_
+#EXTINF:-1 tvg-id="316" tvg-name="(UK) BT Sport 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk.png" group-title="EN| UK - Sport",(UK) BT Sport 4 4K+
+http://localhost/ch/316_
+#EXTINF:-1 tvg-id="31693" tvg-name="(FR) RMC Sport 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-3-fr.png" group-title="FR| FR - Sport",(FR) RMC Sport 3 4K+
+http://localhost/ch/31693_
 #EXTINF:-1 tvg-id="323" tvg-name="(UK) BBC Entertainment" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_entertainment_uk.png" group-title="EN| UK - English",(UK) BBC Entertainment
 http://localhost/ch/323_
+#EXTINF:-1 tvg-id="3281" tvg-name="(ES) Nickelodeon 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/nickelodeon_us.png" group-title="ES| ES - Niños",(ES) Nickelodeon 4K+
+http://localhost/ch/3281_
 #EXTINF:-1 tvg-id="3282" tvg-name="(ES) Historia" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/historia_es.png" group-title="ES| ES - España",(ES) Historia
 http://localhost/ch/3282_
+#EXTINF:-1 tvg-id="3283" tvg-name="(ES) Disney Junior" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/disney_junior_us.png" group-title="ES| ES - Niños",(ES) Disney Junior
+http://localhost/ch/3283_
+#EXTINF:-1 tvg-id="329" tvg-name="(UK) BT Sport X1 (Match Time Only) 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bt_sport_uk_extra_1.png" group-title="EN| UK - Sport",(UK) BT Sport X1 (Match Time Only) 4K+
+http://localhost/ch/329_
 #EXTINF:-1 tvg-id="331" tvg-name="(UK) Channel 5 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/uk/five.png" group-title="EN| UK - English",(UK) Channel 5 4K+
 http://localhost/ch/331_
 #EXTINF:-1 tvg-id="332" tvg-name="(UK) BBC One 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_one.png" group-title="EN| UK - English",(UK) BBC One 4K+
 http://localhost/ch/332_
 #EXTINF:-1 tvg-id="333" tvg-name="(UK) BBC Two 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_two_uk.png" group-title="EN| UK - English",(UK) BBC Two 4K+
 http://localhost/ch/333_
+#EXTINF:-1 tvg-id="347" tvg-name="(UK) MTV Hits" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_hits_us_global.png" group-title="EN| UK - Music & Kids",(UK) MTV Hits
+http://localhost/ch/347_
+#EXTINF:-1 tvg-id="348" tvg-name="(UK) MTV Music" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_rocks_uk.png" group-title="EN| UK - Music & Kids",(UK) MTV Music
+http://localhost/ch/348_
+#EXTINF:-1 tvg-id="349" tvg-name="(UK) Club MTV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_dance_uk.png" group-title="EN| UK - Music & Kids",(UK) Club MTV
+http://localhost/ch/349_
+#EXTINF:-1 tvg-id="359" tvg-name="(UK) Cartoon Network 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cartoon_network_global.png" group-title="EN| UK - Music & Kids",(UK) Cartoon Network 4K+
+http://localhost/ch/359_
+#EXTINF:-1 tvg-id="39939" tvg-name="(ES) Movistar Series Mania 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_partidazo.png" group-title="ES| ES - Cine",(ES) Movistar Series Mania 4K+
+http://localhost/ch/39939_
+#EXTINF:-1 tvg-id="439" tvg-name="(FR) Canal+ Series 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_series.png" group-title="FR| FR - Cinéma",(FR) Canal+ Series 4K+
+http://localhost/ch/439_
 #EXTINF:-1 tvg-id="440" tvg-name="(FR) C8 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_c_8.png" group-title="FR| FR - France",(FR) C8 4K+
 http://localhost/ch/440_
 #EXTINF:-1 tvg-id="441" tvg-name="(FR) W9 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/w9_fr_hd.png" group-title="FR| FR - France",(FR) W9 4K+
 http://localhost/ch/441_
+#EXTINF:-1 tvg-id="442" tvg-name="(FR) 13éme Rue 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/13eme_rue_fr.png" group-title="FR| FR - Cinéma",(FR) 13éme Rue 4K+
+http://localhost/ch/442_
+#EXTINF:-1 tvg-id="458" tvg-name="(UK) Box Nation 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/box_nation_uk.png" group-title="EN| UK - Sport",(UK) Box Nation 4K+
+http://localhost/ch/458_
+#EXTINF:-1 tvg-id="46845" tvg-name="(FR) Canal+ 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_hd.png" group-title="FR| FR - Cinéma",(FR) Canal+ 4K+
+http://localhost/ch/46845_
+#EXTINF:-1 tvg-id="560" tvg-name="(ES) Movistar Deportes 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/movistar_es_deportes_1.png" group-title="ES| ES - Deporte",(ES) Movistar Deportes 4K+
+http://localhost/ch/560_
+#EXTINF:-1 tvg-id="565" tvg-name="(UK) Sky Cinema Drama & Romance 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_drama_romance.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Drama & Romance 4K+
+http://localhost/ch/565_
+#EXTINF:-1 tvg-id="569" tvg-name="(UK) Sky Cinema Select 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_cinema_select.png" group-title="EN| UK - Cinema",(UK) Sky Cinema Select 4K+
+http://localhost/ch/569_
 #EXTINF:-1 tvg-id="577" tvg-name="(FR) BFM TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/bfm_fr_tv.png" group-title="FR| FR - France",(FR) BFM TV 4K+
 http://localhost/ch/577_
+#EXTINF:-1 tvg-id="579" tvg-name="(FR) Eurosport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/eurosport_fr_1_hd.png" group-title="FR| FR - Sport",(FR) Eurosport 1 4K+
+http://localhost/ch/579_
+#EXTINF:-1 tvg-id="61169" tvg-name="(UK) At The Races" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/at_the_races_uk.png" group-title="EN| UK - Sport",(UK) At The Races
+http://localhost/ch/61169_
+#EXTINF:-1 tvg-id="61974" tvg-name="(ES) Movistar LaLiga 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/M.LaLiga1.png" group-title="ES| ES - Deporte",(ES) Movistar LaLiga 1 4K+
+http://localhost/ch/61974_
+#EXTINF:-1 tvg-id="61975" tvg-name="(ES) Movistar LaLiga 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/M.LaLiga2.png" group-title="ES| ES - Deporte",(ES) Movistar LaLiga 2 4K+
+http://localhost/ch/61975_
+#EXTINF:-1 tvg-id="61976" tvg-name="(ES) Movistar LaLiga 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/M.LaLiga3.png" group-title="ES| ES - Deporte",(ES) Movistar LaLiga 3 4K+
+http://localhost/ch/61976_
+#EXTINF:-1 tvg-id="61977" tvg-name="(ES) Movistar Formula 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/es/MovistarFormula1.png" group-title="ES| ES - Deporte",(ES) Movistar Formula 1 4K+
+http://localhost/ch/61977_
+#EXTINF:-1 tvg-id="61978" tvg-name="(ES) Baby TV" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/baby.png" group-title="ES| ES - Niños",(ES) Baby TV
+http://localhost/ch/61978_
+#EXTINF:-1 tvg-id="61979" tvg-name="(ES) Canal Panda" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_panda_es.png" group-title="ES| ES - Niños",(ES) Canal Panda
+http://localhost/ch/61979_
+#EXTINF:-1 tvg-id="61980" tvg-name="(ES) Stingray Classica" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ss/stingray-classica-ca.png" group-title="ES| ES - Música",(ES) Stingray Classica
+http://localhost/ch/61980_
+#EXTINF:-1 tvg-id="61981" tvg-name="(ES) Canal Hollywood 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_hollywood_es_hd.png" group-title="ES| ES - Cine",(ES) Canal Hollywood 4K+
+http://localhost/ch/61981_
+#EXTINF:-1 tvg-id="61982" tvg-name="(ES) Calle 13 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/calle13_universal_hd.png" group-title="ES| ES - Cine",(ES) Calle 13 4K+
+http://localhost/ch/61982_
+#EXTINF:-1 tvg-id="61983" tvg-name="(ES) Paramount Network" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/paramount_channel_us.png" group-title="ES| ES - Cine",(ES) Paramount Network
+http://localhost/ch/61983_
 #EXTINF:-1 tvg-id="61985" tvg-name="(ES) Canal Orbe 21" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/canal_orbe_21_ar.png" group-title="ES| ES - España",(ES) Canal Orbe 21
 http://localhost/ch/61985_
+#EXTINF:-1 tvg-id="61986" tvg-name="(ES) MTV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/mtv_us.png" group-title="ES| ES - Música",(ES) MTV
+http://localhost/ch/61986_
 #EXTINF:-1 tvg-id="61987" tvg-name="(ES) Canal Decasa" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/decasa.png" group-title="ES| ES - España",(ES) Canal Decasa
 http://localhost/ch/61987_
 #EXTINF:-1 tvg-id="63132" tvg-name="(FR) AB Explore 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/ABExplorer.jpg" group-title="FR| FR - France",(FR) AB Explore 4K+
 http://localhost/ch/63132_
+#EXTINF:-1 tvg-id="63133" tvg-name="(FR) Automoto 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/aa/automoto-la-chaine-fr.png" group-title="FR| FR - Sport",(FR) Automoto 4K+
+http://localhost/ch/63133_
+#EXTINF:-1 tvg-id="63135" tvg-name="(FR) Bein Sports Max 9 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/be_in_mena_sports_max_09_hd.png" group-title="FR| FR - Sport",(FR) Bein Sports Max 9 4K+
+http://localhost/ch/63135_
+#EXTINF:-1 tvg-id="63136" tvg-name="(FR) Bein Sports Max 10 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/be_in_mena_sports_max_10_hd.png" group-title="FR| FR - Sport",(FR) Bein Sports Max 10 4K+
+http://localhost/ch/63136_
+#EXTINF:-1 tvg-id="63137" tvg-name="(FR) BFM Business 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/bfm_fr_business.png" group-title="FR| FR - Sport",(FR) BFM Business 4K+
+http://localhost/ch/63137_
+#EXTINF:-1 tvg-id="63138" tvg-name="(FR) RMC Sports 1 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-1-fr.png" group-title="FR| FR - Sport",(FR) RMC Sports 1 HD+
+http://localhost/ch/63138_
+#EXTINF:-1 tvg-id="63139" tvg-name="(FR) RMC Sports 2 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-2-fr.png" group-title="FR| FR - Sport",(FR) RMC Sports 2 HD+
+http://localhost/ch/63139_
+#EXTINF:-1 tvg-id="63141" tvg-name="(FR) Canal+ Cinema 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/canalplus_fr_cinema_hd.png" group-title="FR| FR - Cinéma",(FR) Canal+ Cinema 4K+
+http://localhost/ch/63141_
 #EXTINF:-1 tvg-id="63142" tvg-name="(FR) Crime District 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/crime_district_fr.png" group-title="FR| FR - France",(FR) Crime District 4K+
 http://localhost/ch/63142_
 #EXTINF:-1 tvg-id="63143" tvg-name="(FR) Disney+ HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/disney_channel_global.png" group-title="FR| FR - France",(FR) Disney+ HD+
@@ -263,8 +593,14 @@ http://localhost/ch/63148_
 http://localhost/ch/63149_
 #EXTINF:-1 tvg-id="63150" tvg-name="(FR) Nickelodeon 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/nickelodeon_us.png" group-title="FR| FR - France",(FR) Nickelodeon 4K+
 http://localhost/ch/63150_
+#EXTINF:-1 tvg-id="63151" tvg-name="(FR) Trace Urban 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/trace_fr_urban_hd.png" group-title="FR| FR - Sport",(FR) Trace Urban 4K+
+http://localhost/ch/63151_
 #EXTINF:-1 tvg-id="63152" tvg-name="(FR) Piwi 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/canalplus_fr_piwi_plus.png" group-title="FR| FR - France",(FR) Piwi 4K+
 http://localhost/ch/63152_
+#EXTINF:-1 tvg-id="63153" tvg-name="(FR) RMC Sport 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-sport-4-fr.png" group-title="FR| FR - Sport",(FR) RMC Sport 4 4K+
+http://localhost/ch/63153_
+#EXTINF:-1 tvg-id="63154" tvg-name="(FR) RMC Story 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/rr/rmc-story-fr.png" group-title="FR| FR - Sport",(FR) RMC Story 4K+
+http://localhost/ch/63154_
 #EXTINF:-1 tvg-id="63156" tvg-name="(FR) Tiji 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/tiji_fr.png" group-title="FR| FR - France",(FR) Tiji 4K+
 http://localhost/ch/63156_
 #EXTINF:-1 tvg-id="63157" tvg-name="(FR) Toute L.history 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/toute_histoire_fr.png" group-title="FR| FR - France",(FR) Toute L.history 4K+
@@ -277,10 +613,18 @@ http://localhost/ch/63159_
 http://localhost/ch/63160_
 #EXTINF:-1 tvg-id="63161" tvg-name="(FR) Viceland 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/viceland_us.png" group-title="FR| FR - France",(FR) Viceland 4K+
 http://localhost/ch/63161_
+#EXTINF:-1 tvg-id="63177" tvg-name="(ES) Mega TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/mm/mega_cl.png" group-title="ES| ES - Deporte",(ES) Mega TV 4K+
+http://localhost/ch/63177_
 #EXTINF:-1 tvg-id="63182" tvg-name="(UK) 5USA HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/channel_5_uk_usa.png" group-title="EN| UK - English",(UK) 5USA HD+
 http://localhost/ch/63182_
 #EXTINF:-1 tvg-id="63184" tvg-name="(UK) BBC World News HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_world_news_uk.png" group-title="EN| UK - English",(UK) BBC World News HD+
 http://localhost/ch/63184_
+#EXTINF:-1 tvg-id="63185" tvg-name="(UK) Boomerang HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/boomerang_global_hd.png" group-title="EN| UK - Music & Kids",(UK) Boomerang HD+
+http://localhost/ch/63185_
+#EXTINF:-1 tvg-id="63186" tvg-name="(UK) CBeebies HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/bbc_cbeebies_uk_hd.png" group-title="EN| UK - Music & Kids",(UK) CBeebies HD+
+http://localhost/ch/63186_
+#EXTINF:-1 tvg-id="63187" tvg-name="(UK) CBS Justice HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/cbs-justice-us-uk.png" group-title="EN| UK - Cinema",(UK) CBS Justice HD+
+http://localhost/ch/63187_
 #EXTINF:-1 tvg-id="63188" tvg-name="(UK) CBS Drama HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cbs_drama.png" group-title="EN| UK - English",(UK) CBS Drama HD+
 http://localhost/ch/63188_
 #EXTINF:-1 tvg-id="63189" tvg-name="(UK) CBS Reality HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cbs_reality_uk.png" group-title="EN| UK - English",(UK) CBS Reality HD+
@@ -289,14 +633,20 @@ http://localhost/ch/63189_
 http://localhost/ch/63192_
 #EXTINF:-1 tvg-id="63193" tvg-name="(UK) CNN International" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/cnn_international_global.png" group-title="EN| UK - English",(UK) CNN International
 http://localhost/ch/63193_
+#EXTINF:-1 tvg-id="63196" tvg-name="(UK) Disney XD HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/disney_xd_us_hd.png" group-title="EN| UK - Music & Kids",(UK) Disney XD HD+
+http://localhost/ch/63196_
 #EXTINF:-1 tvg-id="63197" tvg-name="(UK) Euronews HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/euronews_fr.png" group-title="EN| UK - English",(UK) Euronews HD+
 http://localhost/ch/63197_
 #EXTINF:-1 tvg-id="63200" tvg-name="(UK) FOX News HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/ff/fox_news_channel.png" group-title="EN| UK - English",(UK) FOX News HD+
 http://localhost/ch/63200_
 #EXTINF:-1 tvg-id="63201" tvg-name="(UK) History Channel 2 HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/history_us_2.png" group-title="EN| UK - English",(UK) History Channel 2 HD+
 http://localhost/ch/63201_
+#EXTINF:-1 tvg-id="63203" tvg-name="(UK) MTV Base HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_base_uk.png" group-title="EN| UK - Music & Kids",(UK) MTV Base HD+
+http://localhost/ch/63203_
 #EXTINF:-1 tvg-id="63205" tvg-name="(UK) Really HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/really_uktv.png" group-title="EN| UK - English",(UK) Really HD+
 http://localhost/ch/63205_
+#EXTINF:-1 tvg-id="63207" tvg-name="(UK) Universal Channel HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/universal_channel_global.png" group-title="EN| UK - Cinema",(UK) Universal Channel HD+
+http://localhost/ch/63207_
 #EXTINF:-1 tvg-id="63748" tvg-name="(UK) Sky News HD+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_news.png" group-title="EN| UK - English",(UK) Sky News HD+
 http://localhost/ch/63748_
 #EXTINF:-1 tvg-id="6399" tvg-name="(FR) Disney Channel 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/disney_channel_global_hd.png" group-title="FR| FR - France",(FR) Disney Channel 4K+
@@ -313,22 +663,32 @@ http://localhost/ch/6406_
 http://localhost/ch/6407_
 #EXTINF:-1 tvg-id="6408" tvg-name="(FR) Voyage 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/voyage_fr.png" group-title="FR| FR - France",(FR) Voyage 4K+
 http://localhost/ch/6408_
+#EXTINF:-1 tvg-id="6410" tvg-name="(FR) Ciné+ Famiz 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_famiz.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Famiz 4K+
+http://localhost/ch/6410_
+#EXTINF:-1 tvg-id="6411" tvg-name="(FR) Ocs Choc 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/ocs_choc.png" group-title="FR| FR - Cinéma",(FR) Ocs Choc 4K+
+http://localhost/ch/6411_
 #EXTINF:-1 tvg-id="6414" tvg-name="(FR) LCP 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/lcp_an_fr.png" group-title="FR| FR - France",(FR) LCP 4K+
 http://localhost/ch/6414_
 #EXTINF:-1 tvg-id="65566" tvg-name="(UK) Crime & Investigation" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/crime_investigation_us.png" group-title="EN| UK - English",(UK) Crime & Investigation
 http://localhost/ch/65566_
 #EXTINF:-1 tvg-id="65567" tvg-name="(UK) Colors" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/cc/colors-in.png" group-title="EN| UK - English",(UK) Colors
 http://localhost/ch/65567_
+#EXTINF:-1 tvg-id="71463" tvg-name="(FR) A La Carte 5 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 5 4K+
+http://localhost/ch/71463_
 #EXTINF:-1 tvg-id="7415" tvg-name="(FR) Discovery 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/usa/discovery_global_us_hd.png" group-title="FR| FR - France",(FR) Discovery 4K+
 http://localhost/ch/7415_
 #EXTINF:-1 tvg-id="7477" tvg-name="(FR) Teva 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/teva_fr.png" group-title="FR| FR - France",(FR) Teva 4K+
 http://localhost/ch/7477_
+#EXTINF:-1 tvg-id="7478" tvg-name="(FR) Serie Club 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/canalplus_fr_serie_club.png" group-title="FR| FR - Cinéma",(FR) Serie Club 4K+
+http://localhost/ch/7478_
 #EXTINF:-1 tvg-id="7480" tvg-name="(FR) Paris Premiere 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/paris_premiere_hd.png" group-title="FR| FR - France",(FR) Paris Premiere 4K+
 http://localhost/ch/7480_
 #EXTINF:-1 tvg-id="7483" tvg-name="(FR) Planete A&E 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/planete_plus_action_experience.png" group-title="FR| FR - France",(FR) Planete A&E 4K+
 http://localhost/ch/7483_
 #EXTINF:-1 tvg-id="7484" tvg-name="(FR) Ushuaia TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/ushuaia_tv_hd.png" group-title="FR| FR - France",(FR) Ushuaia TV
 http://localhost/ch/7484_
+#EXTINF:-1 tvg-id="7485" tvg-name="(FR) Golf+ 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france2/canalplus_fr_golf_plus_hd.png" group-title="FR| FR - Sport",(FR) Golf+ 4K+
+http://localhost/ch/7485_
 #EXTINF:-1 tvg-id="7486" tvg-name="(FR) KTO" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/kto.png" group-title="FR| FR - France",(FR) KTO
 http://localhost/ch/7486_
 #EXTINF:-1 tvg-id="7489" tvg-name="(FR) Teletoon+ 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_teletoon_plus1.png" group-title="FR| FR - France",(FR) Teletoon+ 1 4K+
@@ -343,16 +703,34 @@ http://localhost/ch/7498_
 http://localhost/ch/7514_
 #EXTINF:-1 tvg-id="7515" tvg-name="(FR) Boomerang 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/boomerang_global_hd.png" group-title="FR| FR - France",(FR) Boomerang 4K+
 http://localhost/ch/7515_
+#EXTINF:-1 tvg-id="7518" tvg-name="(FR) Eurosport 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/eurosport_fr_2_hd.png" group-title="FR| FR - Sport",(FR) Eurosport 2 4K+
+http://localhost/ch/7518_
 #EXTINF:-1 tvg-id="7519" tvg-name="(FR) M6 Music 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/m6_music_fr.png" group-title="FR| FR - France",(FR) M6 Music 4K+
 http://localhost/ch/7519_
+#EXTINF:-1 tvg-id="7520" tvg-name="(FR) A La Carte 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 1 4K+
+http://localhost/ch/7520_
+#EXTINF:-1 tvg-id="7521" tvg-name="(FR) A La Carte 2 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 2 4K+
+http://localhost/ch/7521_
+#EXTINF:-1 tvg-id="7522" tvg-name="(FR) A La Carte 3 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 3 4K+
+http://localhost/ch/7522_
+#EXTINF:-1 tvg-id="7523" tvg-name="(FR) A La Carte 4 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/own/fr/alacarte.png" group-title="FR| FR - Cinéma",(FR) A La Carte 4 4K+
+http://localhost/ch/7523_
+#EXTINF:-1 tvg-id="7641" tvg-name="(UK) Sky Sports Main Event 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/sky_uk_sports_main_event.png" group-title="EN| UK - Sport",(UK) Sky Sports Main Event 4K+
+http://localhost/ch/7641_
 #EXTINF:-1 tvg-id="7885" tvg-name="(ES) Canal Iberalia 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/canal_iberalia.png" group-title="ES| ES - España",(ES) Canal Iberalia 4K+
 http://localhost/ch/7885_
 #EXTINF:-1 tvg-id="7886" tvg-name="(ES) Odisea 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/odisea_es.png" group-title="ES| ES - España",(ES) Odisea 4K+
 http://localhost/ch/7886_
 #EXTINF:-1 tvg-id="8153" tvg-name="(UK) iTV Be" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/itv_uk_be.png" group-title="EN| UK - English",(UK) iTV Be
 http://localhost/ch/8153_
+#EXTINF:-1 tvg-id="8171" tvg-name="(UK) MTV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/mtv_us.png" group-title="EN| UK - Music & Kids",(UK) MTV 4K+
+http://localhost/ch/8171_
 #EXTINF:-1 tvg-id="841" tvg-name="(ES) Toros TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/toros_tv_es.png" group-title="ES| ES - España",(ES) Toros TV 4K+
 http://localhost/ch/841_
+#EXTINF:-1 tvg-id="845" tvg-name="(ES) Real Madrid TV 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/real_madrid_tv_es.png" group-title="ES| ES - Deporte",(ES) Real Madrid TV 4K+
+http://localhost/ch/845_
+#EXTINF:-1 tvg-id="846" tvg-name="(ES) Barca TV" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/barca_tv.png" group-title="ES| ES - Deporte",(ES) Barca TV
+http://localhost/ch/846_
 #EXTINF:-1 tvg-id="88734" tvg-name="(UK) BBC Parliament" tvg-logo="http://picons.iptvservicenijmegen.nl/lyngsat/tv/bb/bbc_parliament.png" group-title="EN| UK - English",(UK) BBC Parliament
 http://localhost/ch/88734_
 #EXTINF:-1 tvg-id="891" tvg-name="(FR) C Star 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_c_star.png" group-title="FR| FR - France",(FR) C Star 4K+
@@ -363,7 +741,27 @@ http://localhost/ch/905_
 http://localhost/ch/906_
 #EXTINF:-1 tvg-id="907" tvg-name="(FR) RTL 9 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/rtl9.png" group-title="FR| FR - France",(FR) RTL 9 4K+
 http://localhost/ch/907_
+#EXTINF:-1 tvg-id="909" tvg-name="(FR) Canal+ Décalé 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_decale_hd.png" group-title="FR| FR - Cinéma",(FR) Canal+ Décalé 4K+
+http://localhost/ch/909_
+#EXTINF:-1 tvg-id="910" tvg-name="(FR) Ciné+ Classic 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_classic.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Classic 4K+
+http://localhost/ch/910_
+#EXTINF:-1 tvg-id="911" tvg-name="(FR) Ciné+ Emotion 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_emotion_hd.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Emotion 4K+
+http://localhost/ch/911_
+#EXTINF:-1 tvg-id="912" tvg-name="(FR) Ciné+ Frisson 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_frisson_hd.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Frisson 4K+
+http://localhost/ch/912_
+#EXTINF:-1 tvg-id="913" tvg-name="(FR) Ciné+ Premier 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/canalplus_fr_cine_plus_premier_hd.png" group-title="FR| FR - Cinéma",(FR) Ciné+ Premier 4K+
+http://localhost/ch/913_
+#EXTINF:-1 tvg-id="914" tvg-name="(FR) SyFy 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france3/syfy_us_global.png" group-title="FR| FR - Cinéma",(FR) SyFy 4K+
+http://localhost/ch/914_
+#EXTINF:-1 tvg-id="915" tvg-name="(FR) Ocs City 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/ocs_city.png" group-title="FR| FR - Cinéma",(FR) Ocs City 4K+
+http://localhost/ch/915_
+#EXTINF:-1 tvg-id="916" tvg-name="(FR) Ocs Géants 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/ocs_geants.png" group-title="FR| FR - Cinéma",(FR) Ocs Géants 4K+
+http://localhost/ch/916_
 #EXTINF:-1 tvg-id="917" tvg-name="(FR) OCS Max 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/france/ocs_max_hd.png" group-title="FR| FR - France",(FR) OCS Max 4K+
 http://localhost/ch/917_
+#EXTINF:-1 tvg-id="931" tvg-name="(ES) Nick JR" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/nick_jr_us.png" group-title="ES| ES - Niños",(ES) Nick JR
+http://localhost/ch/931_
 #EXTINF:-1 tvg-id="933" tvg-name="(ES) Viajar 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/spain/viajar.png" group-title="ES| ES - España",(ES) Viajar 4K+
 http://localhost/ch/933_
+#EXTINF:-1 tvg-id="985" tvg-name="(UK) Eurosport 1 4K+" tvg-logo="http://picons.iptvservicenijmegen.nl/satlogo/uk/eurosport_fr_1.png" group-title="EN| UK - Sport",(UK) Eurosport 1 4K+
+http://localhost/ch/985_
