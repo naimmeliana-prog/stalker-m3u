@@ -252,8 +252,7 @@ def make_entry(ch, group):
     if any(r in _norm(name) for r in EXCLUDED_REGIONS) or any(r in _norm(group) for r in EXCLUDED_REGIONS):
         return None
     logo = ch.get("logo") or ""
-    raw = ch.get("cmd") or ""
-    url = StalkerPortal._clean_cmd(raw)
+    url = (ch.get("cmd") or "").strip()
     if not url:
         return None
     extinf = (
