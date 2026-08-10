@@ -1,6 +1,6 @@
 {
-    "portal": "http://d.devtv.cc:80",
-    "mac": "00:1A:79:34:1F:38",
+    "portal": "http://185.80.197.55:80",
+    "mac": "00:1A:79:00:04:35",
     "categories": [],
     "remove_categories": [],
     "out": "series.m3u",
