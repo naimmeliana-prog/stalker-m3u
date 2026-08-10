@@ -607,8 +607,14 @@ http://localhost/ch/1246006_
 http://localhost/ch/1246007_
 #EXTINF:-1 tvg-id="1246008" tvg-name="M. LaLiga Hypermotion 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/ES/LaLigaHypermotion.png" group-title="ES| DEPORTES",M. LaLiga Hypermotion 3 FHD
 http://localhost/ch/1246008_
+#EXTINF:-1 tvg-id="1246013" tvg-name="▶️ |EN| Legacies ▶️" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="EN| SERIES play",▶️ |EN| Legacies ▶️
+http://localhost/ch/1246013_
 #EXTINF:-1 tvg-id="1277155" tvg-name="6play▶️Les Marseillais ▶️" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/marseille.png" group-title="FR| FRANCE FHD HD",6play▶️Les Marseillais ▶️
 http://localhost/ch/1277155_
+#EXTINF:-1 tvg-id="1277158" tvg-name="Twin Peaks▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg" group-title="EN| SERIES play",Twin Peaks▶️
+http://localhost/ch/1277158_
+#EXTINF:-1 tvg-id="1277159" tvg-name="The Wire ▶️" tvg-logo="https://www.themoviedb.org/t/p/w1280/5asMXKoeT2qA1CWQwjgXLnb2bOm.jpg" group-title="EN| SERIES play",The Wire ▶️
+http://localhost/ch/1277159_
 #EXTINF:-1 tvg-id="1277160" tvg-name="New york section criminelle ▶️" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/sXCZZpL0L5IQazaXY1wm5yTbfdk.jpg" group-title="FR| TOP-SERIES",New york section criminelle ▶️
 http://localhost/ch/1277160_
 #EXTINF:-1 tvg-id="1277161" tvg-name="Breaking Bad▶️" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tP2wgZfzkZxL18jImD2YXqEUXQA.jpg" group-title="FR| TOP-SERIES",Breaking Bad▶️
@@ -617,6 +623,10 @@ http://localhost/ch/1277161_
 http://localhost/ch/1277162_
 #EXTINF:-1 tvg-id="1277163" tvg-name="The Walking Dead ▶️" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/cVDzRylKifHGS1PFNlePfJ8sxUj.jpg" group-title="FR| TOP-SERIES",The Walking Dead ▶️
 http://localhost/ch/1277163_
+#EXTINF:-1 tvg-id="1277166" tvg-name="Blacklist ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r935SMphvXppx5bJjbIBNx02fwc.jpg" group-title="EN| SERIES play",Blacklist ▶️
+http://localhost/ch/1277166_
+#EXTINF:-1 tvg-id="1277167" tvg-name="Tulsa King ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMFAdj30K84Sz90bCd6ePwiAO37.jpg" group-title="EN| SERIES play",Tulsa King ▶️
+http://localhost/ch/1277167_
 #EXTINF:-1 tvg-id="1277174" tvg-name="Game of Thrones ▶️" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/3YSdxdhhdCDlMs88RhvjhDLX4CA.jpg" group-title="FR| TOP-SERIES",Game of Thrones ▶️
 http://localhost/ch/1277174_
 #EXTINF:-1 tvg-id="1277175" tvg-name="Twin Peaks▶️" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg" group-title="FR| TOP-SERIES",Twin Peaks▶️
@@ -625,6 +635,8 @@ http://localhost/ch/1277175_
 http://localhost/ch/1285092_
 #EXTINF:-1 tvg-id="1285094" tvg-name="Black Mirror▶️" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/1Jed5li8HLh4jCbXaoZ4oz91CrV.jpg" group-title="FR| TOP-SERIES",Black Mirror▶️
 http://localhost/ch/1285094_
+#EXTINF:-1 tvg-id="1285095" tvg-name="The Boys ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg" group-title="EN| SERIES play",The Boys ▶️
+http://localhost/ch/1285095_
 #EXTINF:-1 tvg-id="1285096" tvg-name="The Boys ▶️" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg" group-title="FR| TOP-SERIES",The Boys ▶️
 http://localhost/ch/1285096_
 #EXTINF:-1 tvg-id="1285101" tvg-name="Le Jeu de la dame▶️" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/jPHoAsRKtGKmjB28QgBWEtLJHRi.jpg" group-title="FR| TOP-SERIES",Le Jeu de la dame▶️
@@ -871,6 +883,8 @@ http://localhost/ch/1344249_
 http://localhost/ch/1344662_
 #EXTINF:-1 tvg-id="1344663" tvg-name="Alerte à Malibu ▶️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20241015T040200SQUARE.png" group-title="FR| TOP-SERIES",Alerte à Malibu ▶️
 http://localhost/ch/1344663_
+#EXTINF:-1 tvg-id="1344664" tvg-name="Zee Magic ▶️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20250805T005522SQUARE.png" group-title="EN| SERIES play",Zee Magic ▶️
+http://localhost/ch/1344664_
 #EXTINF:-1 tvg-id="1344666" tvg-name="Passion Bollywood ▶️" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20250513T005820SQUARE.png" group-title="FR| TOP-SERIES",Passion Bollywood ▶️
 http://localhost/ch/1344666_
 #EXTINF:-1 tvg-id="1344667" tvg-name="PLUS BELLE LA VIE FHD ▶️" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/plus-belle-la-vie.jpg" group-title="FR| TOP-SERIES",PLUS BELLE LA VIE FHD ▶️

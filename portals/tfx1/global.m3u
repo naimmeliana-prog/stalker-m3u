@@ -5,6 +5,528 @@ http://localhost/ch/1371598_
 http://localhost/ch/1371605_
 #EXTINF:-1 tvg-id="1372501" tvg-name="TELEMADRID HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Telemadrid.png" group-title="ES| ES ✪ SPAIN",TELEMADRID HD
 http://localhost/ch/1372501_
+#EXTINF:-1 tvg-id="1372760" tvg-name="AMC BREAK" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/AMC.BREAK.png" group-title="ES| ES ✪ CINEMA",AMC BREAK
+http://localhost/ch/1372760_
+#EXTINF:-1 tvg-id="1372766" tvg-name="AMC CRIME" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/AMC.CRIME.png" group-title="ES| ES ✪ CINEMA",AMC CRIME
+http://localhost/ch/1372766_
+#EXTINF:-1 tvg-id="1447225" tvg-name="M6 MUSIC" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/m6_music.png" group-title="FR| FR ✪ MUSIC",M6 MUSIC
+http://localhost/ch/1447225_
+#EXTINF:-1 tvg-id="1447226" tvg-name="NRJ HITS" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nrj_hits.png" group-title="FR| FR ✪ MUSIC",NRJ HITS
+http://localhost/ch/1447226_
+#EXTINF:-1 tvg-id="1447227" tvg-name="MCM" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/mcm.png" group-title="FR| FR ✪ MUSIC",MCM
+http://localhost/ch/1447227_
+#EXTINF:-1 tvg-id="1447228" tvg-name="MTV" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/mtv.png" group-title="FR| FR ✪ MUSIC",MTV
+http://localhost/ch/1447228_
+#EXTINF:-1 tvg-id="1447229" tvg-name="MTV HITS" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/mtv_hits.png" group-title="FR| FR ✪ MUSIC",MTV HITS
+http://localhost/ch/1447229_
+#EXTINF:-1 tvg-id="1447230" tvg-name="CSTAR HITS" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cstar_hits.png" group-title="FR| FR ✪ MUSIC",CSTAR HITS
+http://localhost/ch/1447230_
+#EXTINF:-1 tvg-id="1447231" tvg-name="RFM TV" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rfm_tv.png" group-title="FR| FR ✪ MUSIC",RFM TV
+http://localhost/ch/1447231_
+#EXTINF:-1 tvg-id="1447232" tvg-name="MELODY" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/melody.png" group-title="FR| FR ✪ MUSIC",MELODY
+http://localhost/ch/1447232_
+#EXTINF:-1 tvg-id="1447233" tvg-name="BRAVA" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/brava.png" group-title="FR| FR ✪ MUSIC",BRAVA
+http://localhost/ch/1447233_
+#EXTINF:-1 tvg-id="1447234" tvg-name="MEZZO" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/mezzo.png" group-title="FR| FR ✪ MUSIC",MEZZO
+http://localhost/ch/1447234_
+#EXTINF:-1 tvg-id="1447235" tvg-name="MEZZO LIVE" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/mezzo_live.png" group-title="FR| FR ✪ MUSIC",MEZZO LIVE
+http://localhost/ch/1447235_
+#EXTINF:-1 tvg-id="1447236" tvg-name="DJAZZ TV" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/djazz_tv.png" group-title="FR| FR ✪ MUSIC",DJAZZ TV
+http://localhost/ch/1447236_
+#EXTINF:-1 tvg-id="1447237" tvg-name="TRACE URBAN" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_urban.png" group-title="FR| FR ✪ MUSIC",TRACE URBAN
+http://localhost/ch/1447237_
+#EXTINF:-1 tvg-id="1447238" tvg-name="TRACE AFRICA" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_africa.png" group-title="FR| FR ✪ MUSIC",TRACE AFRICA
+http://localhost/ch/1447238_
+#EXTINF:-1 tvg-id="1447239" tvg-name="TRACE AFRIKORA" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_africa.png" group-title="FR| FR ✪ MUSIC",TRACE AFRIKORA
+http://localhost/ch/1447239_
+#EXTINF:-1 tvg-id="1447240" tvg-name="TRACE KITOKO" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_africa.png" group-title="FR| FR ✪ MUSIC",TRACE KITOKO
+http://localhost/ch/1447240_
+#EXTINF:-1 tvg-id="1447241" tvg-name="TRACE MZIKI" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_mziki.png" group-title="FR| FR ✪ MUSIC",TRACE MZIKI
+http://localhost/ch/1447241_
+#EXTINF:-1 tvg-id="1447242" tvg-name="TRACE TOCA" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_toca.png" group-title="FR| FR ✪ MUSIC",TRACE TOCA
+http://localhost/ch/1447242_
+#EXTINF:-1 tvg-id="1447243" tvg-name="TRACE LATINA" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_latina.png" group-title="FR| FR ✪ MUSIC",TRACE LATINA
+http://localhost/ch/1447243_
+#EXTINF:-1 tvg-id="1447244" tvg-name="TRACE GOSPEL" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_gospel.png" group-title="FR| FR ✪ MUSIC",TRACE GOSPEL
+http://localhost/ch/1447244_
+#EXTINF:-1 tvg-id="1447248" tvg-name="CANAL+ KID" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_kid.png" group-title="FR| FR ✪ ENFANTS",CANAL+ KID
+http://localhost/ch/1447248_
+#EXTINF:-1 tvg-id="1447249" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/disney_channel.png" group-title="FR| FR ✪ ENFANTS",DISNEY CHANNEL
+http://localhost/ch/1447249_
+#EXTINF:-1 tvg-id="1447250" tvg-name="DISNEY CHANNEL +1" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/disney_channel.png" group-title="FR| FR ✪ ENFANTS",DISNEY CHANNEL +1
+http://localhost/ch/1447250_
+#EXTINF:-1 tvg-id="1447251" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/disney_junior.png" group-title="FR| FR ✪ ENFANTS",DISNEY JUNIOR
+http://localhost/ch/1447251_
+#EXTINF:-1 tvg-id="1447252" tvg-name="NICKELODEON" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nickelodeon.png" group-title="FR| FR ✪ ENFANTS",NICKELODEON
+http://localhost/ch/1447252_
+#EXTINF:-1 tvg-id="1447253" tvg-name="NICKELODEON +1" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nickelodeon.png" group-title="FR| FR ✪ ENFANTS",NICKELODEON +1
+http://localhost/ch/1447253_
+#EXTINF:-1 tvg-id="1447254" tvg-name="NICK JUNIOR" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nick_junior.png" group-title="FR| FR ✪ ENFANTS",NICK JUNIOR
+http://localhost/ch/1447254_
+#EXTINF:-1 tvg-id="1447255" tvg-name="NICKELODEON TEEN" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nickelodeon_teen.png" group-title="FR| FR ✪ ENFANTS",NICKELODEON TEEN
+http://localhost/ch/1447255_
+#EXTINF:-1 tvg-id="1447256" tvg-name="CARTOON NETWORK" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cartoon_network.png" group-title="FR| FR ✪ ENFANTS",CARTOON NETWORK
+http://localhost/ch/1447256_
+#EXTINF:-1 tvg-id="1447257" tvg-name="BOOMERANG" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/boomerang.png" group-title="FR| FR ✪ ENFANTS",BOOMERANG
+http://localhost/ch/1447257_
+#EXTINF:-1 tvg-id="1447258" tvg-name="WARNER TV NEXT" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/warner_tv_next.png" group-title="FR| FR ✪ ENFANTS",WARNER TV NEXT
+http://localhost/ch/1447258_
+#EXTINF:-1 tvg-id="1447259" tvg-name="TELETOON+" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/teletoon_plus.png" group-title="FR| FR ✪ ENFANTS",TELETOON+
+http://localhost/ch/1447259_
+#EXTINF:-1 tvg-id="1447260" tvg-name="TELETOON+ +1" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/teletoon_plus.png" group-title="FR| FR ✪ ENFANTS",TELETOON+ +1
+http://localhost/ch/1447260_
+#EXTINF:-1 tvg-id="1447261" tvg-name="TOONAMI" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/toonami.png" group-title="FR| FR ✪ ENFANTS",TOONAMI
+http://localhost/ch/1447261_
+#EXTINF:-1 tvg-id="1447262" tvg-name="MANGAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/mangas.png" group-title="FR| FR ✪ ENFANTS",MANGAS
+http://localhost/ch/1447262_
+#EXTINF:-1 tvg-id="1447263" tvg-name="GAME ONE" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/game_one.png" group-title="FR| FR ✪ ENFANTS",GAME ONE
+http://localhost/ch/1447263_
+#EXTINF:-1 tvg-id="1447264" tvg-name="CANAL J" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_j.png" group-title="FR| FR ✪ ENFANTS",CANAL J
+http://localhost/ch/1447264_
+#EXTINF:-1 tvg-id="1447265" tvg-name="GULLI" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/gulli.png" group-title="FR| FR ✪ ENFANTS",GULLI
+http://localhost/ch/1447265_
+#EXTINF:-1 tvg-id="1447266" tvg-name="TIJI" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tiji.png" group-title="FR| FR ✪ ENFANTS",TIJI
+http://localhost/ch/1447266_
+#EXTINF:-1 tvg-id="1447267" tvg-name="PIWI+" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/piwi.png" group-title="FR| FR ✪ ENFANTS",PIWI+
+http://localhost/ch/1447267_
+#EXTINF:-1 tvg-id="1447268" tvg-name="PITCHOUN TV" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/pitchoun_tv.png" group-title="FR| FR ✪ ENFANTS",PITCHOUN TV
+http://localhost/ch/1447268_
+#EXTINF:-1 tvg-id="1447269" tvg-name="IDF1" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/idf1.png" group-title="FR| FR ✪ ENFANTS",IDF1
+http://localhost/ch/1447269_
+#EXTINF:-1 tvg-id="1447273" tvg-name="CANAL+ DOCS FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_docs.png" group-title="FR| FR ✪ DECOUVERTE",CANAL+ DOCS FHD
+http://localhost/ch/1447273_
+#EXTINF:-1 tvg-id="1447274" tvg-name="CANAL+ DOCS HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_docs.png" group-title="FR| FR ✪ DECOUVERTE",CANAL+ DOCS HD
+http://localhost/ch/1447274_
+#EXTINF:-1 tvg-id="1447275" tvg-name="PLANETE+ FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/planete_plus.png" group-title="FR| FR ✪ DECOUVERTE",PLANETE+ FHD
+http://localhost/ch/1447275_
+#EXTINF:-1 tvg-id="1447276" tvg-name="PLANETE+ HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/planete_plus.png" group-title="FR| FR ✪ DECOUVERTE",PLANETE+ HD
+http://localhost/ch/1447276_
+#EXTINF:-1 tvg-id="1447277" tvg-name="PLANETE+ AVENTURE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/planete_plus_aventure.png" group-title="FR| FR ✪ DECOUVERTE",PLANETE+ AVENTURE FHD
+http://localhost/ch/1447277_
+#EXTINF:-1 tvg-id="1447278" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/planete_plus_aventure.png" group-title="FR| FR ✪ DECOUVERTE",PLANETE+ AVENTURE HD
+http://localhost/ch/1447278_
+#EXTINF:-1 tvg-id="1447279" tvg-name="PLANETE+ CI FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/planete_plus_ci.png" group-title="FR| FR ✪ DECOUVERTE",PLANETE+ CI FHD
+http://localhost/ch/1447279_
+#EXTINF:-1 tvg-id="1447280" tvg-name="PLANETE+ CI HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/planete_plus_ci.png" group-title="FR| FR ✪ DECOUVERTE",PLANETE+ CI HD
+http://localhost/ch/1447280_
+#EXTINF:-1 tvg-id="1447281" tvg-name="ARTE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/arte.png" group-title="FR| FR ✪ DECOUVERTE",ARTE FHD
+http://localhost/ch/1447281_
+#EXTINF:-1 tvg-id="1447282" tvg-name="ARTE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/arte.png" group-title="FR| FR ✪ DECOUVERTE",ARTE HD
+http://localhost/ch/1447282_
+#EXTINF:-1 tvg-id="1447283" tvg-name="TV 5 MONDE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tv5_monde.png" group-title="FR| FR ✪ DECOUVERTE",TV 5 MONDE HD
+http://localhost/ch/1447283_
+#EXTINF:-1 tvg-id="1447284" tvg-name="NAT GEO FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nat_geo.png" group-title="FR| FR ✪ DECOUVERTE",NAT GEO FHD
+http://localhost/ch/1447284_
+#EXTINF:-1 tvg-id="1447285" tvg-name="NAT GEO HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nat_geo.png" group-title="FR| FR ✪ DECOUVERTE",NAT GEO HD
+http://localhost/ch/1447285_
+#EXTINF:-1 tvg-id="1447286" tvg-name="NAT GEO WILD FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nat_geo_wild_fhd.png" group-title="FR| FR ✪ DECOUVERTE",NAT GEO WILD FHD
+http://localhost/ch/1447286_
+#EXTINF:-1 tvg-id="1447287" tvg-name="NAT GEO WILD HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nat_geo_wild.png" group-title="FR| FR ✪ DECOUVERTE",NAT GEO WILD HD
+http://localhost/ch/1447287_
+#EXTINF:-1 tvg-id="1447288" tvg-name="DISCOVERY FRANCE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/discovery_france.png" group-title="FR| FR ✪ DECOUVERTE",DISCOVERY FRANCE FHD
+http://localhost/ch/1447288_
+#EXTINF:-1 tvg-id="1447289" tvg-name="DISCOVERY FRANCE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/discovery_france.png" group-title="FR| FR ✪ DECOUVERTE",DISCOVERY FRANCE HD
+http://localhost/ch/1447289_
+#EXTINF:-1 tvg-id="1447290" tvg-name="DISCOVERY INVESTIGATION FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/discovery_investigation_fhd.png" group-title="FR| FR ✪ DECOUVERTE",DISCOVERY INVESTIGATION FHD
+http://localhost/ch/1447290_
+#EXTINF:-1 tvg-id="1447291" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/discovery_investigation.png" group-title="FR| FR ✪ DECOUVERTE",DISCOVERY INVESTIGATION HD
+http://localhost/ch/1447291_
+#EXTINF:-1 tvg-id="1447292" tvg-name="TLC FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tlc.png" group-title="FR| FR ✪ DECOUVERTE",TLC FHD
+http://localhost/ch/1447292_
+#EXTINF:-1 tvg-id="1447293" tvg-name="TLC HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tlc.png" group-title="FR| FR ✪ DECOUVERTE",TLC HD
+http://localhost/ch/1447293_
+#EXTINF:-1 tvg-id="1447294" tvg-name="RMC DECOUVERTE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_decouverte_fhd.png" group-title="FR| FR ✪ DECOUVERTE",RMC DECOUVERTE FHD
+http://localhost/ch/1447294_
+#EXTINF:-1 tvg-id="1447295" tvg-name="RMC DECOUVERTE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_decouverte.png" group-title="FR| FR ✪ DECOUVERTE",RMC DECOUVERTE HD
+http://localhost/ch/1447295_
+#EXTINF:-1 tvg-id="1447296" tvg-name="RMC STORY FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_story.png" group-title="FR| FR ✪ DECOUVERTE",RMC STORY FHD
+http://localhost/ch/1447296_
+#EXTINF:-1 tvg-id="1447297" tvg-name="RMC STORY HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_story.png" group-title="FR| FR ✪ DECOUVERTE",RMC STORY HD
+http://localhost/ch/1447297_
+#EXTINF:-1 tvg-id="1447298" tvg-name="RMC MECANIC FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_mecanic.png" group-title="FR| FR ✪ DECOUVERTE",RMC MECANIC FHD
+http://localhost/ch/1447298_
+#EXTINF:-1 tvg-id="1447299" tvg-name="RMC MECANIC HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_mecanic.png" group-title="FR| FR ✪ DECOUVERTE",RMC MECANIC HD
+http://localhost/ch/1447299_
+#EXTINF:-1 tvg-id="1447300" tvg-name="HISTOIRE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/histoire.png" group-title="FR| FR ✪ DECOUVERTE",HISTOIRE FHD
+http://localhost/ch/1447300_
+#EXTINF:-1 tvg-id="1447301" tvg-name="HISTOIRE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/histoire.png" group-title="FR| FR ✪ DECOUVERTE",HISTOIRE HD
+http://localhost/ch/1447301_
+#EXTINF:-1 tvg-id="1447302" tvg-name="TOUTE L'HISTOIRE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/toute_l_histoire.png" group-title="FR| FR ✪ DECOUVERTE",TOUTE L'HISTOIRE FHD
+http://localhost/ch/1447302_
+#EXTINF:-1 tvg-id="1447303" tvg-name="TOUTE L'HISTOIRE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/toute_l_histoire.png" group-title="FR| FR ✪ DECOUVERTE",TOUTE L'HISTOIRE HD
+http://localhost/ch/1447303_
+#EXTINF:-1 tvg-id="1447304" tvg-name="CRIME DISTRICT FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/crime_district.png" group-title="FR| FR ✪ DECOUVERTE",CRIME DISTRICT FHD
+http://localhost/ch/1447304_
+#EXTINF:-1 tvg-id="1447305" tvg-name="CRIME DISTRICT HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/crime_district.png" group-title="FR| FR ✪ DECOUVERTE",CRIME DISTRICT HD
+http://localhost/ch/1447305_
+#EXTINF:-1 tvg-id="1447306" tvg-name="SCIENCE ET VIE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/science_et_vie.png" group-title="FR| FR ✪ DECOUVERTE",SCIENCE ET VIE FHD
+http://localhost/ch/1447306_
+#EXTINF:-1 tvg-id="1447307" tvg-name="SCIENCE ET VIE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/science_et_vie.png" group-title="FR| FR ✪ DECOUVERTE",SCIENCE ET VIE HD
+http://localhost/ch/1447307_
+#EXTINF:-1 tvg-id="1447308" tvg-name="MUSEUM CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/museum_channel.png" group-title="FR| FR ✪ DECOUVERTE",MUSEUM CHANNEL HD
+http://localhost/ch/1447308_
+#EXTINF:-1 tvg-id="1447309" tvg-name="USHUAIA TV FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ushuaia_tv.png" group-title="FR| FR ✪ DECOUVERTE",USHUAIA TV FHD
+http://localhost/ch/1447309_
+#EXTINF:-1 tvg-id="1447310" tvg-name="USHUAIA TV HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ushuaia_tv.png" group-title="FR| FR ✪ DECOUVERTE",USHUAIA TV HD
+http://localhost/ch/1447310_
+#EXTINF:-1 tvg-id="1447311" tvg-name="ANIMAUX FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/animaux.png" group-title="FR| FR ✪ DECOUVERTE",ANIMAUX FHD
+http://localhost/ch/1447311_
+#EXTINF:-1 tvg-id="1447312" tvg-name="ANIMAUX HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/animaux.png" group-title="FR| FR ✪ DECOUVERTE",ANIMAUX HD
+http://localhost/ch/1447312_
+#EXTINF:-1 tvg-id="1447313" tvg-name="CHASSE ET PÊCHE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/chasse_et_peche.png" group-title="FR| FR ✪ DECOUVERTE",CHASSE ET PÊCHE FHD
+http://localhost/ch/1447313_
+#EXTINF:-1 tvg-id="1447314" tvg-name="CHASSE ET PÊCHE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/chasse_et_peche.png" group-title="FR| FR ✪ DECOUVERTE",CHASSE ET PÊCHE HD
+http://localhost/ch/1447314_
+#EXTINF:-1 tvg-id="1447315" tvg-name="SEASONS FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/seasons_fhd.png" group-title="FR| FR ✪ DECOUVERTE",SEASONS FHD
+http://localhost/ch/1447315_
+#EXTINF:-1 tvg-id="1447316" tvg-name="SEASONS HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/seasons.png" group-title="FR| FR ✪ DECOUVERTE",SEASONS HD
+http://localhost/ch/1447316_
+#EXTINF:-1 tvg-id="1447317" tvg-name="TREK FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trek_fhd.png" group-title="FR| FR ✪ DECOUVERTE",TREK FHD
+http://localhost/ch/1447317_
+#EXTINF:-1 tvg-id="1447318" tvg-name="TREK HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trek.png" group-title="FR| FR ✪ DECOUVERTE",TREK HD
+http://localhost/ch/1447318_
+#EXTINF:-1 tvg-id="1447319" tvg-name="ABXPLORE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/abxplore.png" group-title="FR| FR ✪ DECOUVERTE",ABXPLORE HD
+http://localhost/ch/1447319_
+#EXTINF:-1 tvg-id="1447323" tvg-name="CANAL+ FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_fhd.png" group-title="FR| FR ✪ CINEMA",CANAL+ FHD
+http://localhost/ch/1447323_
+#EXTINF:-1 tvg-id="1447324" tvg-name="CANAL+ HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus.png" group-title="FR| FR ✪ CINEMA",CANAL+ HD
+http://localhost/ch/1447324_
+#EXTINF:-1 tvg-id="1447325" tvg-name="CANAL+ GRAND ECRAN FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_grand_ecran.png" group-title="FR| FR ✪ CINEMA",CANAL+ GRAND ECRAN FHD
+http://localhost/ch/1447325_
+#EXTINF:-1 tvg-id="1447326" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_grand_ecran.png" group-title="FR| FR ✪ CINEMA",CANAL+ GRAND ECRAN HD
+http://localhost/ch/1447326_
+#EXTINF:-1 tvg-id="1447327" tvg-name="CANAL+ BOX OFFICE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_box_office.png" group-title="FR| FR ✪ CINEMA",CANAL+ BOX OFFICE FHD
+http://localhost/ch/1447327_
+#EXTINF:-1 tvg-id="1447328" tvg-name="CANAL+ BOX OFFICE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_box_office.png" group-title="FR| FR ✪ CINEMA",CANAL+ BOX OFFICE HD
+http://localhost/ch/1447328_
+#EXTINF:-1 tvg-id="1447329" tvg-name="CANAL+ CINÉMA(S) FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_cinema.png" group-title="FR| FR ✪ CINEMA",CANAL+ CINÉMA(S) FHD
+http://localhost/ch/1447329_
+#EXTINF:-1 tvg-id="1447330" tvg-name="CANAL+ CINÉMA(S) HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_cinema.png" group-title="FR| FR ✪ CINEMA",CANAL+ CINÉMA(S) HD
+http://localhost/ch/1447330_
+#EXTINF:-1 tvg-id="1447331" tvg-name="CANAL+ SERIES FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_series_fhd.png" group-title="FR| FR ✪ CINEMA",CANAL+ SERIES FHD
+http://localhost/ch/1447331_
+#EXTINF:-1 tvg-id="1447332" tvg-name="CANAL+ SERIES HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_series.png" group-title="FR| FR ✪ CINEMA",CANAL+ SERIES HD
+http://localhost/ch/1447332_
+#EXTINF:-1 tvg-id="1447333" tvg-name="CINE+ OCS FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_ocs.png" group-title="FR| FR ✪ CINEMA",CINE+ OCS FHD
+http://localhost/ch/1447333_
+#EXTINF:-1 tvg-id="1447334" tvg-name="CINE+ OCS HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_ocs.png" group-title="FR| FR ✪ CINEMA",CINE+ OCS HD
+http://localhost/ch/1447334_
+#EXTINF:-1 tvg-id="1447335" tvg-name="CINE+ FESTIVAL FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_festival.png" group-title="FR| FR ✪ CINEMA",CINE+ FESTIVAL FHD
+http://localhost/ch/1447335_
+#EXTINF:-1 tvg-id="1447336" tvg-name="CINE+ FESTIVAL HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_festival.png" group-title="FR| FR ✪ CINEMA",CINE+ FESTIVAL HD
+http://localhost/ch/1447336_
+#EXTINF:-1 tvg-id="1447337" tvg-name="CINE+ EMOTION FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_emotion.png" group-title="FR| FR ✪ CINEMA",CINE+ EMOTION FHD
+http://localhost/ch/1447337_
+#EXTINF:-1 tvg-id="1447338" tvg-name="CINE+ EMOTION HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_emotion.png" group-title="FR| FR ✪ CINEMA",CINE+ EMOTION HD
+http://localhost/ch/1447338_
+#EXTINF:-1 tvg-id="1447339" tvg-name="CINE+ FRISSON FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_frisson_fhd.png" group-title="FR| FR ✪ CINEMA",CINE+ FRISSON FHD
+http://localhost/ch/1447339_
+#EXTINF:-1 tvg-id="1447340" tvg-name="CINE+ FRISSON HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_frisson.png" group-title="FR| FR ✪ CINEMA",CINE+ FRISSON HD
+http://localhost/ch/1447340_
+#EXTINF:-1 tvg-id="1447341" tvg-name="CINE+ FAMIZ FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_famiz_fhd.png" group-title="FR| FR ✪ CINEMA",CINE+ FAMIZ FHD
+http://localhost/ch/1447341_
+#EXTINF:-1 tvg-id="1447342" tvg-name="CINE+ FAMIZ HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_famiz.png" group-title="FR| FR ✪ CINEMA",CINE+ FAMIZ HD
+http://localhost/ch/1447342_
+#EXTINF:-1 tvg-id="1447343" tvg-name="CINE+ CLASSIC FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_classic_fhd.png" group-title="FR| FR ✪ CINEMA",CINE+ CLASSIC FHD
+http://localhost/ch/1447343_
+#EXTINF:-1 tvg-id="1447344" tvg-name="CINE+ CLASSIC HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_classic.png" group-title="FR| FR ✪ CINEMA",CINE+ CLASSIC HD
+http://localhost/ch/1447344_
+#EXTINF:-1 tvg-id="1447345" tvg-name="CINE CLASSIC FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_plus_classic.png" group-title="FR| FR ✪ CINEMA",CINE CLASSIC FHD
+http://localhost/ch/1447345_
+#EXTINF:-1 tvg-id="1447346" tvg-name="ACTION FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/action.png" group-title="FR| FR ✪ CINEMA",ACTION FHD
+http://localhost/ch/1447346_
+#EXTINF:-1 tvg-id="1447347" tvg-name="ACTION HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/action.png" group-title="FR| FR ✪ CINEMA",ACTION HD
+http://localhost/ch/1447347_
+#EXTINF:-1 tvg-id="1447348" tvg-name="TCM CINEMA FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tcm_cinema.png" group-title="FR| FR ✪ CINEMA",TCM CINEMA FHD
+http://localhost/ch/1447348_
+#EXTINF:-1 tvg-id="1447349" tvg-name="TCM CINEMA HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tcm_cinema.png" group-title="FR| FR ✪ CINEMA",TCM CINEMA HD
+http://localhost/ch/1447349_
+#EXTINF:-1 tvg-id="1447350" tvg-name="POLAR+ FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/polar_plus.png" group-title="FR| FR ✪ CINEMA",POLAR+ FHD
+http://localhost/ch/1447350_
+#EXTINF:-1 tvg-id="1447351" tvg-name="POLAR+ HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/polar_plus.png" group-title="FR| FR ✪ CINEMA",POLAR+ HD
+http://localhost/ch/1447351_
+#EXTINF:-1 tvg-id="1447352" tvg-name="COMEDIE+ FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/comedie_plus.png" group-title="FR| FR ✪ CINEMA",COMEDIE+ FHD
+http://localhost/ch/1447352_
+#EXTINF:-1 tvg-id="1447353" tvg-name="COMEDIE+ HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/comedie_plus.png" group-title="FR| FR ✪ CINEMA",COMEDIE+ HD
+http://localhost/ch/1447353_
+#EXTINF:-1 tvg-id="1447354" tvg-name="WARNER TV FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/warner_tv.png" group-title="FR| FR ✪ CINEMA",WARNER TV FHD
+http://localhost/ch/1447354_
+#EXTINF:-1 tvg-id="1447355" tvg-name="WARNER TV HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/warner_tv.png" group-title="FR| FR ✪ CINEMA",WARNER TV HD
+http://localhost/ch/1447355_
+#EXTINF:-1 tvg-id="1447356" tvg-name="TF1 SERIES FILMS FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1_series_films.png" group-title="FR| FR ✪ CINEMA",TF1 SERIES FILMS FHD
+http://localhost/ch/1447356_
+#EXTINF:-1 tvg-id="1447357" tvg-name="TF1 SERIES FILMS HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1_series_films.png" group-title="FR| FR ✪ CINEMA",TF1 SERIES FILMS HD
+http://localhost/ch/1447357_
+#EXTINF:-1 tvg-id="1447358" tvg-name="SERIE CLUB FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/serie_club.png" group-title="FR| FR ✪ CINEMA",SERIE CLUB FHD
+http://localhost/ch/1447358_
+#EXTINF:-1 tvg-id="1447359" tvg-name="SERIE CLUB HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/serie_club.png" group-title="FR| FR ✪ CINEMA",SERIE CLUB HD
+http://localhost/ch/1447359_
+#EXTINF:-1 tvg-id="1447360" tvg-name="DISNEY CINEMA FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/disney_cinema.png" group-title="FR| FR ✪ CINEMA",DISNEY CINEMA FHD
+http://localhost/ch/1447360_
+#EXTINF:-1 tvg-id="1447361" tvg-name="NOLLYWOOD FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nollywood.png" group-title="FR| FR ✪ CINEMA",NOLLYWOOD FHD
+http://localhost/ch/1447361_
+#EXTINF:-1 tvg-id="1447362" tvg-name="NOLLYWOOD HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nollywood.png" group-title="FR| FR ✪ CINEMA",NOLLYWOOD HD
+http://localhost/ch/1447362_
+#EXTINF:-1 tvg-id="1447363" tvg-name="NOLLYWOOD EPIC HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nollywood_epic.png" group-title="FR| FR ✪ CINEMA",NOLLYWOOD EPIC HD
+http://localhost/ch/1447363_
+#EXTINF:-1 tvg-id="1447364" tvg-name="EUROCHANNEL FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurochannel.png" group-title="FR| FR ✪ CINEMA",EUROCHANNEL FHD
+http://localhost/ch/1447364_
+#EXTINF:-1 tvg-id="1447365" tvg-name="CINE OFFICE 1 ACTION HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_01_action.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 1 ACTION HD
+http://localhost/ch/1447365_
+#EXTINF:-1 tvg-id="1447366" tvg-name="CINE OFFICE 2 COMEDY HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_02_comedy.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 2 COMEDY HD
+http://localhost/ch/1447366_
+#EXTINF:-1 tvg-id="1447367" tvg-name="CINE OFFICE 3 ARTS MARCIAUX HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_03_arts_marciaux.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 3 ARTS MARCIAUX HD
+http://localhost/ch/1447367_
+#EXTINF:-1 tvg-id="1447368" tvg-name="CINE OFFICE 4 BIOPIC HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_04_biopic.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 4 BIOPIC HD
+http://localhost/ch/1447368_
+#EXTINF:-1 tvg-id="1447369" tvg-name="CINE OFFICE 5 DOCUMENTAIRES HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_05_documentaires.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 5 DOCUMENTAIRES HD
+http://localhost/ch/1447369_
+#EXTINF:-1 tvg-id="1447370" tvg-name="CINE OFFICE 6 GUERRE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_06_guerre.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 6 GUERRE HD
+http://localhost/ch/1447370_
+#EXTINF:-1 tvg-id="1447371" tvg-name="CINE OFFICE 7 WALT DISNEY HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_07_walt_disney.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 7 WALT DISNEY HD
+http://localhost/ch/1447371_
+#EXTINF:-1 tvg-id="1447372" tvg-name="CINE OFFICE 8 POLICIER HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_08_policier.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 8 POLICIER HD
+http://localhost/ch/1447372_
+#EXTINF:-1 tvg-id="1447373" tvg-name="CINE OFFICE 9 EPOUVANTE-HORREUR HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_09_epouvante_horreur.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 9 EPOUVANTE-HORREUR HD
+http://localhost/ch/1447373_
+#EXTINF:-1 tvg-id="1447374" tvg-name="CINE OFFICE 10 COMEDY 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_10_comedy_2.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 10 COMEDY 2 HD
+http://localhost/ch/1447374_
+#EXTINF:-1 tvg-id="1447375" tvg-name="CINE OFFICE 11 ACTION 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_11_action_2.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 11 ACTION 2 HD
+http://localhost/ch/1447375_
+#EXTINF:-1 tvg-id="1447376" tvg-name="CINE OFFICE 12 MANGAS HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_12_mangas.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 12 MANGAS HD
+http://localhost/ch/1447376_
+#EXTINF:-1 tvg-id="1447377" tvg-name="CINE OFFICE 13 DRAME HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_13_drame.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 13 DRAME HD
+http://localhost/ch/1447377_
+#EXTINF:-1 tvg-id="1447378" tvg-name="CINE OFFICE 14 CONCERT HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/cine_office_14_concert.png" group-title="FR| FR ✪ CINEMA",CINE OFFICE 14 CONCERT HD
+http://localhost/ch/1447378_
+#EXTINF:-1 tvg-id="1447379" tvg-name="CANALPLAY 1" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",CANALPLAY 1
+http://localhost/ch/1447379_
+#EXTINF:-1 tvg-id="1447380" tvg-name="CANALPLAY 2" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",CANALPLAY 2
+http://localhost/ch/1447380_
+#EXTINF:-1 tvg-id="1447381" tvg-name="CANALPLAY 3" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",CANALPLAY 3
+http://localhost/ch/1447381_
+#EXTINF:-1 tvg-id="1447382" tvg-name="CANALPLAY 4" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",CANALPLAY 4
+http://localhost/ch/1447382_
+#EXTINF:-1 tvg-id="1447383" tvg-name="CANALPLAY 5" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",CANALPLAY 5
+http://localhost/ch/1447383_
+#EXTINF:-1 tvg-id="1447384" tvg-name="A LA CARTE 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 1 HD
+http://localhost/ch/1447384_
+#EXTINF:-1 tvg-id="1447385" tvg-name="A LA CARTE 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 2 HD
+http://localhost/ch/1447385_
+#EXTINF:-1 tvg-id="1447386" tvg-name="A LA CARTE 3 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 3 HD
+http://localhost/ch/1447386_
+#EXTINF:-1 tvg-id="1447387" tvg-name="A LA CARTE 4 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 4 HD
+http://localhost/ch/1447387_
+#EXTINF:-1 tvg-id="1447388" tvg-name="A LA CARTE 5 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 5 HD
+http://localhost/ch/1447388_
+#EXTINF:-1 tvg-id="1447389" tvg-name="A LA CARTE 6 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 6 HD
+http://localhost/ch/1447389_
+#EXTINF:-1 tvg-id="1447390" tvg-name="A LA CARTE 7 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 7 HD
+http://localhost/ch/1447390_
+#EXTINF:-1 tvg-id="1447391" tvg-name="A LA CARTE 8 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 8 HD
+http://localhost/ch/1447391_
+#EXTINF:-1 tvg-id="1447392" tvg-name="A LA CARTE 9 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 9 HD
+http://localhost/ch/1447392_
+#EXTINF:-1 tvg-id="1447393" tvg-name="A LA CARTE 10 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_play.png" group-title="FR| FR ✪ CINEMA",A LA CARTE 10 HD
+http://localhost/ch/1447393_
+#EXTINF:-1 tvg-id="1447397" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_sport_fhd.png" group-title="FR| FR ✪ CANAL+",CANAL+ SPORT FHD
+http://localhost/ch/1447397_
+#EXTINF:-1 tvg-id="1447398" tvg-name="CANAL+ SPORT HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_sport.png" group-title="FR| FR ✪ CANAL+",CANAL+ SPORT HD
+http://localhost/ch/1447398_
+#EXTINF:-1 tvg-id="1447399" tvg-name="CANAL+ SPORT 360 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_sport_360.png" group-title="FR| FR ✪ CANAL+",CANAL+ SPORT 360 FHD
+http://localhost/ch/1447399_
+#EXTINF:-1 tvg-id="1447400" tvg-name="CANAL+ SPORT 360 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_sport_360.png" group-title="FR| FR ✪ CANAL+",CANAL+ SPORT 360 HD
+http://localhost/ch/1447400_
+#EXTINF:-1 tvg-id="1447401" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_foot.png" group-title="FR| FR ✪ CANAL+",CANAL+ FOOT FHD
+http://localhost/ch/1447401_
+#EXTINF:-1 tvg-id="1447402" tvg-name="CANAL+ FOOT HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_foot.png" group-title="FR| FR ✪ CANAL+",CANAL+ FOOT HD
+http://localhost/ch/1447402_
+#EXTINF:-1 tvg-id="1447403" tvg-name="CANAL+ PREMIER LEAGUE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_premier_league.png" group-title="FR| FR ✪ CANAL+",CANAL+ PREMIER LEAGUE FHD
+http://localhost/ch/1447403_
+#EXTINF:-1 tvg-id="1447404" tvg-name="CANAL+ PREMIER LEAGUE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_premier_league.png" group-title="FR| FR ✪ CANAL+",CANAL+ PREMIER LEAGUE HD
+http://localhost/ch/1447404_
+#EXTINF:-1 tvg-id="1447405" tvg-name="CANAL+ LIVE 1" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 1
+http://localhost/ch/1447405_
+#EXTINF:-1 tvg-id="1447406" tvg-name="CANAL+ LIVE 2" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 2
+http://localhost/ch/1447406_
+#EXTINF:-1 tvg-id="1447407" tvg-name="CANAL+ LIVE 3" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 3
+http://localhost/ch/1447407_
+#EXTINF:-1 tvg-id="1447408" tvg-name="CANAL+ LIVE 4" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 4
+http://localhost/ch/1447408_
+#EXTINF:-1 tvg-id="1447409" tvg-name="CANAL+ LIVE 5" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 5
+http://localhost/ch/1447409_
+#EXTINF:-1 tvg-id="1447410" tvg-name="CANAL+ LIVE 6" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 6
+http://localhost/ch/1447410_
+#EXTINF:-1 tvg-id="1447411" tvg-name="CANAL+ LIVE 7" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 7
+http://localhost/ch/1447411_
+#EXTINF:-1 tvg-id="1447412" tvg-name="CANAL+ LIVE 8" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 8
+http://localhost/ch/1447412_
+#EXTINF:-1 tvg-id="1447413" tvg-name="CANAL+ LIVE 9" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 9
+http://localhost/ch/1447413_
+#EXTINF:-1 tvg-id="1447414" tvg-name="CANAL+ LIVE 10" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 10
+http://localhost/ch/1447414_
+#EXTINF:-1 tvg-id="1447415" tvg-name="CANAL+ LIVE 11" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 11
+http://localhost/ch/1447415_
+#EXTINF:-1 tvg-id="1447416" tvg-name="CANAL+ LIVE 12" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 12
+http://localhost/ch/1447416_
+#EXTINF:-1 tvg-id="1447417" tvg-name="CANAL+ LIVE 13" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/canal_plus_live.png" group-title="FR| FR ✪ CANAL+",CANAL+ LIVE 13
+http://localhost/ch/1447417_
+#EXTINF:-1 tvg-id="1447421" tvg-name="LIGUE 1+ 1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 1 FHD
+http://localhost/ch/1447421_
+#EXTINF:-1 tvg-id="1447422" tvg-name="LIGUE 1+ 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 1 HD
+http://localhost/ch/1447422_
+#EXTINF:-1 tvg-id="1447423" tvg-name="LIGUE 1+ 2 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 2 FHD
+http://localhost/ch/1447423_
+#EXTINF:-1 tvg-id="1447424" tvg-name="LIGUE 1+ 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 2 HD
+http://localhost/ch/1447424_
+#EXTINF:-1 tvg-id="1447425" tvg-name="LIGUE 1+ 3 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 3 FHD
+http://localhost/ch/1447425_
+#EXTINF:-1 tvg-id="1447426" tvg-name="LIGUE 1+ 3 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 3 HD
+http://localhost/ch/1447426_
+#EXTINF:-1 tvg-id="1447427" tvg-name="LIGUE 1+ 4 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 4 FHD
+http://localhost/ch/1447427_
+#EXTINF:-1 tvg-id="1447428" tvg-name="LIGUE 1+ 4 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 4 HD
+http://localhost/ch/1447428_
+#EXTINF:-1 tvg-id="1447429" tvg-name="LIGUE 1+ 5 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 5 FHD
+http://localhost/ch/1447429_
+#EXTINF:-1 tvg-id="1447430" tvg-name="LIGUE 1+ 5 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 5 HD
+http://localhost/ch/1447430_
+#EXTINF:-1 tvg-id="1447431" tvg-name="LIGUE 1+ 6 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 6 FHD
+http://localhost/ch/1447431_
+#EXTINF:-1 tvg-id="1447432" tvg-name="LIGUE 1+ 6 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 6 HD
+http://localhost/ch/1447432_
+#EXTINF:-1 tvg-id="1447433" tvg-name="LIGUE 1+ 7 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 7 FHD
+http://localhost/ch/1447433_
+#EXTINF:-1 tvg-id="1447434" tvg-name="LIGUE 1+ 7 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ 7 HD
+http://localhost/ch/1447434_
+#EXTINF:-1 tvg-id="1447435" tvg-name="LIGUE 1+ MULTIPLEX" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ligue1_plus.png" group-title="FR| FR ✪ LIGUE+1",LIGUE 1+ MULTIPLEX
+http://localhost/ch/1447435_
+#EXTINF:-1 tvg-id="1447439" tvg-name="BEIN SPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_1.png" group-title="FR| FR ✪ SPORT",BEIN SPORT 1 FHD
+http://localhost/ch/1447439_
+#EXTINF:-1 tvg-id="1447440" tvg-name="BEIN SPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_1.png" group-title="FR| FR ✪ SPORT",BEIN SPORT 1 HD
+http://localhost/ch/1447440_
+#EXTINF:-1 tvg-id="1447441" tvg-name="BEIN SPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_2.png" group-title="FR| FR ✪ SPORT",BEIN SPORT 2 FHD
+http://localhost/ch/1447441_
+#EXTINF:-1 tvg-id="1447442" tvg-name="BEIN SPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_2.png" group-title="FR| FR ✪ SPORT",BEIN SPORT 2 HD
+http://localhost/ch/1447442_
+#EXTINF:-1 tvg-id="1447443" tvg-name="BEIN SPORT 3 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_3_fhd.png" group-title="FR| FR ✪ SPORT",BEIN SPORT 3 FHD
+http://localhost/ch/1447443_
+#EXTINF:-1 tvg-id="1447444" tvg-name="BEIN SPORT 3 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_3.png" group-title="FR| FR ✪ SPORT",BEIN SPORT 3 HD
+http://localhost/ch/1447444_
+#EXTINF:-1 tvg-id="1447445" tvg-name="BEIN SPORT MAX 4 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_4.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 4 FHD
+http://localhost/ch/1447445_
+#EXTINF:-1 tvg-id="1447446" tvg-name="BEIN SPORT MAX 4 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_4.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 4 HD
+http://localhost/ch/1447446_
+#EXTINF:-1 tvg-id="1447447" tvg-name="BEIN SPORT MAX 5 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_5.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 5 FHD
+http://localhost/ch/1447447_
+#EXTINF:-1 tvg-id="1447448" tvg-name="BEIN SPORT MAX 5 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_5.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 5 HD
+http://localhost/ch/1447448_
+#EXTINF:-1 tvg-id="1447449" tvg-name="BEIN SPORT MAX 6 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_6.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 6 FHD
+http://localhost/ch/1447449_
+#EXTINF:-1 tvg-id="1447450" tvg-name="BEIN SPORT MAX 6 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_6.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 6 HD
+http://localhost/ch/1447450_
+#EXTINF:-1 tvg-id="1447451" tvg-name="BEIN SPORT MAX 7 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_7_fhd.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 7 FHD
+http://localhost/ch/1447451_
+#EXTINF:-1 tvg-id="1447452" tvg-name="BEIN SPORT MAX 7 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_7.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 7 HD
+http://localhost/ch/1447452_
+#EXTINF:-1 tvg-id="1447453" tvg-name="BEIN SPORT MAX 8 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_8.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 8 HD
+http://localhost/ch/1447453_
+#EXTINF:-1 tvg-id="1447454" tvg-name="BEIN SPORT MAX 9 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_9.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 9 HD
+http://localhost/ch/1447454_
+#EXTINF:-1 tvg-id="1447455" tvg-name="BEIN SPORT MAX 10 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/bein_sports_max_10.png" group-title="FR| FR ✪ SPORT",BEIN SPORT MAX 10 HD
+http://localhost/ch/1447455_
+#EXTINF:-1 tvg-id="1447456" tvg-name="RMC SPORT UHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_uhd.png" group-title="FR| FR ✪ SPORT",RMC SPORT UHD
+http://localhost/ch/1447456_
+#EXTINF:-1 tvg-id="1447457" tvg-name="RMC SPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_1_fhd.png" group-title="FR| FR ✪ SPORT",RMC SPORT 1 FHD
+http://localhost/ch/1447457_
+#EXTINF:-1 tvg-id="1447458" tvg-name="RMC SPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_1.png" group-title="FR| FR ✪ SPORT",RMC SPORT 1 HD
+http://localhost/ch/1447458_
+#EXTINF:-1 tvg-id="1447459" tvg-name="RMC SPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_2_fhd.png" group-title="FR| FR ✪ SPORT",RMC SPORT 2 FHD
+http://localhost/ch/1447459_
+#EXTINF:-1 tvg-id="1447460" tvg-name="RMC SPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_2.png" group-title="FR| FR ✪ SPORT",RMC SPORT 2 HD
+http://localhost/ch/1447460_
+#EXTINF:-1 tvg-id="1447461" tvg-name="RMC SPORT 3 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_3_fhd.png" group-title="FR| FR ✪ SPORT",RMC SPORT 3 FHD
+http://localhost/ch/1447461_
+#EXTINF:-1 tvg-id="1447462" tvg-name="RMC SPORT 3 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_3.png" group-title="FR| FR ✪ SPORT",RMC SPORT 3 HD
+http://localhost/ch/1447462_
+#EXTINF:-1 tvg-id="1447463" tvg-name="RMC SPORT 4 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_4_fhd.png" group-title="FR| FR ✪ SPORT",RMC SPORT 4 FHD
+http://localhost/ch/1447463_
+#EXTINF:-1 tvg-id="1447464" tvg-name="RMC SPORT 4 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_4.png" group-title="FR| FR ✪ SPORT",RMC SPORT 4 HD
+http://localhost/ch/1447464_
+#EXTINF:-1 tvg-id="1447465" tvg-name="RMC SPORT 5 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_5.png" group-title="FR| FR ✪ SPORT",RMC SPORT 5 HD
+http://localhost/ch/1447465_
+#EXTINF:-1 tvg-id="1447466" tvg-name="RMC SPORT LIVE 6" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_live_6.png" group-title="FR| FR ✪ SPORT",RMC SPORT LIVE 6
+http://localhost/ch/1447466_
+#EXTINF:-1 tvg-id="1447467" tvg-name="RMC SPORT LIVE 7" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_live_7.png" group-title="FR| FR ✪ SPORT",RMC SPORT LIVE 7
+http://localhost/ch/1447467_
+#EXTINF:-1 tvg-id="1447468" tvg-name="RMC SPORT LIVE 10" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_live_10.png" group-title="FR| FR ✪ SPORT",RMC SPORT LIVE 10
+http://localhost/ch/1447468_
+#EXTINF:-1 tvg-id="1447469" tvg-name="RMC SPORT LIVE 13" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_sport_live_13.png" group-title="FR| FR ✪ SPORT",RMC SPORT LIVE 13
+http://localhost/ch/1447469_
+#EXTINF:-1 tvg-id="1447470" tvg-name="RMC ACCESS 2 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/rmc_access_2.png" group-title="FR| FR ✪ SPORT",RMC ACCESS 2 FHD
+http://localhost/ch/1447470_
+#EXTINF:-1 tvg-id="1447471" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_1.png" group-title="FR| FR ✪ SPORT",EUROSPORT 1 FHD
+http://localhost/ch/1447471_
+#EXTINF:-1 tvg-id="1447472" tvg-name="EUROSPORT 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_1.png" group-title="FR| FR ✪ SPORT",EUROSPORT 1 HD
+http://localhost/ch/1447472_
+#EXTINF:-1 tvg-id="1447473" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_2_fhd.png" group-title="FR| FR ✪ SPORT",EUROSPORT 2 FHD
+http://localhost/ch/1447473_
+#EXTINF:-1 tvg-id="1447474" tvg-name="EUROSPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_2.png" group-title="FR| FR ✪ SPORT",EUROSPORT 2 HD
+http://localhost/ch/1447474_
+#EXTINF:-1 tvg-id="1447475" tvg-name="EUROSPORT 360 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_360.png" group-title="FR| FR ✪ SPORT",EUROSPORT 360 1 HD
+http://localhost/ch/1447475_
+#EXTINF:-1 tvg-id="1447476" tvg-name="EUROSPORT 360 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_360.png" group-title="FR| FR ✪ SPORT",EUROSPORT 360 2 HD
+http://localhost/ch/1447476_
+#EXTINF:-1 tvg-id="1447477" tvg-name="EUROSPORT 360 3 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_360.png" group-title="FR| FR ✪ SPORT",EUROSPORT 360 3 HD
+http://localhost/ch/1447477_
+#EXTINF:-1 tvg-id="1447478" tvg-name="EUROSPORT 360 4 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_360.png" group-title="FR| FR ✪ SPORT",EUROSPORT 360 4 HD
+http://localhost/ch/1447478_
+#EXTINF:-1 tvg-id="1447479" tvg-name="EUROSPORT 360 5 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/eurosport_360.png" group-title="FR| FR ✪ SPORT",EUROSPORT 360 5 HD
+http://localhost/ch/1447479_
+#EXTINF:-1 tvg-id="1447480" tvg-name="L'EQUIPE 21 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/l_equipe_21.png" group-title="FR| FR ✪ SPORT",L'EQUIPE 21 FHD
+http://localhost/ch/1447480_
+#EXTINF:-1 tvg-id="1447481" tvg-name="L'EQUIPE 21 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/l_equipe_21.png" group-title="FR| FR ✪ SPORT",L'EQUIPE 21 HD
+http://localhost/ch/1447481_
+#EXTINF:-1 tvg-id="1447482" tvg-name="L'ÉQUIPE LIVE 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/l_equipe_live.png" group-title="FR| FR ✪ SPORT",L'ÉQUIPE LIVE 1 HD
+http://localhost/ch/1447482_
+#EXTINF:-1 tvg-id="1447483" tvg-name="L'ÉQUIPE LIVE 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/l_equipe_live.png" group-title="FR| FR ✪ SPORT",L'ÉQUIPE LIVE 2 HD
+http://localhost/ch/1447483_
+#EXTINF:-1 tvg-id="1447484" tvg-name="L'EQUIPE CINE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/l_equipe_cine.png" group-title="FR| FR ✪ SPORT",L'EQUIPE CINE HD
+http://localhost/ch/1447484_
+#EXTINF:-1 tvg-id="1447485" tvg-name="INFOSPORT+ FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/infosport_plus.png" group-title="FR| FR ✪ SPORT",INFOSPORT+ FHD
+http://localhost/ch/1447485_
+#EXTINF:-1 tvg-id="1447486" tvg-name="INFOSPORT+ HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/infosport_plus.png" group-title="FR| FR ✪ SPORT",INFOSPORT+ HD
+http://localhost/ch/1447486_
+#EXTINF:-1 tvg-id="1447487" tvg-name="GOLF+ HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/golf_plus.png" group-title="FR| FR ✪ SPORT",GOLF+ HD
+http://localhost/ch/1447487_
+#EXTINF:-1 tvg-id="1447488" tvg-name="GOLF+ 2 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/golf_plus.png" group-title="FR| FR ✪ SPORT",GOLF+ 2 HD
+http://localhost/ch/1447488_
+#EXTINF:-1 tvg-id="1447489" tvg-name="GOLF CHANNEL FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/golf_channel.png" group-title="FR| FR ✪ SPORT",GOLF CHANNEL FHD
+http://localhost/ch/1447489_
+#EXTINF:-1 tvg-id="1447490" tvg-name="GOLF CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/golf_channel.png" group-title="FR| FR ✪ SPORT",GOLF CHANNEL HD
+http://localhost/ch/1447490_
+#EXTINF:-1 tvg-id="1447491" tvg-name="EQUIDIA FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/equidia_fhd.png" group-title="FR| FR ✪ SPORT",EQUIDIA FHD
+http://localhost/ch/1447491_
+#EXTINF:-1 tvg-id="1447492" tvg-name="EQUIDIA HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/equidia.png" group-title="FR| FR ✪ SPORT",EQUIDIA HD
+http://localhost/ch/1447492_
+#EXTINF:-1 tvg-id="1447493" tvg-name="EQUIDIA LIVE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/equidia_live.png" group-title="FR| FR ✪ SPORT",EQUIDIA LIVE HD
+http://localhost/ch/1447493_
+#EXTINF:-1 tvg-id="1447494" tvg-name="AUTOMOTO LA CHAINE FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/automoto_la_chaine.png" group-title="FR| FR ✪ SPORT",AUTOMOTO LA CHAINE FHD
+http://localhost/ch/1447494_
+#EXTINF:-1 tvg-id="1447495" tvg-name="AUTOMOTO TV HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/automoto_tv.png" group-title="FR| FR ✪ SPORT",AUTOMOTO TV HD
+http://localhost/ch/1447495_
+#EXTINF:-1 tvg-id="1447496" tvg-name="EXTREME SPORTS FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/extreme_sports.png" group-title="FR| FR ✪ SPORT",EXTREME SPORTS FHD
+http://localhost/ch/1447496_
+#EXTINF:-1 tvg-id="1447497" tvg-name="NAUTICAL TV HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/nautical_tv.png" group-title="FR| FR ✪ SPORT",NAUTICAL TV HD
+http://localhost/ch/1447497_
+#EXTINF:-1 tvg-id="1447498" tvg-name="TRACE SPORTS STAR HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/trace_sport_star.png" group-title="FR| FR ✪ SPORT",TRACE SPORTS STAR HD
+http://localhost/ch/1447498_
+#EXTINF:-1 tvg-id="1447499" tvg-name="SPORT EN FRANCE HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/sport_en_france.png" group-title="FR| FR ✪ SPORT",SPORT EN FRANCE HD
+http://localhost/ch/1447499_
+#EXTINF:-1 tvg-id="1447500" tvg-name="OL TV HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/ol_tv.png" group-title="FR| FR ✪ SPORT",OL TV HD
+http://localhost/ch/1447500_
+#EXTINF:-1 tvg-id="1447501" tvg-name="BFM GRAND LILLE HD" tvg-logo="https://www.tvlogolar.xyz/europa/france/bfm-grand-lille-fr.png" group-title="FR| FR ✪ SPORT",BFM GRAND LILLE HD
+http://localhost/ch/1447501_
 #EXTINF:-1 tvg-id="1447505" tvg-name="TF1 4K" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1.png" group-title="FR| FR ✪ FRANCE",TF1 4K
 http://localhost/ch/1447505_
 #EXTINF:-1 tvg-id="1447506" tvg-name="TF1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/France/tf1.png" group-title="FR| FR ✪ FRANCE",TF1 FHD
@@ -327,12 +849,278 @@ http://localhost/ch/762696_
 http://localhost/ch/762697_
 #EXTINF:-1 tvg-id="762698" tvg-name="UK: ITV FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/itv-uk.png" group-title="EN| UK ✪ ENGLAND",UK: ITV FHD
 http://localhost/ch/762698_
+#EXTINF:-1 tvg-id="762699" tvg-name="UK: FOOD NETWORK +1" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/food-network-uk.png" group-title="EN| UK ✪ NEWS DOKU",UK: FOOD NETWORK +1
+http://localhost/ch/762699_
+#EXTINF:-1 tvg-id="762700" tvg-name="UK: SKY CRIME FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/skyCrime.png" group-title="EN| UK ✪ NEWS DOKU",UK: SKY CRIME FHD
+http://localhost/ch/762700_
+#EXTINF:-1 tvg-id="762701" tvg-name="UK: FOOD NETWORK" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/food-network-uk.png" group-title="EN| UK ✪ NEWS DOKU",UK: FOOD NETWORK
+http://localhost/ch/762701_
+#EXTINF:-1 tvg-id="762702" tvg-name="UK: FOOD NETWORK" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/food-network-uk.png" group-title="EN| UK ✪ NEWS DOKU",UK: FOOD NETWORK
+http://localhost/ch/762702_
+#EXTINF:-1 tvg-id="762703" tvg-name="UK: TLC" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/tlc-uk.png" group-title="EN| UK ✪ NEWS DOKU",UK: TLC
+http://localhost/ch/762703_
+#EXTINF:-1 tvg-id="762704" tvg-name="UK: TLC HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/tlc-uk.png" group-title="EN| UK ✪ NEWS DOKU",UK: TLC HD
+http://localhost/ch/762704_
+#EXTINF:-1 tvg-id="762705" tvg-name="UK: TLC FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/tlc-uk.png" group-title="EN| UK ✪ NEWS DOKU",UK: TLC FHD
+http://localhost/ch/762705_
+#EXTINF:-1 tvg-id="762706" tvg-name="HGTV" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/hgtv-uk.png" group-title="EN| UK ✪ NEWS DOKU",HGTV
+http://localhost/ch/762706_
+#EXTINF:-1 tvg-id="762707" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/travel-channel-uk.png" group-title="EN| UK ✪ NEWS DOKU",TRAVEL CHANNEL HD
+http://localhost/ch/762707_
+#EXTINF:-1 tvg-id="762708" tvg-name="CRIME & INVESTIGATION HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/crime-and-investigation-uk.png" group-title="EN| UK ✪ NEWS DOKU",CRIME & INVESTIGATION HD
+http://localhost/ch/762708_
+#EXTINF:-1 tvg-id="762709" tvg-name="HISTORY CHANNEL 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/discovery-channel-icon-2-plus-uk.png" group-title="EN| UK ✪ NEWS DOKU",HISTORY CHANNEL 2 HD
+http://localhost/ch/762709_
+#EXTINF:-1 tvg-id="762710" tvg-name="HISTORY CHANNEL 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png" group-title="EN| UK ✪ NEWS DOKU",HISTORY CHANNEL 1 HD
+http://localhost/ch/762710_
+#EXTINF:-1 tvg-id="762711" tvg-name="ANIMAL PLANET" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/animal-planet-uk.png" group-title="EN| UK ✪ NEWS DOKU",ANIMAL PLANET
+http://localhost/ch/762711_
+#EXTINF:-1 tvg-id="762712" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/discovery-turbo-uk.png" group-title="EN| UK ✪ NEWS DOKU",DISCOVERY TURBO HD
+http://localhost/ch/762712_
+#EXTINF:-1 tvg-id="762713" tvg-name="DISCOVERY HISTORY HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/discovery-history-uk.png" group-title="EN| UK ✪ NEWS DOKU",DISCOVERY HISTORY HD
+http://localhost/ch/762713_
+#EXTINF:-1 tvg-id="762714" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="http://logo.sltv.site/logo/FRANCE/Investigation_Discovery_2020%20(1).png" group-title="EN| UK ✪ NEWS DOKU",INVESTIGATION DISCOVERY HD
+http://localhost/ch/762714_
+#EXTINF:-1 tvg-id="762715" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/discovery-science-uk.png" group-title="EN| UK ✪ NEWS DOKU",DISCOVERY SCIENCE HD
+http://localhost/ch/762715_
+#EXTINF:-1 tvg-id="762716" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/discovery-channel-uk.png" group-title="EN| UK ✪ NEWS DOKU",DISCOVERY CHANNEL HD
+http://localhost/ch/762716_
+#EXTINF:-1 tvg-id="762717" tvg-name="NAT GEO WILD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/national-geographic-wild-uk.png" group-title="EN| UK ✪ NEWS DOKU",NAT GEO WILD
+http://localhost/ch/762717_
+#EXTINF:-1 tvg-id="762718" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/national-geographic-uk.png" group-title="EN| UK ✪ NEWS DOKU",NATIONAL GEOGRAPHIC HD
+http://localhost/ch/762718_
+#EXTINF:-1 tvg-id="762763" tvg-name="UK: DAZN | EVENT 1" tvg-logo="" group-title="EN| UK ✪ SPORT",UK: DAZN | EVENT 1
+http://localhost/ch/762763_
+#EXTINF:-1 tvg-id="762764" tvg-name="UK: DAZN | EVENT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1280px-DAZN_2.svg.png" group-title="EN| UK ✪ SPORT",UK: DAZN | EVENT 2
+http://localhost/ch/762764_
+#EXTINF:-1 tvg-id="762765" tvg-name="UK: DAZN | EVENT 3" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3color.png?resize=440%2C264&ssl=1" group-title="EN| UK ✪ SPORT",UK: DAZN | EVENT 3
+http://localhost/ch/762765_
+#EXTINF:-1 tvg-id="762766" tvg-name="UK: DAZN | EVENT 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfZ2VY6YHH9B43TEWsMwZjkePAr4I3puURBuWv1XrDNlPPhylNr7z6qSg18sPedBuM5Io&usqp=CAU" group-title="EN| UK ✪ SPORT",UK: DAZN | EVENT 4
+http://localhost/ch/762766_
+#EXTINF:-1 tvg-id="762767" tvg-name="UK: DAZN | EVENT 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" group-title="EN| UK ✪ SPORT",UK: DAZN | EVENT 5
+http://localhost/ch/762767_
+#EXTINF:-1 tvg-id="762768" tvg-name="UK: DAZN | EVENT 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkQzxfW59K-qFUHGXx14aHuXXjmoljvJEww&s" group-title="EN| UK ✪ SPORT",UK: DAZN | EVENT 6
+http://localhost/ch/762768_
+#EXTINF:-1 tvg-id="762769" tvg-name="UK: DAZN | EVENT 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8nhoV3ibLs5G_cM4g9_uxXeZBuLjVBdb1w&s" group-title="EN| UK ✪ SPORT",UK: DAZN | EVENT 7
+http://localhost/ch/762769_
+#EXTINF:-1 tvg-id="762770" tvg-name="UK: SKY SPORTS CRICKET SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS CRICKET SD
+http://localhost/ch/762770_
+#EXTINF:-1 tvg-id="762771" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS CRICKET HD
+http://localhost/ch/762771_
+#EXTINF:-1 tvg-id="762772" tvg-name="UK: SKY SPORTS CRICKET FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS CRICKET FHD
+http://localhost/ch/762772_
+#EXTINF:-1 tvg-id="762773" tvg-name="UK: SKY SPORTS GOLF SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-golf-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS GOLF SD
+http://localhost/ch/762773_
+#EXTINF:-1 tvg-id="762774" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-golf-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS GOLF HD
+http://localhost/ch/762774_
+#EXTINF:-1 tvg-id="762775" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-golf-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS GOLF FHD
+http://localhost/ch/762775_
+#EXTINF:-1 tvg-id="762776" tvg-name="UK: SKY SPORTS RACING SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-racing-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS RACING SD
+http://localhost/ch/762776_
+#EXTINF:-1 tvg-id="762777" tvg-name="UK: SKY SPORTS RACING HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-racing-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS RACING HD
+http://localhost/ch/762777_
+#EXTINF:-1 tvg-id="762778" tvg-name="UK: SKY SPORTS RACING FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-racing-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS RACING FHD
+http://localhost/ch/762778_
+#EXTINF:-1 tvg-id="762779" tvg-name="UK: SKY SPORTS F1 SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-f1-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS F1 SD
+http://localhost/ch/762779_
+#EXTINF:-1 tvg-id="762780" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-f1-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS F1 HD
+http://localhost/ch/762780_
+#EXTINF:-1 tvg-id="762781" tvg-name="UK: SKY SPORTS F1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS F1 FHD
+http://localhost/ch/762781_
+#EXTINF:-1 tvg-id="762782" tvg-name="UK: SKY SPORTS NFL SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS NFL SD
+http://localhost/ch/762782_
+#EXTINF:-1 tvg-id="762783" tvg-name="UK: SKY SPORTS NFL HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS NFL HD
+http://localhost/ch/762783_
+#EXTINF:-1 tvg-id="762784" tvg-name="UK: SKY SPORTS NFL FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS NFL FHD
+http://localhost/ch/762784_
+#EXTINF:-1 tvg-id="762785" tvg-name="UK: SKY SPORTS MIX SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-mix-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS MIX SD
+http://localhost/ch/762785_
+#EXTINF:-1 tvg-id="762786" tvg-name="UK: SKY SPORTS MIX HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-mix-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS MIX HD
+http://localhost/ch/762786_
+#EXTINF:-1 tvg-id="762787" tvg-name="UK: SKY SPORTS MIX FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-mix-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS MIX FHD
+http://localhost/ch/762787_
+#EXTINF:-1 tvg-id="762788" tvg-name="UK: SKY SPORTS FOOTBALL SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-football-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS FOOTBALL SD
+http://localhost/ch/762788_
+#EXTINF:-1 tvg-id="762789" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-football-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS FOOTBALL HD
+http://localhost/ch/762789_
+#EXTINF:-1 tvg-id="762790" tvg-name="UK: SKY SPORTS FOOTBALL FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-football-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS FOOTBALL FHD
+http://localhost/ch/762790_
+#EXTINF:-1 tvg-id="762791" tvg-name="UK: SKY SPORTS MAIN EVENT SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-main-event-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS MAIN EVENT SD
+http://localhost/ch/762791_
+#EXTINF:-1 tvg-id="762792" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-main-event-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS MAIN EVENT HD
+http://localhost/ch/762792_
+#EXTINF:-1 tvg-id="762793" tvg-name="UK: SKY SPORTS MAIN EVENT FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-main-event-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS MAIN EVENT FHD
+http://localhost/ch/762793_
+#EXTINF:-1 tvg-id="762794" tvg-name="UK: SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS PREMIER LEAGUE SD
+http://localhost/ch/762794_
+#EXTINF:-1 tvg-id="762795" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS PREMIER LEAGUE HD
+http://localhost/ch/762795_
+#EXTINF:-1 tvg-id="762796" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/premier-sports-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS PREMIER LEAGUE FHD
+http://localhost/ch/762796_
+#EXTINF:-1 tvg-id="762797" tvg-name="UK: SKY SPORTS ARENA SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-arena-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS ARENA SD
+http://localhost/ch/762797_
+#EXTINF:-1 tvg-id="762798" tvg-name="UK: SKY SPORTS ARENA HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-arena-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS ARENA HD
+http://localhost/ch/762798_
+#EXTINF:-1 tvg-id="762799" tvg-name="UK: SKY SPORTS ARENA FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-arena-icon-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS ARENA FHD
+http://localhost/ch/762799_
+#EXTINF:-1 tvg-id="762800" tvg-name="UK: SKY SPORTS NEWS SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-news-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS NEWS SD
+http://localhost/ch/762800_
+#EXTINF:-1 tvg-id="762801" tvg-name="UK: SKY SPORTS NEWS HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/sky-sports-news-hz-uk.png" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS NEWS HD
+http://localhost/ch/762801_
+#EXTINF:-1 tvg-id="762802" tvg-name="UK: SKY SPORTS NEWS FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lgTvlax7Gaz9aVOtDJZDqZMdjDR-mQsHaiH-2QKlilFzw=s900-c-k-c0x00ffffff-no-rj" group-title="EN| UK ✪ SPORT",UK: SKY SPORTS NEWS FHD
+http://localhost/ch/762802_
+#EXTINF:-1 tvg-id="762803" tvg-name="UK: GINX E-SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8-lUhzjcM96c7tTf5BbejKmZxsmZSTGdIg&s" group-title="EN| UK ✪ SPORT",UK: GINX E-SPORTS SD
+http://localhost/ch/762803_
+#EXTINF:-1 tvg-id="762804" tvg-name="UK: BOX NATION HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/box-nation-uk.png" group-title="EN| UK ✪ SPORT",UK: BOX NATION HD
+http://localhost/ch/762804_
+#EXTINF:-1 tvg-id="762805" tvg-name="UK: RED BULL TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToWsGKTisy_BJVdNLNpcwc1c200obORDVpUA&s" group-title="EN| UK ✪ SPORT",UK: RED BULL TV HD
+http://localhost/ch/762805_
+#EXTINF:-1 tvg-id="762806" tvg-name="UK: RACING UK SD" tvg-logo="https://logo.diamondtv.one/images/logos/UK/racing.png" group-title="EN| UK ✪ SPORT",UK: RACING UK SD
+http://localhost/ch/762806_
+#EXTINF:-1 tvg-id="762807" tvg-name="UK: RACING UK HD" tvg-logo="http://onecentcdn.com/newpicon/UK_logo/uk_unitedKindom_logo/racing-uk-logo-v2.png" group-title="EN| UK ✪ SPORT",UK: RACING UK HD
+http://localhost/ch/762807_
+#EXTINF:-1 tvg-id="762808" tvg-name="UK: RACING UK FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/racing-tv-uk.png" group-title="EN| UK ✪ SPORT",UK: RACING UK FHD
+http://localhost/ch/762808_
+#EXTINF:-1 tvg-id="762809" tvg-name="UK: SPORTY STUFF HD" tvg-logo="https://www.christiantv.org.uk/wp-content/uploads/2021/05/Sportystuff.jpg" group-title="EN| UK ✪ SPORT",UK: SPORTY STUFF HD
+http://localhost/ch/762809_
+#EXTINF:-1 tvg-id="762810" tvg-name="UK: SPORTY STUFF FHD" tvg-logo="https://www.christiantv.org.uk/wp-content/uploads/2021/05/Sportystuff.jpg" group-title="EN| UK ✪ SPORT",UK: SPORTY STUFF FHD
+http://localhost/ch/762810_
+#EXTINF:-1 tvg-id="762811" tvg-name="UK: MUTV SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/mutv-uk.png" group-title="EN| UK ✪ SPORT",UK: MUTV SD
+http://localhost/ch/762811_
+#EXTINF:-1 tvg-id="762812" tvg-name="UK: MUTV HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/mutv-uk.png" group-title="EN| UK ✪ SPORT",UK: MUTV HD
+http://localhost/ch/762812_
+#EXTINF:-1 tvg-id="762813" tvg-name="UK: MUTV FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/mutv-uk.png" group-title="EN| UK ✪ SPORT",UK: MUTV FHD
+http://localhost/ch/762813_
+#EXTINF:-1 tvg-id="762814" tvg-name="UK: LFC FHD" tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="EN| UK ✪ SPORT",UK: LFC FHD
+http://localhost/ch/762814_
+#EXTINF:-1 tvg-id="762815" tvg-name="UK: EUROSPORT 2 SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/eurosport-2-uk.png" group-title="EN| UK ✪ SPORT",UK: EUROSPORT 2 SD
+http://localhost/ch/762815_
+#EXTINF:-1 tvg-id="762816" tvg-name="UK: EUROSPORT 2 HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/eurosport-2-uk.png" group-title="EN| UK ✪ SPORT",UK: EUROSPORT 2 HD
+http://localhost/ch/762816_
+#EXTINF:-1 tvg-id="762817" tvg-name="UK: EUROSPORT 2 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/eurosport-2-uk.png" group-title="EN| UK ✪ SPORT",UK: EUROSPORT 2 FHD
+http://localhost/ch/762817_
+#EXTINF:-1 tvg-id="762818" tvg-name="UK: EUROSPORT 1 SD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/eurosport-1-uk.png" group-title="EN| UK ✪ SPORT",UK: EUROSPORT 1 SD
+http://localhost/ch/762818_
+#EXTINF:-1 tvg-id="762819" tvg-name="UK: EUROSPORT 1 HD" tvg-logo="http://aaa.oceanftp.click:80/FoCuSKaYnaK0101/oLNIVQDjX2/201089" group-title="EN| UK ✪ SPORT",UK: EUROSPORT 1 HD
+http://localhost/ch/762819_
+#EXTINF:-1 tvg-id="762820" tvg-name="UK: EUROSPORT 1 FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/eurosport-1-uk.png" group-title="EN| UK ✪ SPORT",UK: EUROSPORT 1 FHD
+http://localhost/ch/762820_
+#EXTINF:-1 tvg-id="762821" tvg-name="UK: PREMIER SPORTS 2 SD" tvg-logo="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" group-title="EN| UK ✪ SPORT",UK: PREMIER SPORTS 2 SD
+http://localhost/ch/762821_
+#EXTINF:-1 tvg-id="762822" tvg-name="UK: PREMIER SPORTS 2 HD" tvg-logo="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" group-title="EN| UK ✪ SPORT",UK: PREMIER SPORTS 2 HD
+http://localhost/ch/762822_
+#EXTINF:-1 tvg-id="762823" tvg-name="UK: PREMIER SPORTS 2 FHD" tvg-logo="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" group-title="EN| UK ✪ SPORT",UK: PREMIER SPORTS 2 FHD
+http://localhost/ch/762823_
+#EXTINF:-1 tvg-id="762824" tvg-name="UK: PREMIER SPORTS 1 SD" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="EN| UK ✪ SPORT",UK: PREMIER SPORTS 1 SD
+http://localhost/ch/762824_
+#EXTINF:-1 tvg-id="762825" tvg-name="UK: PREMIER SPORTS 1 HD" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="EN| UK ✪ SPORT",UK: PREMIER SPORTS 1 HD
+http://localhost/ch/762825_
+#EXTINF:-1 tvg-id="762826" tvg-name="UK: PREMIER SPORTS 1 FHD" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/9ec570fbdc82b613baeaddf1de974395.png" group-title="EN| UK ✪ SPORT",UK: PREMIER SPORTS 1 FHD
+http://localhost/ch/762826_
+#EXTINF:-1 tvg-id="762827" tvg-name="UK: TNT SPORTS 4 SD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 4 SD
+http://localhost/ch/762827_
+#EXTINF:-1 tvg-id="762828" tvg-name="UK: TNT SPORTS 4 HD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 4 HD
+http://localhost/ch/762828_
+#EXTINF:-1 tvg-id="762829" tvg-name="UK: TNT SPORTS 4 FHD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 4 FHD
+http://localhost/ch/762829_
+#EXTINF:-1 tvg-id="762830" tvg-name="UK: TNT SPORTS 3 SD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 3 SD
+http://localhost/ch/762830_
+#EXTINF:-1 tvg-id="762831" tvg-name="UK: TNT SPORTS 3 HD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 3 HD
+http://localhost/ch/762831_
+#EXTINF:-1 tvg-id="762832" tvg-name="UK: TNT SPORTS 3 FHD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 3 FHD
+http://localhost/ch/762832_
+#EXTINF:-1 tvg-id="762833" tvg-name="UK: TNT SPORTS 2 SD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 2 SD
+http://localhost/ch/762833_
+#EXTINF:-1 tvg-id="762834" tvg-name="UK: TNT SPORTS 2 HD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 2 HD
+http://localhost/ch/762834_
+#EXTINF:-1 tvg-id="762835" tvg-name="UK: TNT SPORTS 2 FHD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 2 FHD
+http://localhost/ch/762835_
+#EXTINF:-1 tvg-id="762836" tvg-name="UK: TNT SPORTS 1 FHD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 1 FHD
+http://localhost/ch/762836_
+#EXTINF:-1 tvg-id="762837" tvg-name="UK: TNT SPORTS 1 SD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 1 SD
+http://localhost/ch/762837_
+#EXTINF:-1 tvg-id="762838" tvg-name="UK: TNT SPORTS 1 HD" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="EN| UK ✪ SPORT",UK: TNT SPORTS 1 HD
+http://localhost/ch/762838_
+#EXTINF:-1 tvg-id="762839" tvg-name="UK: BT SPORT 1 FHD" tvg-logo="http://tv4k.me:80/images/SDfOM4Fgw92NeOYus0vUaRpVXAfzlojykb1jrTtVwtgStMmhjofSVsJrORb7-yVeCxPPBSvPUCsyuT3bKZ_0Ug.png" group-title="EN| UK ✪ SPORT",UK: BT SPORT 1 FHD
+http://localhost/ch/762839_
+#EXTINF:-1 tvg-id="762840" tvg-name="UK: BT SPORT 1 50 FPS FHD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/bt-sport-1-uk.png" group-title="EN| UK ✪ SPORT",UK: BT SPORT 1 50 FPS FHD
+http://localhost/ch/762840_
+#EXTINF:-1 tvg-id="762841" tvg-name="SKY SPORTS BOX OFFICE HD" tvg-logo="CLINTON-10G" group-title="EN| UK ✪ SPORT",SKY SPORTS BOX OFFICE HD
+http://localhost/ch/762841_
+#EXTINF:-1 tvg-id="762842" tvg-name="SKY SPORTS BOX OFFICE FHD" tvg-logo="https://tvlogolar.xyz/logo/Ingiltere/SKY.SPORTS.BOX.OFFICE.png" group-title="EN| UK ✪ SPORT",SKY SPORTS BOX OFFICE FHD
+http://localhost/ch/762842_
+#EXTINF:-1 tvg-id="762843" tvg-name="JIM JAM TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/4850/brand.gif?itok=vHUZV24W" group-title="EN| UK ✪ KIDS",JIM JAM TV
+http://localhost/ch/762843_
+#EXTINF:-1 tvg-id="762844" tvg-name="TINY POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png" group-title="EN| UK ✪ KIDS",TINY POP
+http://localhost/ch/762844_
+#EXTINF:-1 tvg-id="762845" tvg-name="CITV" tvg-logo="http://pic.qw1234.org/logos/tn_citv.png" group-title="EN| UK ✪ KIDS",CITV
+http://localhost/ch/762845_
+#EXTINF:-1 tvg-id="762846" tvg-name="BOOMERANG HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/boomerang-uk.png" group-title="EN| UK ✪ KIDS",BOOMERANG HD
+http://localhost/ch/762846_
+#EXTINF:-1 tvg-id="762847" tvg-name="CARTOONITO HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/cartoonito-uk.png" group-title="EN| UK ✪ KIDS",CARTOONITO HD
+http://localhost/ch/762847_
+#EXTINF:-1 tvg-id="762848" tvg-name="CARTOON NETWORK" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/cartoon-network-uk.png" group-title="EN| UK ✪ KIDS",CARTOON NETWORK
+http://localhost/ch/762848_
+#EXTINF:-1 tvg-id="762849" tvg-name="NICKTOONS HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/nick-toons-uk.png" group-title="EN| UK ✪ KIDS",NICKTOONS HD
+http://localhost/ch/762849_
+#EXTINF:-1 tvg-id="762850" tvg-name="NICKELODEON HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/nickelodeon-uk.png" group-title="EN| UK ✪ KIDS",NICKELODEON HD
+http://localhost/ch/762850_
+#EXTINF:-1 tvg-id="762851" tvg-name="NICK JR TOO HD" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/nick-jr-too-uk.png" group-title="EN| UK ✪ KIDS",NICK JR TOO HD
+http://localhost/ch/762851_
+#EXTINF:-1 tvg-id="762852" tvg-name="NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nick_Jr._logo_2023.webp/814px-Nick_Jr._logo_2023.webp.png?20230812162931" group-title="EN| UK ✪ KIDS",NICK JR HD
+http://localhost/ch/762852_
+#EXTINF:-1 tvg-id="762853" tvg-name="CBEEBİES" tvg-logo="http://pic.qw1234.org:80/logos/tn_cheebies.gif" group-title="EN| UK ✪ KIDS",CBEEBİES
+http://localhost/ch/762853_
+#EXTINF:-1 tvg-id="762854" tvg-name="DUCK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="EN| UK ✪ KIDS",DUCK TV
+http://localhost/ch/762854_
+#EXTINF:-1 tvg-id="762855" tvg-name="BABY TV" tvg-logo="https://www.tvlogolar.xyz/europa/united-kingdom/baby-tv-uk.png" group-title="EN| UK ✪ KIDS",BABY TV
+http://localhost/ch/762855_
 #EXTINF:-1 tvg-id="762858" tvg-name="ES | CLASSICA" tvg-logo="https://pxpicon.xyz/parsx/es/CLASSICA.png" group-title="ES| ES ✪ SPAIN",ES | CLASSICA
 http://localhost/ch/762858_
+#EXTINF:-1 tvg-id="762860" tvg-name="BE MAD HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/BeMad.png" group-title="ES| ES ✪ CINEMA",BE MAD HD
+http://localhost/ch/762860_
 #EXTINF:-1 tvg-id="762861" tvg-name="CANAL COCINA" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/canal-cocina.png" group-title="ES| ES ✪ SPAIN",CANAL COCINA
 http://localhost/ch/762861_
 #EXTINF:-1 tvg-id="762862" tvg-name="CANAL DECASA" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/Decasa.png" group-title="ES| ES ✪ SPAIN",CANAL DECASA
 http://localhost/ch/762862_
+#EXTINF:-1 tvg-id="762863" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://www.tvlogolar.xyz/europa/spain/comedy-central-es.png" group-title="ES| ES ✪ CINEMA",COMEDY CENTRAL FHD
+http://localhost/ch/762863_
+#EXTINF:-1 tvg-id="762866" tvg-name="COSMO FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/cosmo.png" group-title="ES| ES ✪ CINEMA",COSMO FHD
+http://localhost/ch/762866_
+#EXTINF:-1 tvg-id="762870" tvg-name="HOLLYWOOD HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/Canal_Hollywood.png" group-title="ES| ES ✪ CINEMA",HOLLYWOOD HD
+http://localhost/ch/762870_
+#EXTINF:-1 tvg-id="762882" tvg-name="SYFY FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Syfy.png" group-title="ES| ES ✪ CINEMA",SYFY FHD
+http://localhost/ch/762882_
+#EXTINF:-1 tvg-id="762883" tvg-name="WARNER TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Warner_TV.png" group-title="ES| ES ✪ CINEMA",WARNER TV FHD
+http://localhost/ch/762883_
+#EXTINF:-1 tvg-id="762885" tvg-name="AMC HD" tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/AMC.png" group-title="ES| ES ✪ CINEMA",AMC HD
+http://localhost/ch/762885_
+#EXTINF:-1 tvg-id="762886" tvg-name="AXN WHITE HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/axn-white.png" group-title="ES| ES ✪ CINEMA",AXN WHITE HD
+http://localhost/ch/762886_
+#EXTINF:-1 tvg-id="762887" tvg-name="AXN WHITE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/axn-white.png" group-title="ES| ES ✪ CINEMA",AXN WHITE FHD
+http://localhost/ch/762887_
+#EXTINF:-1 tvg-id="762888" tvg-name="AXN HD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/AXN.png" group-title="ES| ES ✪ CINEMA",AXN HD
+http://localhost/ch/762888_
+#EXTINF:-1 tvg-id="762889" tvg-name="AXN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/AXN.png" group-title="ES| ES ✪ CINEMA",AXN FHD
+http://localhost/ch/762889_
+#EXTINF:-1 tvg-id="762890" tvg-name="STAR LIFE HD" tvg-logo="https://www.tvlogolar.xyz/logo/Bulgaristan/STAR.LIFE.png" group-title="ES| ES ✪ CINEMA",STAR LIFE HD
+http://localhost/ch/762890_
+#EXTINF:-1 tvg-id="762891" tvg-name="STAR LIFE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/Bulgaristan/STAR.LIFE.png" group-title="ES| ES ✪ CINEMA",STAR LIFE FHD
+http://localhost/ch/762891_
+#EXTINF:-1 tvg-id="762892" tvg-name="STAR CHANNEL HD" tvg-logo="https://tvlogolar.xyz/logo/Bulgaristan/STAR.CHANNEL.png" group-title="ES| ES ✪ CINEMA",STAR CHANNEL HD
+http://localhost/ch/762892_
+#EXTINF:-1 tvg-id="762893" tvg-name="STAR CHANNEL FHD" tvg-logo="https://tvlogolar.xyz/logo/Bulgaristan/STAR.CHANNEL.png" group-title="ES| ES ✪ CINEMA",STAR CHANNEL FHD
+http://localhost/ch/762893_
+#EXTINF:-1 tvg-id="762894" tvg-name="CALLE 13 HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Calle-13.png" group-title="ES| ES ✪ CINEMA",CALLE 13 HD
+http://localhost/ch/762894_
+#EXTINF:-1 tvg-id="762895" tvg-name="CALLE 13 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Calle-13.png" group-title="ES| ES ✪ CINEMA",CALLE 13 FHD
+http://localhost/ch/762895_
+#EXTINF:-1 tvg-id="762896" tvg-name="SUNDANCE TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/SUNDANCE.TV.png" group-title="ES| ES ✪ CINEMA",SUNDANCE TV FHD
+http://localhost/ch/762896_
+#EXTINF:-1 tvg-id="762897" tvg-name="TCM FHD" tvg-logo="https://www.tvlogolar.xyz/europa/spain/tcm-es.png" group-title="ES| ES ✪ CINEMA",TCM FHD
+http://localhost/ch/762897_
+#EXTINF:-1 tvg-id="762898" tvg-name="ES | #0 HEVC" tvg-logo="https://pxpicon.xyz/parsx/es/0HD.png" group-title="ES| ES ✪ CINEMA",ES | #0 HEVC
+http://localhost/ch/762898_
 #EXTINF:-1 tvg-id="762906" tvg-name="TVE INTERNACIONAL" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/TVE_Internacional.png" group-title="ES| ES ✪ SPAIN",TVE INTERNACIONAL
 http://localhost/ch/762906_
 #EXTINF:-1 tvg-id="762909" tvg-name="GALICIA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/GALICIA.TV.png" group-title="ES| ES ✪ SPAIN",GALICIA TV HD
@@ -403,12 +1191,240 @@ http://localhost/ch/762950_
 http://localhost/ch/762951_
 #EXTINF:-1 tvg-id="762952" tvg-name="LA 1 FHD+" tvg-logo="https://www.tvlogolar.xyz/logo/Portekiz/La_1.png" group-title="ES| ES ✪ SPAIN",LA 1 FHD+
 http://localhost/ch/762952_
+#EXTINF:-1 tvg-id="762953" tvg-name="ES | MOVISTAR DEPORTES 7 HD (Solo Eventos)" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 7 HD (Solo Eventos)
+http://localhost/ch/762953_
+#EXTINF:-1 tvg-id="762954" tvg-name="ES | MOVISTAR DEPORTES 6 HD (Solo Eventos)" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 6 HD (Solo Eventos)
+http://localhost/ch/762954_
+#EXTINF:-1 tvg-id="762955" tvg-name="ES | MOVISTAR DEPORTES 5 HD (Solo Eventos)" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 5 HD (Solo Eventos)
+http://localhost/ch/762955_
+#EXTINF:-1 tvg-id="762956" tvg-name="ES | MOVISTAR DEPORTES 4 HD (Solo Eventos)" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 4 HD (Solo Eventos)
+http://localhost/ch/762956_
+#EXTINF:-1 tvg-id="762957" tvg-name="ES | MOVISTAR DEPORTES 3 HD (Solo Eventos)" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 3 HD (Solo Eventos)
+http://localhost/ch/762957_
+#EXTINF:-1 tvg-id="762958" tvg-name="ES | MOVISTAR LA LIGA 8 HD  (Solo Eventos)" tvg-logo="https://i.imgur.com/TWcSbG1.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 8 HD  (Solo Eventos)
+http://localhost/ch/762958_
+#EXTINF:-1 tvg-id="762959" tvg-name="ES | MOVISTAR LA LIGA 6 HD  (Solo Eventos)" tvg-logo="https://i.imgur.com/TWcSbG1.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 6 HD  (Solo Eventos)
+http://localhost/ch/762959_
+#EXTINF:-1 tvg-id="762960" tvg-name="ES | MOVISTAR LA LIGA 7 HD  (Solo Eventos)" tvg-logo="https://i.imgur.com/TWcSbG1.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 7 HD  (Solo Eventos)
+http://localhost/ch/762960_
+#EXTINF:-1 tvg-id="762961" tvg-name="ES | MOVISTAR LA LIGA 5 HD (Solo Eventos)" tvg-logo="https://i.imgur.com/TWcSbG1.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 5 HD (Solo Eventos)
+http://localhost/ch/762961_
+#EXTINF:-1 tvg-id="762962" tvg-name="ES | MOVISTAR LA LIGA 4 HD (Solo Eventos)" tvg-logo="https://i.imgur.com/TWcSbG1.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 4 HD (Solo Eventos)
+http://localhost/ch/762962_
+#EXTINF:-1 tvg-id="762963" tvg-name="ES | MOVISTAR LA LIGA 3 FHD  (Solo Eventos)" tvg-logo="https://i.imgur.com/300rAFm.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 3 FHD  (Solo Eventos)
+http://localhost/ch/762963_
+#EXTINF:-1 tvg-id="762964" tvg-name="ES | MOVISTAR LA LIGA 2 HD  (Solo Eventos)" tvg-logo="https://i.imgur.com/TWcSbG1.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 2 HD  (Solo Eventos)
+http://localhost/ch/762964_
+#EXTINF:-1 tvg-id="762965" tvg-name="ES | MOVISTAR LA LIGA 2 FHD  (Solo Eventos)" tvg-logo="https://i.imgur.com/300rAFm.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 2 FHD  (Solo Eventos)
+http://localhost/ch/762965_
+#EXTINF:-1 tvg-id="762966" tvg-name="ES | MOVISTAR VAMOS HD" tvg-logo="https://i.imgur.com/D5GWkwT.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR VAMOS HD
+http://localhost/ch/762966_
+#EXTINF:-1 tvg-id="762967" tvg-name="ES | MOVISTAR VAMOS FHD" tvg-logo="https://i.imgur.com/oW2xan4.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR VAMOS FHD
+http://localhost/ch/762967_
+#EXTINF:-1 tvg-id="762968" tvg-name="ES | MOVISTAR VAMOS HEVC" tvg-logo="https://i.imgur.com/xlJCG2C.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR VAMOS HEVC
+http://localhost/ch/762968_
+#EXTINF:-1 tvg-id="762969" tvg-name="ES | MOVISTAR  LA LIGA HD" tvg-logo="https://i.imgur.com/L5dx1bj.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR  LA LIGA HD
+http://localhost/ch/762969_
+#EXTINF:-1 tvg-id="762970" tvg-name="ES | TELEDEPORTE" tvg-logo="https://i.imgur.com/tW2os1W.png" group-title="ES| ES ✪ DEPORTES",ES | TELEDEPORTE
+http://localhost/ch/762970_
+#EXTINF:-1 tvg-id="762971" tvg-name="ES | MOVISTAR MULTIDEPORTE" tvg-logo="https://i.imgur.com/jZASs22.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR MULTIDEPORTE
+http://localhost/ch/762971_
+#EXTINF:-1 tvg-id="762972" tvg-name="ES | MOVISTAR DEPORTES 2" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 2
+http://localhost/ch/762972_
+#EXTINF:-1 tvg-id="762973" tvg-name="ES | MOVISTAR DEPORTES 2 FHD" tvg-logo="https://i.imgur.com/6H7j6qU.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 2 FHD
+http://localhost/ch/762973_
+#EXTINF:-1 tvg-id="762974" tvg-name="ES | MOVISTAR DEPORTES 1 FHD" tvg-logo="https://i.imgur.com/6H7j6qU.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 1 FHD
+http://localhost/ch/762974_
+#EXTINF:-1 tvg-id="762975" tvg-name="ES | MOVISTAR DEPORTES 1 HEVC" tvg-logo="https://i.imgur.com/a7VWrZr.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES 1 HEVC
+http://localhost/ch/762975_
+#EXTINF:-1 tvg-id="762976" tvg-name="ES | MOVISTAR DEPORTES" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES
+http://localhost/ch/762976_
+#EXTINF:-1 tvg-id="762977" tvg-name="ES | MOVISTAR DEPORTES HEVC" tvg-logo="https://i.imgur.com/a7VWrZr.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES HEVC
+http://localhost/ch/762977_
+#EXTINF:-1 tvg-id="762978" tvg-name="ES | MOVISTAR DEPORTE 2 HD (Solo Eventos)" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTE 2 HD (Solo Eventos)
+http://localhost/ch/762978_
+#EXTINF:-1 tvg-id="762979" tvg-name="ES | MOVISTAR DEPORTE 1 HD" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTE 1 HD
+http://localhost/ch/762979_
+#EXTINF:-1 tvg-id="762980" tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="https://i.imgur.com/OXgWerB.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR DEPORTES HD
+http://localhost/ch/762980_
 #EXTINF:-1 tvg-id="762981" tvg-name="MARBELLA TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/7-TV-Marbella.png" group-title="ES| ES ✪ SPAIN",MARBELLA TV HD
 http://localhost/ch/762981_
+#EXTINF:-1 tvg-id="762982" tvg-name="ES | LA LIGA TV BAR 3 [LIVE-EVENT]" tvg-logo="https://i.imgur.com/5uqkTnt.png" group-title="ES| ES ✪ DEPORTES",ES | LA LIGA TV BAR 3 [LIVE-EVENT]
+http://localhost/ch/762982_
+#EXTINF:-1 tvg-id="762983" tvg-name="REAL MADRID TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/Real-Madrid.png" group-title="ES| ES ✪ DEPORTES",REAL MADRID TV HD
+http://localhost/ch/762983_
+#EXTINF:-1 tvg-id="762984" tvg-name="ES | TELEDEPORTE HD" tvg-logo="https://i.imgur.com/XlgxOII.png" group-title="ES| ES ✪ DEPORTES",ES | TELEDEPORTE HD
+http://localhost/ch/762984_
+#EXTINF:-1 tvg-id="762985" tvg-name="ES | EUROSPORT 2" tvg-logo="https://i.imgur.com/GEzjM3C.png" group-title="ES| ES ✪ DEPORTES",ES | EUROSPORT 2
+http://localhost/ch/762985_
+#EXTINF:-1 tvg-id="762986" tvg-name="ES | EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/Dt9bTn8.png" group-title="ES| ES ✪ DEPORTES",ES | EUROSPORT 2 HD
+http://localhost/ch/762986_
+#EXTINF:-1 tvg-id="762987" tvg-name="ES | EUROSPORT 1 FHD" tvg-logo="https://i.imgur.com/uVrDz7E.png" group-title="ES| ES ✪ DEPORTES",ES | EUROSPORT 1 FHD
+http://localhost/ch/762987_
+#EXTINF:-1 tvg-id="762988" tvg-name="ES | EUROSPORT1 HEVC" tvg-logo="https://i.imgur.com/c4Eg4f7.png" group-title="ES| ES ✪ DEPORTES",ES | EUROSPORT1 HEVC
+http://localhost/ch/762988_
+#EXTINF:-1 tvg-id="762989" tvg-name="ES | ONETORO TV" tvg-logo="https://i.imgur.com/diCmWEw.png" group-title="ES| ES ✪ DEPORTES",ES | ONETORO TV
+http://localhost/ch/762989_
+#EXTINF:-1 tvg-id="762990" tvg-name="GOL TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/gol-television.png" group-title="ES| ES ✪ DEPORTES",GOL TV HD
+http://localhost/ch/762990_
+#EXTINF:-1 tvg-id="762991" tvg-name="GOL TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/gol-television.png" group-title="ES| ES ✪ DEPORTES",GOL TV FHD
+http://localhost/ch/762991_
+#EXTINF:-1 tvg-id="762992" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES" tvg-logo="https://i.imgur.com/ReTlvHH.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES
+http://localhost/ch/762992_
+#EXTINF:-1 tvg-id="762993" tvg-name="ES | MOVISTAR LA LIGA 1" tvg-logo="https://i.imgur.com/o89Arrl.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 1
+http://localhost/ch/762993_
+#EXTINF:-1 tvg-id="762994" tvg-name="ES | MOVISTAR LA LIGA 1 HEVC" tvg-logo="https://i.imgur.com/5mOOYUE.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA 1 HEVC
+http://localhost/ch/762994_
+#EXTINF:-1 tvg-id="762995" tvg-name="ES | MOVISTAR LA LIGA HD" tvg-logo="https://i.imgur.com/TWcSbG1.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA HD
+http://localhost/ch/762995_
+#EXTINF:-1 tvg-id="762996" tvg-name="ES | MOVISTAR LA LIGA HEVC" tvg-logo="https://i.imgur.com/5mOOYUE.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR LA LIGA HEVC
+http://localhost/ch/762996_
+#EXTINF:-1 tvg-id="762997" tvg-name="ES | MOVISTAR GOLF FHD" tvg-logo="https://i.imgur.com/Jtq82I2.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR GOLF FHD
+http://localhost/ch/762997_
+#EXTINF:-1 tvg-id="762998" tvg-name="ES | MOVISTAR GOLF HEVC" tvg-logo="https://i.imgur.com/JQ0wvID.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR GOLF HEVC
+http://localhost/ch/762998_
+#EXTINF:-1 tvg-id="762999" tvg-name="ES | MOVISTAR FORMULA 1 HD" tvg-logo="https://i.imgur.com/NRdrN7Z.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR FORMULA 1 HD
+http://localhost/ch/762999_
+#EXTINF:-1 tvg-id="763000" tvg-name="ES | MOVISTAR FORMULA 1 HEVC" tvg-logo="https://i.imgur.com/9z73xvx.png" group-title="ES| ES ✪ DEPORTES",ES | MOVISTAR FORMULA 1 HEVC
+http://localhost/ch/763000_
+#EXTINF:-1 tvg-id="763001" tvg-name="ES | DAZN 4 HD" tvg-logo="https://i.imgur.com/3DDnbt6.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN 4 HD
+http://localhost/ch/763001_
+#EXTINF:-1 tvg-id="763002" tvg-name="ES | DAZN 4 FHD" tvg-logo="https://i.imgur.com/wZg8DmZ.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN 4 FHD
+http://localhost/ch/763002_
+#EXTINF:-1 tvg-id="763003" tvg-name="ES | DAZN 3" tvg-logo="https://i.imgur.com/cunscOS.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN 3
+http://localhost/ch/763003_
+#EXTINF:-1 tvg-id="763004" tvg-name="ES | DAZN 3 FHD" tvg-logo="https://i.imgur.com/eOorXj6.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN 3 FHD
+http://localhost/ch/763004_
+#EXTINF:-1 tvg-id="763005" tvg-name="ES | DAZN 2 HD" tvg-logo="https://i.imgur.com/32jAG6B.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN 2 HD
+http://localhost/ch/763005_
+#EXTINF:-1 tvg-id="763006" tvg-name="ES | DAZN 2 FHD" tvg-logo="https://i.imgur.com/HmMAFMk.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN 2 FHD
+http://localhost/ch/763006_
+#EXTINF:-1 tvg-id="763007" tvg-name="ES | DAZN 1 HD" tvg-logo="https://i.imgur.com/RnVb6l0.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN 1 HD
+http://localhost/ch/763007_
+#EXTINF:-1 tvg-id="763008" tvg-name="ES | DAZN 1 FHD" tvg-logo="https://i.imgur.com/DMyO00G.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN 1 FHD
+http://localhost/ch/763008_
+#EXTINF:-1 tvg-id="763009" tvg-name="ES | DAZN F1" tvg-logo="https://i.imgur.com/d51amsd.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN F1
+http://localhost/ch/763009_
+#EXTINF:-1 tvg-id="763010" tvg-name="ES | DAZN F1 HD" tvg-logo="https://i.imgur.com/d51amsd.png" group-title="ES| ES ✪ DEPORTES",ES | DAZN F1 HD
+http://localhost/ch/763010_
+#EXTINF:-1 tvg-id="763011" tvg-name="LALIGA HYPERMOTION 3 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/LaLiga_Hypermotion.png" group-title="ES| ES ✪ DEPORTES",LALIGA HYPERMOTION 3 FHD
+http://localhost/ch/763011_
+#EXTINF:-1 tvg-id="763012" tvg-name="LALIGA HYPERMOTION 2 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/LaLiga_Hypermotion.png" group-title="ES| ES ✪ DEPORTES",LALIGA HYPERMOTION 2 FHD
+http://localhost/ch/763012_
+#EXTINF:-1 tvg-id="763013" tvg-name="LALIGA HYPERMOTION 1 FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/LaLiga_Hypermotion.png" group-title="ES| ES ✪ DEPORTES",LALIGA HYPERMOTION 1 FHD
+http://localhost/ch/763013_
+#EXTINF:-1 tvg-id="763014" tvg-name="REAL MADRID TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/Real-Madrid.png" group-title="ES| ES ✪ DEPORTES",REAL MADRID TV FHD
+http://localhost/ch/763014_
 #EXTINF:-1 tvg-id="763015" tvg-name="MARBELLA TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/7-TV-Marbella.png" group-title="ES| ES ✪ SPAIN",MARBELLA TV FHD
 http://localhost/ch/763015_
+#EXTINF:-1 tvg-id="763017" tvg-name="ES | NEOX HD" tvg-logo="https://i.imgur.com/hnxHRzf.png" group-title="ES| ES ✪ CINEMA",ES | NEOX HD
+http://localhost/ch/763017_
+#EXTINF:-1 tvg-id="763018" tvg-name="ES | NOVA HD" tvg-logo="https://i.imgur.com/Uek4qhY.png" group-title="ES| ES ✪ CINEMA",ES | NOVA HD
+http://localhost/ch/763018_
+#EXTINF:-1 tvg-id="763019" tvg-name="ES | DIVINITY" tvg-logo="https://i.imgur.com/TgKENRN.png" group-title="ES| ES ✪ CINEMA",ES | DIVINITY
+http://localhost/ch/763019_
+#EXTINF:-1 tvg-id="763020" tvg-name="ES | CANAL ODISEA HD" tvg-logo="https://i.imgur.com/Jpc8TYG.png" group-title="ES| ES ✪ CINEMA",ES | CANAL ODISEA HD
+http://localhost/ch/763020_
+#EXTINF:-1 tvg-id="763021" tvg-name="ES | BLAZE HD" tvg-logo="https://i.imgur.com/Fr20AJu.png" group-title="ES| ES ✪ CINEMA",ES | BLAZE HD
+http://localhost/ch/763021_
+#EXTINF:-1 tvg-id="763022" tvg-name="BE MAD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/BeMad.png" group-title="ES| ES ✪ CINEMA",BE MAD
+http://localhost/ch/763022_
+#EXTINF:-1 tvg-id="763025" tvg-name="ES | ENERGY HD" tvg-logo="https://i.imgur.com/DwaEodp.png" group-title="ES| ES ✪ CINEMA",ES | ENERGY HD
+http://localhost/ch/763025_
+#EXTINF:-1 tvg-id="763026" tvg-name="ES | MEGA HD" tvg-logo="https://i.imgur.com/GPHp3GQ.png" group-title="ES| ES ✪ CINEMA",ES | MEGA HD
+http://localhost/ch/763026_
+#EXTINF:-1 tvg-id="763027" tvg-name="ES | A3 SERIES HD" tvg-logo="https://i.imgur.com/7kT010R.png" group-title="ES| ES ✪ CINEMA",ES | A3 SERIES HD
+http://localhost/ch/763027_
+#EXTINF:-1 tvg-id="763028" tvg-name="ES | FDF" tvg-logo="https://i.imgur.com/TjfcfWw.png" group-title="ES| ES ✪ CINEMA",ES | FDF
+http://localhost/ch/763028_
+#EXTINF:-1 tvg-id="763029" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://www.tvlogolar.xyz/europa/spain/comedy-central-es.png" group-title="ES| ES ✪ CINEMA",COMEDY CENTRAL HD
+http://localhost/ch/763029_
+#EXTINF:-1 tvg-id="763030" tvg-name="COSMO HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/cosmo.png" group-title="ES| ES ✪ CINEMA",COSMO HD
+http://localhost/ch/763030_
+#EXTINF:-1 tvg-id="763031" tvg-name="SYFY HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Syfy.png" group-title="ES| ES ✪ CINEMA",SYFY HD
+http://localhost/ch/763031_
+#EXTINF:-1 tvg-id="763032" tvg-name="WARNER TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/Warner_TV.png" group-title="ES| ES ✪ CINEMA",WARNER TV HD
+http://localhost/ch/763032_
+#EXTINF:-1 tvg-id="763033" tvg-name="AMC FHD" tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/AMC.png" group-title="ES| ES ✪ CINEMA",AMC FHD
+http://localhost/ch/763033_
+#EXTINF:-1 tvg-id="763034" tvg-name="AXN MOVIES" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/AXN.MOVIES.png" group-title="ES| ES ✪ CINEMA",AXN MOVIES
+http://localhost/ch/763034_
+#EXTINF:-1 tvg-id="763039" tvg-name="ES | MOVISTAR ESTRENOS 2 HD" tvg-logo="https://i.imgur.com/wwiIIGv.png" group-title="ES| ES ✪ CINEMA",ES | MOVISTAR ESTRENOS 2 HD
+http://localhost/ch/763039_
+#EXTINF:-1 tvg-id="763040" tvg-name="ES | MOVISTAR LOS GOYA HD" tvg-logo="https://i.imgur.com/8e3fN8r.png" group-title="ES| ES ✪ CINEMA",ES | MOVISTAR LOS GOYA HD
+http://localhost/ch/763040_
+#EXTINF:-1 tvg-id="763041" tvg-name="ES | MOVISTAR SERIES HD" tvg-logo="https://i.imgur.com/RufDJtb.png" group-title="ES| ES ✪ CINEMA",ES | MOVISTAR SERIES HD
+http://localhost/ch/763041_
+#EXTINF:-1 tvg-id="763042" tvg-name="ES | PARAMOUNT CHANNEL" tvg-logo="https://i.imgur.com/vRZyzvv.png" group-title="ES| ES ✪ CINEMA",ES | PARAMOUNT CHANNEL
+http://localhost/ch/763042_
 #EXTINF:-1 tvg-id="763043" tvg-name="EXTREMADURA TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/%C4%B0spanya/EXTREMADURA.png" group-title="ES| ES ✪ SPAIN",EXTREMADURA TV FHD
 http://localhost/ch/763043_
+#EXTINF:-1 tvg-id="763044" tvg-name="SUNDANCE TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/SUNDANCE.TV.png" group-title="ES| ES ✪ CINEMA",SUNDANCE TV HD
+http://localhost/ch/763044_
+#EXTINF:-1 tvg-id="763045" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/tlHQ1b1.png" group-title="ES| ES ✪ CINEMA",TCM HD
+http://localhost/ch/763045_
+#EXTINF:-1 tvg-id="763046" tvg-name="HOLLYWOOD" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/Canal_Hollywood.png" group-title="ES| ES ✪ CINEMA",HOLLYWOOD
+http://localhost/ch/763046_
+#EXTINF:-1 tvg-id="763047" tvg-name="ES | MOVISTAR DCINE FHD" tvg-logo="https://i.imgur.com/bhSEm7S.png" group-title="ES| ES ✪ CINEMA",ES | MOVISTAR DCINE FHD
+http://localhost/ch/763047_
+#EXTINF:-1 tvg-id="763048" tvg-name="ES | MOVISTAR DRAMA HD" tvg-logo="https://i.imgur.com/weZOVoH.png" group-title="ES| ES ✪ CINEMA",ES | MOVISTAR DRAMA HD
+http://localhost/ch/763048_
+#EXTINF:-1 tvg-id="763049" tvg-name="ES | MOVISTAR COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" group-title="ES| ES ✪ CINEMA",ES | MOVISTAR COMEDIA HD
+http://localhost/ch/763049_
+#EXTINF:-1 tvg-id="763050" tvg-name="ES | MOVISTAR ACCION HD" tvg-logo="https://i.imgur.com/aNIh5Gb.png" group-title="ES| ES ✪ CINEMA",ES | MOVISTAR ACCION HD
+http://localhost/ch/763050_
+#EXTINF:-1 tvg-id="763051" tvg-name="ES | MOVISTAR ESTRENOS HD" tvg-logo="https://i.imgur.com/9wPQmju.png" group-title="ES| ES ✪ CINEMA",ES | MOVISTAR ESTRENOS HD
+http://localhost/ch/763051_
+#EXTINF:-1 tvg-id="763052" tvg-name="ES | ALQUILER 9 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 9 HD
+http://localhost/ch/763052_
+#EXTINF:-1 tvg-id="763053" tvg-name="ES | ALQUILER 8 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 8 HD
+http://localhost/ch/763053_
+#EXTINF:-1 tvg-id="763054" tvg-name="ES | ALQUILER 7 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 7 HD
+http://localhost/ch/763054_
+#EXTINF:-1 tvg-id="763055" tvg-name="ES | ALQUILER 6 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 6 HD
+http://localhost/ch/763055_
+#EXTINF:-1 tvg-id="763056" tvg-name="ES | ALQUILER 5 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 5 HD
+http://localhost/ch/763056_
+#EXTINF:-1 tvg-id="763057" tvg-name="ES | ALQUILER 4 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 4 HD
+http://localhost/ch/763057_
+#EXTINF:-1 tvg-id="763058" tvg-name="ES | ALQUILER 3 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 3 HD
+http://localhost/ch/763058_
+#EXTINF:-1 tvg-id="763059" tvg-name="ES | ALQUILER 2 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 2 HD
+http://localhost/ch/763059_
+#EXTINF:-1 tvg-id="763060" tvg-name="ES | ALQUILER 1 HD" tvg-logo="https://i.imgur.com/UClWARZ.png" group-title="ES| ES ✪ CINEMA",ES | ALQUILER 1 HD
+http://localhost/ch/763060_
+#EXTINF:-1 tvg-id="763061" tvg-name="ES | VIAJAR HD" tvg-logo="https://i.imgur.com/isFZb2H.png" group-title="ES| ES ✪ DOCUMENTALES",ES | VIAJAR HD
+http://localhost/ch/763061_
+#EXTINF:-1 tvg-id="763062" tvg-name="ES | DMAX" tvg-logo="https://i.imgur.com/L7GStdt.png" group-title="ES| ES ✪ DOCUMENTALES",ES | DMAX
+http://localhost/ch/763062_
+#EXTINF:-1 tvg-id="763063" tvg-name="ES | NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/L7GStdt.png" group-title="ES| ES ✪ DOCUMENTALES",ES | NATIONAL GEOGRAPHIC WILD HD
+http://localhost/ch/763063_
+#EXTINF:-1 tvg-id="763064" tvg-name="ES | NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/jwRs9ba.png" group-title="ES| ES ✪ DOCUMENTALES",ES | NATIONAL GEOGRAPHIC HD
+http://localhost/ch/763064_
+#EXTINF:-1 tvg-id="763065" tvg-name="ES | DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/UPniiUF.png" group-title="ES| ES ✪ DOCUMENTALES",ES | DISCOVERY CHANNEL HD
+http://localhost/ch/763065_
+#EXTINF:-1 tvg-id="763066" tvg-name="ES | CRIME+ INVESTIGATION" tvg-logo="https://i.imgur.com/SRf7KW4.png" group-title="ES| ES ✪ DOCUMENTALES",ES | CRIME+ INVESTIGATION
+http://localhost/ch/763066_
+#EXTINF:-1 tvg-id="763067" tvg-name="ES | HISTORIA HD" tvg-logo="https://i.imgur.com/SRf7KW4.png" group-title="ES| ES ✪ DOCUMENTALES",ES | HISTORIA HD
+http://localhost/ch/763067_
+#EXTINF:-1 tvg-id="763068" tvg-name="ES | VIAJAR HEVC" tvg-logo="https://i.imgur.com/5zyKXya.png" group-title="ES| ES ✪ DOCUMENTALES",ES | VIAJAR HEVC
+http://localhost/ch/763068_
+#EXTINF:-1 tvg-id="763069" tvg-name="ES | VIAJAR HD" tvg-logo="https://i.imgur.com/isFZb2H.png" group-title="ES| ES ✪ DOCUMENTALES",ES | VIAJAR HD
+http://localhost/ch/763069_
+#EXTINF:-1 tvg-id="763070" tvg-name="ES | NAT GEO WILD HEVC" tvg-logo="https://i.imgur.com/KYyzFa3.png" group-title="ES| ES ✪ DOCUMENTALES",ES | NAT GEO WILD HEVC
+http://localhost/ch/763070_
+#EXTINF:-1 tvg-id="763071" tvg-name="ES | NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/cPUQfoM.png" group-title="ES| ES ✪ DOCUMENTALES",ES | NATIONAL GEOGRAPHIC WILD FHD
+http://localhost/ch/763071_
+#EXTINF:-1 tvg-id="763072" tvg-name="ES | NAT GEO HEVC" tvg-logo="https://i.imgur.com/KYyzFa3.png" group-title="ES| ES ✪ DOCUMENTALES",ES | NAT GEO HEVC
+http://localhost/ch/763072_
+#EXTINF:-1 tvg-id="763073" tvg-name="ES | NATIONAL GEOGRAPHIC FHD" tvg-logo="https://i.imgur.com/qu8om8q.png" group-title="ES| ES ✪ DOCUMENTALES",ES | NATIONAL GEOGRAPHIC FHD
+http://localhost/ch/763073_
+#EXTINF:-1 tvg-id="763074" tvg-name="ES | DISCOVERY CHANNEL FHD" tvg-logo="https://i.imgur.com/E0DJ3RU.png" group-title="ES| ES ✪ DOCUMENTALES",ES | DISCOVERY CHANNEL FHD
+http://localhost/ch/763074_
+#EXTINF:-1 tvg-id="763075" tvg-name="ES | HISTORIA FHD" tvg-logo="https://i.imgur.com/HCdxnXI.png" group-title="ES| ES ✪ DOCUMENTALES",ES | HISTORIA FHD
+http://localhost/ch/763075_
+#EXTINF:-1 tvg-id="763076" tvg-name="ES | CAZA Y PESCA HEVC" tvg-logo="https://i.imgur.com/l0L4GkO.png" group-title="ES| ES ✪ DOCUMENTALES",ES | CAZA Y PESCA HEVC
+http://localhost/ch/763076_
 #EXTINF:-1 tvg-id="763077" tvg-name="ES | CLAN FHD (TVE)" tvg-logo="https://i.imgur.com/4FmMYs2.png" group-title="ES| ES ✪ SPAIN",ES | CLAN FHD (TVE)
 http://localhost/ch/763077_
 #EXTINF:-1 tvg-id="763078" tvg-name="ES | CAZA Y PESCA HD" tvg-logo="https://i.imgur.com/3G23euS.png" group-title="ES| ES ✪ SPAIN",ES | CAZA Y PESCA HD
