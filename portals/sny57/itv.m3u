@@ -1,501 +1,229 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="237481" tvg-name="┃NL┃ FILM1 PREMIERE 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMPREMIEREHD.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ FILM1 PREMIERE 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=dEhXZDg3HS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=gZzTBpPHXb
 #EXTINF:-1 tvg-id="237482" tvg-name="┃NL┃ FILM1 ACTION 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMACTIONHD.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ FILM1 ACTION 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=MEuqlEuhBf
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=2zkz4brjq6
 #EXTINF:-1 tvg-id="237483" tvg-name="┃NL┃ FILM1 FAMILY 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMFAMILYHD.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ FILM1 FAMILY 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=fmnJVXVru0
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=DfhvlqNWbp
 #EXTINF:-1 tvg-id="237484" tvg-name="┃NL┃ FILM1 DRAMA 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMDRAMAHD.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ FILM1 DRAMA 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=jjmV10rzlT
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=RPTSf7YjEo
 #EXTINF:-1 tvg-id="373304" tvg-name="┃ENGLISH┃ STAR MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Star_Movies.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ STAR MOVIES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=MNXB76UyF9
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=rnmGvk8Du9
 #EXTINF:-1 tvg-id="373305" tvg-name="┃ENGLISH┃ WION NEWS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/WION.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ WION NEWS
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8OvAfPkgd8
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=qDaX34odZX
 #EXTINF:-1 tvg-id="373306" tvg-name="┃ENGLISH┃ ANIMAL PLANET HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/2018_Animal_Planet_logo.svg.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ ANIMAL PLANET HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cwgBEsd4yP
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=WpKVm1csA9
 #EXTINF:-1 tvg-id="373307" tvg-name="┃ENGLISH┃ ALJAZEERA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Aljazeera.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ ALJAZEERA HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=O7B47iIE9G
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=9lyzGSOyLF
 #EXTINF:-1 tvg-id="373308" tvg-name="┃ENGLISH┃ CNN NEWS" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CNNHD.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ CNN NEWS
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=LMkkvMIURl
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=kQueg0Ztht
 #EXTINF:-1 tvg-id="373309" tvg-name="┃ENGLISH┃ DISCOVERY TURBO" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Discovery_Turbo.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ DISCOVERY TURBO
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=bC9FaMozyQ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ePYPV6TcDK
 #EXTINF:-1 tvg-id="373310" tvg-name="┃ENGLISH┃ DISCOVERY KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/2016_Discovery_Kids_logo.svg.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ DISCOVERY KIDS
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=IxemfWfsXV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=y588pEywDd
 #EXTINF:-1 tvg-id="373311" tvg-name="┃ENGLISH┃ DISCOVERY SCIENCE" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/1200px-Discovery_Science_2017_Logo.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ DISCOVERY SCIENCE
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=HpQdx540zO
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OeoSeWwRMT
 #EXTINF:-1 tvg-id="373312" tvg-name="┃ENGLISH┃ ZEE CAFE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/zeecafe.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ ZEE CAFE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=dRyDraQp5t
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=uiBpFiFb57
 #EXTINF:-1 tvg-id="373313" tvg-name="┃ENGLISH┃ WARNER BROS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Warner_TV.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ WARNER BROS
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=gcqcVXIInV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=YkLzipTBF8
 #EXTINF:-1 tvg-id="373314" tvg-name="┃ENGLISH┃ VH1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/vh1.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ VH1 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=1psytQmIhC
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=AXKcYUQjkC
 #EXTINF:-1 tvg-id="373315" tvg-name="┃ENGLISH┃ TRAVEL XP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/travelxplogo1.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ TRAVEL XP HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=T7a8IAS8Go
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=7FoUvXNmhq
 #EXTINF:-1 tvg-id="373316" tvg-name="┃ENGLISH┃ TLC WORLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/TLC_HD_World.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ TLC WORLD HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OYKJrj2So2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6owrp2rg9g
 #EXTINF:-1 tvg-id="373317" tvg-name="┃ENGLISH┃ TIMES NOW NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/timesnownews.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ TIMES NOW NEWS HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=UXYsKyk7kS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=xc2hhPwlER
 #EXTINF:-1 tvg-id="373318" tvg-name="┃ENGLISH┃ THE Q YOU HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/theqyou.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ THE Q YOU HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=v947pgAS8p
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Rjx9ikIE8f
 #EXTINF:-1 tvg-id="373319" tvg-name="┃ENGLISH┃ STAR WORLD PREMIER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Star_World_2016_logo.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ STAR WORLD PREMIER HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OK7tOkLETY
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cmAPlDm7h4
 #EXTINF:-1 tvg-id="373320" tvg-name="┃ENGLISH┃ STAR MOVIES SELECT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/starmoviesselect.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ STAR MOVIES SELECT HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=FriURnumnj
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8UBwSJ8qmN
 #EXTINF:-1 tvg-id="373321" tvg-name="┃ENGLISH┃ SONY BBC EARTH ENGLISH HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/BBC_Earth.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ SONY BBC EARTH ENGLISH HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=EaW6fDf7tr
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OnvO3iAqIL
 #EXTINF:-1 tvg-id="373322" tvg-name="┃ENGLISH┃ NEWS X" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/newsxtv.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ NEWS X
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=b6tXfwNemV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pjlvTyHPvj
 #EXTINF:-1 tvg-id="373323" tvg-name="┃ENGLISH┃ NAT GEO ENGLISH HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/National_Geographic_Channel.svg.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ NAT GEO ENGLISH HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=y5F9gFd873
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=iqJpC1xCZM
 #EXTINF:-1 tvg-id="373324" tvg-name="┃ENGLISH┃ NATIONAL GEOGRAPHIC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/National_Geographic_Channel.svg.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ NATIONAL GEOGRAPHIC HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=a7ALl6ah1s
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=TeXZIG9dWY
 #EXTINF:-1 tvg-id="373325" tvg-name="┃ENGLISH┃ NAT GEO WILD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/National_Geographic_Wild_logo.svg.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ NAT GEO WILD HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=NNGkQht9UN
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cTp8E04YHI
 #EXTINF:-1 tvg-id="373326" tvg-name="┃ENGLISH┃ DISCOVERY WORLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Discovery_hd_world_29.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ DISCOVERY WORLD HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=HCSFu1sThZ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=hYfFiCxBzD
 #EXTINF:-1 tvg-id="373327" tvg-name="┃ENGLISH┃ ANIMAL PLANET WORLD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/2018_Animal_Planet_logo.svg.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ ANIMAL PLANET WORLD HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=kuFfpbg7On
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8DUvE0RaPk
 #EXTINF:-1 tvg-id="373328" tvg-name="┃ENGLISH┃ MOVIES NOW HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Movies_Now_HD.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ MOVIES NOW HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=IxfuoZpyBY
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=JDvpEcfDw0
 #EXTINF:-1 tvg-id="373329" tvg-name="┃ENGLISH┃ MNX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/MNX_new_logo.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ MNX HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=yydyJ1C86l
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=rsKwHgxu42
 #EXTINF:-1 tvg-id="373330" tvg-name="┃ENGLISH┃ MN PLUS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Mn+logo.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ MN PLUS HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=mrGXWmZGRH
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OBsZcVmTx6
 #EXTINF:-1 tvg-id="373331" tvg-name="┃ENGLISH┃ HISTORY TV 18 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/History_TV18_HD_2022.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ HISTORY TV 18 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=EWUgBBBlRl
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=f2PC5tkgY1
 #EXTINF:-1 tvg-id="373332" tvg-name="┃ENGLISH┃ HBO INDIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/HBO_logo.svg.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ HBO INDIA HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=FrpxarnP7K
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=FZS5vZtg5u
 #EXTINF:-1 tvg-id="373333" tvg-name="┃ENGLISH┃ FOX LIFE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Fox_Life_(Red).png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ FOX LIFE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=WhiT1paW0h
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=KkD4DdsiBB
 #EXTINF:-1 tvg-id="373334" tvg-name="┃ENGLISH┃ ET NOW HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/etnow.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ ET NOW HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=l1UbZEZa09
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6ot6b77Bl5
 #EXTINF:-1 tvg-id="373335" tvg-name="┃ENGLISH┃ DISNEY XD" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/DisneyXD.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ DISNEY XD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=tjPF6A0R1A
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=r7nKEhBLmg
 #EXTINF:-1 tvg-id="373336" tvg-name="┃ENGLISH┃ DISNEY INTERNATIONAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/DISNEYINTERNATIONAL.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ DISNEY INTERNATIONAL HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=2yKPayG2UB
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=XS41MWRJPw
 #EXTINF:-1 tvg-id="373337" tvg-name="┃ENGLISH┃ COMEDY CENTRAL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Comedy_Central_2018.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ COMEDY CENTRAL HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OaELPdp9WY
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=kbj2KAX2T2
 #EXTINF:-1 tvg-id="373338" tvg-name="┃ENGLISH┃ COLORS INFINITY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/Colors_Infinity_logo.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ COLORS INFINITY HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=7aWaBUXq7U
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=xOWr5k1w3I
 #EXTINF:-1 tvg-id="373339" tvg-name="┃ENGLISH┃ CNBC TV18 NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/cnbctv18.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ CNBC TV18 NEWS HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=PvvFd3oTn0
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=7vmS4oimmA
 #EXTINF:-1 tvg-id="373340" tvg-name="┃ENGLISH┃ CARTOON NETWORK" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/cartoon-network5254.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ CARTOON NETWORK
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=c8kf6gkAAK
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=y3AKZYFNSB
 #EXTINF:-1 tvg-id="373341" tvg-name="┃ENGLISH┃ BLOOMBERG INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/bloombergindia.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ BLOOMBERG INDIA
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=aF3ydaZwlj
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6XZsXEKZvX
 #EXTINF:-1 tvg-id="373342" tvg-name="┃ENGLISH┃ AND PRIVE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/&priv%C3%A9_HD.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ AND PRIVE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Rn6YddOiUL
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Q0E7uErv3C
 #EXTINF:-1 tvg-id="373343" tvg-name="┃ENGLISH┃ AND FLIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ENGLISH/flix-logo_2.png.png" group-title="EN| ┃ASIA┃ ENGLISH",┃ENGLISH┃ AND FLIX HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=C76wTA8vQL
-#EXTINF:-1 tvg-id="568955" tvg-name="┃ES┃ LA SEXTA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/La_Sexta_(A3M).svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA SEXTA FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=m90V6FO3Tn
-#EXTINF:-1 tvg-id="568957" tvg-name="┃ES┃ TELECINCO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Telecinco.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ TELECINCO FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=0llkoiREvU
-#EXTINF:-1 tvg-id="568959" tvg-name="┃ES┃ CUATRO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/CUATRO.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ CUATRO FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ylZaUXRx7J
-#EXTINF:-1 tvg-id="568961" tvg-name="┃ES┃ ANTENA 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Antena3.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ ANTENA 3 FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ZpHGdyylws
-#EXTINF:-1 tvg-id="568963" tvg-name="┃ES┃ LA 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Logo_TVE-2.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA 2 FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=kezR8Hzjd5
-#EXTINF:-1 tvg-id="568965" tvg-name="┃ES┃ LA 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Logo_TVE-1.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA 1 FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=1x3w0Z7qjG
-#EXTINF:-1 tvg-id="587358" tvg-name="┃ES┃ DAZN 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 1 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4LLDxQqjv8
-#EXTINF:-1 tvg-id="587359" tvg-name="┃ES┃ DAZN 1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 1 FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=PefIKVGxGj
-#EXTINF:-1 tvg-id="587360" tvg-name="┃ES┃ DAZN F1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN F1
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=P5uPpFiMYH
-#EXTINF:-1 tvg-id="587361" tvg-name="┃ES┃ DAZN F1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN F1 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=BcavpbXpML
-#EXTINF:-1 tvg-id="587367" tvg-name="┃ES┃ DAZN F1 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN F1 FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=DsVAUZvHYI
-#EXTINF:-1 tvg-id="587368" tvg-name="┃ES┃ DAZN F1 FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN F1 FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=wQMFRZz1kQ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=7x3H9GTtK1
 #EXTINF:-1 tvg-id="660653" tvg-name="┃AE┃ ABU DHABI SPORTS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/abudhabisports.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ ABU DHABI SPORTS 1 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=vCuorrfqsT
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=wfkRAv7MVZ
 #EXTINF:-1 tvg-id="660654" tvg-name="┃AE┃ ABU DHABI SPORTS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/abudhabisports.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ ABU DHABI SPORTS 2 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=osdAwCmeG3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=mI2xtUR2zv
 #EXTINF:-1 tvg-id="660655" tvg-name="┃AE┃ AD SPORT PREMIUM 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/adsports.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ AD SPORT PREMIUM 2 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=fBjRIjtsus
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=q1zR1WPorw
 #EXTINF:-1 tvg-id="660656" tvg-name="┃AE┃ AD SPORT PREMIUM 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/adsports.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ AD SPORT PREMIUM 1 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=GeprRlnctY
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=jT405ey9Z2
 #EXTINF:-1 tvg-id="660657" tvg-name="┃AE┃ DUBAI RACING 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ DUBAI RACING 3
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=U4qqwiJ3xr
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=TEZG1z5Meo
 #EXTINF:-1 tvg-id="660658" tvg-name="┃AE┃ DUBAI RACING 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ DUBAI RACING 2
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cNzMORdHd0
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=sWfhb7wkJz
 #EXTINF:-1 tvg-id="660659" tvg-name="┃AE┃ DUBAI RACING 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Racing_2008.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ DUBAI RACING 1
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4l9iOdpbOE
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=xlYkxu7UdJ
 #EXTINF:-1 tvg-id="660660" tvg-name="┃AE┃ YAS SPORTS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/yassports.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ YAS SPORTS HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=UmlSRNy0kl
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=dQbgmU2jD0
 #EXTINF:-1 tvg-id="660661" tvg-name="┃AE┃ DUBAI SPORT 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/dubaisports.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ DUBAI SPORT 1 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8667hulqbB
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=3UX0rNTscc
 #EXTINF:-1 tvg-id="660662" tvg-name="┃AE┃ AL SHARJAH HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/alsharjah.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ AL SHARJAH HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=SVWEBGmFvA
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=BFgVEE37Rx
 #EXTINF:-1 tvg-id="660663" tvg-name="┃AE┃ ABU DHABI NAT GEO. HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Nat_geo_channel_abu_dhabi.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ ABU DHABI NAT GEO. HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Q2UnUsm5Vf
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=CGBHUi6hEb
 #EXTINF:-1 tvg-id="660665" tvg-name="┃AE┃ ABU DHABI AL EMARAT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Abu_Dhabi_Al_Emarat.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ ABU DHABI AL EMARAT HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=RLlrQ035Ha
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ZUIz7ks5tX
 #EXTINF:-1 tvg-id="660666" tvg-name="┃AE┃ ABU DHABI TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Abu_Dhabi_TV.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ ABU DHABI TV HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=FfnCbiUKfJ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Zbw4CtfXMt
 #EXTINF:-1 tvg-id="660667" tvg-name="┃AE┃ NOOR DUBAI" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/noordubai.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ NOOR DUBAI
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=SvDKBKTgiB
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8c9FtzapZi
 #EXTINF:-1 tvg-id="660668" tvg-name="┃AE┃ DUBAI ONE" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/DubaiOne.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ DUBAI ONE
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=lo1znJeYXO
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ei0gt8qiCT
 #EXTINF:-1 tvg-id="660669" tvg-name="┃AE┃ DUBAI ZAMAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_Zaman.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ DUBAI ZAMAN
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=XQq4DJuJH4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pkWqjl1ryv
 #EXTINF:-1 tvg-id="660670" tvg-name="┃AE┃ SAMA DUBAI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/samadubai.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ SAMA DUBAI HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=bTmRALqwWp
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pxq11pHH1R
 #EXTINF:-1 tvg-id="660671" tvg-name="┃AE┃ SAMA DUBAI 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/samadubai.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ SAMA DUBAI 4K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=TDuRKkphJg
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=bEu0XGaYpd
 #EXTINF:-1 tvg-id="660672" tvg-name="┃AE┃ DUBAI TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_tv.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ DUBAI TV HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=FeHaCk3MDV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=uwgYUnHTef
 #EXTINF:-1 tvg-id="660673" tvg-name="┃AE┃ DUBAI TV 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/EMIRATES/Dubai_tv.png" group-title="ES| ┃AR┃ EMIRATES | الإمارات",┃AE┃ DUBAI TV 4K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=r3reV40kcG
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=LCumQEsiyH
 #EXTINF:-1 tvg-id="672050" tvg-name="┃AR┃ AHMED EL SAKKA MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ AHMED EL SAKKA MOVIES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=uLVuicrMP9
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=QkQ5ndze9x
 #EXTINF:-1 tvg-id="672051" tvg-name="┃AR┃ AHMED HELMY MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ AHMED HELMY MOVIES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=1Gln8HGPs3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=qdlCEph4oe
 #EXTINF:-1 tvg-id="672052" tvg-name="┃AR┃ AHMED ZAKI MOVIES 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ AHMED ZAKI MOVIES 2 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=lZVfmZAsQ9
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=zRXA01yklq
 #EXTINF:-1 tvg-id="672053" tvg-name="┃AR┃ AHMED ZAKI MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ AHMED ZAKI MOVIES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=yp9P44S6nS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=goqKFjxbGF
 #EXTINF:-1 tvg-id="672054" tvg-name="┃AR┃ ADEL EMAM MOVIES 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ ADEL EMAM MOVIES 2 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=mzoZaBoexl
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=zJgsYiVp5M
 #EXTINF:-1 tvg-id="672055" tvg-name="┃AR┃ ADEL EMAM MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ ADEL EMAM MOVIES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=FqcdIUelZB
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=wxrr1RT76q
 #EXTINF:-1 tvg-id="672056" tvg-name="┃AR┃ TOM CRUISE MOVIES 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ TOM CRUISE MOVIES 2 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=x8hcJpve21
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Wo1BM7HWT5
 #EXTINF:-1 tvg-id="672057" tvg-name="┃AR┃ TOM CRUISE MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ TOM CRUISE MOVIES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=vRpNt2dObp
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=q6EwYlL252
 #EXTINF:-1 tvg-id="672058" tvg-name="┃AR┃ TOM HANKS MOVIES+ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ TOM HANKS MOVIES+ HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=xep75eMfBm
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=9oEeYcGWAr
 #EXTINF:-1 tvg-id="672059" tvg-name="┃AR┃ TOM HANKS MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ACTORS MOVIES/ACTORS MOVIES.png" group-title="ES| ┃AR┃ ACTORS MOVIES | افلام ممثلين",┃AR┃ TOM HANKS MOVIES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=1ceMF6cqKf
-#EXTINF:-1 tvg-id="672301" tvg-name="┃AR┃ ITUNES KAZEM AL SAHER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES KAZEM AL SAHER HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=0nSJbT09TO
-#EXTINF:-1 tvg-id="672302" tvg-name="┃AR┃ ITUNES RAGHEM ALAMA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES RAGHEM ALAMA HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=fUQreSNXZx
-#EXTINF:-1 tvg-id="672303" tvg-name="┃AR┃ ITUNES SHERIN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES SHERIN HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=suZ4fm1qNC
-#EXTINF:-1 tvg-id="672304" tvg-name="┃AR┃ ITUNES NANCY AJRAM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES NANCY AJRAM HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=aoT4Q12yFR
-#EXTINF:-1 tvg-id="672305" tvg-name="┃AR┃ ITUNES RAMY SABRY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES RAMY SABRY HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=hDrOZSfXQM
-#EXTINF:-1 tvg-id="672306" tvg-name="┃AR┃ ITUNES ANGHAM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES ANGHAM HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=1tmrtufYi3
-#EXTINF:-1 tvg-id="672307" tvg-name="┃AR┃ ITUNES FAYROUZ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES FAYROUZ HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=F1nf7hz08G
-#EXTINF:-1 tvg-id="672308" tvg-name="┃AR┃ ITUNES GEORGES WASSOUF HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES GEORGES WASSOUF HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=lt4vpI8yPb
-#EXTINF:-1 tvg-id="672309" tvg-name="┃AR┃ ITUNES ELISSA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES ELISSA HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=oBz7zJC27c
-#EXTINF:-1 tvg-id="672310" tvg-name="┃AR┃ ITUNES HUSSAIN AL JASSMI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES HUSSAIN AL JASSMI HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Ug8TI4YlxN
-#EXTINF:-1 tvg-id="672311" tvg-name="┃AR┃ ITUNES TAMER ASHOUR HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES TAMER ASHOUR HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=GHZN948vuU
-#EXTINF:-1 tvg-id="672312" tvg-name="┃AR┃ ITUNES HAMZA NAMIRA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES HAMZA NAMIRA HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=BwNvD5I4ES
-#EXTINF:-1 tvg-id="672313" tvg-name="┃AR┃ ITUNES WAEL JASSAR HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES WAEL JASSAR HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=UAtzSDLlR5
-#EXTINF:-1 tvg-id="672314" tvg-name="┃AR┃ ITUNES Umm Kulthum HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES Umm Kulthum HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Wxue9JE9cX
-#EXTINF:-1 tvg-id="672315" tvg-name="┃AR┃ ITUNES TAMER HOSNY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES TAMER HOSNY HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=T2uztkSloT
-#EXTINF:-1 tvg-id="672316" tvg-name="┃AR┃ ITUNES MOHAMED MOUNIR HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES MOHAMED MOUNIR HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=NJaJ99VjUu
-#EXTINF:-1 tvg-id="672317" tvg-name="┃AR┃ ITUNES MOHAMED MOHIE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES MOHAMED MOHIE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=v56v2CJ5O4
-#EXTINF:-1 tvg-id="672318" tvg-name="┃AR┃ ITUNES HANY SHAKER HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES HANY SHAKER HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=uq4D0SMI0u
-#EXTINF:-1 tvg-id="672319" tvg-name="┃AR┃ ITUNES MOHAMED HAMAKI HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES MOHAMED HAMAKI HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=s4nQqqqOCa
-#EXTINF:-1 tvg-id="672320" tvg-name="┃AR┃ ITUNES MOHAMED FOUAD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES MOHAMED FOUAD HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=L7U1UYj0Zp
-#EXTINF:-1 tvg-id="672321" tvg-name="┃AR┃ ITUNES ASALA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES ASALA HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6YnWfGgxYT
-#EXTINF:-1 tvg-id="672322" tvg-name="┃AR┃ ITUNES AMR DIAB HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES AMR DIAB HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=3Rt00thymS
-#EXTINF:-1 tvg-id="672323" tvg-name="┃AR┃ ITUNES PALESTINE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ITUNES/ITUNES.png" group-title="ES| ┃AR┃ ITUNES | اي تونز",┃AR┃ ITUNES PALESTINE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4O9ZOxGuct
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4K07dr6X1o
 #EXTINF:-1 tvg-id="701735" tvg-name="┃NL┃ CANAL+ ACTION 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/CANAL+ ACTION.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ CANAL+ ACTION 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=x7GgiczrwD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=QD88qJFhdS
 #EXTINF:-1 tvg-id="712857" tvg-name="┃NL┃ FILMBOX 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ FILMBOX 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=gAsHVGKmTJ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=QKirt4U8To
 #EXTINF:-1 tvg-id="761968" tvg-name="┃NL┃ RAKUTEN TV ACTION 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/RAKUTEN TV ACTION 8K.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ RAKUTEN TV ACTION 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=GBJdHy7fFW
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8I9nKiQ7hS
 #EXTINF:-1 tvg-id="761969" tvg-name="┃NL┃ RAKUTEN TV COMEDY 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/RAKUTEN TV ACTION 8K.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ RAKUTEN TV COMEDY 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=WHebSLswAw
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=7ySALhqUV5
 #EXTINF:-1 tvg-id="761970" tvg-name="┃NL┃ RAKUTEN TV FAMILY 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/RAKUTEN TV ACTION 8K.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ RAKUTEN TV FAMILY 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OzZdrb3KT4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=0CH7Smhl2w
 #EXTINF:-1 tvg-id="761971" tvg-name="┃NL┃ RAKUTEN TV DRAMA 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/RAKUTEN TV ACTION 8K.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ RAKUTEN TV DRAMA 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=MBkFzdnzxB
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=38RaLI12vW
 #EXTINF:-1 tvg-id="761972" tvg-name="┃NL┃ RAKUTEN TV ROMANCE 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/RAKUTEN TV ACTION 8K.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ RAKUTEN TV ROMANCE 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=kFT5eEVn23
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=osQ2azGsoO
 #EXTINF:-1 tvg-id="761973" tvg-name="┃NL┃ RAKUTEN TV SPOTLIGHT 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/RAKUTEN TV ACTION 8K.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ RAKUTEN TV SPOTLIGHT 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ntTjvEPzfx
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=fjLBnPXflH
 #EXTINF:-1 tvg-id="761974" tvg-name="┃NL┃ RAKUTEN TV KERSMIS 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/RAKUTEN TV ACTION 8K.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ RAKUTEN TV KERSMIS 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=wf2M1dI1Js
-#EXTINF:-1 tvg-id="852260" tvg-name="┃ES┃ LA SEXTA HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/La_Sexta_(A3M).svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA SEXTA HD ⏺ʳᵉᶜ
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=rccFXhwDE2
-#EXTINF:-1 tvg-id="852261" tvg-name="┃ES┃ TELECINCO HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Telecinco.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ TELECINCO HD ⏺ʳᵉᶜ
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=TyUI0Zh5fI
-#EXTINF:-1 tvg-id="852262" tvg-name="┃ES┃ CUATRO HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/CUATRO.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ CUATRO HD ⏺ʳᵉᶜ
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=jZGBcYuIjL
-#EXTINF:-1 tvg-id="852263" tvg-name="┃ES┃ ANTENA 3 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Antena3.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ ANTENA 3 HD ⏺ʳᵉᶜ
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=TfQzPhClho
-#EXTINF:-1 tvg-id="852264" tvg-name="┃ES┃ LA 2 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Logo_TVE-2.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA 2 HD ⏺ʳᵉᶜ
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=TMviARYXJA
-#EXTINF:-1 tvg-id="852265" tvg-name="┃ES┃ LA 1 HD ⏺ʳᵉᶜ" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Logo_TVE-1.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA 1 HD ⏺ʳᵉᶜ
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pLxXyGmdzv
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=I00hJJ1SHM
 #EXTINF:-1 tvg-id="855716" tvg-name="┃USA┃ FLIX HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/FLIX HD.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ FLIX HD [WEST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=A9OI8JMHlF
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cIoIyp2mty
 #EXTINF:-1 tvg-id="855717" tvg-name="┃USA┃ FLIX HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/FLIX HD.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ FLIX HD [EAST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=O1ETpWMhZw
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=2ffMb9lxBh
 #EXTINF:-1 tvg-id="855718" tvg-name="┃USA┃ THE MOVIE CHANNEL HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/THE MOVIE CHANNEL.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ THE MOVIE CHANNEL HD [WEST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=tAjDH6C0lA
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=VAXAo4uy5b
 #EXTINF:-1 tvg-id="855719" tvg-name="┃USA┃ THE MOVIE CHANNEL HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/THE MOVIE CHANNEL.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ THE MOVIE CHANNEL HD [EAST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=uwUZCaUtEM
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=13BvUmsSXV
 #EXTINF:-1 tvg-id="855720" tvg-name="┃USA┃ THE MOVIE CHANNEL EXTRA HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/THE MOVIE CHANNEL EXTRA HD.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ THE MOVIE CHANNEL EXTRA HD [WEST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=IW7CACdPec
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=LutR1OX0Q8
 #EXTINF:-1 tvg-id="855721" tvg-name="┃USA┃ THE MOVIE CHANNEL EXTRA HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/THE MOVIE CHANNEL.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ THE MOVIE CHANNEL EXTRA HD [EAST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=QoV7txjvMX
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=YBZpBz7E7g
 #EXTINF:-1 tvg-id="855722" tvg-name="┃USA┃ AMC THRILLERS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/AMC THRILLERS.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ AMC THRILLERS HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=aJNcl8gFo1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=hKFV83Gsv9
 #EXTINF:-1 tvg-id="855723" tvg-name="┃USA┃ SUNDANCE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/SUNDANCE HD.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ SUNDANCE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=vBOTv3jFVZ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=UGlpcuZ278
 #EXTINF:-1 tvg-id="855724" tvg-name="┃USA┃ SONY MOVIE CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/SONY MOVIE CHANNAL.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ SONY MOVIE CHANNEL HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ByuLDep4nc
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ALIYiNMfvo
 #EXTINF:-1 tvg-id="855725" tvg-name="┃USA┃ SCREEN PIX WESTERNS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/SCREENPIX WESTERNS.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ SCREEN PIX WESTERNS HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pUOqBlONkH
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=0A6lnePhfx
 #EXTINF:-1 tvg-id="855726" tvg-name="┃USA┃ SCREEN PIX VOICES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/SCREENPIX VOICES.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ SCREEN PIX VOICES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=jifVjpaXL1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pigjxar8nr
 #EXTINF:-1 tvg-id="855727" tvg-name="┃USA┃ SCREEN PIX ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/SCREENPIX ACTION.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ SCREEN PIX ACTION HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=xsDCSZzMFQ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=oiX5k5u504
 #EXTINF:-1 tvg-id="855728" tvg-name="┃USA┃ SCREEN PIX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/SCREENPIX.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ SCREEN PIX HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=GQJoHx4Jgv
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=d3798HlInr
 #EXTINF:-1 tvg-id="855729" tvg-name="┃USA┃ PIXL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/PIXL HD.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ PIXL HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=CU02OtOlH2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=H5PNOU2nyk
 #EXTINF:-1 tvg-id="855730" tvg-name="┃USA┃ MY TIME MOVIE NETWORK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/MY TIME MOVIE NETWORK.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ MY TIME MOVIE NETWORK HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ZZtHwkiVff
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cDT8UsCluU
 #EXTINF:-1 tvg-id="855731" tvg-name="┃USA┃ MGM+ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/MGM+HD.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ MGM+ HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=jXMhwNonDv
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pB2cB5gpEE
 #EXTINF:-1 tvg-id="855732" tvg-name="┃USA┃ MGM+ MARQUEE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/MGM+MARQUEE.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ MGM+ MARQUEE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=n4TTAv8RRl
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=jU7r5eYs9m
 #EXTINF:-1 tvg-id="855733" tvg-name="┃USA┃ MGM+ HITS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/MGM+HITS.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ MGM+ HITS HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=g1VoyaSCvg
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cqP96Q3DP0
 #EXTINF:-1 tvg-id="855734" tvg-name="┃USA┃ MGM+ DRIVE-IN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/MGM+DRIVE-IN.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ MGM+ DRIVE-IN HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=AaAd6VCEML
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=N6TuDcihoB
 #EXTINF:-1 tvg-id="855736" tvg-name="┃USA┃ CINEMAX THRILLER MAX HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX THRILLER MAX.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX THRILLER MAX HD [WEST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=rFMbpArnCH
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=guifLjOcOJ
 #EXTINF:-1 tvg-id="855737" tvg-name="┃USA┃ CINEMAX THRILLER MAX HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX THRILLER MAX.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX THRILLER MAX HD [EAST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=zaWncNTzvo
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=nIOSU21pJ2
 #EXTINF:-1 tvg-id="855738" tvg-name="┃USA┃ CINEMAX OUTER MAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX OUTER.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX OUTER MAX HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=aekVYmqOSn
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=tdbIblI11q
 #EXTINF:-1 tvg-id="855739" tvg-name="┃USA┃ CINEMAX MOVIE MAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX MOVIE MAX HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=zfq9oHdThQ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6TXfZiA70S
 #EXTINF:-1 tvg-id="855740" tvg-name="┃USA┃ CINEMAX MORE MAX HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX MORE MAX HD [WEST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=PmtAoeD95z
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=BX8gOU0XY5
 #EXTINF:-1 tvg-id="855741" tvg-name="┃USA┃ CINEMAX MORE MAX HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX MORE MAX HD [EAST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Oo3sBzqCbI
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ki7R7Gz8e5
 #EXTINF:-1 tvg-id="855742" tvg-name="┃USA┃ CINEMAX HD [WEST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX HD.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX HD [WEST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=R3t0EQMNre
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=KsHbtTU9ne
 #EXTINF:-1 tvg-id="855743" tvg-name="┃USA┃ CINEMAX HD [EAST]" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX HD.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX HD [EAST]
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=S0Js6nSuI1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=kKH42OqUaF
 #EXTINF:-1 tvg-id="855744" tvg-name="┃USA┃ CINEMAX ACTION MAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX ACTION.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX ACTION MAX HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=nV32DLr88l
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8R34DbZK28
 #EXTINF:-1 tvg-id="855745" tvg-name="┃USA┃ CINEMAX 5 STAR MAX HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX 5 STAR.png" group-title="ES| ┃USA┃ MOVIES | SERIES",┃USA┃ CINEMAX 5 STAR MAX HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=RgHpoQvOVC
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4VRO1Kefjt
 #EXTINF:-1 tvg-id="863009" tvg-name="┃NL┃ CANAL+ ACTION 2 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/CANAL+ ACTION 2.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ CANAL+ ACTION 2 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=gEEp5aIQbU
-#EXTINF:-1 tvg-id="895538" tvg-name="┃ES┃ 24H TVE FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/24h.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ 24H TVE FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=qAzYLmIgHp
-#EXTINF:-1 tvg-id="895539" tvg-name="┃ES┃ LA 1 4K UHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Logo_TVE-1.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA 1 4K UHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=KgXyZM8yeV
-#EXTINF:-1 tvg-id="895541" tvg-name="┃ES┃ LA 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Logo_TVE-1.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA 1
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=iizLjyncvG
-#EXTINF:-1 tvg-id="895543" tvg-name="┃ES┃ LA 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Logo_TVE-2.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA 2
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=5wCA5q8XYw
-#EXTINF:-1 tvg-id="895545" tvg-name="┃ES┃ ANTENA 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Antena3.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ ANTENA 3
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cx4S1vYvrr
-#EXTINF:-1 tvg-id="895546" tvg-name="┃ES┃ CUATRO" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/CUATRO.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ CUATRO
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=hJrh9hXXa6
-#EXTINF:-1 tvg-id="895548" tvg-name="┃ES┃ TELECINCO" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Telecinco.svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ TELECINCO
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=UPDaRm1tWI
-#EXTINF:-1 tvg-id="895550" tvg-name="┃ES┃ LA SEXTA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/La_Sexta_(A3M).svg.png" group-title="ES| ┃ES┃ TDT ESPAÑA",┃ES┃ LA SEXTA
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=PdY11rdyxF
-#EXTINF:-1 tvg-id="897416" tvg-name="┃ES┃ DAZN 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 1
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=TZzqKHHQLj
-#EXTINF:-1 tvg-id="897417" tvg-name="┃ES┃ DAZN 2 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 2 FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=9mPQIXTRSq
-#EXTINF:-1 tvg-id="897418" tvg-name="┃ES┃ DAZN 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 2 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=JLHNHFqXjP
-#EXTINF:-1 tvg-id="897419" tvg-name="┃ES┃ DAZN 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 2
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=EFmj9SPWRz
-#EXTINF:-1 tvg-id="897420" tvg-name="┃ES┃ DAZN 3 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 3 FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=jec0ULzrwl
-#EXTINF:-1 tvg-id="897421" tvg-name="┃ES┃ DAZN 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 3 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pG3Z1qfqA5
-#EXTINF:-1 tvg-id="897422" tvg-name="┃ES┃ DAZN 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 3
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=aryD7eRPMo
-#EXTINF:-1 tvg-id="897423" tvg-name="┃ES┃ DAZN 4 FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 4 FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=AY8s2jdbsY
-#EXTINF:-1 tvg-id="897424" tvg-name="┃ES┃ DAZN 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 4 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=HOODk3xuKK
-#EXTINF:-1 tvg-id="897425" tvg-name="┃ES┃ DAZN 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="ES| ┃ES┃ DAZN ESPAÑA",┃ES┃ DAZN 4
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=rwKyHx2KJo
-#EXTINF:-1 tvg-id="907604" tvg-name="┃CA EN┃ HBO 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/hbo 1.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ HBO 1 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=T4dmTKI4Lv
-#EXTINF:-1 tvg-id="907605" tvg-name="┃CA EN┃ HBO 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/hbo 2.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ HBO 2 HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=QkxycHS7Ps
-#EXTINF:-1 tvg-id="907606" tvg-name="┃CA EN┃ ABC SPARK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/abc spark.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ ABC SPARK HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=gADcBPh8gl
-#EXTINF:-1 tvg-id="907607" tvg-name="┃CA EN┃ TMN1E HD (CRAVE 1 TV)" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/crave.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TMN1E HD (CRAVE 1 TV)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=1htt2niriH
-#EXTINF:-1 tvg-id="907608" tvg-name="┃CA EN┃ TMN2E HD (CRAVE 2 TV)" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/crave.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TMN2E HD (CRAVE 2 TV)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=wmqVlDEKdH
-#EXTINF:-1 tvg-id="907609" tvg-name="┃CA EN┃ TMN3E HD (CRAVE 3 TV)" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/crave.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TMN3E HD (CRAVE 3 TV)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=MeF6wWkQwe
-#EXTINF:-1 tvg-id="907610" tvg-name="┃CA EN┃ TMN4E HD (CRAVE 4 TV)" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/crave.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TMN4E HD (CRAVE 4 TV)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=iXXFtQTE1q
-#EXTINF:-1 tvg-id="907611" tvg-name="┃CA EN┃ TMN1E (CRAVE TV 1)" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/crave.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TMN1E (CRAVE TV 1)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=i9tYf3f5ri
-#EXTINF:-1 tvg-id="907612" tvg-name="┃CA EN┃ TMN2E (CRAVE TV 2)" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/crave.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TMN2E (CRAVE TV 2)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=96oH2BarNi
-#EXTINF:-1 tvg-id="907613" tvg-name="┃CA EN┃ TMN3E (CRAVE TV 3)" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/crave.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TMN3E (CRAVE TV 3)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6izUSgziCY
-#EXTINF:-1 tvg-id="907614" tvg-name="┃CA EN┃ TMN4E (CRAVE TV 4)" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/crave.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TMN4E (CRAVE TV 4)
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=nVll6ujhf4
-#EXTINF:-1 tvg-id="907615" tvg-name="┃CA EN┃ AMC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/amc.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ AMC HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=E4JzrHzBJ4
-#EXTINF:-1 tvg-id="907616" tvg-name="┃CA EN┃ ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/action.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ ACTION HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=K183O78X5e
-#EXTINF:-1 tvg-id="907617" tvg-name="┃CA EN┃ TCM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/tcm.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ TCM HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=MIwTfycgjA
-#EXTINF:-1 tvg-id="907618" tvg-name="┃CA EN┃ MOVIETIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/movietime.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ MOVIETIME HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=CqWw98SAcC
-#EXTINF:-1 tvg-id="907619" tvg-name="┃CA EN┃ FAMILY EAST" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/family.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ FAMILY EAST
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4sF4HWEEah
-#EXTINF:-1 tvg-id="907620" tvg-name="┃CA EN┃ FAMILY EAST" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/family.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ FAMILY EAST
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=crnoqITuSm
-#EXTINF:-1 tvg-id="907621" tvg-name="┃CA EN┃ SUPER CHANNEL FUSE" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/SUPER CHANNEL FUSE.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ SUPER CHANNEL FUSE
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=NwN3jAe9tX
-#EXTINF:-1 tvg-id="907622" tvg-name="┃CA EN┃ SUPER CHANNEL HEART & HOME" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/SUPER CHANNEL HEART & HOME.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ SUPER CHANNEL HEART & HOME
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=rPjcds3iRs
-#EXTINF:-1 tvg-id="907623" tvg-name="┃CA EN┃ SUPER CHANNEL VAULT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/SUPER CHANNEL VAULT.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ SUPER CHANNEL VAULT
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=3K0uRp1Els
-#EXTINF:-1 tvg-id="907624" tvg-name="┃CA EN┃ DEJAVIEW HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/dejaview.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ DEJAVIEW HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=uca8Vdj4G9
-#EXTINF:-1 tvg-id="907625" tvg-name="┃CA EN┃ DEJAVIEW" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/dejaview.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ DEJAVIEW
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=lgyZg8oXUH
-#EXTINF:-1 tvg-id="907626" tvg-name="┃CA EN┃ SILVER SCREEN CLASSICS" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/silver screen.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ SILVER SCREEN CLASSICS
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=RVkDoFHeCi
-#EXTINF:-1 tvg-id="907627" tvg-name="┃CA EN┃ BET HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/bet hd.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ BET HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=wYES2xZSoz
-#EXTINF:-1 tvg-id="907628" tvg-name="┃CA EN┃ BRAVO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/bravo.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ BRAVO HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=YGMLlLATOC
-#EXTINF:-1 tvg-id="907629" tvg-name="┃CA EN┃ Z TELE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/z tele hd.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ Z TELE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=sn3xRUzBLI
-#EXTINF:-1 tvg-id="907630" tvg-name="┃CA EN┃ A&E HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/a&e.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ A&E HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=JgkwibdNI4
-#EXTINF:-1 tvg-id="907631" tvg-name="┃CA EN┃ LIFETIME HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/lifetime.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ LIFETIME HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=dOuetmtPnb
-#EXTINF:-1 tvg-id="907632" tvg-name="┃CA EN┃ SHOWCASE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/MOVIES SERIES/showcase.png" group-title="ES| ┃CA EN┃ MOVIES | SERIES",┃CA EN┃ SHOWCASE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=qcsnTg0h5m
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=RXEh88jM0v
 #EXTINF:-1 tvg-id="959234" tvg-name="┃NL┃ RAKUTEN TV TOP FILMS 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL MOVIES  SERIES XL/RAKUTEN TV ACTION 8K.png" group-title="ES| ┃NL┃ MOVIES | SERIES XL",┃NL┃ RAKUTEN TV TOP FILMS 8K
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Go0A7koJz3
-#EXTINF:-1 tvg-id="959457" tvg-name="┃PT┃ TVCINE TOP FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE TOP.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=AOHd0BuavO
-#EXTINF:-1 tvg-id="959458" tvg-name="┃PT┃ TVCINE TOP FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE TOP.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=xYmwtQkDe8
-#EXTINF:-1 tvg-id="959459" tvg-name="┃PT┃ TVCINE TOP HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE TOP.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=G98l6kbMyX
-#EXTINF:-1 tvg-id="959460" tvg-name="┃PT┃ TVCINE TOP" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE TOP.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pz0mQL3HAD
-#EXTINF:-1 tvg-id="959461" tvg-name="┃PT┃ TVCINE EDITION FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE EDITION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=od1BcIWvFR
-#EXTINF:-1 tvg-id="959462" tvg-name="┃PT┃ TVCINE EDITION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE EDITION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=gNSLpBnx0x
-#EXTINF:-1 tvg-id="959463" tvg-name="┃PT┃ TVCINE EDITION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE EDITION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=mT6gENcybh
-#EXTINF:-1 tvg-id="959464" tvg-name="┃PT┃ TVCINE EDITION" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE EDITION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=B4jjMJdOxe
-#EXTINF:-1 tvg-id="959465" tvg-name="┃PT┃ TVCINE EMOTION FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE EMOTION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6F4Kv6Blsy
-#EXTINF:-1 tvg-id="959466" tvg-name="┃PT┃ TVCINE EMOTION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE EMOTION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ATXbwk9uTa
-#EXTINF:-1 tvg-id="959467" tvg-name="┃PT┃ TVCINE EMOTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE EMOTION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=eGdESWI6PJ
-#EXTINF:-1 tvg-id="959468" tvg-name="┃PT┃ TVCINE EMOTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE EMOTION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=UaCPZMsrw0
-#EXTINF:-1 tvg-id="959469" tvg-name="┃PT┃ TVCINE ACTION FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE ACTION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=duMqkubZfy
-#EXTINF:-1 tvg-id="959470" tvg-name="┃PT┃ TVCINE ACTION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE ACTION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=W5S5i3dChj
-#EXTINF:-1 tvg-id="959471" tvg-name="┃PT┃ TVCINE ACTION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE ACTION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=sYTr9fjmbT
-#EXTINF:-1 tvg-id="959472" tvg-name="┃PT┃ TVCINE ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/TVCINE ACTION.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=9SmS7j7eVM
-#EXTINF:-1 tvg-id="959473" tvg-name="┃PT┃ AXN FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=pfJacznhwv
-#EXTINF:-1 tvg-id="959474" tvg-name="┃PT┃ AXN" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=JMVcfYuiQ5
-#EXTINF:-1 tvg-id="959475" tvg-name="┃PT┃ AXN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=AewCRM2XOT
-#EXTINF:-1 tvg-id="959476" tvg-name="┃PT┃ AXN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=eOTsOesiLx
-#EXTINF:-1 tvg-id="959477" tvg-name="┃PT┃ AXN WHITE FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN WHITE.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN WHITE FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cFPEGcr9zc
-#EXTINF:-1 tvg-id="959478" tvg-name="┃PT┃ AXN WHITE" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN WHITE.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN WHITE
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=h75uxVux2y
-#EXTINF:-1 tvg-id="959479" tvg-name="┃PT┃ AXN WHITE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN WHITE.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN WHITE HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=QeCACBf2uU
-#EXTINF:-1 tvg-id="959480" tvg-name="┃PT┃ AXN WHITE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN WHITE.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN WHITE FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=dcgBtaD9nH
-#EXTINF:-1 tvg-id="959481" tvg-name="┃PT┃ AXN MOVIES FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN MOVIES.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN MOVIES FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=F0dcPtEcC0
-#EXTINF:-1 tvg-id="959482" tvg-name="┃PT┃ AXN MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN MOVIES.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN MOVIES
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=NIGUzQSuSS
-#EXTINF:-1 tvg-id="959483" tvg-name="┃PT┃ AXN MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN MOVIES.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN MOVIES HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=WfkWgUKezF
-#EXTINF:-1 tvg-id="959484" tvg-name="┃PT┃ AXN MOVIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AXN MOVIES.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AXN MOVIES FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=F67poQxUJr
-#EXTINF:-1 tvg-id="959485" tvg-name="┃PT┃ CINEMUNDO FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/CINEMUNDO.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ CINEMUNDO FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ziQpsD4CPF
-#EXTINF:-1 tvg-id="959486" tvg-name="┃PT┃ CINEMUNDO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/CINEMUNDO.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ CINEMUNDO FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=EbD3fHPVtR
-#EXTINF:-1 tvg-id="959487" tvg-name="┃PT┃ CINEMUNDO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/CINEMUNDO.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ CINEMUNDO HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=3WL9aeXyya
-#EXTINF:-1 tvg-id="959488" tvg-name="┃PT┃ CINEMUNDO" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/CINEMUNDO.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ CINEMUNDO
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=dhEyp4Nchc
-#EXTINF:-1 tvg-id="959489" tvg-name="┃PT┃ NOS STUDIOS FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/NOS STUDIOS.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIOS FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=CWCDmAaCFz
-#EXTINF:-1 tvg-id="959490" tvg-name="┃PT┃ NOS STUDIOS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/NOS STUDIOS.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIOS FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=85Lw4XvVok
-#EXTINF:-1 tvg-id="959491" tvg-name="┃PT┃ NOS STUDIO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/NOS STUDIOS.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIO HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=adoXFRdgTq
-#EXTINF:-1 tvg-id="959492" tvg-name="┃PT┃ NOS STUDIOS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/NOS STUDIOS.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIOS
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=yWNYT9FGXC
-#EXTINF:-1 tvg-id="959493" tvg-name="┃PT┃ HOLLYWOOD FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/HOLLYWOOD.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ HOLLYWOOD FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4wO6tQ72s9
-#EXTINF:-1 tvg-id="959494" tvg-name="┃PT┃ HOLLYWOOD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/HOLLYWOOD.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ HOLLYWOOD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8g682KpTH7
-#EXTINF:-1 tvg-id="959495" tvg-name="┃PT┃ HOLLYWOOD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/HOLLYWOOD.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ HOLLYWOOD HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=D1hfty3oPv
-#EXTINF:-1 tvg-id="959496" tvg-name="┃PT┃ HOLLYWOOD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/HOLLYWOOD.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ HOLLYWOOD FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=PwMx5VsPeQ
-#EXTINF:-1 tvg-id="959497" tvg-name="┃PT┃ AMC FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AMC.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AMC FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6AwhyYjo4t
-#EXTINF:-1 tvg-id="959498" tvg-name="┃PT┃ AMC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AMC.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AMC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=drq2Qh6Ygm
-#EXTINF:-1 tvg-id="959499" tvg-name="┃PT┃ AMC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AMC.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AMC HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=hHAS0nI4oV
-#EXTINF:-1 tvg-id="959500" tvg-name="┃PT┃ AMC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/AMC.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ AMC FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=FXqz11ppaB
-#EXTINF:-1 tvg-id="959501" tvg-name="┃PT┃ SYFY FHD HEVC" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/SYFY.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ SYFY FHD HEVC
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OKY9apj9OL
-#EXTINF:-1 tvg-id="959502" tvg-name="┃PT┃ SYFY" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/SYFY.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ SYFY
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=XfFCh7g5QO
-#EXTINF:-1 tvg-id="959503" tvg-name="┃PT┃ SYFY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/SYFY.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ SYFY HD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=75qzgP38mg
-#EXTINF:-1 tvg-id="959504" tvg-name="┃PT┃ SYFY FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FILMES SERIES/SYFY.png" group-title="ES| ┃PT┃ FILMES | SERIES",┃PT┃ SYFY FHD
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=B3AoCl00I2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8FyvhUq0RO
