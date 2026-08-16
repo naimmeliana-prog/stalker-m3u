@@ -560,6 +560,7 @@ def main(argv=None):
     parser.add_argument("--list-categories", action="store_true", help="Listar categorias de series y salir")
     parser.add_argument("--list-series", action="store_true", help="Listar series y salir")
     parser.add_argument("--checkpoint", help="Ruta del archivo de checkpoint para reanudar trabajo parcial")
+    parser.add_argument("--progress", help="Ruta del archivo de log de progreso")
     parser.add_argument("--push-interval", type=int, default=None, help="Cada N segundos, escribir el M3U parcial y hacer push (requiere GITHUB_TOKEN y --checkpoint)")
     parser.add_argument("--xtream-dir", help="Generar ademas datos Xtream (JSON por serie + indices) en este directorio")
     args = parser.parse_args(argv)
@@ -672,21 +673,22 @@ def _run(args):
 
     last_push = [time.time()]
 
-    def _save_and_push():
+    def _save_and_push(force=False):
         if not (args.checkpoint and args.push_interval):
             return
-        if time.time() - last_push[0] < args.push_interval:
+        if not force and time.time() - last_push[0] < args.push_interval:
             return
         last_push[0] = time.time()
         try:
             _save_checkpoint(args.checkpoint, ck, portal, args)
-            with open("progress.log", "a", encoding="utf-8") as fh:
+            prog_file = args.progress or "progress.log"
+            with open(prog_file, "a", encoding="utf-8") as fh:
                 fh.write("%s series=%d/%d eps=%d\n" % (
                     time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
                     done, total, len(entries)))
         except Exception as exc:
             print("[!] Error guardando checkpoint: %s" % exc)
-        _git_push(args.checkpoint, "progress.log")
+        _git_push(args.checkpoint, args.progress or "progress.log")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.threads) as pool:
         future_map = {pool.submit(process_series, portal, s, args): s for s in pending}
@@ -721,6 +723,11 @@ def _run(args):
         print("[+] Datos Xtream guardados en %s (%d series, %d streams)" % (xt_dir, len(xt_series), len(streams)))
 
     _write_m3u(args.out, entries)
+    if args.checkpoint:
+        try:
+            _save_checkpoint(args.checkpoint, ck, portal, args)
+        except Exception as exc:
+            print("[!] Error guardando checkpoint final: %s" % exc)
     if args.checkpoint and args.push_interval:
         _git_push(args.out, args.checkpoint)
     print("[+] Lista guardada en %s (%d episodios)" % (args.out, len(entries)))

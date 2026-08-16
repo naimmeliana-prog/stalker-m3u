@@ -51,6 +51,7 @@ def _build_args(cfg):
         args += ["--group", cfg["group"]]
     if cfg.get("checkpoint"):
         args += ["--checkpoint", resolve_path(cfg["checkpoint"])]
+    args += ["--progress", resolve_path(cfg.get("progress", "progress.log"))]
     if cfg.get("push_interval"):
         args += ["--push-interval", str(cfg["push_interval"])]
     if cfg.get("xtream_dir"):
