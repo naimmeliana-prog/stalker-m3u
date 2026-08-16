@@ -1,6 +1,6 @@
 {
-    "portal": "http://vpn.tvmoderne.ca:80",
-    "mac": "00:1B:79:50:0A:21",
+    "portal": "http://mag.ugoiptv.com:80/c/",
+    "mac": "00:1A:79:00:41:AB",
     "categories": [],
     "remove_categories": [],
     "out": "series.m3u",
