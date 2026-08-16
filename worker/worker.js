@@ -78,19 +78,46 @@ function serverInfo(host) {
   };
 }
 
-async function streamProxy(target) {
-  const upstream = await fetch(target, { redirect: "follow" });
-  const headers = new Headers();
-  headers.set(
-    "Content-Type",
-    upstream.headers.get("Content-Type") || "application/octet-stream"
-  );
-  const cl = upstream.headers.get("Content-Length");
-  if (cl) {
-    headers.set("Content-Length", cl);
+async function streamProxy(target, clientRequest, portalUrl = "", mac = "") {
+  const reqHeaders = new Headers();
+  
+  if (clientRequest) {
+    const range = clientRequest.headers.get("Range");
+    if (range) {
+      reqHeaders.set("Range", range);
+    }
   }
-  headers.set("Cache-Control", "no-store");
-  return new Response(upstream.body, { status: 200, headers });
+  
+  reqHeaders.set("User-Agent", "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 sb2ed89f0 Safari/533.3");
+  if (mac) {
+    reqHeaders.set("Cookie", `mac=${mac}; stb_lang=en`);
+  }
+
+  const upstream = await fetch(target, { 
+    headers: reqHeaders,
+    redirect: "follow" 
+  });
+
+  const responseHeaders = new Headers();
+  const copyHeaders = [
+    "Content-Type",
+    "Content-Length",
+    "Content-Range",
+    "Accept-Ranges",
+    "Cache-Control"
+  ];
+  
+  for (const h of copyHeaders) {
+    const val = upstream.headers.get(h);
+    if (val) {
+      responseHeaders.set(h, val);
+    }
+  }
+
+  return new Response(upstream.body, { 
+    status: upstream.status, 
+    headers: responseHeaders 
+  });
 }
 
 const STALKER_TOKENS = {};
@@ -333,10 +360,18 @@ export default {
           console.error("Dynamic series resolution failed:", e);
         }
       }
-      if (env && env.PROXY_STREAM === "off") {
-        return redirectCors(finalTarget);
-      }
-      return withCors(await streamProxy(finalTarget));
+      let portal = "";
+      let mac = "";
+      try {
+        const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+        const configRes = await fetch(configUrl);
+        if (configRes.ok) {
+          const config = await configRes.json();
+          portal = config.portal || "";
+          mac = config.mac || "";
+        }
+      } catch (e) {}
+      return withCors(await streamProxy(finalTarget, request, portal, mac));
     }
 
     if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
@@ -368,10 +403,24 @@ export default {
       if (!finalTarget) {
         return corsJson({}, 404);
       }
-      if (env && env.PROXY_STREAM === "off") {
+      
+      let portal = "";
+      let mac = "";
+      try {
+        const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+        const configRes = await fetch(configUrl);
+        if (configRes.ok) {
+          const config = await configRes.json();
+          portal = config.portal || "";
+          mac = config.mac || "";
+        }
+      } catch (e) {}
+
+      const forceProxy = parts[0] === "movie";
+      if (!forceProxy && env && env.PROXY_STREAM === "off") {
         return redirectCors(finalTarget);
       }
-      return withCors(await streamProxy(finalTarget));
+      return withCors(await streamProxy(finalTarget, request, portal, mac));
     }
 
     if (parts.length === 3) {
@@ -381,57 +430,66 @@ export default {
       const live = await fetchData(dataBase + "live_urls.json", 600);
       if (live[sid]) {
         let fallbackTarget = live[sid];
-        if (fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) {
-          try {
-            const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-            const configRes = await fetch(configUrl);
-            if (configRes.ok) {
-              const config = await configRes.json();
-              if (config.portal && config.mac) {
-                fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "itv");
-              }
+        let portal = "";
+        let mac = "";
+        try {
+          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+          const configRes = await fetch(configUrl);
+          if (configRes.ok) {
+            const config = await configRes.json();
+            portal = config.portal || "";
+            mac = config.mac || "";
+            if ((fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) && config.portal && config.mac) {
+              fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "itv");
             }
-          } catch (e) {}
+          }
+        } catch (e) {}
+        if (env && env.PROXY_STREAM === "off") {
+          return redirectCors(fallbackTarget);
         }
-        return redirectCors(fallbackTarget);
+        return withCors(await streamProxy(fallbackTarget, request, portal, mac));
       }
 
       // 2. Check vod_urls.json
       const vod = await fetchData(dataBase + "vod_urls.json", 600);
       if (vod[sid]) {
         let fallbackTarget = vod[sid];
-        if (fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) {
-          try {
-            const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-            const configRes = await fetch(configUrl);
-            if (configRes.ok) {
-              const config = await configRes.json();
-              if (config.portal && config.mac) {
-                fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
-              }
+        let portal = "";
+        let mac = "";
+        try {
+          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+          const configRes = await fetch(configUrl);
+          if (configRes.ok) {
+            const config = await configRes.json();
+            portal = config.portal || "";
+            mac = config.mac || "";
+            if ((fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) && config.portal && config.mac) {
+              fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
             }
-          } catch (e) {}
-        }
-        return redirectCors(fallbackTarget);
+          }
+        } catch (e) {}
+        return withCors(await streamProxy(fallbackTarget, request, portal, mac));
       }
 
       // 3. Check streams.json (Xtream Series)
       const streams = await fetchData(dataBase + "streams.json", 600);
       if (streams[sid]) {
         let fallbackTarget = streams[sid];
-        if (fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) {
-          try {
-            const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-            const configRes = await fetch(configUrl);
-            if (configRes.ok) {
-              const config = await configRes.json();
-              if (config.portal && config.mac) {
-                fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
-              }
+        let portal = "";
+        let mac = "";
+        try {
+          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+          const configRes = await fetch(configUrl);
+          if (configRes.ok) {
+            const config = await configRes.json();
+            portal = config.portal || "";
+            mac = config.mac || "";
+            if ((fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) && config.portal && config.mac) {
+              fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
             }
-          } catch (e) {}
-        }
-        return redirectCors(fallbackTarget);
+          }
+        } catch (e) {}
+        return withCors(await streamProxy(fallbackTarget, request, portal, mac));
       }
 
       return corsJson({}, 404);
