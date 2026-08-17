@@ -519,7 +519,7 @@ def _git_push(*paths):
         if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
             return
         msg = "checkpoint M3U (%s)" % time.strftime("%F %R UTC", time.gmtime())
-        subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
+        subprocess.run(["git", "-c", "user.name=github-actions[bot]", "-c", "user.email=github-actions[bot]@users.noreply.github.com", "commit", "-m", msg], check=True, capture_output=True)
         last = None
         for i in range(6):
             try:
