@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="12951" tvg-name="ES - FBI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg" group-title="ES - FBI",ES - FBI - S03E02
+#EXTGRP:ES - FBI
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=657075.mkv&play_token=r4iiZ9wojO&type=series&sn2=
+#EXTINF:-1 tvg-id="12951" tvg-name="ES - FBI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg" group-title="ES - FBI",ES - FBI - S03E03
+#EXTGRP:ES - FBI
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=657076.mkv&play_token=raDSvTlzEj&type=series&sn2=
+#EXTINF:-1 tvg-id="12951" tvg-name="ES - FBI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg" group-title="ES - FBI",ES - FBI - S03E05
+#EXTGRP:ES - FBI
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=657078.mkv&play_token=pohcDTDQGZ&type=series&sn2=
+#EXTINF:-1 tvg-id="12951" tvg-name="ES - FBI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg" group-title="ES - FBI",ES - FBI - S04E06
+#EXTGRP:ES - FBI
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=657091.mkv&play_token=EmbiLe7oAd&type=series&sn2=
 #EXTINF:-1 tvg-id="12999" tvg-name="ES - Real Humans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alG1Z8LtLoX8hKo9dWBnwPYiiG3.jpg" group-title="ES - Real Humans",ES - Real Humans - S01E01
 #EXTGRP:ES - Real Humans
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=653666.mkv&play_token=PXlpiejPcv&type=series&sn2=
@@ -149,6 +161,51 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=653885.mp4&p
 #EXTINF:-1 tvg-id="13006" tvg-name="ES - Scooby-Doo! Misterios  S. A." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg" group-title="ES - Scooby-Doo! Misterios  S. A.",ES - Scooby-Doo! Misterios, S. A. - S02E26
 #EXTGRP:ES - Scooby-Doo! Misterios  S. A.
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=653886.mp4&play_token=3W6d3oFQm3&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S01E01
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655190.mkv&play_token=qilTv98nIZ&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S01E02
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655191.mkv&play_token=z8SlEUL7BO&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S01E04
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655193.mkv&play_token=MC5lZyUTMY&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S01E07
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655196.mkv&play_token=YiTjjQmB06&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S01E09
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655198.mkv&play_token=yTYbpYJojW&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S01E12
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655201.mkv&play_token=C5zp6ptqUX&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S01E14
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655203.mkv&play_token=YlYvmlGFsA&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S02E01
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655204.mkv&play_token=te9twyNKna&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S02E02
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655205.mkv&play_token=zigxKW0UhY&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S02E04
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655207.mkv&play_token=XkAfX6dvbR&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S02E06
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655209.mkv&play_token=3DNqMcLlct&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S02E07
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655210.mkv&play_token=EGqqwNeAtV&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S03E02
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655214.mkv&play_token=g0PV0xwTv0&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S03E07
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655219.mkv&play_token=DOzQKZcD9f&type=series&sn2=
+#EXTINF:-1 tvg-id="13042" tvg-name="ES- La sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/465lA3AZEg8sWb9lMecF8m1HF71.jpg" group-title="ES- La sirenita",ES- La sirenita - S03E08
+#EXTGRP:ES- La sirenita
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=655220.mkv&play_token=Z5ktT3wSq4&type=series&sn2=
 #EXTINF:-1 tvg-id="13102" tvg-name="ES - The Chi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fOk1oVFxVtmyOErw4S6B5g6CsO.jpg" group-title="ES - The Chi",ES - The Chi - S01E01
 #EXTGRP:ES - The Chi
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=657193.mkv&play_token=f9VUhN19Zm&type=series&sn2=
@@ -158,6 +215,9 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=657200.mkv&p
 #EXTINF:-1 tvg-id="13102" tvg-name="ES - The Chi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fOk1oVFxVtmyOErw4S6B5g6CsO.jpg" group-title="ES - The Chi",ES - The Chi - S01E10
 #EXTGRP:ES - The Chi
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=657202.mkv&play_token=B9Tzj08bBn&type=series&sn2=
+#EXTINF:-1 tvg-id="15301" tvg-name="ES - Star Trek: Prodigy - (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiIHiqCwVu5SGa7Fkg0AVZkRGSR.jpg" group-title="ES - Star Trek: Prodigy - (2021)",ES - Star Trek: Prodigy - (2021) - S01E05
+#EXTGRP:ES - Star Trek: Prodigy - (2021)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=734562.mkv&play_token=0djQwJdisw&type=series&sn2=
 #EXTINF:-1 tvg-id="19122" tvg-name="ES - Halo: La serie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg" group-title="ES - Halo: La serie (2022)",ES - Halo: La serie (2022) - S01E03
 #EXTGRP:ES - Halo: La serie (2022)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=871260.mkv&play_token=Neu2jMkXEd&type=series&sn2=
@@ -176,12 +236,588 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1125015.mkv&
 #EXTINF:-1 tvg-id="19122" tvg-name="ES - Halo: La serie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg" group-title="ES - Halo: La serie (2022)",ES - Halo: La serie (2022) - S02E05
 #EXTGRP:ES - Halo: La serie (2022)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1125016.mkv&play_token=WkEbZIvwUY&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E01
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881172.mkv&play_token=unfHIIaS1L&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E02
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881173.mkv&play_token=ONM5lZIRSz&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E03
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881174.mkv&play_token=MUImlAVfhc&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E04
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881175.mkv&play_token=xDuWhjtmH5&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E05
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881176.mkv&play_token=Rh6bhdkn3y&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E06
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881177.mkv&play_token=kMf00bDZ4Q&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E07
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881178.mkv&play_token=4FsLXodUrX&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E08
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881179.mkv&play_token=YCXuQluVjV&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E09
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881180.mkv&play_token=cVkmKo3N1e&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E10
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881181.mkv&play_token=IA35XsIFQt&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E11
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881182.mkv&play_token=rtPXvT457i&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E12
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881183.mkv&play_token=R6Q3n24l50&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E13
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881184.mkv&play_token=3GBv8g9yTk&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E14
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881185.mkv&play_token=5KxvLasbcZ&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E15
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881186.mkv&play_token=5zi3Jlhc1Z&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E16
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881187.mkv&play_token=cmM4OkHj0B&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E17
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881188.mkv&play_token=OyrArnGpN7&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E18
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881189.mkv&play_token=Ge9YAuIkbR&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E19
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881190.mkv&play_token=KAUhSQS6Au&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E20
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881191.mkv&play_token=JKpPw910Ez&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E21
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881192.mkv&play_token=KZTNGPYjFU&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E22
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881193.mkv&play_token=XYvqVOpw2e&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S01E23
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881194.mkv&play_token=wnVbBLwuFL&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E01
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881195.mkv&play_token=7nnb10YlVi&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E02
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881196.mkv&play_token=NuwX7kN7rz&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E03
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881197.mkv&play_token=GbVSoW3Doa&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E04
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881198.mkv&play_token=sJ3QLgKMVQ&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E05
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881199.mkv&play_token=9sXkXHu9FO&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E06
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881200.mkv&play_token=bQO1SrK8Aj&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E07
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881201.mkv&play_token=XMqc656lBK&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E08
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881202.mkv&play_token=ziVS0qoXW7&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E09
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881203.mkv&play_token=pD28J3NZOi&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E10
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881204.mkv&play_token=okgy1o2c01&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E11
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881205.mkv&play_token=jd0JqiE3SW&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E12
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881206.mkv&play_token=zal7mCZOAD&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E13
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881207.mkv&play_token=JCLjOiccty&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E14
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881208.mkv&play_token=WC3TirGmT1&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E15
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881209.mkv&play_token=nvop81m0Nw&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E16
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881210.mkv&play_token=Hn5iJcW0LR&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E17
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881211.mkv&play_token=FpTQ6ARxD3&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E18
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881212.mkv&play_token=XueWQ0jWNc&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E19
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881213.mkv&play_token=gKVnKUA68u&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E20
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881214.mkv&play_token=NvF3GEH0Uo&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E21
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881215.mkv&play_token=QR0m80eumQ&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E22
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881216.mkv&play_token=J6VI7J1UDH&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S02E23
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881217.mkv&play_token=A73mnKVc1u&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E01
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881218.mkv&play_token=Gei4xCWMLF&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E02
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881219.mkv&play_token=EfqoyD5rqN&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E03
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881220.mkv&play_token=ISXoiCrR02&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E04
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881221.mkv&play_token=j40jbZ3K7W&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E05
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881222.mkv&play_token=xraqN7kovl&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E06
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881223.mkv&play_token=g6wYS3CzTI&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E07
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881224.mkv&play_token=WCWkYvHPON&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E08
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881225.mkv&play_token=OZaJkSdnnS&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E09
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881226.mkv&play_token=6ku8DNqLev&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E10
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881227.mkv&play_token=y0yY7Se2EU&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E11
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881228.mkv&play_token=6bDi6l8QnS&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E12
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881229.mkv&play_token=4XhoSOd3Sm&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E13
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881230.mkv&play_token=7m1kqRPLWa&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E14
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881231.mkv&play_token=3SwKknCWYu&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E15
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881232.mkv&play_token=atDxFdbS5u&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E16
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881233.mkv&play_token=NyIa0V5wkb&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E17
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881234.mkv&play_token=CArcEAsoel&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E18
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881235.mkv&play_token=WtMrhrZHO8&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E19
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881236.mkv&play_token=JeOTpeZYHU&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E20
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881237.mkv&play_token=XeE4Ns9cax&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E21
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881238.mkv&play_token=EGTxSXl417&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S03E22
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881239.mkv&play_token=xmwLzcYWFV&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E01
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881240.mkv&play_token=K5AQxaw4Pw&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E02
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881241.mkv&play_token=nF1oOiqfY0&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E03
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881242.mkv&play_token=tHSM2z26SB&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E04
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881243.mkv&play_token=HiJO9YsXhL&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E06
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881245.mkv&play_token=Eh9zyllvv6&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E07
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881246.mkv&play_token=18pBTpBNew&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E08
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881247.mkv&play_token=2Sy4L03jYi&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E09
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881248.mkv&play_token=vg76GNIJw0&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E10
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881249.mkv&play_token=R0QeeaCPNj&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E11
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881250.mkv&play_token=G3FfUvBzuI&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E12
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881251.mkv&play_token=DpSCWyxqzi&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E13
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881252.mkv&play_token=J97At33tyU&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E14
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881253.mkv&play_token=Fa5lNsKKEh&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E15
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881254.mkv&play_token=NTRazdVYOi&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E16
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881255.mkv&play_token=9m0mNNQcB1&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E17
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881256.mkv&play_token=mfW0b3rBXZ&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E18
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881257.mkv&play_token=ueBHlDEerT&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E19
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881258.mkv&play_token=T0UwEVdpHO&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E20
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881259.mkv&play_token=lljgeYcsWv&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E21
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881260.mkv&play_token=gNxGcXUsQA&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S04E22
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881261.mkv&play_token=AyI98S7WAe&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E01
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881262.avi&play_token=N1REhDFUZs&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E02
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881263.avi&play_token=xWFiElw7MQ&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E04
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881265.avi&play_token=zCGNXs902Z&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E05
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881266.avi&play_token=zQWanPKekc&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E06
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881267.avi&play_token=PYNN5o0x7e&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E07
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881268.avi&play_token=gNYn0KpC85&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E08
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881269.avi&play_token=OfNX1EK2FC&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E09
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881270.avi&play_token=SuOEBcMHTI&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E10
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881271.avi&play_token=APixErzFbe&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E12
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881273.avi&play_token=Mu0dpihyJS&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E13
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881283.avi&play_token=NIUz6bq6Hy&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E15
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881275.avi&play_token=qAlIJ0O3LC&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E17
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881277.avi&play_token=wrVaImEihk&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E18
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881278.avi&play_token=L91ZY40zg5&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E19
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881279.avi&play_token=0pqcPXnJyS&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E21
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881281.avi&play_token=S3oUNNfZqt&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S05E22
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881282.avi&play_token=OL94S3sMVo&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S06E02
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881285.avi&play_token=6MvipldC30&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S06E10
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881293.avi&play_token=fFNhbhQK55&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S06E13
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881296.avi&play_token=9q07A12eHQ&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S06E18
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881301.avi&play_token=3Fue4ZaSqX&type=series&sn2=
+#EXTINF:-1 tvg-id="19180" tvg-name="ES - The Good Wife - (2009)" tvg-logo="https://image.tmdb.org/t/p/w154/bN3KlymMHYNDrrpd7X0CsUw1h8G.jpg" group-title="ES - The Good Wife - (2009)",ES - The Good Wife - (2009) - S06E20
+#EXTGRP:ES - The Good Wife - (2009)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881303.avi&play_token=1GvKf3I5Rj&type=series&sn2=
 #EXTINF:-1 tvg-id="19275" tvg-name="ES - The Best Man: The Final Chapters - (2022)" tvg-logo="https://image.tmdb.org/t/p/w154/lpInnZep9PfG491qJtZAIbAEF7F.jpg" group-title="ES - The Best Man: The Final Chapters - (2022)",ES - The Best Man: The Final Chapters - (2022) - S01E02
 #EXTGRP:ES - The Best Man: The Final Chapters - (2022)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881309.mkv&play_token=ZI25KyR3qv&type=series&sn2=
 #EXTINF:-1 tvg-id="19275" tvg-name="ES - The Best Man: The Final Chapters - (2022)" tvg-logo="https://image.tmdb.org/t/p/w154/lpInnZep9PfG491qJtZAIbAEF7F.jpg" group-title="ES - The Best Man: The Final Chapters - (2022)",ES - The Best Man: The Final Chapters - (2022) - S01E07
 #EXTGRP:ES - The Best Man: The Final Chapters - (2022)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=881314.mkv&play_token=Cdvjd8Ti2r&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E01
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899420.mkv&play_token=GfOb7Tpufi&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E02
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899431.mkv&play_token=wPUSIt92Um&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E03
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899435.mkv&play_token=0tVhlIKd21&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E04
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899436.mkv&play_token=VmgTQfXaCd&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E05
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899437.mkv&play_token=0Xcfs47syj&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E06
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899438.mkv&play_token=yQKwqW0sAp&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E07
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899439.mkv&play_token=xMoMw6cuy4&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E08
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899440.mkv&play_token=V8Ymgyf4gj&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E09
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899441.mkv&play_token=ytN8FRY8hT&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E10
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899421.mkv&play_token=lJajokzVqK&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E11
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899422.mkv&play_token=z0wlDk35YU&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E12
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899423.mkv&play_token=bfTRvoR6Ol&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E13
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899424.mkv&play_token=4NaQsWMDug&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E14
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899425.mkv&play_token=jQcsJroA7q&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E15
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899426.mkv&play_token=kXeWTNYZId&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E16
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899427.mkv&play_token=5GgMLUB2EE&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E17
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899428.mkv&play_token=hEFa93BxAX&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E18
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899429.mkv&play_token=eLqK26trwa&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E19
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899430.mkv&play_token=yUaaAXV8Fm&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E20
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899432.mkv&play_token=PNWiFIEKG2&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E21
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899433.mkv&play_token=kTL7MSbyNO&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S01E22
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899434.mkv&play_token=u0D9UJZWHv&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E01
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899442.mkv&play_token=Qfn2FlUWUb&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E02
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899453.mkv&play_token=V2I8VLgxDy&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E03
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899459.mkv&play_token=5A35IK0kM3&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E04
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899460.mkv&play_token=Ww6fpMAi3U&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E05
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899461.mkv&play_token=mfCT5Tmw6B&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E06
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899462.mkv&play_token=BNl6279i3Q&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E07
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899463.mkv&play_token=8yEeMedBlS&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E08
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899464.mkv&play_token=uij5SXwzYM&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E09
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899465.mkv&play_token=NVjLIQZdLR&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E10
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899443.mkv&play_token=qqsYQrfnbg&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E11
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899444.mkv&play_token=RnpclpBGl9&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E12
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899445.mkv&play_token=XDmVvpAyjn&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E13
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899446.mkv&play_token=jxxoFRhbN7&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E14
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899447.mkv&play_token=ZrONU2t2ZP&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E15
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899448.mkv&play_token=IPW47J9JRM&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E16
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899449.mkv&play_token=jOWw4n6HYl&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E17
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899450.mkv&play_token=ncwLAMXbgZ&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E18
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899451.mkv&play_token=xoUvZwZXeS&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E19
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899452.mkv&play_token=wPM98xKEZJ&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E20
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899454.mkv&play_token=S7O2iJ2ngw&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E21
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899455.mkv&play_token=gFuRDCAPBY&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E22
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899456.mkv&play_token=l3Mh4QB6lz&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E23
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899457.mkv&play_token=h03vkVLrsQ&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S02E24
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899458.mkv&play_token=cQa9ojRrQK&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E01
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899466.avi&play_token=2ZNWPseY64&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E07
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899487.avi&play_token=7YX5OVluui&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E10
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899467.avi&play_token=dlYs6mg5XI&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E11
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899468.avi&play_token=dXaK5U7mQL&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E12
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899469.avi&play_token=okN7B8zcUc&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E13
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899470.avi&play_token=4dQ3g9yBLf&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E15
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899472.avi&play_token=BHuhPRiXTR&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E16
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899473.avi&play_token=bxKzAPlOjc&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E18
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899475.avi&play_token=lMdSjDD7Ec&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E20
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899478.avi&play_token=LjUXUKUPeK&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E21
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899479.avi&play_token=Q6cmp3P87B&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E22
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899480.avi&play_token=iIzndt0GyC&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E23
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899481.avi&play_token=0qyfF2aWIQ&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S03E24
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899482.avi&play_token=Y6LGZZY9Et&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E01
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899404.mkv&play_token=XAt3NU6qSM&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E02
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899405.mkv&play_token=OHB4WhP7QC&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E03
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899406.mkv&play_token=E0PhiiQvoF&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E04
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899407.mkv&play_token=yQ5KSFWypL&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E05
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899408.mkv&play_token=tQt4HtmdU5&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E06
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899409.mkv&play_token=psW3MiSAYF&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E07
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899410.mkv&play_token=a4VxcRz0zw&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E08
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899411.mkv&play_token=Rc0yhBS4Dx&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E09
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899412.mkv&play_token=g5MHmj4uZI&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E10
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899413.mkv&play_token=m27saQTerh&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E11
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899414.mkv&play_token=fwRJo6fHzY&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E12
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899415.mkv&play_token=KOPMLScQrM&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E13
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899416.mkv&play_token=4Yyny4mHr0&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E14
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899417.mkv&play_token=YBx1qWCykv&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E15
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899418.mkv&play_token=Btm9h9ibvy&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S04E16
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899419.mkv&play_token=xhX1N7cK6Q&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S05E05
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899509.mkv&play_token=tuRXwkm8mt&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S05E06
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899510.mkv&play_token=ZiPmbTX5Fw&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S05E15
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899496.mkv&play_token=uie4QnJtwp&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S05E20
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899502.mkv&play_token=RDqMy0mKmB&type=series&sn2=
+#EXTINF:-1 tvg-id="19728" tvg-name="ES - House" tvg-logo="https://image.tmdb.org/t/p/w154/8yG2CZwRfZAkIGVLhy8aW1VXTJX.jpg" group-title="ES - House",ES - House - S05E22
+#EXTGRP:ES - House
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899504.mkv&play_token=7cjYftU2qX&type=series&sn2=
 #EXTINF:-1 tvg-id="19751" tvg-name="ES - Somewhere Boy" tvg-logo="https://image.tmdb.org/t/p/w154/kewJo0Kul1ukTIPXvL8aObNlEXo.jpg" group-title="ES - Somewhere Boy",ES - Somewhere Boy - S01E07
 #EXTGRP:ES - Somewhere Boy
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=899804.mkv&play_token=TTaM4AR12F&type=series&sn2=
@@ -236,6 +872,51 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=946152.mkv&p
 #EXTINF:-1 tvg-id="19974" tvg-name="ES - Star Trek: Strange New Worlds" tvg-logo="https://image.tmdb.org/t/p/w154/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg" group-title="ES - Star Trek: Strange New Worlds",ES - Star Trek: Strange New Worlds - S02E09
 #EXTGRP:ES - Star Trek: Strange New Worlds
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=946155.mkv&play_token=yJ2uZgiQnJ&type=series&sn2=
+#EXTINF:-1 tvg-id="20439" tvg-name="ES - The Architect" tvg-logo="https://image.tmdb.org/t/p/w154/okrZIiTOXy4ZPXJPaSM6t7fgGfi.jpg" group-title="ES - The Architect",ES - The Architect - S01E02
+#EXTGRP:ES - The Architect
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=946716.mkv&play_token=iydlfrFJiV&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S01E04
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=953274.mkv&play_token=PGH2XEgiPW&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S01E07
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=953277.mkv&play_token=Y5oBf16EoO&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S01E09
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=953279.mkv&play_token=M3oovyI2nM&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S02E01
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=953281.mkv&play_token=200McPTQGp&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S02E06
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=953285.mkv&play_token=2X2HqeOx7i&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S02E07
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=953286.mkv&play_token=d808VWY1iO&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S02E08
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=953287.mkv&play_token=BN3fz1PkQp&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S02E09
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=953288.mkv&play_token=40CWY3bA7m&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S03E03
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=974385.mkv&play_token=yDzim7Wjx0&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S03E04
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=974386.mkv&play_token=WUmYK33o3O&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S03E07
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=983272.mkv&play_token=RdmrQdpCIf&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S03E08
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=983273.mkv&play_token=M4GkbTLvr4&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S03E09
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=987961.mkv&play_token=E3OlfazDRn&type=series&sn2=
+#EXTINF:-1 tvg-id="20612" tvg-name="ES - The Morning Show" tvg-logo="https://image.tmdb.org/t/p/w154/qnKGIa6MsLIhze1znD0HLriqmxv.jpg" group-title="ES - The Morning Show",ES - The Morning Show - S03E10
+#EXTGRP:ES - The Morning Show
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=986039.mkv&play_token=lbcwNrbBfh&type=series&sn2=
 #EXTINF:-1 tvg-id="20897" tvg-name="ES - Poker Face" tvg-logo="https://image.tmdb.org/t/p/w154/zDeWkJRkKzzbNukbroQohjc4Q5P.jpg" group-title="ES - Poker Face",ES - Poker Face - S01E01
 #EXTGRP:ES - Poker Face
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=974398.mkv&play_token=Ya016q3sNk&type=series&sn2=
@@ -275,6 +956,9 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=993126.mkv&p
 #EXTINF:-1 tvg-id="21761" tvg-name="ES - Itxaso" tvg-logo="https://image.tmdb.org/t/p/w154/4jUj65aoISABQf7yOltOeYKMCfX.jpg" group-title="ES - Itxaso",ES - Itxaso - S01E03
 #EXTGRP:ES - Itxaso
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=993127.mkv&play_token=pYbJmof4In&type=series&sn2=
+#EXTINF:-1 tvg-id="21772" tvg-name="ES - Los invencibles" tvg-logo="https://image.tmdb.org/t/p/w154/uYEBGgBngMJeQvNj6jZtNLTrgQu.jpg" group-title="ES - Los invencibles",ES - Los invencibles - S01E03
+#EXTGRP:ES - Los invencibles
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=993297.mkv&play_token=5LIXg9eTrA&type=series&sn2=
 #EXTINF:-1 tvg-id="21808" tvg-name="ES - Dark Winds" tvg-logo="https://image.tmdb.org/t/p/w154/yXqengcZnjoWJlns0Guv9Svg7nv.jpg" group-title="ES - Dark Winds",ES - Dark Winds - S01E01
 #EXTGRP:ES - Dark Winds
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=994460.mkv&play_token=G62szF833Q&type=series&sn2=
@@ -302,6 +986,15 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=999558.mkv&p
 #EXTINF:-1 tvg-id="21932" tvg-name="ES - Fariña" tvg-logo="https://image.tmdb.org/t/p/w154/rYHpGglzDjGlRtsqb2O52ktfnmW.jpg" group-title="ES - Fariña",ES - Fariña - S01E08
 #EXTGRP:ES - Fariña
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=999562.mkv&play_token=SxmDOxYWHb&type=series&sn2=
+#EXTINF:-1 tvg-id="22463" tvg-name="ES - The Lazarus Project" tvg-logo="https://image.tmdb.org/t/p/w154/xw7GkWtmPQDU8qzfKshFEN038sj.jpg" group-title="ES - The Lazarus Project",ES - The Lazarus Project - S01E02
+#EXTGRP:ES - The Lazarus Project
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1028834.mkv&play_token=lNnNeKh3kF&type=series&sn2=
+#EXTINF:-1 tvg-id="22463" tvg-name="ES - The Lazarus Project" tvg-logo="https://image.tmdb.org/t/p/w154/xw7GkWtmPQDU8qzfKshFEN038sj.jpg" group-title="ES - The Lazarus Project",ES - The Lazarus Project - S01E03
+#EXTGRP:ES - The Lazarus Project
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1028835.mkv&play_token=rVwnK9KZ6S&type=series&sn2=
+#EXTINF:-1 tvg-id="22463" tvg-name="ES - The Lazarus Project" tvg-logo="https://image.tmdb.org/t/p/w154/xw7GkWtmPQDU8qzfKshFEN038sj.jpg" group-title="ES - The Lazarus Project",ES - The Lazarus Project - S01E04
+#EXTGRP:ES - The Lazarus Project
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1028836.mkv&play_token=QxlXIIp9ks&type=series&sn2=
 #EXTINF:-1 tvg-id="23462" tvg-name="ES - Fariña" tvg-logo="https://image.tmdb.org/t/p/w154/rYHpGglzDjGlRtsqb2O52ktfnmW.jpg" group-title="ES - Fariña",ES - Fariña - S01E01
 #EXTGRP:ES - Fariña
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1060892.mkv&play_token=9tx1n2d1fr&type=series&sn2=
@@ -1415,6 +2108,9 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1065655.mp4&
 #EXTINF:-1 tvg-id="23603" tvg-name="ES - Me robó mi vida" tvg-logo="https://image.tmdb.org/t/p/w154/tx3rQXH5DL9dxP5EfPm0JmasP1u.jpg" group-title="ES - Me robó mi vida",ES - Me robó mi vida - S04E99
 #EXTGRP:ES - Me robó mi vida
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1065656.mp4&play_token=Zi9gIxAwoT&type=series&sn2=
+#EXTINF:-1 tvg-id="23644" tvg-name="ES - Grandes esperanzas" tvg-logo="https://image.tmdb.org/t/p/w154/1tUMy5BeAiLumF5Odu2bqFtOFVi.jpg" group-title="ES - Grandes esperanzas",ES - Grandes esperanzas - S01E04
+#EXTGRP:ES - Grandes esperanzas
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1068004.mkv&play_token=xM8djDoLFL&type=series&sn2=
 #EXTINF:-1 tvg-id="23663" tvg-name="ES - En ruta" tvg-logo="https://image.tmdb.org/t/p/w154/sFicYq6qvf3J6GK0npRr4HQ6dJC.jpg" group-title="ES - En ruta",ES - En ruta - S01E02
 #EXTGRP:ES - En ruta
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1068139.mkv&play_token=F98prE7rbO&type=series&sn2=
@@ -1448,6 +2144,33 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1079026.mkv&
 #EXTINF:-1 tvg-id="24335" tvg-name="ES - Such Brave Girls" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7g60yren32dIyR0ZsMFPXWn3vGt.jpg" group-title="ES - Such Brave Girls",ES - Such Brave Girls - S01E01
 #EXTGRP:ES - Such Brave Girls
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1085824.mkv&play_token=t4UWmgYagh&type=series&sn2=
+#EXTINF:-1 tvg-id="24469" tvg-name="ES - Que ardan todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2HhbbskGM4ty4u13o7gV1JVQQu.jpg" group-title="ES - Que ardan todos",ES - Que ardan todos - S01E01
+#EXTGRP:ES - Que ardan todos
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1090337.mkv&play_token=dNwqpcrPgu&type=series&sn2=
+#EXTINF:-1 tvg-id="24469" tvg-name="ES - Que ardan todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2HhbbskGM4ty4u13o7gV1JVQQu.jpg" group-title="ES - Que ardan todos",ES - Que ardan todos - S01E02
+#EXTGRP:ES - Que ardan todos
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1090338.mkv&play_token=izqc2dXXTK&type=series&sn2=
+#EXTINF:-1 tvg-id="24469" tvg-name="ES - Que ardan todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2HhbbskGM4ty4u13o7gV1JVQQu.jpg" group-title="ES - Que ardan todos",ES - Que ardan todos - S01E03
+#EXTGRP:ES - Que ardan todos
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1090339.mkv&play_token=SkSTBQViCq&type=series&sn2=
+#EXTINF:-1 tvg-id="24730" tvg-name="ES - Davos 1917" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJbUYGnDNSeUvcNAT6qdMELxmsX.jpg" group-title="ES - Davos 1917",ES - Davos 1917 - S01E04
+#EXTGRP:ES - Davos 1917
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1100884.mkv&play_token=pDkdUDIBYr&type=series&sn2=
+#EXTINF:-1 tvg-id="24907" tvg-name="ES - Perni" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQCTUWNojkN14WWTbk8UmHLTuf9.jpg" group-title="ES - Perni",ES - Perni - S01E01
+#EXTGRP:ES - Perni
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1105402.mkv&play_token=6f2uOSOlHi&type=series&sn2=
+#EXTINF:-1 tvg-id="24907" tvg-name="ES - Perni" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQCTUWNojkN14WWTbk8UmHLTuf9.jpg" group-title="ES - Perni",ES - Perni - S01E02
+#EXTGRP:ES - Perni
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1105403.mkv&play_token=o8HMTOG1zn&type=series&sn2=
+#EXTINF:-1 tvg-id="24907" tvg-name="ES - Perni" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQCTUWNojkN14WWTbk8UmHLTuf9.jpg" group-title="ES - Perni",ES - Perni - S01E03
+#EXTGRP:ES - Perni
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1105404.mkv&play_token=5GI3kttbU4&type=series&sn2=
+#EXTINF:-1 tvg-id="24907" tvg-name="ES - Perni" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQCTUWNojkN14WWTbk8UmHLTuf9.jpg" group-title="ES - Perni",ES - Perni - S01E06
+#EXTGRP:ES - Perni
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1105407.mkv&play_token=1nfNEXcpiQ&type=series&sn2=
+#EXTINF:-1 tvg-id="25026" tvg-name="ES - Huset" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Vld3m911sM9pJF6OI6vgovbS9j.jpg" group-title="ES - Huset",ES - Huset - S01E06
+#EXTGRP:ES - Huset
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1109457.mkv&play_token=TDRxjlPDHg&type=series&sn2=
 #EXTINF:-1 tvg-id="25274" tvg-name="ES - One Punch Man [ANIME]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg" group-title="ES - One Punch Man [ANIME]",ES - One Punch Man [ANIME] - S01E06
 #EXTGRP:ES - One Punch Man [ANIME]
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1118120.mkv&play_token=QJc7bsJMFW&type=series&sn2=
@@ -1469,6 +2192,105 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1125453.avi&
 #EXTINF:-1 tvg-id="25469" tvg-name="ES - Tor: una historia de Carles Porta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwmTfYpEmXzRpty3pg5SezkX5X.jpg" group-title="ES - Tor: una historia de Carles Porta (2024)",ES - Tor: una historia de Carles Porta (2024) - S01E02
 #EXTGRP:ES - Tor: una historia de Carles Porta (2024)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1125463.mp4&play_token=V3XcBo6Y8N&type=series&sn2=
+#EXTINF:-1 tvg-id="25668" tvg-name="ES - ¿Por qué matan las mujeres? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8HaA2aaqdGO6gc5duPOQcGIKwZ.jpg" group-title="ES - ¿Por qué matan las mujeres? (2019)",ES - ¿Por qué matan las mujeres? (2019) - S01E06
+#EXTGRP:ES - ¿Por qué matan las mujeres? (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131149.mkv&play_token=sY7vV0kxnu&type=series&sn2=
+#EXTINF:-1 tvg-id="25668" tvg-name="ES - ¿Por qué matan las mujeres? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8HaA2aaqdGO6gc5duPOQcGIKwZ.jpg" group-title="ES - ¿Por qué matan las mujeres? (2019)",ES - ¿Por qué matan las mujeres? (2019) - S01E07
+#EXTGRP:ES - ¿Por qué matan las mujeres? (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131150.mkv&play_token=K8934lk9b1&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E01
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131311.mkv&play_token=fva2LbDZa0&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E02
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131312.mkv&play_token=OJse654OBq&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E03
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131313.mkv&play_token=KJzn7icID0&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E04
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131314.mkv&play_token=gDpdCwbqkV&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E05
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131315.mkv&play_token=eAuu7ULlcy&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E07
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131317.mkv&play_token=K1SZGXt2mN&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E08
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131318.mkv&play_token=JcuczSbj9i&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E09
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131319.mkv&play_token=oQXrQKPqhk&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E10
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131320.mkv&play_token=U564iJnr25&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E11
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131321.mkv&play_token=gnYb1yT8YH&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S01E13
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131323.mkv&play_token=lggMEWNPLF&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S02E01
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131324.mkv&play_token=nORZdnQ7he&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S02E04
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131327.mkv&play_token=EVceZocXLT&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S02E07
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131330.mkv&play_token=UjOS03PyON&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S02E09
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131332.mkv&play_token=0SOPdVj9Um&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S02E11
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131334.mkv&play_token=wB94bHHt6j&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S02E13
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131336.mkv&play_token=aD0MVsbW6e&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S03E01
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131339.mkv&play_token=oYIp4f7gT5&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S03E04
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131342.mkv&play_token=qUhNA3lCUn&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S03E05
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131343.mkv&play_token=Z7vFiN7Hls&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S03E07
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131345.mkv&play_token=4Yp6HL7ab5&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S03E08
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131346.mkv&play_token=IMrCybr6BV&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S03E12
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131350.mkv&play_token=xeEEVox4Uk&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S03E14
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131352.mkv&play_token=TCbYMivgyB&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S04E02
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131356.mkv&play_token=650C5vOOmq&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S04E03
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131357.mkv&play_token=AGwUE8rSub&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S04E15
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131369.mkv&play_token=O4WePrijB0&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S05E01
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131370.mkv&play_token=6MjtGso7c2&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S05E05
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131374.mkv&play_token=n2UJTRnQnZ&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S05E07
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131376.mkv&play_token=7wyfg2rUSW&type=series&sn2=
+#EXTINF:-1 tvg-id="25683" tvg-name="ES - Allí abajo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtEzdhLbVCbZROGeSE2NlkzZs6m.jpg" group-title="ES - Allí abajo (2015)",ES - Allí abajo (2015) - S05E10
+#EXTGRP:ES - Allí abajo (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131379.mkv&play_token=GGmJMfFGpn&type=series&sn2=
 #EXTINF:-1 tvg-id="25690" tvg-name="ES - Héroes (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Cn1Sj5yipu7tBX14BbaXuBHbL1.jpg" group-title="ES - Héroes (2006)",ES - Héroes (2006) - S01E03
 #EXTGRP:ES - Héroes (2006)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1131525.mkv&play_token=Y0Soue1T42&type=series&sn2=
@@ -1586,6 +2408,12 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1134387.mkv&
 #EXTINF:-1 tvg-id="25785" tvg-name="ES - Verano Azul (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfRyMbvpssP5vSs3CQaRyGOGpT2.jpg" group-title="ES - Verano Azul (1981)",ES - Verano Azul (1981) - S01E13
 #EXTGRP:ES - Verano Azul (1981)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1134390.mkv&play_token=WlHgROBWsB&type=series&sn2=
+#EXTINF:-1 tvg-id="25843" tvg-name="ES - Proyecto Blue Book (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nexuOn0gRy53AgbsQbrbL2g4PEt.jpg" group-title="ES - Proyecto Blue Book (2019)",ES - Proyecto Blue Book (2019) - S02E02
+#EXTGRP:ES - Proyecto Blue Book (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1138021.mkv&play_token=Eser78hFay&type=series&sn2=
+#EXTINF:-1 tvg-id="25843" tvg-name="ES - Proyecto Blue Book (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nexuOn0gRy53AgbsQbrbL2g4PEt.jpg" group-title="ES - Proyecto Blue Book (2019)",ES - Proyecto Blue Book (2019) - S02E03
+#EXTGRP:ES - Proyecto Blue Book (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1138022.mkv&play_token=DIRjeUMMxo&type=series&sn2=
 #EXTINF:-1 tvg-id="25862" tvg-name="ES - El descubrimiento de las brujas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDKIDRsscYQKk8YRrSbhKkT5o8C.jpg" group-title="ES - El descubrimiento de las brujas (2018)",ES - El descubrimiento de las brujas (2018) - S01E06
 #EXTGRP:ES - El descubrimiento de las brujas (2018)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1138643.mkv&play_token=CoCTd46sja&type=series&sn2=
@@ -1727,6 +2555,9 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1147143.mkv&
 #EXTINF:-1 tvg-id="26056" tvg-name="ES - Aquí no hay quien viva (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj3sVi1fJFKJPSPPCJC94yvEDQy.jpg" group-title="ES - Aquí no hay quien viva (2003)",ES - Aquí no hay quien viva (2003) - S05E13
 #EXTGRP:ES - Aquí no hay quien viva (2003)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1147146.mkv&play_token=TSrJbo3Q3Z&type=series&sn2=
+#EXTINF:-1 tvg-id="26109" tvg-name="ES - Belgravia: The Next Chapter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWXqzX8ZJ7KDLn2FjYAiem8DRy9.jpg" group-title="ES - Belgravia: The Next Chapter (2024)",ES - Belgravia: The Next Chapter (2024) - S01E02
+#EXTGRP:ES - Belgravia: The Next Chapter (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1148219.mkv&play_token=vDqEPaexjw&type=series&sn2=
 #EXTINF:-1 tvg-id="26126" tvg-name="ES - Un Nuevo Amanecer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lL8FEkut0o8nj2YmSP5IXKGKcjr.jpg" group-title="ES - Un Nuevo Amanecer (2024)",ES - Un Nuevo Amanecer (2024) - S01E01
 #EXTGRP:ES - Un Nuevo Amanecer (2024)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1148380.mkv&play_token=mo0HOD749D&type=series&sn2=
@@ -1736,6 +2567,12 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1148382.mkv&
 #EXTINF:-1 tvg-id="26126" tvg-name="ES - Un Nuevo Amanecer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lL8FEkut0o8nj2YmSP5IXKGKcjr.jpg" group-title="ES - Un Nuevo Amanecer (2024)",ES - Un Nuevo Amanecer (2024) - S01E07
 #EXTGRP:ES - Un Nuevo Amanecer (2024)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1148386.mkv&play_token=6AVfuBXtBy&type=series&sn2=
+#EXTINF:-1 tvg-id="26483" tvg-name="ES - Hotel cocaína (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOddX9xEcse5SbywRDy1gtEfLAB.jpg" group-title="ES - Hotel cocaína (2024)",ES - Hotel cocaína (2024) - S01E04
+#EXTGRP:ES - Hotel cocaína (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1187357.mkv&play_token=UqG57IVYmR&type=series&sn2=
+#EXTINF:-1 tvg-id="26483" tvg-name="ES - Hotel cocaína (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOddX9xEcse5SbywRDy1gtEfLAB.jpg" group-title="ES - Hotel cocaína (2024)",ES - Hotel cocaína (2024) - S01E05
+#EXTGRP:ES - Hotel cocaína (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1187358.mkv&play_token=sEO4beReLE&type=series&sn2=
 #EXTINF:-1 tvg-id="26499" tvg-name="ES - Bloque 181 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHhD7JIcwQUWwALtgdWbGLCoupW.jpg" group-title="ES - Bloque 181 (2022)",ES - Bloque 181 (2022) - S01E08
 #EXTGRP:ES - Bloque 181 (2022)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1157708.mkv&play_token=w2IV9q0au1&type=series&sn2=
@@ -1751,6 +2588,15 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1161596.mkv&
 #EXTINF:-1 tvg-id="26621" tvg-name="ES - Mocro Maffia (V.O.S) (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg" group-title="ES - Mocro Maffia (V.O.S) (2018)",ES - Mocro Maffia (V.O.S) (2018) - S04E04
 #EXTGRP:ES - Mocro Maffia (V.O.S) (2018)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1161599.mkv&play_token=zvBwNdAMHC&type=series&sn2=
+#EXTINF:-1 tvg-id="26658" tvg-name="ES - Ibiza Narcos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQnNqerCvmzOXWDDUHROm5fwyYL.jpg" group-title="ES - Ibiza Narcos (2024)",ES - Ibiza Narcos (2024) - S01E01
+#EXTGRP:ES - Ibiza Narcos (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1162942.mkv&play_token=MvSxidh7nY&type=series&sn2=
+#EXTINF:-1 tvg-id="26659" tvg-name="ES - La mente del poder (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kniQ2yUCQtbfm7yMMwZ8mmK6ahT.jpg" group-title="ES - La mente del poder (2024)",ES - La mente del poder (2024) - S01E01
+#EXTGRP:ES - La mente del poder (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1162945.mkv&play_token=oyf5uuQQu4&type=series&sn2=
+#EXTINF:-1 tvg-id="26659" tvg-name="ES - La mente del poder (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kniQ2yUCQtbfm7yMMwZ8mmK6ahT.jpg" group-title="ES - La mente del poder (2024)",ES - La mente del poder (2024) - S01E02
+#EXTGRP:ES - La mente del poder (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1162946.mkv&play_token=PBjdtyBTEZ&type=series&sn2=
 #EXTINF:-1 tvg-id="26666" tvg-name="ES - Merlí (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg" group-title="ES - Merlí (2015)",ES - Merlí (2015) - S01E01
 #EXTGRP:ES - Merlí (2015)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1162988.mkv&play_token=XaVd9pJPvg&type=series&sn2=
@@ -1784,6 +2630,15 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1163025.mkv&
 #EXTINF:-1 tvg-id="26666" tvg-name="ES - Merlí (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg" group-title="ES - Merlí (2015)",ES - Merlí (2015) - S03E13
 #EXTGRP:ES - Merlí (2015)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1163026.mkv&play_token=YwW046rj3u&type=series&sn2=
+#EXTINF:-1 tvg-id="26672" tvg-name="ES - South of Hell (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvF3WStSLXh7ibT1OpU6XmCxtbN.jpg" group-title="ES - South of Hell (2015)",ES - South of Hell (2015) - S01E01
+#EXTGRP:ES - South of Hell (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1163152.mkv&play_token=1JsMJU8hBw&type=series&sn2=
+#EXTINF:-1 tvg-id="26672" tvg-name="ES - South of Hell (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvF3WStSLXh7ibT1OpU6XmCxtbN.jpg" group-title="ES - South of Hell (2015)",ES - South of Hell (2015) - S01E02
+#EXTGRP:ES - South of Hell (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1163153.mkv&play_token=WGD3IaCS5b&type=series&sn2=
+#EXTINF:-1 tvg-id="26672" tvg-name="ES - South of Hell (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvF3WStSLXh7ibT1OpU6XmCxtbN.jpg" group-title="ES - South of Hell (2015)",ES - South of Hell (2015) - S01E04
+#EXTGRP:ES - South of Hell (2015)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1163155.mkv&play_token=SbxOwAo4qn&type=series&sn2=
 #EXTINF:-1 tvg-id="26674" tvg-name="ES - ESPN : 30 for 30 (V.O.S) (2011)" tvg-logo="https://static.tvmaze.com/uploads/images/medium_portrait/63/159166.jpg" group-title="ES - ESPN : 30 for 30 (V.O.S) (2011)",ES - ESPN : 30 for 30 (V.O.S) (2011) - S01E07
 #EXTGRP:ES - ESPN : 30 for 30 (V.O.S) (2011)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1163225.mp4&play_token=aUYnDlpSWv&type=series&sn2=
@@ -1802,9 +2657,66 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1163262.mp4&
 #EXTINF:-1 tvg-id="26674" tvg-name="ES - ESPN : 30 for 30 (V.O.S) (2011)" tvg-logo="https://static.tvmaze.com/uploads/images/medium_portrait/63/159166.jpg" group-title="ES - ESPN : 30 for 30 (V.O.S) (2011)",ES - ESPN : 30 for 30 (V.O.S) (2011) - S01E39
 #EXTGRP:ES - ESPN : 30 for 30 (V.O.S) (2011)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1163272.mp4&play_token=WHMm3LLqq3&type=series&sn2=
+#EXTINF:-1 tvg-id="26717" tvg-name="ES - Vienna Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owekqSuiRnqmwqogYP30Gf6xS2Z.jpg" group-title="ES - Vienna Blood (2019)",ES - Vienna Blood (2019) - S02E01
+#EXTGRP:ES - Vienna Blood (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1164550.mkv&play_token=t4s5AQ8s3Q&type=series&sn2=
+#EXTINF:-1 tvg-id="26717" tvg-name="ES - Vienna Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owekqSuiRnqmwqogYP30Gf6xS2Z.jpg" group-title="ES - Vienna Blood (2019)",ES - Vienna Blood (2019) - S02E02
+#EXTGRP:ES - Vienna Blood (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1164551.mkv&play_token=vQ4R9R0T2J&type=series&sn2=
+#EXTINF:-1 tvg-id="26717" tvg-name="ES - Vienna Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owekqSuiRnqmwqogYP30Gf6xS2Z.jpg" group-title="ES - Vienna Blood (2019)",ES - Vienna Blood (2019) - S02E05
+#EXTGRP:ES - Vienna Blood (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1164554.mkv&play_token=tq78N6XXmL&type=series&sn2=
+#EXTINF:-1 tvg-id="26717" tvg-name="ES - Vienna Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owekqSuiRnqmwqogYP30Gf6xS2Z.jpg" group-title="ES - Vienna Blood (2019)",ES - Vienna Blood (2019) - S04E01
+#EXTGRP:ES - Vienna Blood (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1164562.mkv&play_token=srxGuxsKSk&type=series&sn2=
+#EXTINF:-1 tvg-id="26717" tvg-name="ES - Vienna Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owekqSuiRnqmwqogYP30Gf6xS2Z.jpg" group-title="ES - Vienna Blood (2019)",ES - Vienna Blood (2019) - S04E02
+#EXTGRP:ES - Vienna Blood (2019)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1164563.mkv&play_token=qUauMXx7yG&type=series&sn2=
+#EXTINF:-1 tvg-id="26914" tvg-name="ES - Chapelwaite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Oix3Zkhg3ftRxmLmyDBJc9ycp.jpg" group-title="ES - Chapelwaite (2021)",ES - Chapelwaite (2021) - S01E01
+#EXTGRP:ES - Chapelwaite (2021)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1171377.mkv&play_token=daps55Vn7f&type=series&sn2=
+#EXTINF:-1 tvg-id="26914" tvg-name="ES - Chapelwaite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Oix3Zkhg3ftRxmLmyDBJc9ycp.jpg" group-title="ES - Chapelwaite (2021)",ES - Chapelwaite (2021) - S01E02
+#EXTGRP:ES - Chapelwaite (2021)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1171378.mkv&play_token=fU2ODxZioH&type=series&sn2=
+#EXTINF:-1 tvg-id="26914" tvg-name="ES - Chapelwaite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7Oix3Zkhg3ftRxmLmyDBJc9ycp.jpg" group-title="ES - Chapelwaite (2021)",ES - Chapelwaite (2021) - S01E04
+#EXTGRP:ES - Chapelwaite (2021)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1171380.mkv&play_token=JLcVH5uUbn&type=series&sn2=
+#EXTINF:-1 tvg-id="26919" tvg-name="ES - El emperador de Ocean Park (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahqdcqaL2OfLYcLznB31wtI3VWP.jpg" group-title="ES - El emperador de Ocean Park (2024)",ES - El emperador de Ocean Park (2024) - S01E02
+#EXTGRP:ES - El emperador de Ocean Park (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1171491.mkv&play_token=tQe7vgcDlN&type=series&sn2=
+#EXTINF:-1 tvg-id="26919" tvg-name="ES - El emperador de Ocean Park (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahqdcqaL2OfLYcLznB31wtI3VWP.jpg" group-title="ES - El emperador de Ocean Park (2024)",ES - El emperador de Ocean Park (2024) - S01E05
+#EXTGRP:ES - El emperador de Ocean Park (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1171494.mkv&play_token=JKBe7ggwUH&type=series&sn2=
+#EXTINF:-1 tvg-id="26919" tvg-name="ES - El emperador de Ocean Park (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahqdcqaL2OfLYcLznB31wtI3VWP.jpg" group-title="ES - El emperador de Ocean Park (2024)",ES - El emperador de Ocean Park (2024) - S01E08
+#EXTGRP:ES - El emperador de Ocean Park (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1171487.mkv&play_token=APeYvNZsFM&type=series&sn2=
 #EXTINF:-1 tvg-id="26929" tvg-name="ES - Red Eye (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmNbB68i1zQ7xq7MY82eBujziYF.jpg" group-title="ES - Red Eye (2024)",ES - Red Eye (2024) - S01E05
 #EXTGRP:ES - Red Eye (2024)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1171499.mkv&play_token=74cskmpzkt&type=series&sn2=
+#EXTINF:-1 tvg-id="27044" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E01
+#EXTGRP:ES - Normal People (2020)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1175816.mkv&play_token=t8qSZJ5oup&type=series&sn2=
+#EXTINF:-1 tvg-id="27044" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E04
+#EXTGRP:ES - Normal People (2020)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1175819.mkv&play_token=rOHarTrN31&type=series&sn2=
+#EXTINF:-1 tvg-id="27044" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E07
+#EXTGRP:ES - Normal People (2020)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1175822.mkv&play_token=O4tvmtiHJf&type=series&sn2=
+#EXTINF:-1 tvg-id="27044" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E08
+#EXTGRP:ES - Normal People (2020)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1175823.mkv&play_token=fZS8rjzKvj&type=series&sn2=
+#EXTINF:-1 tvg-id="27323" tvg-name="ES - Dieciocho (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dl2oqKCxA1z9FB5saGDHh6iYiv5.jpg" group-title="ES - Dieciocho (2024)",ES - Dieciocho (2024) - S01E01
+#EXTGRP:ES - Dieciocho (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1185454.mkv&play_token=cK8RPBnDkA&type=series&sn2=
+#EXTINF:-1 tvg-id="27323" tvg-name="ES - Dieciocho (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dl2oqKCxA1z9FB5saGDHh6iYiv5.jpg" group-title="ES - Dieciocho (2024)",ES - Dieciocho (2024) - S01E02
+#EXTGRP:ES - Dieciocho (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1185455.mkv&play_token=KIVzCx3lYA&type=series&sn2=
+#EXTINF:-1 tvg-id="27434" tvg-name="ES - Operación Sabre (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIE4nuXUKjgw5XmEeFP2XnbsNLO.jpg" group-title="ES - Operación Sabre (2024)",ES - Operación Sabre (2024) - S01E01
+#EXTGRP:ES - Operación Sabre (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1190828.mkv&play_token=oYi3RENu9m&type=series&sn2=
+#EXTINF:-1 tvg-id="27434" tvg-name="ES - Operación Sabre (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIE4nuXUKjgw5XmEeFP2XnbsNLO.jpg" group-title="ES - Operación Sabre (2024)",ES - Operación Sabre (2024) - S01E02
+#EXTGRP:ES - Operación Sabre (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1190829.mkv&play_token=7bCM297sGQ&type=series&sn2=
 #EXTINF:-1 tvg-id="27436" tvg-name="ES - Crimen  de Irvine Welsh (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcI50B1ytbaozGWmblkMRYBPPsm.jpg" group-title="ES - Crimen  de Irvine Welsh (2021)",ES - Crimen, de Irvine Welsh (2021) - S01E06
 #EXTGRP:ES - Crimen  de Irvine Welsh (2021)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1190847.mkv&play_token=6a42a9D2Af&type=series&sn2=
@@ -1823,6 +2735,12 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1190875.mkv&
 #EXTINF:-1 tvg-id="27442" tvg-name="ES - Sweetpea (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feoDYCy0AUD031gLqBmA9gC4pw1.jpg" group-title="ES - Sweetpea (2024)",ES - Sweetpea (2024) - S01E04
 #EXTGRP:ES - Sweetpea (2024)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1190876.mkv&play_token=pn5H9bntxj&type=series&sn2=
+#EXTINF:-1 tvg-id="27443" tvg-name="ES - Ludwig (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okPERzZxAiVWbd3B9qFepxa2Vfq.jpg" group-title="ES - Ludwig (2024)",ES - Ludwig (2024) - S01E01
+#EXTGRP:ES - Ludwig (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1190877.mkv&play_token=MouRfLUhlo&type=series&sn2=
+#EXTINF:-1 tvg-id="27443" tvg-name="ES - Ludwig (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okPERzZxAiVWbd3B9qFepxa2Vfq.jpg" group-title="ES - Ludwig (2024)",ES - Ludwig (2024) - S01E02
+#EXTGRP:ES - Ludwig (2024)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1190881.mkv&play_token=SJnAEoMebE&type=series&sn2=
 #EXTINF:-1 tvg-id="27444" tvg-name="ES - El cadáver número 11 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1SA2A17acYW4g9j1QFax1j9vVv.jpg" group-title="ES - El cadáver número 11 (2024)",ES - El cadáver número 11 (2024) - S01E01
 #EXTGRP:ES - El cadáver número 11 (2024)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1190882.mkv&play_token=yEhyO98dWL&type=series&sn2=
@@ -1850,6 +2768,9 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408404.mkv&
 #EXTINF:-1 tvg-id="34059" tvg-name="ES - Ágata y Lola (2026) (ES)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rxfzU40Pisvqaa6FTxN7JeGNUr.jpg" group-title="ES - Ágata y Lola (2026) (ES)",ES - Ágata y Lola (2026) (ES) - S01E01
 #EXTGRP:ES - Ágata y Lola (2026) (ES)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408405.mkv&play_token=v4FZspMWu4&type=series&sn2=
+#EXTINF:-1 tvg-id="34061" tvg-name="ES - Alice y Steve (2026) (GB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPou8wNiTz1uleLKllclrqanXXf.jpg" group-title="ES - Alice y Steve (2026) (GB)",ES - Alice y Steve (2026) (GB) - S01E01
+#EXTGRP:ES - Alice y Steve (2026) (GB)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408420.mkv&play_token=VUAckQ5L4R&type=series&sn2=
 #EXTINF:-1 tvg-id="34062" tvg-name="ES - Amenaza de tormenta (2025) (AT)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4KfB0E92iSh2pzCYKv6CAtao6l.jpg" group-title="ES - Amenaza de tormenta (2025) (AT)",ES - Amenaza de tormenta (2025) (AT) - S01E01
 #EXTGRP:ES - Amenaza de tormenta (2025) (AT)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408421.mkv&play_token=HqzVhqXOPs&type=series&sn2=
@@ -1865,6 +2786,9 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408438.mkv&
 #EXTINF:-1 tvg-id="34063" tvg-name="ES - Bajo la ciudad: arqueología oculta (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r4qH2kr2df5jqeQz2sOitGme8T.jpg" group-title="ES - Bajo la ciudad: arqueología oculta (2026) (US)",ES - Bajo la ciudad: arqueología oculta (2026) (US) - S01E04
 #EXTGRP:ES - Bajo la ciudad: arqueología oculta (2026) (US)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408439.mkv&play_token=6sqIsJWoeB&type=series&sn2=
+#EXTINF:-1 tvg-id="34064" tvg-name="ES - Bandi (2026) (FR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlmIwihKTLm6d1yLFWVmTiqjKTR.jpg" group-title="ES - Bandi (2026) (FR)",ES - Bandi (2026) (FR) - S01E01
+#EXTGRP:ES - Bandi (2026) (FR)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408444.mkv&play_token=5uTiAKwJ2Y&type=series&sn2=
 #EXTINF:-1 tvg-id="34066" tvg-name="ES - Barrio Esperanza (2026) (ES)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIT5meYMxaNPi8X6YgEVcyDsfTa.jpg" group-title="ES - Barrio Esperanza (2026) (ES)",ES - Barrio Esperanza (2026) (ES) - S01E02
 #EXTGRP:ES - Barrio Esperanza (2026) (ES)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408547.mkv&play_token=l1ypwicTWf&type=series&sn2=
@@ -1880,6 +2804,21 @@ http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408569.mkv&
 #EXTINF:-1 tvg-id="34067" tvg-name="ES - Bomba en el Pan Am 103 (2025) (GB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0hh4Te2R6cRMqMLbIvYsEH4kk9.jpg" group-title="ES - Bomba en el Pan Am 103 (2025) (GB)",ES - Bomba en el Pan Am 103 (2025) (GB) - S01E04
 #EXTGRP:ES - Bomba en el Pan Am 103 (2025) (GB)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408571.mkv&play_token=znomEOtg9P&type=series&sn2=
+#EXTINF:-1 tvg-id="34068" tvg-name="ES - Cape Fear (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raCZsl0tmpNjSSWfmTZHfleECDF.jpg" group-title="ES - Cape Fear (2026) (US)",ES - Cape Fear (2026) (US) - S01E01
+#EXTGRP:ES - Cape Fear (2026) (US)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408575.mkv&play_token=DuYZF3hl8O&type=series&sn2=
+#EXTINF:-1 tvg-id="34068" tvg-name="ES - Cape Fear (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raCZsl0tmpNjSSWfmTZHfleECDF.jpg" group-title="ES - Cape Fear (2026) (US)",ES - Cape Fear (2026) (US) - S01E03
+#EXTGRP:ES - Cape Fear (2026) (US)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408576.mkv&play_token=lLJhoK7Cg4&type=series&sn2=
+#EXTINF:-1 tvg-id="34068" tvg-name="ES - Cape Fear (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raCZsl0tmpNjSSWfmTZHfleECDF.jpg" group-title="ES - Cape Fear (2026) (US)",ES - Cape Fear (2026) (US) - S01E05
+#EXTGRP:ES - Cape Fear (2026) (US)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408577.mkv&play_token=FDTHY3k0E0&type=series&sn2=
+#EXTINF:-1 tvg-id="34068" tvg-name="ES - Cape Fear (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raCZsl0tmpNjSSWfmTZHfleECDF.jpg" group-title="ES - Cape Fear (2026) (US)",ES - Cape Fear (2026) (US) - S01E07
+#EXTGRP:ES - Cape Fear (2026) (US)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408578.mkv&play_token=5RjfdznjJm&type=series&sn2=
+#EXTINF:-1 tvg-id="34068" tvg-name="ES - Cape Fear (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raCZsl0tmpNjSSWfmTZHfleECDF.jpg" group-title="ES - Cape Fear (2026) (US)",ES - Cape Fear (2026) (US) - S01E08
+#EXTGRP:ES - Cape Fear (2026) (US)
+http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408579.mkv&play_token=oYK7tZ0BPT&type=series&sn2=
 #EXTINF:-1 tvg-id="34069" tvg-name="ES - Cara a cara con Scott Peterson (2024) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppoyH0dT8tWCajpP2XangsanmW6.jpg" group-title="ES - Cara a cara con Scott Peterson (2024) (US)",ES - Cara a cara con Scott Peterson (2024) (US) - S01E01
 #EXTGRP:ES - Cara a cara con Scott Peterson (2024) (US)
 http://kamariato.com:80/play/movie.php?mac=00:1A:79:EF:55:66&stream=1408582.mkv&play_token=U6muATWyC1&type=series&sn2=
