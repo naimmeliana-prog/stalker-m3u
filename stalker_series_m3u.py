@@ -529,7 +529,7 @@ def _git_push(*paths):
                 last = exc
                 time.sleep(2 + i * 2)
                 try:
-                    subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True, capture_output=True)
+                    subprocess.run(["git", "pull", "--rebase", "--autostash", "origin", "main"], check=True, capture_output=True)
                 except subprocess.CalledProcessError:
                     pass
         raise last
