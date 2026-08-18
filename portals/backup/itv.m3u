@@ -61,6 +61,10 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ZCHfHl8GHo&sn2=
 #EXTINF:-1 tvg-id="1006818" tvg-name="ES - NETFLIX NINOS HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/NETFLIX.png" group-title="ES| 24/7 SPANISH",ES - NETFLIX NINOS HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=rokeED6iWG&sn2=
+#EXTINF:-1 tvg-id="1007564" tvg-name="ENG - 24/7 THE GOLDEN GIRLS" tvg-logo="http://103.176.90.118/picons/logos/USA/THE-GOLDEN-GIRLS.jpg" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE GOLDEN GIRLS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=snAZ4WjyRh&sn2=
+#EXTINF:-1 tvg-id="1007570" tvg-name="ENG - 24/7 WILL AND GRACE" tvg-logo="http://103.176.90.118/picons/logos/USA/WILL-AND-GRACE.jpg" group-title="EN| 24/7 ENGLISH",ENG - 24/7 WILL AND GRACE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1007570&extension=ts&play&extension=ts&sn2=
 #EXTINF:-1 tvg-id="1010914" tvg-name="UK - YESTERDAY FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/YESTERDAY.png" group-title="EN| ENTERTAINMENT",UK - YESTERDAY FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QhnnbggdfA&sn2=
 #EXTINF:-1 tvg-id="1037918" tvg-name="FR - POKEMON S21/S22/S23/S24/S25" tvg-logo="http://51.158.145.100/picons/logos/france/1037918.png" group-title="FR| FRANCE ENFANTS",FR - POKEMON S21/S22/S23/S24/S25
@@ -141,6 +145,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ht7NvdRPHf&sn2=
 #EXTINF:-1 tvg-id="1124229" tvg-name="UK - ITV 1+" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ITVPLUS1.png" group-title="EN| GENERAL",UK - ITV 1+
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=EBKXp3bx9M&sn2=
+#EXTINF:-1 tvg-id="1124704" tvg-name="ENG - 24/7 BROOKLYN NINE-NINE" tvg-logo="http://103.176.90.118/picons/logos/logos/BROOKLYN-NINE-NINE.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BROOKLYN NINE-NINE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sTA5Jpq7gG&sn2=
 #EXTINF:-1 tvg-id="1126681" tvg-name="FR - OCS FHD" tvg-logo="http://51.158.145.100/picons/logos/france/1126681.png" group-title="FR| FRANCE CINEMA",FR - OCS FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=yQuQQPtpEx&sn2=
 #EXTINF:-1 tvg-id="1126682" tvg-name="FR - OCS HD" tvg-logo="http://51.158.145.100/picons/logos/france/1126682.png" group-title="FR| FRANCE CINEMA",FR - OCS HD
@@ -293,6 +299,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=iCmiu3d2NE&sn2=
 #EXTINF:-1 tvg-id="1139794" tvg-name="FR: DAZN PPV 1 - LIV GOLF TEAM CHAMPIONSHIP - DAY 2 | Sat 23 Aug 14:00 | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/france/dazn.png" group-title="FR| FRANCE DAZN PPV",FR: DAZN PPV 1 - LIV GOLF TEAM CHAMPIONSHIP - DAY 2 | Sat 23 Aug 14:00 | 8K EXCLUSIVE
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bxZoF0Jk1R&sn2=
+#EXTINF:-1 tvg-id="1140863" tvg-name="ENG - 24/7 COLUMBO" tvg-logo="http://51.158.145.100/picons/logos/logos/COLUMBO.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 COLUMBO
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=r1yrnvRQPj&sn2=
 #EXTINF:-1 tvg-id="1141404" tvg-name="FR - LA CHAINE EQUIPE FHD" tvg-logo="http://51.158.145.100/picons/logos/france/1141404.png" group-title="FR| FRANCE DAZN PPV",FR - LA CHAINE EQUIPE FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=nW2ftldoZz&sn2=
 #EXTINF:-1 tvg-id="1141405" tvg-name="FR - DAZN 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/dazn.png" group-title="FR| FRANCE DAZN PPV",FR - DAZN 1 FHD
@@ -305,6 +313,110 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=TVzSS4MFOK&sn2=
 #EXTINF:-1 tvg-id="1141409" tvg-name="FR - DAZN 1 SD" tvg-logo="http://51.158.145.100/picons/logos/france/dazn.png" group-title="FR| FRANCE DAZN PPV",FR - DAZN 1 SD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=IXKmW2nGK9&sn2=
+#EXTINF:-1 tvg-id="1144921" tvg-name="NO: FEFTV PPV 50 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 50 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=CUnLBE6O26&sn2=
+#EXTINF:-1 tvg-id="1144922" tvg-name="NO: FEFTV PPV 49 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 49 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DiEv1pKDuW&sn2=
+#EXTINF:-1 tvg-id="1144923" tvg-name="NO: FEFTV PPV 48 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 48 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5dWxVe1S3I&sn2=
+#EXTINF:-1 tvg-id="1144924" tvg-name="NO: FEFTV PPV 47 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 47 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1144924&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1144925" tvg-name="NO: FEFTV PPV 46 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 46 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=KQy8TUf85s&sn2=
+#EXTINF:-1 tvg-id="1144926" tvg-name="NO: FEFTV PPV 45 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 45 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=LHgkAy533r&sn2=
+#EXTINF:-1 tvg-id="1144927" tvg-name="NO: FEFTV PPV 44 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 44 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SVzkAkLrS9&sn2=
+#EXTINF:-1 tvg-id="1144928" tvg-name="NO: FEFTV PPV 43 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 43 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7Ckwtz4d2q&sn2=
+#EXTINF:-1 tvg-id="1144929" tvg-name="NO: FEFTV PPV 42 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 42 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=oTAvBGxMGe&sn2=
+#EXTINF:-1 tvg-id="1144930" tvg-name="NO: FEFTV PPV 41 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 41 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QbB4O16LHQ&sn2=
+#EXTINF:-1 tvg-id="1144931" tvg-name="NO: FEFTV PPV 40 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 40 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ZUNFiV6yRA&sn2=
+#EXTINF:-1 tvg-id="1144932" tvg-name="NO: FEFTV PPV 39 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 39 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vTzadmPsSh&sn2=
+#EXTINF:-1 tvg-id="1144933" tvg-name="NO: FEFTV PPV 38 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 38 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ce3ihHXhPl&sn2=
+#EXTINF:-1 tvg-id="1144934" tvg-name="NO: FEFTV PPV 37 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 37 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tagvoPxnJf&sn2=
+#EXTINF:-1 tvg-id="1144935" tvg-name="NO: FEFTV PPV 36 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 36 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sPpNvzjLTU&sn2=
+#EXTINF:-1 tvg-id="1144936" tvg-name="NO: FEFTV PPV 35 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 35 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=uOF5OkVs8j&sn2=
+#EXTINF:-1 tvg-id="1144937" tvg-name="NO: FEFTV PPV 34 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 34 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=0mURH2C9Am&sn2=
+#EXTINF:-1 tvg-id="1144938" tvg-name="NO: FEFTV PPV 33 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 33 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=rEqPlbSsjn&sn2=
+#EXTINF:-1 tvg-id="1144939" tvg-name="NO: FEFTV PPV 32 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 32 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mfmKzTVAl7&sn2=
+#EXTINF:-1 tvg-id="1144940" tvg-name="NO: FEFTV PPV 31 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 31 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=GtzMFBRqR4&sn2=
+#EXTINF:-1 tvg-id="1144941" tvg-name="NO: FEFTV PPV 30 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 30 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UmQLZJdbk5&sn2=
+#EXTINF:-1 tvg-id="1144942" tvg-name="NO: FEFTV PPV 29 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 29 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FGwYuLF8mD&sn2=
+#EXTINF:-1 tvg-id="1144943" tvg-name="NO: FEFTV PPV 28 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 28 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ZJdYOGaDaK&sn2=
+#EXTINF:-1 tvg-id="1144944" tvg-name="NO: FEFTV PPV 27 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 27 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ozSM2vPD76&sn2=
+#EXTINF:-1 tvg-id="1144945" tvg-name="NO: FEFTV PPV 26 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 26 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QarcJfJkWY&sn2=
+#EXTINF:-1 tvg-id="1144946" tvg-name="NO: FEFTV PPV 25 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 25 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=gkBOvJhose&sn2=
+#EXTINF:-1 tvg-id="1144947" tvg-name="NO: FEFTV PPV 24 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 24 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=wLspBNbssY&sn2=
+#EXTINF:-1 tvg-id="1144948" tvg-name="NO: FEFTV PPV 23 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 23 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=CXfjGQwfM9&sn2=
+#EXTINF:-1 tvg-id="1144949" tvg-name="NO: FEFTV PPV 22 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 22 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=puP9WdKMBU&sn2=
+#EXTINF:-1 tvg-id="1144950" tvg-name="NO: FEFTV PPV 21 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 21 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=c3Y0a6G5aN&sn2=
+#EXTINF:-1 tvg-id="1144951" tvg-name="NO: FEFTV PPV 20 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 20 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Pkg0j56lHd&sn2=
+#EXTINF:-1 tvg-id="1144952" tvg-name="NO: FEFTV PPV 19 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 19 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=gPg21Olepe&sn2=
+#EXTINF:-1 tvg-id="1144953" tvg-name="NO: FEFTV PPV 18 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 18 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=rTD08sr7Mc&sn2=
+#EXTINF:-1 tvg-id="1144954" tvg-name="NO: FEFTV PPV 17 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 17 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9Cz7PvLkRU&sn2=
+#EXTINF:-1 tvg-id="1144955" tvg-name="NO: FEFTV PPV 16 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 16 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sTwBKforSS&sn2=
+#EXTINF:-1 tvg-id="1144956" tvg-name="NO: FEFTV PPV 15 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 15 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=U2bRgeJn21&sn2=
+#EXTINF:-1 tvg-id="1144957" tvg-name="NO: FEFTV PPV 14 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 14 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7mF4Cm4T5A&sn2=
+#EXTINF:-1 tvg-id="1144958" tvg-name="NO: FEFTV PPV 13 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 13 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=l6yB0p6H12&sn2=
+#EXTINF:-1 tvg-id="1144959" tvg-name="NO: FEFTV PPV 12 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 12 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=TMIk022aKe&sn2=
+#EXTINF:-1 tvg-id="1144960" tvg-name="NO: FEFTV PPV 11 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 11 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=TTvvOo8ucF&sn2=
+#EXTINF:-1 tvg-id="1144961" tvg-name="NO: FEFTV PPV 10 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 10 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=NiTFuBEXdi&sn2=
+#EXTINF:-1 tvg-id="1144962" tvg-name="NO: FEFTV PPV 9 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 9 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cgZUnGQPyL&sn2=
+#EXTINF:-1 tvg-id="1144963" tvg-name="NO: FEFTV PPV 8 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 8 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ej0k00nQfL&sn2=
+#EXTINF:-1 tvg-id="1144964" tvg-name="NO: FEFTV PPV 7 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 7 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=pR0ggPQlUi&sn2=
+#EXTINF:-1 tvg-id="1144965" tvg-name="NO: FEFTV PPV 6 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 6 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=e77tR543kx&sn2=
+#EXTINF:-1 tvg-id="1144966" tvg-name="NO: FEFTV PPV 5 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 5 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=NmAv7mynMn&sn2=
+#EXTINF:-1 tvg-id="1144967" tvg-name="NO: FEFTV PPV 4 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 4 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Wo8WskaWOr&sn2=
+#EXTINF:-1 tvg-id="1144968" tvg-name="NO: FEFTV PPV 3 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 3 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sNzfEm1l7F&sn2=
+#EXTINF:-1 tvg-id="1144969" tvg-name="NO: FEFTV PPV 2 - NO EVENT STREAMING -" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 2 - NO EVENT STREAMING -
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hXzcXJNGvS&sn2=
+#EXTINF:-1 tvg-id="1144970" tvg-name="NO: FEFTV PPV 1 - 1° FEDERACION ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/RFEF.png" group-title="ES| FEF TV EVENTOS",NO: FEFTV PPV 1 - 1° FEDERACION ᴴᴰ
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fCC7lkco9D&sn2=
+#EXTINF:-1 tvg-id="1147702" tvg-name="ENG - 24/7 BET+" tvg-logo="http://103.176.90.118/picons/logos/USA/BET.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BET+
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=aWpyUZTBsb&sn2=
+#EXTINF:-1 tvg-id="1149228" tvg-name="ENG - 24/7 WAYANS BROS" tvg-logo="http://103.176.90.118/picons/logos/USA/WAYANS-BROS.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 WAYANS BROS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=nmdRYgqzJG&sn2=
 #EXTINF:-1 tvg-id="1150862" tvg-name="FR - CANAL+ LIVE 19" tvg-logo="http://51.158.145.100/picons/logos/france/1150862.png" group-title="FR| FRANCE CANAL+ LIVE",FR - CANAL+ LIVE 19
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FCgekE2etI&sn2=
 #EXTINF:-1 tvg-id="1150863" tvg-name="FR - CANAL+ LIVE 18" tvg-logo="http://51.158.145.100/picons/logos/france/1150863.png" group-title="FR| FRANCE CANAL+ LIVE",FR - CANAL+ LIVE 18
@@ -347,6 +459,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1150880&exten
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=h1o01o0wiH&sn2=
 #EXTINF:-1 tvg-id="1151321" tvg-name="UK - PDC4 [EVENT-ONLY]" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="EN| PPV EVENTS",UK - PDC4 [EVENT-ONLY]
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=p5CtIej9UI&sn2=
+#EXTINF:-1 tvg-id="1155377" tvg-name="ENG - 24/7 COSBY SHOW" tvg-logo="http://103.176.90.118/picons/logos/USA/COSBY-SHOW.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 COSBY SHOW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1155377&extension=ts&play&extension=ts&sn2=
 #EXTINF:-1 tvg-id="1161548" tvg-name="FR - TF1+ STAR ACADEMY FHD" tvg-logo="http://51.158.145.100/picons/logos/france/1161548.png" group-title="FR| FRANCE GÉNÉRAL",FR - TF1+ STAR ACADEMY FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=B6kHB5Vtmv&sn2=
 #EXTINF:-1 tvg-id="1161549" tvg-name="FR - TF1+ STAR ACADEMY HEVC" tvg-logo="http://51.158.145.100/picons/logos/france/1161549.png" group-title="FR| FRANCE HEVC",FR - TF1+ STAR ACADEMY HEVC
@@ -357,6 +471,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vHY2b8QI8A&sn2=
 #EXTINF:-1 tvg-id="1168369" tvg-name="UK - BBC ONE YORKSHIRE" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCONE.png" group-title="EN| NEWS",UK - BBC ONE YORKSHIRE
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=6YCxURbSlF&sn2=
+#EXTINF:-1 tvg-id="1168381" tvg-name="ENG - 24/7 ALL IN THE FAMILY" tvg-logo="http://51.158.145.100/picons/logos/logos/ALL-IN-THE-FAMILY.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 ALL IN THE FAMILY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xbGjNNi8s4&sn2=
 #EXTINF:-1 tvg-id="1170896" tvg-name="UK: NETFLIX PPV 10 - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/NETFLIX.png" group-title="EN| NETFLIX PPV",UK: NETFLIX PPV 10 - | 8K EXCLUSIVE
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=LkFkwaaJ3M&sn2=
 #EXTINF:-1 tvg-id="1170897" tvg-name="UK: NETFLIX PPV 9  - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/NETFLIX.png" group-title="EN| NETFLIX PPV",UK: NETFLIX PPV 9  - | 8K EXCLUSIVE
@@ -397,6 +513,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=a01CXhSqGh&sn2=
 #EXTINF:-1 tvg-id="1178467" tvg-name="EPL - PREMIERE LEAGUE 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="EN| EPL SOCCER",EPL - PREMIERE LEAGUE 1
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=pbpdp2jhWE&sn2=
+#EXTINF:-1 tvg-id="1181326" tvg-name="ENG - 24/7 BEYOND BELIEF: FACT OR FICTION" tvg-logo="http://51.158.145.100/picons/logos/logos/24-7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BEYOND BELIEF: FACT OR FICTION
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=AkwrOmsLQK&sn2=
 #EXTINF:-1 tvg-id="1190636" tvg-name="ES - SUPERCOPA FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SUPERCOPA.png" group-title="ES| DEPORTES",ES - SUPERCOPA FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MLMFG8v5be&sn2=
 #EXTINF:-1 tvg-id="1190637" tvg-name="ES - SUPERCOPA HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SUPERCOPA.png" group-title="ES| DEPORTES",ES - SUPERCOPA HD
@@ -671,6 +789,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=nrISNCrS4v&sn2=
 #EXTINF:-1 tvg-id="1233387" tvg-name="UK - GREAT MOVIES" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/GREAT-MOVIES.png" group-title="EN| MOVIES",UK - GREAT MOVIES
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zvetqKOtVv&sn2=
+#EXTINF:-1 tvg-id="1264373" tvg-name="ENG - 24/7 LIZARD LICK TOWING" tvg-logo="http://51.158.145.100/picons/logos/USA/LIZARD-LICK-TOWING.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 LIZARD LICK TOWING
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ESTcLPnq7a&sn2=
 #EXTINF:-1 tvg-id="1264860" tvg-name="UK - TOGETHER" tvg-logo="http://51.158.145.100/picons/logos/PORTUGAL/TOGETHER.png" group-title="EN| GENERAL",UK - TOGETHER
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=seOgxgq9dJ&sn2=
 #EXTINF:-1 tvg-id="1264862" tvg-name="UK - THATS TV" tvg-logo="http://51.158.145.100/picons/logos/PORTUGAL/THATS.png" group-title="EN| GENERAL",UK - THATS TV
@@ -1041,6 +1161,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SOd8KKPJEP&sn2=
 #EXTINF:-1 tvg-id="1317981" tvg-name="ES - ARAGON TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ARAGON.png" group-title="ES| TIVIFY",ES - ARAGON TV
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qsRKrmWx3D&sn2=
+#EXTINF:-1 tvg-id="1326499" tvg-name="ENG - 24/7 GHOST ADVENTURES" tvg-logo="http://51.158.145.100/picons/logos/USA/CINEMANIA.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 GHOST ADVENTURES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zsCike8h0G&sn2=
 #EXTINF:-1 tvg-id="1327697" tvg-name="DAZN EVENTO 09 | OFFLINE" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="ES| DAZN ACB",DAZN EVENTO 09 | OFFLINE
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1327697&extension=ts&play&extension=ts&sn2=
 #EXTINF:-1 tvg-id="1327698" tvg-name="DAZN  EVENTO 08 | OFFLINE" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="ES| DAZN ACB",DAZN  EVENTO 08 | OFFLINE
@@ -1067,6 +1189,12 @@ ffmpeg http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=136641
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=LcmMDAnXLv&sn2=
 #EXTINF:-1 tvg-id="1366415" tvg-name="ES - DAZN MOTOGP SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="ES| DEPORTES",ES - DAZN MOTOGP SD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BiWSqqVyhd&sn2=
+#EXTINF:-1 tvg-id="1376998" tvg-name="ENG - 24/7 DUNGEONS & DRAGONS ADVENTURES" tvg-logo="http://51.158.145.100/picons/logos/USA/1920298.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 DUNGEONS & DRAGONS ADVENTURES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Teb0a03sKI&sn2=
+#EXTINF:-1 tvg-id="1377233" tvg-name="ENG - 24/7 THE REAL HOUSEWIVES OF ATLANTA" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE REAL HOUSEWIVES OF ATLANTA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xdg7ybkcni&sn2=
+#EXTINF:-1 tvg-id="1377234" tvg-name="ENG - 24/7 THE REAL HOUSEWIVES OF POTOMAC" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE REAL HOUSEWIVES OF POTOMAC
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=XGL3ttWsjl&sn2=
 #EXTINF:-1 tvg-id="1379831" tvg-name="FR - EUROSPORT 360 8 SD" tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EUROSPORT.png" group-title="FR| EUROSPORTS 360",FR - EUROSPORT 360 8 SD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=XuZ4269LD3&sn2=
 #EXTINF:-1 tvg-id="1379832" tvg-name="FR - EUROSPORT 360 8 HD" tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EUROSPORT.png" group-title="FR| EUROSPORTS 360",FR - EUROSPORT 360 8 HD
@@ -1599,6 +1727,406 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=EuNrjc20gC&sn2=
 #EXTINF:-1 tvg-id="1408704" tvg-name="L1 | Wycombe Wanderers" tvg-logo="http://51.158.145.100/picons/logos/PPV/EFLSOCCER.png" group-title="EN| EFL SOCCER",L1 | Wycombe Wanderers
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tU9TQfYXmi&sn2=
+#EXTINF:-1 tvg-id="1409304" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 200" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 200
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VtGujUVws3&sn2=
+#EXTINF:-1 tvg-id="1409305" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 199" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 199
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=LRWbirxisG&sn2=
+#EXTINF:-1 tvg-id="1409306" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 198" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 198
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QbzPk2OQmY&sn2=
+#EXTINF:-1 tvg-id="1409307" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 197" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 197
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bNvS2sbS5I&sn2=
+#EXTINF:-1 tvg-id="1409308" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 196" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 196
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xJticLqarw&sn2=
+#EXTINF:-1 tvg-id="1409309" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 195" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 195
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DQc815cOqW&sn2=
+#EXTINF:-1 tvg-id="1409310" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 194" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 194
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=u0OjH2BcNP&sn2=
+#EXTINF:-1 tvg-id="1409311" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 193" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 193
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Tgm62P7D0L&sn2=
+#EXTINF:-1 tvg-id="1409312" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 192" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 192
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ql19ya2ihr&sn2=
+#EXTINF:-1 tvg-id="1409313" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 191" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 191
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=33nx51RDx2&sn2=
+#EXTINF:-1 tvg-id="1409314" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 190" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 190
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7V50k12My3&sn2=
+#EXTINF:-1 tvg-id="1409315" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 189" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 189
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tqAHrZeVpT&sn2=
+#EXTINF:-1 tvg-id="1409316" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 188" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 188
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=70sIEHRDYO&sn2=
+#EXTINF:-1 tvg-id="1409317" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 187" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 187
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=dAt5zUDkOJ&sn2=
+#EXTINF:-1 tvg-id="1409318" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 186" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 186
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kjJKGCoS6t&sn2=
+#EXTINF:-1 tvg-id="1409319" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 185" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 185
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409319&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409320" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 184" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 184
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409320&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409321" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 183" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 183
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409321&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409322" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 182" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 182
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kFHsFzSYI6&sn2=
+#EXTINF:-1 tvg-id="1409323" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 181" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 181
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=oXRn2KZLbV&sn2=
+#EXTINF:-1 tvg-id="1409324" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 180" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 180
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=JvtXGgOtOf&sn2=
+#EXTINF:-1 tvg-id="1409325" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=3HcjppxpBG&sn2=
+#EXTINF:-1 tvg-id="1409326" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 178" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 178
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=y45uT9U123&sn2=
+#EXTINF:-1 tvg-id="1409327" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=o3EcU5Nl1x&sn2=
+#EXTINF:-1 tvg-id="1409328" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 176" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 176
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VjYnbKnS7V&sn2=
+#EXTINF:-1 tvg-id="1409329" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 175" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 175
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=LiyVHcONvk&sn2=
+#EXTINF:-1 tvg-id="1409330" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 174" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 174
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409330&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409331" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 173" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 173
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7AMPwMXI6s&sn2=
+#EXTINF:-1 tvg-id="1409332" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 172" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 172
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=6B1XICYUqG&sn2=
+#EXTINF:-1 tvg-id="1409333" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 171" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 171
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=w6SZK1Qo2z&sn2=
+#EXTINF:-1 tvg-id="1409334" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 170" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 170
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DgQVLlVXSU&sn2=
+#EXTINF:-1 tvg-id="1409335" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 169" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 169
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ssudahS4oV&sn2=
+#EXTINF:-1 tvg-id="1409336" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 168" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 168
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=T6CqgBaVaD&sn2=
+#EXTINF:-1 tvg-id="1409337" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 167" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 167
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lQmpLApgA9&sn2=
+#EXTINF:-1 tvg-id="1409338" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 166" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 166
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409338&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409339" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 165" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 165
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2wvRYaCEPf&sn2=
+#EXTINF:-1 tvg-id="1409340" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 164" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 164
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Q2j1z03ZF8&sn2=
+#EXTINF:-1 tvg-id="1409341" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 163" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 163
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FXzH1CDRct&sn2=
+#EXTINF:-1 tvg-id="1409342" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 162" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 162
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409342&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409343" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sQB397ZLEQ&sn2=
+#EXTINF:-1 tvg-id="1409344" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=wt2cONgDQt&sn2=
+#EXTINF:-1 tvg-id="1409345" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 159" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 159
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mzUX42Hbtp&sn2=
+#EXTINF:-1 tvg-id="1409346" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 158" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 158
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UhymFL7PuS&sn2=
+#EXTINF:-1 tvg-id="1409347" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 157" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 157
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HCphVO6rhM&sn2=
+#EXTINF:-1 tvg-id="1409348" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 156" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 156
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mAYkPFeKDD&sn2=
+#EXTINF:-1 tvg-id="1409349" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 155" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 155
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WkwQhYmPNe&sn2=
+#EXTINF:-1 tvg-id="1409350" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 154" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 154
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=gAbdHS0KlY&sn2=
+#EXTINF:-1 tvg-id="1409351" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 153" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 153
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Yp8S5KHueh&sn2=
+#EXTINF:-1 tvg-id="1409352" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 152" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 152
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5ZBCwXexqA&sn2=
+#EXTINF:-1 tvg-id="1409353" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 151" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 151
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=AUzlOA2eSz&sn2=
+#EXTINF:-1 tvg-id="1409354" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 150" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 150
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409354&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409355" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 149" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 149
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409355&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409356" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 148" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 148
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5kPAagCaRJ&sn2=
+#EXTINF:-1 tvg-id="1409357" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 147" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 147
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=APIWS1Wlwp&sn2=
+#EXTINF:-1 tvg-id="1409358" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 146" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 146
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zIHlZSXslq&sn2=
+#EXTINF:-1 tvg-id="1409359" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 145" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 145
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Q9gUDqU93D&sn2=
+#EXTINF:-1 tvg-id="1409360" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 144" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 144
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409360&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409361" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 143" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 143
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9RQUwnDKyd&sn2=
+#EXTINF:-1 tvg-id="1409362" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 142" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 142
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9jfvuO1IER&sn2=
+#EXTINF:-1 tvg-id="1409363" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 141" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 141
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ia4s3Hzph4&sn2=
+#EXTINF:-1 tvg-id="1409364" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 140" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 140
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DhXSwhR93Y&sn2=
+#EXTINF:-1 tvg-id="1409365" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 139" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 139
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=OwvxmDgh8E&sn2=
+#EXTINF:-1 tvg-id="1409366" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 138" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 138
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UO3ipKjp3x&sn2=
+#EXTINF:-1 tvg-id="1409367" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 137" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 137
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Pu3x6b09S1&sn2=
+#EXTINF:-1 tvg-id="1409368" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 136" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 136
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hwxsY4m1Id&sn2=
+#EXTINF:-1 tvg-id="1409369" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 135" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 135
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2H8OO0cpff&sn2=
+#EXTINF:-1 tvg-id="1409370" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=o2ySIRBNtN&sn2=
+#EXTINF:-1 tvg-id="1409371" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 133" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 133
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fpBBYTXAHD&sn2=
+#EXTINF:-1 tvg-id="1409372" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 132" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 132
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tgIAQYJXH3&sn2=
+#EXTINF:-1 tvg-id="1409373" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=dLhQWfFrZS&sn2=
+#EXTINF:-1 tvg-id="1409374" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=v9sShvczl3&sn2=
+#EXTINF:-1 tvg-id="1409375" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 129" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 129
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zSdV5XuMsE&sn2=
+#EXTINF:-1 tvg-id="1409376" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 128" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 128
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qgI0JU6kzS&sn2=
+#EXTINF:-1 tvg-id="1409377" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 127" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 127
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QO65bvOmKa&sn2=
+#EXTINF:-1 tvg-id="1409378" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 126" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 126
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HHYxm2ugIR&sn2=
+#EXTINF:-1 tvg-id="1409379" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 125" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 125
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=8iQLA3reFY&sn2=
+#EXTINF:-1 tvg-id="1409380" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 124" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 124
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=aF81Wf2ytW&sn2=
+#EXTINF:-1 tvg-id="1409381" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 123" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 123
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tGWfBO6lFh&sn2=
+#EXTINF:-1 tvg-id="1409382" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 122" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 122
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vnBAGvw4em&sn2=
+#EXTINF:-1 tvg-id="1409383" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 121" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 121
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HJAtFwWrex&sn2=
+#EXTINF:-1 tvg-id="1409384" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 120" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 120
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WVFpXAhoeG&sn2=
+#EXTINF:-1 tvg-id="1409385" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 119" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 119
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=icyyJkRKxy&sn2=
+#EXTINF:-1 tvg-id="1409386" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 118" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 118
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=S9agcF0Ry7&sn2=
+#EXTINF:-1 tvg-id="1409387" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 117" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 117
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2asOYKfXbs&sn2=
+#EXTINF:-1 tvg-id="1409388" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 116" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 116
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vfDb4HNt0D&sn2=
+#EXTINF:-1 tvg-id="1409389" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 115" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 115
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=48eRhPoCDr&sn2=
+#EXTINF:-1 tvg-id="1409390" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 114" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 114
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hO6CoTjsPT&sn2=
+#EXTINF:-1 tvg-id="1409391" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 113" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 113
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=G52yUWjVQm&sn2=
+#EXTINF:-1 tvg-id="1409392" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 112" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 112
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=L0eVWHpGd1&sn2=
+#EXTINF:-1 tvg-id="1409393" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 111" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 111
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=v9AZMSR8pO&sn2=
+#EXTINF:-1 tvg-id="1409394" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 110" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 110
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Zh9AlHgMA8&sn2=
+#EXTINF:-1 tvg-id="1409395" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 109" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 109
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=P8KpeqmT4Y&sn2=
+#EXTINF:-1 tvg-id="1409396" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 108" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 108
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=nQxq9kCqvX&sn2=
+#EXTINF:-1 tvg-id="1409397" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 107" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 107
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cQK5IfaIYc&sn2=
+#EXTINF:-1 tvg-id="1409398" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 106" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 106
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=YtcNgrdzhU&sn2=
+#EXTINF:-1 tvg-id="1409399" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 105" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 105
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=AsQlInK52D&sn2=
+#EXTINF:-1 tvg-id="1409400" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 104" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 104
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kA2O7ODZUa&sn2=
+#EXTINF:-1 tvg-id="1409401" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 103" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 103
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kP4xx1sfr2&sn2=
+#EXTINF:-1 tvg-id="1409402" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 102" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 102
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409402&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409403" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 101" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 101
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=y22uU1sihF&sn2=
+#EXTINF:-1 tvg-id="1409404" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 100" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 100
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WbgTA0KJho&sn2=
+#EXTINF:-1 tvg-id="1409405" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 99" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 99
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ffpr2k7Oum&sn2=
+#EXTINF:-1 tvg-id="1409406" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 98" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 98
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mjTkKvu6Nx&sn2=
+#EXTINF:-1 tvg-id="1409407" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 97" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 97
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kbH5k3TF6t&sn2=
+#EXTINF:-1 tvg-id="1409408" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 96" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 96
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=KQzPPHegJo&sn2=
+#EXTINF:-1 tvg-id="1409409" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 95" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 95
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=P02ckQU9ES&sn2=
+#EXTINF:-1 tvg-id="1409410" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 94" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 94
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Vm94mfrx1m&sn2=
+#EXTINF:-1 tvg-id="1409411" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 93" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 93
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Z7yY8DNlno&sn2=
+#EXTINF:-1 tvg-id="1409412" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 92" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 92
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hIC2AA3lHM&sn2=
+#EXTINF:-1 tvg-id="1409413" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 91" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 91
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qRiD1TNFUq&sn2=
+#EXTINF:-1 tvg-id="1409414" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 90" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 90
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SPfa0gkSvW&sn2=
+#EXTINF:-1 tvg-id="1409415" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 89" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 89
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=j0V4noiveF&sn2=
+#EXTINF:-1 tvg-id="1409416" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 88" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 88
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lrCYDcMt8U&sn2=
+#EXTINF:-1 tvg-id="1409417" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 87" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 87
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=l42dUWzDaf&sn2=
+#EXTINF:-1 tvg-id="1409418" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 86" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 86
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7ElkxeZfS9&sn2=
+#EXTINF:-1 tvg-id="1409419" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 85" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 85
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Hs9pcZpSXD&sn2=
+#EXTINF:-1 tvg-id="1409420" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 84" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 84
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=no2mbgY4jd&sn2=
+#EXTINF:-1 tvg-id="1409421" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 83" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 83
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=U1hvP1n1Ki&sn2=
+#EXTINF:-1 tvg-id="1409422" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 82" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 82
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hkfHYm4vpa&sn2=
+#EXTINF:-1 tvg-id="1409423" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 81" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 81
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BD9lU5ygYj&sn2=
+#EXTINF:-1 tvg-id="1409424" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 80" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 80
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=rduffyE7m7&sn2=
+#EXTINF:-1 tvg-id="1409425" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lyZ1kYFXRs&sn2=
+#EXTINF:-1 tvg-id="1409426" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 178" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 178
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=6XKuwlJTVt&sn2=
+#EXTINF:-1 tvg-id="1409427" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=4VvcMqQo4h&sn2=
+#EXTINF:-1 tvg-id="1409428" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 176" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 176
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=oRqKud5hBa&sn2=
+#EXTINF:-1 tvg-id="1409429" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 175" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 175
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=aOFKsPVzDD&sn2=
+#EXTINF:-1 tvg-id="1409430" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 174" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 174
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sL6PncUgia&sn2=
+#EXTINF:-1 tvg-id="1409431" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 173" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 173
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=XufLiiaKa8&sn2=
+#EXTINF:-1 tvg-id="1409432" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 172" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 172
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7p02bw8SUk&sn2=
+#EXTINF:-1 tvg-id="1409433" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 171" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 171
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WP3pxfin0S&sn2=
+#EXTINF:-1 tvg-id="1409434" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 170" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 170
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ok9rEyrTu0&sn2=
+#EXTINF:-1 tvg-id="1409435" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 169" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 169
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ITmZbGLFV2&sn2=
+#EXTINF:-1 tvg-id="1409436" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 168" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 168
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ECoC7u3gdK&sn2=
+#EXTINF:-1 tvg-id="1409437" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 167" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 167
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=GbN4cpoAlC&sn2=
+#EXTINF:-1 tvg-id="1409438" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 166" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 166
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409438&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409439" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 165" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 165
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=wDFwyJyCqE&sn2=
+#EXTINF:-1 tvg-id="1409440" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 164" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 164
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vDWuvboNjH&sn2=
+#EXTINF:-1 tvg-id="1409441" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 163" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 163
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ZrQ71xFzcm&sn2=
+#EXTINF:-1 tvg-id="1409442" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 162" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 162
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FFI3OMaSIv&sn2=
+#EXTINF:-1 tvg-id="1409443" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409443&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409444" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409444&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409445" tvg-name="Live | Mark Selby - Stuart Bingham Open de Chine | Demi-finale | all | 8K EXCLUSIVE | FR: SOCCER PPV 59" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Mark Selby - Stuart Bingham Open de Chine | Demi-finale | all | 8K EXCLUSIVE | FR: SOCCER PPV 59
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7bwBtPVTBd&sn2=
+#EXTINF:-1 tvg-id="1409446" tvg-name="Next | Toulouse FC vs. Hamburger SV | all | 15-08-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 58" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Next | Toulouse FC vs. Hamburger SV | all | 15-08-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 58
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=orvZm4WEuX&sn2=
+#EXTINF:-1 tvg-id="1409447" tvg-name="Live | Hull City AFC vs. Nice | all | 8K EXCLUSIVE | FR: SOCCER PPV 57" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Hull City AFC vs. Nice | all | 8K EXCLUSIVE | FR: SOCCER PPV 57
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=1msVho4JFk&sn2=
+#EXTINF:-1 tvg-id="1409448" tvg-name="5km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 56\" tvg-logo=\"http://51.158.145.100/picons/logos/PPV/PPVLIVE.png\" group-title=\"FR| SOCCER PPV\" Live | Arctic Race of Norway | 3e étape Stokmarknes – Storheia Summit (Melbu) (142 5km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 56" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",5km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 56" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | Arctic Race of Norway | 3e étape Stokmarknes – Storheia Summit (Melbu) (142,5km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 56
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qEqhoHOEq7&sn2=
+#EXTINF:-1 tvg-id="1409449" tvg-name="Live | Everton vs. Lille | all | 8K EXCLUSIVE | FR: SOCCER PPV 55" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Everton vs. Lille | all | 8K EXCLUSIVE | FR: SOCCER PPV 55
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2mEpLPkApU&sn2=
+#EXTINF:-1 tvg-id="1409450" tvg-name="Live | SV 07 Elversberg vs. FC Lorient | all | 8K EXCLUSIVE | FR: SOCCER PPV 54" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | SV 07 Elversberg vs. FC Lorient | all | 8K EXCLUSIVE | FR: SOCCER PPV 54
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=jH2Aobk5Bk&sn2=
+#EXTINF:-1 tvg-id="1409451" tvg-name="Live | Sunderland vs. Stade Rennais FC | all | 8K EXCLUSIVE | FR: SOCCER PPV 53" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Sunderland vs. Stade Rennais FC | all | 8K EXCLUSIVE | FR: SOCCER PPV 53
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BVqa43Y9IZ&sn2=
+#EXTINF:-1 tvg-id="1409452" tvg-name="9km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 52\" tvg-logo=\"http://51.158.145.100/picons/logos/PPV/PPVLIVE.png\" group-title=\"FR| SOCCER PPV\" Live | Czech Tour | 3e étape Pardubice – Dlouhé stráně (170 9km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 52" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",9km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 52" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | Czech Tour | 3e étape Pardubice – Dlouhé stráně (170,9km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 52
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mwuEJZ8t3H&sn2=
+#EXTINF:-1 tvg-id="1409453" tvg-name="End | SV Werder Bremen vs. Association Jeunesse Auxerroise | all | 15-08-2026 | 14:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 51" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | SV Werder Bremen vs. Association Jeunesse Auxerroise | all | 15-08-2026 | 14:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 51
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bbV5yuuSTY&sn2=
+#EXTINF:-1 tvg-id="1409454" tvg-name="Messieurs | all | 8K EXCLUSIVE | FR: SOCCER PPV 50\" tvg-logo=\"http://51.158.145.100/picons/logos/PPV/PPVLIVE.png\" group-title=\"FR| SOCCER PPV\" Live | Cyclisme : Czech Tour: 3e étape  Messieurs | all | 8K EXCLUSIVE | FR: SOCCER PPV 50" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Messieurs | all | 8K EXCLUSIVE | FR: SOCCER PPV 50" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | Cyclisme : Czech Tour: 3e étape, Messieurs | all | 8K EXCLUSIVE | FR: SOCCER PPV 50
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409454&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409455" tvg-name="Messieurs | all | 15-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 49\" tvg-logo=\"http://51.158.145.100/picons/logos/PPV/PPVLIVE.png\" group-title=\"FR| SOCCER PPV\" Next | Cyclisme : Arctic Race of Norway: 3e étape  Messieurs | all | 15-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 49" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Messieurs | all | 15-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 49" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Cyclisme : Arctic Race of Norway: 3e étape, Messieurs | all | 15-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 49
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SiJXChXUi4&sn2=
+#EXTINF:-1 tvg-id="1409456" tvg-name="Next | Utrecht vs. AZ | all | 15-08-2026 | 18:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 48" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Next | Utrecht vs. AZ | all | 15-08-2026 | 18:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 48
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fL67FOAGiX&sn2=
+#EXTINF:-1 tvg-id="1409457" tvg-name="Day 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 47\" tvg-logo=\"http://51.158.145.100/picons/logos/PPV/PPVLIVE.png\" group-title=\"FR| SOCCER PPV\" Live | TAIF Racing Season 2026 - Week 4  Day 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 47" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Day 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 47" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | TAIF Racing Season 2026 - Week 4, Day 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 47
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=XeG0O58kEp&sn2=
+#EXTINF:-1 tvg-id="1409458" tvg-name="Live | IFAF World Flag 2026: Women’s Semi Final 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 46" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | IFAF World Flag 2026: Women’s Semi Final 2 | all | 8K EXCLUSIVE | FR: SOCCER PPV 46
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tIADBY5SJt&sn2=
+#EXTINF:-1 tvg-id="1409459" tvg-name="Live | IFAF World Flag 2026: Women’s Semi Final 1 | all | 8K EXCLUSIVE | FR: SOCCER PPV 45" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | IFAF World Flag 2026: Women’s Semi Final 1 | all | 8K EXCLUSIVE | FR: SOCCER PPV 45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=V2gWiknmnm&sn2=
+#EXTINF:-1 tvg-id="1409460" tvg-name="Next | Le Mans FC vs. Havre AC | all | 15-08-2026 | 17:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 44" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Next | Le Mans FC vs. Havre AC | all | 15-08-2026 | 17:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 44
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=RSLGuoXbuE&sn2=
+#EXTINF:-1 tvg-id="1409461" tvg-name="Next | Angers Sporting Club de l'Ouest vs. Paris FC | all | 15-08-2026 | 17:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 43" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Next | Angers Sporting Club de l'Ouest vs. Paris FC | all | 15-08-2026 | 17:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 43
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=JxxJ8RVhhM&sn2=
+#EXTINF:-1 tvg-id="1409462" tvg-name="Live | Tour du Portugal | 9e étape Paredes – Mondim de Basto (Senhora da Graça) (141km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 42" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Tour du Portugal | 9e étape Paredes – Mondim de Basto (Senhora da Graça) (141km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 42
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409462&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409463" tvg-name="Live | Nürburgring - Race 1 | all | 8K EXCLUSIVE | FR: SOCCER PPV 41" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Nürburgring - Race 1 | all | 8K EXCLUSIVE | FR: SOCCER PPV 41
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409463&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409464" tvg-name="Live | EWC - Rocket League 2026 - Day 4 | all | 8K EXCLUSIVE | FR: SOCCER PPV 40" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | EWC - Rocket League 2026 - Day 4 | all | 8K EXCLUSIVE | FR: SOCCER PPV 40
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=k0EYVo0PEa&sn2=
+#EXTINF:-1 tvg-id="1409465" tvg-name="Next | Preseason: Browns vs. Bears | all | 15-08-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Next | Preseason: Browns vs. Bears | all | 15-08-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9g7MMdtKLz&sn2=
+#EXTINF:-1 tvg-id="1409466" tvg-name="Live | Londres | Course 1 ABB FIA Formula E World Championship | all | 8K EXCLUSIVE | FR: SOCCER PPV 38" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Londres | Course 1 ABB FIA Formula E World Championship | all | 8K EXCLUSIVE | FR: SOCCER PPV 38
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=03opIQrU05&sn2=
+#EXTINF:-1 tvg-id="1409467" tvg-name="Live | Drift Masters - Germany | all | 8K EXCLUSIVE | FR: SOCCER PPV 37" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Drift Masters - Germany | all | 8K EXCLUSIVE | FR: SOCCER PPV 37
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=GtJI6usE9k&sn2=
+#EXTINF:-1 tvg-id="1409468" tvg-name="Next | Preseason: Vikings vs. Giants | all | 15-08-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 36" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Next | Preseason: Vikings vs. Giants | all | 15-08-2026 | 18:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 36
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SXVGnPzJYn&sn2=
+#EXTINF:-1 tvg-id="1409469" tvg-name="Live | BSB | Thruxton – Course 1 British Superbikes | all | 8K EXCLUSIVE | FR: SOCCER PPV 35" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | BSB | Thruxton – Course 1 British Superbikes | all | 8K EXCLUSIVE | FR: SOCCER PPV 35
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MvauJnGxFb&sn2=
+#EXTINF:-1 tvg-id="1409470" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=b2wRYzOLs9&sn2=
+#EXTINF:-1 tvg-id="1409471" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 133" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 133
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PyFEGbw5CT&sn2=
+#EXTINF:-1 tvg-id="1409472" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 132" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 132
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409472&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409473" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zavRoXMCUr&sn2=
+#EXTINF:-1 tvg-id="1409474" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=jDAvdr0ziN&sn2=
+#EXTINF:-1 tvg-id="1409475" tvg-name="Live | RWS: Samingdet vs. Duangsompong | all | 8K EXCLUSIVE | FR: SOCCER PPV 29" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | RWS: Samingdet vs. Duangsompong | all | 8K EXCLUSIVE | FR: SOCCER PPV 29
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=RZtA8bPlXd&sn2=
+#EXTINF:-1 tvg-id="1409476" tvg-name="End | Nürburgring - Race 1 | all | 15-08-2026 | 13:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Nürburgring - Race 1 | all | 15-08-2026 | 13:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=wro8yVmF6s&sn2=
+#EXTINF:-1 tvg-id="1409477" tvg-name="Live | EWC - Counter-Strike 2 2026 - Day 4 - Stream A | all | 8K EXCLUSIVE | FR: SOCCER PPV 27" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | EWC - Counter-Strike 2 2026 - Day 4 - Stream A | all | 8K EXCLUSIVE | FR: SOCCER PPV 27
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409477&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409478" tvg-name="Live | EWC - Counter-Strike 2 2026 - Day 4 - Stream B | all | 8K EXCLUSIVE | FR: SOCCER PPV 26" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | EWC - Counter-Strike 2 2026 - Day 4 - Stream B | all | 8K EXCLUSIVE | FR: SOCCER PPV 26
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=COTVKIERgF&sn2=
+#EXTINF:-1 tvg-id="1409479" tvg-name="Live | EWC - Chess: Day 5 | all | 8K EXCLUSIVE | FR: SOCCER PPV 25" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | EWC - Chess: Day 5 | all | 8K EXCLUSIVE | FR: SOCCER PPV 25
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=jEVNAU3rwv&sn2=
+#EXTINF:-1 tvg-id="1409480" tvg-name="End | Londres | Course de qualification 1 ABB FIA Formula E World Championship | all | 15-08-2026 | 11:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 24" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Londres | Course de qualification 1 ABB FIA Formula E World Championship | all | 15-08-2026 | 11:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 24
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=URqRy73D2I&sn2=
+#EXTINF:-1 tvg-id="1409481" tvg-name="Live | EWC - PUBG Mobile: Week 2 - Day 4 | all | 8K EXCLUSIVE | FR: SOCCER PPV 23" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | EWC - PUBG Mobile: Week 2 - Day 4 | all | 8K EXCLUSIVE | FR: SOCCER PPV 23
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=gbYs6t2BHY&sn2=
+#EXTINF:-1 tvg-id="1409482" tvg-name="6e journée | all | 15-08-2026 | 12:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22\" tvg-logo=\"http://51.158.145.100/picons/logos/PPV/PPVLIVE.png\" group-title=\"FR| SOCCER PPV\" End | Athlétisme : Championnats d'Europe: Birmingham   6e journée | all | 15-08-2026 | 12:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",6e journée | all | 15-08-2026 | 12:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",End | Athlétisme : Championnats d'Europe: Birmingham,  6e journée | all | 15-08-2026 | 12:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vkgpMosGXj&sn2=
+#EXTINF:-1 tvg-id="1409483" tvg-name="Live | World Padel League 2026 - Day 4 | all | 8K EXCLUSIVE | FR: SOCCER PPV 21" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | World Padel League 2026 - Day 4 | all | 8K EXCLUSIVE | FR: SOCCER PPV 21
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ue4MhUKMxT&sn2=
+#EXTINF:-1 tvg-id="1409484" tvg-name="Live | EWC - Rainbow Six - Day 10 | all | 8K EXCLUSIVE | FR: SOCCER PPV 20" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | EWC - Rainbow Six - Day 10 | all | 8K EXCLUSIVE | FR: SOCCER PPV 20
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hVprReQ8GW&sn2=
+#EXTINF:-1 tvg-id="1409485" tvg-name="End | Heptathlon | Lancer du javelot – Groupe A et B Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 12:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Heptathlon | Lancer du javelot – Groupe A et B Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 12:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bILbFniMyV&sn2=
+#EXTINF:-1 tvg-id="1409486" tvg-name="End | Saut en longueur (F) | Qualifications – Groupe A Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 12:09 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Saut en longueur (F) | Qualifications – Groupe A Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 12:09 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Bdt00ly9cl&sn2=
+#EXTINF:-1 tvg-id="1409487" tvg-name="End | Saut en longueur (F) | Qualifications – Groupe B Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 12:09 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 17" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Saut en longueur (F) | Qualifications – Groupe B Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 12:09 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 17
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7WqDXiQEXP&sn2=
+#EXTINF:-1 tvg-id="1409488" tvg-name="End | Nürburgring - Race 1 | all | 15-08-2026 | 11:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Nürburgring - Race 1 | all | 15-08-2026 | 11:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=E3XmltjH70&sn2=
+#EXTINF:-1 tvg-id="1409489" tvg-name="Live | Esports World Cup | Échecs EWC Paris 2026 | all | 8K EXCLUSIVE | FR: SOCCER PPV 15" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Esports World Cup | Échecs EWC Paris 2026 | all | 8K EXCLUSIVE | FR: SOCCER PPV 15
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=S5e8Kp1Rvm&sn2=
+#EXTINF:-1 tvg-id="1409490" tvg-name="End | Heptathlon | Saut en longueur – Groupe A Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 11:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Heptathlon | Saut en longueur – Groupe A Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 11:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=iMozizCFcb&sn2=
+#EXTINF:-1 tvg-id="1409491" tvg-name="End | Heptathlon | Saut en longueur – Groupe B Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 11:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Heptathlon | Saut en longueur – Groupe B Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 11:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BOFJDYp5gV&sn2=
+#EXTINF:-1 tvg-id="1409492" tvg-name="Live | 6ème journée | all | 8K EXCLUSIVE | FR: SOCCER PPV 12" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | 6ème journée | all | 8K EXCLUSIVE | FR: SOCCER PPV 12
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=LnpRZ8uqrm&sn2=
+#EXTINF:-1 tvg-id="1409493" tvg-name="End | 6ème journée | all | 15-08-2026 | 12:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | 6ème journée | all | 15-08-2026 | 12:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=RttY7joTpX&sn2=
+#EXTINF:-1 tvg-id="1409494" tvg-name="End | PPL - Los Angeles - Day 2 - Session 2 | all | 15-08-2026 | 02:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | PPL - Los Angeles - Day 2 - Session 2 | all | 15-08-2026 | 02:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Q25i7IR7MH&sn2=
+#EXTINF:-1 tvg-id="1409495" tvg-name="Live | Snooker: Open de Chine: Demi-finale | all | 8K EXCLUSIVE | FR: SOCCER PPV 9" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",Live | Snooker: Open de Chine: Demi-finale | all | 8K EXCLUSIVE | FR: SOCCER PPV 9
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1409495&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="1409496" tvg-name="End | Noppon Saengkham - Zhou Yuelong Open de Chine | Demi-finale | all | 15-08-2026 | 08:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Noppon Saengkham - Zhou Yuelong Open de Chine | Demi-finale | all | 15-08-2026 | 08:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=T1HZgZK7Vh&sn2=
+#EXTINF:-1 tvg-id="1409497" tvg-name="End | IRONMAN Kalmar | all | 15-08-2026 | 06:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 7" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | IRONMAN Kalmar | all | 15-08-2026 | 06:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 7
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2Fn79HJZOO&sn2=
+#EXTINF:-1 tvg-id="1409498" tvg-name="6e journée | all | 15-08-2026 | 20:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6\" tvg-logo=\"http://51.158.145.100/picons/logos/PPV/PPVLIVE.png\" group-title=\"FR| SOCCER PPV\" Next | Escrime: Championnats d'Europe: Birmingham   6e journée | all | 15-08-2026 | 20:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",6e journée | all | 15-08-2026 | 20:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Escrime: Championnats d'Europe: Birmingham,  6e journée | all | 15-08-2026 | 20:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=LzFqIpOGb9&sn2=
+#EXTINF:-1 tvg-id="1409499" tvg-name="End | Londres | Essais Libres 2 ABB FIA Formula E World Championship | all | 15-08-2026 | 09:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Londres | Essais Libres 2 ABB FIA Formula E World Championship | all | 15-08-2026 | 09:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 5
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Fs6Ojbkhpq&sn2=
+#EXTINF:-1 tvg-id="1409500" tvg-name="End | Nürburgring - Qualifying 1 | all | 15-08-2026 | 09:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Nürburgring - Qualifying 1 | all | 15-08-2026 | 09:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 4
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Jm5Grm1e5d&sn2=
+#EXTINF:-1 tvg-id="1409501" tvg-name="End | Championnats d'Europe | 6e journée – Session matinale Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 08:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Championnats d'Europe | 6e journée – Session matinale Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 08:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 3
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PTI42cGRkO&sn2=
+#EXTINF:-1 tvg-id="1409502" tvg-name="End | Marche | Semi-marathon – Marathon (H/F) Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 08:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | Marche | Semi-marathon – Marathon (H/F) Birmingham 2026 – European Athletics Championships | all | 15-08-2026 | 08:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 2
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MRfQcdXjgr&sn2=
+#EXTINF:-1 tvg-id="1409503" tvg-name="End | 6ème journée | all | 15-08-2026 | 08:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| FR SOCCER PPV",End | 6ème journée | all | 15-08-2026 | 08:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 1
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=P1FSQ4kWVP&sn2=
 #EXTINF:-1 tvg-id="281642" tvg-name="ENG - AND PRIVE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/AND_PRIVE_HD.png" group-title="EN| ENGLISH",ENG - AND PRIVE UHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=uAW4YlWbC5&sn2=
 #EXTINF:-1 tvg-id="281643" tvg-name="ENG - STAR MOVIES UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/starmovies.png" group-title="EN| ENGLISH",ENG - STAR MOVIES UHD
@@ -4147,6 +4675,168 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QzxPtoLwvA&sn2=
 #EXTINF:-1 tvg-id="612430" tvg-name="ES - XtraFM Costa Brava" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/612430.png" group-title="ES| ESPAÑA HEVC",ES - XtraFM Costa Brava
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Zetc0Q6Nqa&sn2=
+#EXTINF:-1 tvg-id="617091" tvg-name="ENG - 24/7 SHE-RA: PRINCESS OF POWER" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SHE-RA: PRINCESS OF POWER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=8U0mQCTm9p&sn2=
+#EXTINF:-1 tvg-id="617092" tvg-name="ENG - 24/7 SIMPSONS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SIMPSONS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WUV8ExjPew&sn2=
+#EXTINF:-1 tvg-id="617093" tvg-name="ENG - 24/7 SIX MILLION DOLLAR MAN" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SIX MILLION DOLLAR MAN
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lhiGxCH8Rf&sn2=
+#EXTINF:-1 tvg-id="617094" tvg-name="ENG - 24/7 THE ANDY GRIFFITH SHOW" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE ANDY GRIFFITH SHOW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vztOsn75FN&sn2=
+#EXTINF:-1 tvg-id="617095" tvg-name="ENG - 24/7 THE BEVERLY HILLBILLIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE BEVERLY HILLBILLIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=72JnMRUfQ8&sn2=
+#EXTINF:-1 tvg-id="617096" tvg-name="ENG - 24/7 THE BIG BANG THEORY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE BIG BANG THEORY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ea3jN2fucb&sn2=
+#EXTINF:-1 tvg-id="617097" tvg-name="ENG - 24/7 THE BIONIC WOMAN" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE BIONIC WOMAN
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DaI3TmDbwQ&sn2=
+#EXTINF:-1 tvg-id="617098" tvg-name="ENG - 24/7 THE BOB NEWHART SHOW" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE BOB NEWHART SHOW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=rY6wyB6Mob&sn2=
+#EXTINF:-1 tvg-id="617099" tvg-name="ENG - 24/7 THE CAROL BURNETT SHOW" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE CAROL BURNETT SHOW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Y4wgdtHzdQ&sn2=
+#EXTINF:-1 tvg-id="617100" tvg-name="ENG - 24/7 THE LOVE BOAT" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE LOVE BOAT
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=iFMveVUEsd&sn2=
+#EXTINF:-1 tvg-id="617102" tvg-name="ENG - 24/7 PEGGA PIG" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 PEGGA PIG
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qEdLQLJ8hT&sn2=
+#EXTINF:-1 tvg-id="617104" tvg-name="ENG - 24/7 THE NANNY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE NANNY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=THsVI7iwv7&sn2=
+#EXTINF:-1 tvg-id="617105" tvg-name="ENG - 24/7 DEADLIEST CATCH" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 DEADLIEST CATCH
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cO3Vmjr0Vb&sn2=
+#EXTINF:-1 tvg-id="617106" tvg-name="ENG - 24/7 DEGRASSI JUNIOR HIGH" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 DEGRASSI JUNIOR HIGH
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=N5XvYJeNO5&sn2=
+#EXTINF:-1 tvg-id="617108" tvg-name="ENG - 24/7 BILLY THE EXTERMINATOR" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BILLY THE EXTERMINATOR
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PBIxpJvCp2&sn2=
+#EXTINF:-1 tvg-id="617109" tvg-name="ENG - 24/7 BONANZA" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BONANZA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=b3NOBiiUth&sn2=
+#EXTINF:-1 tvg-id="617110" tvg-name="ENG - 24/7 CHAPPELLE'S SHOW" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 CHAPPELLE'S SHOW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tItNIw1TAr&sn2=
+#EXTINF:-1 tvg-id="617111" tvg-name="ENG - 24/7 DIE HARD" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 DIE HARD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=617111&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="617112" tvg-name="ENG - 24/7 SUPERHERO MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SUPERHERO MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=617112&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="617113" tvg-name="ENG - 24/7 STAR WARS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 STAR WARS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MFdRFK5dcD&sn2=
+#EXTINF:-1 tvg-id="617114" tvg-name="ENG - 24/7 STAR TREK MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 STAR TREK MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5BSVlGsCoN&sn2=
+#EXTINF:-1 tvg-id="617115" tvg-name="ENG - 24/7 SPORTS MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SPORTS MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xBVAAUhBxD&sn2=
+#EXTINF:-1 tvg-id="617116" tvg-name="ENG - 24/7 QUENTIN TARANTINO MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 QUENTIN TARANTINO MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fex1CWd8Kn&sn2=
+#EXTINF:-1 tvg-id="617117" tvg-name="ENG - 24/7 SCIFI MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SCIFI MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FXbJAEfxmw&sn2=
+#EXTINF:-1 tvg-id="617118" tvg-name="ENG - 24/7 RUSH HOUR" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 RUSH HOUR
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=p2HIi8ICQJ&sn2=
+#EXTINF:-1 tvg-id="617119" tvg-name="ENG - 24/7 ROMANCE MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 ROMANCE MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Q6KCgJLLd2&sn2=
+#EXTINF:-1 tvg-id="617121" tvg-name="ENG - 24/7 POLICE ACADEMY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 POLICE ACADEMY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=XnCNE7f26t&sn2=
+#EXTINF:-1 tvg-id="617122" tvg-name="ENG - 24/7 PREDATOR/ALIEN MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 PREDATOR/ALIEN MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=8RlAtU1qKx&sn2=
+#EXTINF:-1 tvg-id="617123" tvg-name="ENG - 24/7 PLANET OF THE APES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 PLANET OF THE APES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sCvbS5AStu&sn2=
+#EXTINF:-1 tvg-id="617124" tvg-name="ENG - 24/7 PIRATES OF THE CARIBBEAN" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 PIRATES OF THE CARIBBEAN
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=aeGhicvadw&sn2=
+#EXTINF:-1 tvg-id="617125" tvg-name="ENG - 24/7 TEXAS CHAINSAW MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 TEXAS CHAINSAW MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=jXB11Tddwp&sn2=
+#EXTINF:-1 tvg-id="617126" tvg-name="ENG - 24/7 MEN IN BLACK" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 MEN IN BLACK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=r8vsAbDDDi&sn2=
+#EXTINF:-1 tvg-id="617127" tvg-name="ENG - 24/7 MATRIX" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 MATRIX
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QfelFDkFLu&sn2=
+#EXTINF:-1 tvg-id="617128" tvg-name="ENG - 24/7 LORD OF THE RINGS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 LORD OF THE RINGS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=617128&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="617129" tvg-name="ENG - 24/7 FRIDAY THE 13TH" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 FRIDAY THE 13TH
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=gOCk3W1ux5&sn2=
+#EXTINF:-1 tvg-id="617130" tvg-name="ENG - 24/7 JURASSIC PARK" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 JURASSIC PARK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kXbrUDPoZQ&sn2=
+#EXTINF:-1 tvg-id="617131" tvg-name="ENG - 24/7 JCVD MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 JCVD MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Fmayl8uhV6&sn2=
+#EXTINF:-1 tvg-id="617132" tvg-name="ENG - 24/7 INDIANA JONES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 INDIANA JONES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=YGQcVlqahU&sn2=
+#EXTINF:-1 tvg-id="617133" tvg-name="ENG - 24/7 HARRY POTTER" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 HARRY POTTER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=TIZOjGn8Mx&sn2=
+#EXTINF:-1 tvg-id="617134" tvg-name="ENG - 24/7 GREASE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 GREASE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=KdnKweNeAM&sn2=
+#EXTINF:-1 tvg-id="617135" tvg-name="ENG - 24/7 FIFTY SHADES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 FIFTY SHADES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=eSKHL2pfbo&sn2=
+#EXTINF:-1 tvg-id="617137" tvg-name="ENG - 24/7 BACK TO THE FUTURE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BACK TO THE FUTURE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mMqSyIqmWT&sn2=
+#EXTINF:-1 tvg-id="617138" tvg-name="ENG - 24/7 KING OF THE HILL" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 KING OF THE HILL
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=TaE20qxgFQ&sn2=
+#EXTINF:-1 tvg-id="617139" tvg-name="ENG - 24/7 RICK AND MORTY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 RICK AND MORTY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=27G3eZGs43&sn2=
+#EXTINF:-1 tvg-id="617140" tvg-name="ENG - 24/7 ARCHER" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 ARCHER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=v0UGET0WJp&sn2=
+#EXTINF:-1 tvg-id="617141" tvg-name="ENG - 24/7 LETTERKENNY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 LETTERKENNY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cI211Mitj3&sn2=
+#EXTINF:-1 tvg-id="617142" tvg-name="ENG - 24/7 ROSEANNE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 ROSEANNE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=uiCtkkoIR1&sn2=
+#EXTINF:-1 tvg-id="617143" tvg-name="ENG - 24/7 NIGHT COURT" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 NIGHT COURT
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=NxeghKHDSc&sn2=
+#EXTINF:-1 tvg-id="617144" tvg-name="ENG - 24/7 SPONGEBOB SQUAREPANTS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SPONGEBOB SQUAREPANTS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=gGLri7E27f&sn2=
+#EXTINF:-1 tvg-id="617145" tvg-name="ENG - 24/7 HORROR MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 HORROR MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bwK0hIGjJx&sn2=
+#EXTINF:-1 tvg-id="617146" tvg-name="ENG - 24/7 CRIME MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 CRIME MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PcRg8wW2gw&sn2=
+#EXTINF:-1 tvg-id="617147" tvg-name="ENG - 24/7  COMEDY MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7  COMEDY MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=iiNRVUCgdI&sn2=
+#EXTINF:-1 tvg-id="617148" tvg-name="ENG - 24/7 FAMILY MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 FAMILY MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SAaTpgdnJ3&sn2=
+#EXTINF:-1 tvg-id="617149" tvg-name="ENG - 24/7  THRILLER MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7  THRILLER MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=EkizLc8QUi&sn2=
+#EXTINF:-1 tvg-id="617150" tvg-name="ENG - 24/7 AL PACINO" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 AL PACINO
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=IXOe9nKduV&sn2=
+#EXTINF:-1 tvg-id="617151" tvg-name="ENG - 24/7 ARNOLD SCHWARZENEGGER" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 ARNOLD SCHWARZENEGGER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qI4pcSvrtK&sn2=
+#EXTINF:-1 tvg-id="617152" tvg-name="ENG - 24/7 STEVEN SEAGAL" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 STEVEN SEAGAL
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mnV12CB3t6&sn2=
+#EXTINF:-1 tvg-id="617153" tvg-name="ENG - 24/7 WILL FERRELL MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 WILL FERRELL MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=NA36Yb8p6U&sn2=
+#EXTINF:-1 tvg-id="617154" tvg-name="ENG - 24/7 BRUCE LEE MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BRUCE LEE MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9Btv3DB41f&sn2=
+#EXTINF:-1 tvg-id="617156" tvg-name="ENG - 24/7 JIM CARREY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 JIM CARREY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SEe4vw0TJm&sn2=
+#EXTINF:-1 tvg-id="617157" tvg-name="ENG - 24/7 JASON BOURNE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 JASON BOURNE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Xe3Sqxvy8M&sn2=
+#EXTINF:-1 tvg-id="617158" tvg-name="ENG - 24/7  MR BEAN" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7  MR BEAN
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=oHxd6yeKB3&sn2=
+#EXTINF:-1 tvg-id="617159" tvg-name="ENG - 24/7 JAMES BOND" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 JAMES BOND
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sGIGda7RPT&sn2=
+#EXTINF:-1 tvg-id="617160" tvg-name="ENG - 24/7  EDDY MURPHY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7  EDDY MURPHY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=54tfeln56u&sn2=
+#EXTINF:-1 tvg-id="617161" tvg-name="ENG - 24/7 RAMBO" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 RAMBO
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=epj8IjKkG8&sn2=
+#EXTINF:-1 tvg-id="617162" tvg-name="ENG - 24/7 ROCKY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 ROCKY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MB00uP6RKC&sn2=
+#EXTINF:-1 tvg-id="617163" tvg-name="ENG - 24/7 WICKED TUNA" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 WICKED TUNA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=L6r7TDHCYN&sn2=
+#EXTINF:-1 tvg-id="617164" tvg-name="ENG - 24/7 DINERS  DRIVE-INS AND DIVES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 DINERS, DRIVE-INS AND DIVES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ubciq0qikp&sn2=
+#EXTINF:-1 tvg-id="617165" tvg-name="ENG - 24/7 BOXING MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BOXING MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=C27BAOYaLu&sn2=
+#EXTINF:-1 tvg-id="617166" tvg-name="ENG - 24/7 BATMAN MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BATMAN MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=CLaDAZn3qu&sn2=
+#EXTINF:-1 tvg-id="617167" tvg-name="ENG - 24/7 BLADE MOVIES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BLADE MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=M6wHLGKOGv&sn2=
+#EXTINF:-1 tvg-id="617168" tvg-name="ENG - 24/7 MARTIN" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 MARTIN
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Uv8JvNtNTP&sn2=
+#EXTINF:-1 tvg-id="617169" tvg-name="ENG - 24/7 GOOD TIMES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 GOOD TIMES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lBBpOuseLH&sn2=
+#EXTINF:-1 tvg-id="617170" tvg-name="ENG - 24/7 THE SOPRANOS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE SOPRANOS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=617170&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="617171" tvg-name="ENG - 24/7 A NIGHTMARE ON ELM STREET" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 A NIGHTMARE ON ELM STREET
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=617171&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="617172" tvg-name="ENG - 24/7 JASON BOURNE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 JASON BOURNE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=617172&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="617173" tvg-name="ENG - 24/7 LOVE & HIP HOP 2" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 LOVE & HIP HOP 2
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=r84pdVXpQa&sn2=
+#EXTINF:-1 tvg-id="617174" tvg-name="ENG - HALLOWEEN" tvg-logo="http://103.176.90.95/images/1041929.png" group-title="EN| 24/7 ENGLISH",ENG - HALLOWEEN
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DuKLXSAkOP&sn2=
+#EXTINF:-1 tvg-id="617175" tvg-name="ENG - 24/7 THE JEFFERSONS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE JEFFERSONS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=oaXSbIF3S5&sn2=
+#EXTINF:-1 tvg-id="617176" tvg-name="ENG - 24/7 SANFORD AND SON" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SANFORD AND SON
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5wJBPFegH7&sn2=
+#EXTINF:-1 tvg-id="617177" tvg-name="ENG - 24/7 POWER" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 POWER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=26DqC7mup2&sn2=
 #EXTINF:-1 tvg-id="629437" tvg-name="FR - CRIME DISTRICT" tvg-logo="http://51.158.145.100/picons/logos/france/629437.png" group-title="FR| FRANCE DOCUMENTAIRE",FR - CRIME DISTRICT
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ch0eXsA85n&sn2=
 #EXTINF:-1 tvg-id="629547" tvg-name="FR - ONE TV" tvg-logo="http://51.158.145.100/picons/logos/france/629547.png" group-title="FR| FRANCE GÉNÉRAL",FR - ONE TV
@@ -4657,6 +5347,12 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 ffmpeg http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=715988&extension=ts&play_token=QrU8kLrw45
 #EXTINF:-1 tvg-id="715989" tvg-name="FR - ANTENNE REUNION" tvg-logo="http://51.158.145.100/picons/logos/france/715989.png" group-title="FR| FRANCE CARRIBEAN",FR - ANTENNE REUNION
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=h7dirv0HnB&sn2=
+#EXTINF:-1 tvg-id="718751" tvg-name="ENG - 24/7 SAW" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SAW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UssL23t8kg&sn2=
+#EXTINF:-1 tvg-id="718752" tvg-name="ENG - 24/7 SCREAM" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 SCREAM
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mn20P2cZJG&sn2=
+#EXTINF:-1 tvg-id="718753" tvg-name="ENG - 24/7 AMERICAN PIE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 AMERICAN PIE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=8H58yD0UNj&sn2=
 #EXTINF:-1 tvg-id="718914" tvg-name="ES - M. LALIGA 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="ES| DEPORTES",ES - M. LALIGA 1 FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=noPClBiUOF&sn2=
 #EXTINF:-1 tvg-id="718915" tvg-name="ES - M. LALIGA 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="ES| DEPORTES",ES - M. LALIGA 2 FHD
@@ -4713,6 +5409,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hvbnnKJrbu&sn2=
 #EXTINF:-1 tvg-id="722506" tvg-name="EN - RULES OF ENGAGEMENT 4K" tvg-logo="https://www.seekpng.com/png/full/103-1034049_rules-of-engagement-return-date-rules-of-engagement.png" group-title="EN| 24/7 ENGLISH 4K",EN - RULES OF ENGAGEMENT 4K
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vedh0v6VWy&sn2=
+#EXTINF:-1 tvg-id="723590" tvg-name="ENG - 24/7 MISSION IMPOSSIBLE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 MISSION IMPOSSIBLE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xz7PbZhvwW&sn2=
 #EXTINF:-1 tvg-id="723870" tvg-name="ES - M PELICULAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="ES| M.PELICULAS",ES - M PELICULAS 1
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mv0Ahj72lM&sn2=
 #EXTINF:-1 tvg-id="723871" tvg-name="ES - M PELICULAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="ES| M.PELICULAS",ES - M PELICULAS 2
@@ -4879,6 +5577,104 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=726827&extens
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=OaJj1Cc9Hd&sn2=
 #EXTINF:-1 tvg-id="740945" tvg-name="FR - FREQUENCE NOVELAS" tvg-logo="http://51.158.145.100/picons/logos/france/740945.png" group-title="FR| FRANCE GÉNÉRAL",FR - FREQUENCE NOVELAS
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=44tnwxCEgT&sn2=
+#EXTINF:-1 tvg-id="741423" tvg-name="EN - VIKINGS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - VIKINGS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HOuzeCQuvg&sn2=
+#EXTINF:-1 tvg-id="741424" tvg-name="EN - TWO AND A HALF MEN" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - TWO AND A HALF MEN
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=O97tBa7YXX&sn2=
+#EXTINF:-1 tvg-id="741425" tvg-name="EN - THE OFFICE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - THE OFFICE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PnQHscnAVV&sn2=
+#EXTINF:-1 tvg-id="741426" tvg-name="EN - THE MUPPET SHOW" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - THE MUPPET SHOW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ZaWRCcq38K&sn2=
+#EXTINF:-1 tvg-id="741427" tvg-name="EN - THE INCREDIBLE HULK" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - THE INCREDIBLE HULK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=pPaH1aDY6w&sn2=
+#EXTINF:-1 tvg-id="741428" tvg-name="EN - THE FRESH PRINCE OF BEL AIR" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - THE FRESH PRINCE OF BEL AIR
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=STQfl1K9Gh&sn2=
+#EXTINF:-1 tvg-id="741430" tvg-name="EN - THAT 70S SHOW" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - THAT 70S SHOW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7rfxF2lQq0&sn2=
+#EXTINF:-1 tvg-id="741431" tvg-name="EN - SEINFELD" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - SEINFELD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=rRMtM3jG83&sn2=
+#EXTINF:-1 tvg-id="741432" tvg-name="EN - SCRUBS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - SCRUBS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=EEYb6FAKB2&sn2=
+#EXTINF:-1 tvg-id="741433" tvg-name="EN - SCORPION" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - SCORPION
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=G0skSyKnEC&sn2=
+#EXTINF:-1 tvg-id="741434" tvg-name="EN - ROSEANNE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - ROSEANNE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UHVyvLuaw8&sn2=
+#EXTINF:-1 tvg-id="741435" tvg-name="EN - REVOLUTION" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - REVOLUTION
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HQAkhqqcsg&sn2=
+#EXTINF:-1 tvg-id="741436" tvg-name="EN - PRISON BREAK" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - PRISON BREAK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ACuVlnVvjb&sn2=
+#EXTINF:-1 tvg-id="741437" tvg-name="EN - PARKS AND RECREATION" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - PARKS AND RECREATION
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=neB6cMbsrj&sn2=
+#EXTINF:-1 tvg-id="741438" tvg-name="EN - MODERN FAMILY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - MODERN FAMILY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SEqBnniLis&sn2=
+#EXTINF:-1 tvg-id="741439" tvg-name="EN - MIKE AND MOLLY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - MIKE AND MOLLY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=E0jmImGFzD&sn2=
+#EXTINF:-1 tvg-id="741440" tvg-name="EN - MALCOLM IN THE MIDDLE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - MALCOLM IN THE MIDDLE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=o35fAlXX7E&sn2=
+#EXTINF:-1 tvg-id="741441" tvg-name="EN - MACGYVER" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - MACGYVER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=waBB1mwwhJ&sn2=
+#EXTINF:-1 tvg-id="741442" tvg-name="EN - LUCIFER" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - LUCIFER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bt5CHVQr3C&sn2=
+#EXTINF:-1 tvg-id="741443" tvg-name="EN - LOST" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - LOST
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=741443&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="741444" tvg-name="EN - LIMITLESS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - LIMITLESS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=K1PDv1w351&sn2=
+#EXTINF:-1 tvg-id="741445" tvg-name="EN - HOW I MET YOUR MOTHER" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - HOW I MET YOUR MOTHER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PePgsLfQo2&sn2=
+#EXTINF:-1 tvg-id="741446" tvg-name="EN - FRIENDS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - FRIENDS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=L6RIQfSKnf&sn2=
+#EXTINF:-1 tvg-id="741447" tvg-name="EN - FRASIER (1993)" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - FRASIER (1993)
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=1p2ifjLoQQ&sn2=
+#EXTINF:-1 tvg-id="741448" tvg-name="EN - EVERYBODY LOVES RAYMOND (1996)" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - EVERYBODY LOVES RAYMOND (1996)
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=741448&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="741449" tvg-name="EN - COLUMBO MR PETER FALK" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - COLUMBO MR PETER FALK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=F4gLRnzKVl&sn2=
+#EXTINF:-1 tvg-id="741450" tvg-name="EN - BETTER CALL SAUL" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - BETTER CALL SAUL
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mvMBK4DqSM&sn2=
+#EXTINF:-1 tvg-id="741451" tvg-name="EN - ARRESTED DEVELOPMENT" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - ARRESTED DEVELOPMENT
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lN1GXWQrzb&sn2=
+#EXTINF:-1 tvg-id="741452" tvg-name="EN - 30 ROCK" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - 30 ROCK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=jNZ4tiq5Ea&sn2=
+#EXTINF:-1 tvg-id="741453" tvg-name="EN - 24" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - 24
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=741453&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="741454" tvg-name="EN - WHITE COLLAR" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - WHITE COLLAR
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=r1z31LDAUb&sn2=
+#EXTINF:-1 tvg-id="741455" tvg-name="EN - THE KING OF QUEENS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - THE KING OF QUEENS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Cvg3K84CbQ&sn2=
+#EXTINF:-1 tvg-id="741456" tvg-name="EN - THE BLACKLIST" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - THE BLACKLIST
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mXrYAHBFU4&sn2=
+#EXTINF:-1 tvg-id="741457" tvg-name="EN - THE BIG BANG THEORY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - THE BIG BANG THEORY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=3Jp0tQX40a&sn2=
+#EXTINF:-1 tvg-id="741458" tvg-name="EN - SUPERNATURAL" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - SUPERNATURAL
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cqoFk32cdE&sn2=
+#EXTINF:-1 tvg-id="741459" tvg-name="EN - SUITS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - SUITS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zhxcQE4DIU&sn2=
+#EXTINF:-1 tvg-id="741460" tvg-name="EN - SILICON VALLEY" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - SILICON VALLEY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=A9a4VVWpPh&sn2=
+#EXTINF:-1 tvg-id="741461" tvg-name="EN - SHAMELESS" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - SHAMELESS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7IzRvOrGve&sn2=
+#EXTINF:-1 tvg-id="741462" tvg-name="EN - NARCOS MEXICO" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - NARCOS MEXICO
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=C5FJfmBZ1a&sn2=
+#EXTINF:-1 tvg-id="741463" tvg-name="EN - MONEY HEIST" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - MONEY HEIST
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BhPv1GTs6P&sn2=
+#EXTINF:-1 tvg-id="741464" tvg-name="EN - MANIFEST" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - MANIFEST
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=g3Akumvg7Y&sn2=
+#EXTINF:-1 tvg-id="741465" tvg-name="EN - LIE TO ME" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - LIE TO ME
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HGfWEYpsy2&sn2=
+#EXTINF:-1 tvg-id="741466" tvg-name="EN - LAST MAN STANDING" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - LAST MAN STANDING
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MP8MuBe4OB&sn2=
+#EXTINF:-1 tvg-id="741467" tvg-name="EN - KEVIN CAN WAIT" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - KEVIN CAN WAIT
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FHbEMvDxjb&sn2=
+#EXTINF:-1 tvg-id="741468" tvg-name="EN - GAME OF THRONES" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - GAME OF THRONES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zA46QWdbwu&sn2=
+#EXTINF:-1 tvg-id="741469" tvg-name="EN - COBRA KAI" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - COBRA KAI
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ui9QdWu73v&sn2=
+#EXTINF:-1 tvg-id="741470" tvg-name="EN - CHUCK" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - CHUCK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MmzR8RUWDD&sn2=
+#EXTINF:-1 tvg-id="741471" tvg-name="EN - CALIFORNICATION" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - CALIFORNICATION
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=h6O0OK0wI2&sn2=
+#EXTINF:-1 tvg-id="741472" tvg-name="EN - ARROW" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",EN - ARROW
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=741472&extension=ts&play&extension=ts&sn2=
 #EXTINF:-1 tvg-id="744800" tvg-name="FR - BFM ALSACE HD" tvg-logo="http://51.158.145.100/picons/logos/france/744800.png" group-title="FR| FRANCE GÉNÉRAL",FR - BFM ALSACE HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=M58Cd32xLg&sn2=
 #EXTINF:-1 tvg-id="748089" tvg-name="ES - ONDA CADIZ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ONDACADIZ.png" group-title="ES| LOCALS",ES - ONDA CADIZ
@@ -4971,6 +5767,12 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=a2Qcrsaexn&sn2=
 #EXTINF:-1 tvg-id="765169" tvg-name="ES - LALIGA HYPERMOTION TV 2 HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGA.png" group-title="ES| DEPORTES",ES - LALIGA HYPERMOTION TV 2 HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=aTohhkCgbk&sn2=
+#EXTINF:-1 tvg-id="766053" tvg-name="ENG - 24/7 BEWITCHED" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 BEWITCHED
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=OpvLivMhAb&sn2=
+#EXTINF:-1 tvg-id="766054" tvg-name="ENG - 24/7 DREAM OF JEANNIE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 DREAM OF JEANNIE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=g3fztk9gVf&sn2=
+#EXTINF:-1 tvg-id="766055" tvg-name="ENG - 24/7 GET SMART" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 GET SMART
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=uRooGsNwkz&sn2=
 #EXTINF:-1 tvg-id="766339" tvg-name="UK - GB NEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/GBNEWS.png" group-title="EN| NEWS",UK - GB NEWS
 ffmpeg http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=766339&extension=ts&play_token=1Obt0K2Hbq
 #EXTINF:-1 tvg-id="766852" tvg-name="UK - SUPERSPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="EN| SPORTS",UK - SUPERSPORT 1 HD
@@ -5003,6 +5805,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bJwduirvBT&sn2=
 #EXTINF:-1 tvg-id="767760" tvg-name="UK - TOM & JERRY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TOMJERRY.png" group-title="EN| KIDS",UK - TOM & JERRY
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=G4WyfBYFCN&sn2=
+#EXTINF:-1 tvg-id="767761" tvg-name="ENG - 24/7 THE WALKING DEAD" tvg-logo="http://51.158.145.100/picons/logos/logos/THE-WALKING-DEAD.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE WALKING DEAD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=4PQyqx63DA&sn2=
 #EXTINF:-1 tvg-id="770024" tvg-name="ES - 24/7 PELICULAS 24" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="ES| 24/7 SPANISH",ES - 24/7 PELICULAS 24
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=X3wQD27wTh&sn2=
 #EXTINF:-1 tvg-id="770025" tvg-name="ES - 24/7 PELICULAS 23" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="ES| 24/7 SPANISH",ES - 24/7 PELICULAS 23
@@ -5067,6 +5871,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fyJWVWdHhY&sn2=
 #EXTINF:-1 tvg-id="788407" tvg-name="ES - TUDN XTRA 11" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUDNXTRA.png" group-title="ES| DEPORTES",ES - TUDN XTRA 11
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VMVVh07TnP&sn2=
+#EXTINF:-1 tvg-id="797803" tvg-name="ENG - 24/7 FAMILY GUY" tvg-logo="http://103.176.90.118/picons/logos/USA/FAMILY-GUY.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 FAMILY GUY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=797803&extension=ts&play&extension=ts&sn2=
 #EXTINF:-1 tvg-id="799561" tvg-name="ES - INSTAT 20 [Solo-Eventos]" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png" group-title="ES| DEPORTES",ES - INSTAT 20 [Solo-Eventos]
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5R3Qdenx8N&sn2=
 #EXTINF:-1 tvg-id="799562" tvg-name="ES - INSTAT 19 [Solo-Eventos]" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INSTAT.png" group-title="ES| DEPORTES",ES - INSTAT 19 [Solo-Eventos]
@@ -5127,6 +5933,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=4UvAoVwtE8&sn2=
 #EXTINF:-1 tvg-id="804331" tvg-name="UK - TNT SPORT ULTIMATE" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTULTIMATE.png" group-title="EN| SPORTS",UK - TNT SPORT ULTIMATE
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HgNZI9y8Bd&sn2=
+#EXTINF:-1 tvg-id="807382" tvg-name="ENG - 24/7 CHICAGO PB" tvg-logo="http://51.158.145.100/picons/logos/logos/24-7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 CHICAGO PB
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=79tMJpKUs0&sn2=
 #EXTINF:-1 tvg-id="807390" tvg-name="FR - CANAL+ FOOT UHD" tvg-logo="http://51.158.145.100/picons/logos/france/807390.png" group-title="FR| FRANCE SPORTS",FR - CANAL+ FOOT UHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=8l3lECJGNO&sn2=
 #EXTINF:-1 tvg-id="807391" tvg-name="FR - CANAL+ SPORT 360 UHD" tvg-logo="http://51.158.145.100/picons/logos/france/807391.png" group-title="FR| FRANCE SPORTS",FR - CANAL+ SPORT 360 UHD
@@ -5169,6 +5977,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VyXPpiOX5X&sn2=
 #EXTINF:-1 tvg-id="813040" tvg-name="ES - M.DCINE HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png" group-title="ES| CINEMA",ES - M.DCINE HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=KRMiAsqC9S&sn2=
+#EXTINF:-1 tvg-id="814569" tvg-name="ENG - 24/7 M*A*S*H" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MASH.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 M*A*S*H
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=AJACWesWqi&sn2=
 #EXTINF:-1 tvg-id="815892" tvg-name="FR - STAND UP FHD" tvg-logo="http://51.158.145.100/picons/logos/france/815892.png" group-title="FR| FRANCE CINEMA",FR - STAND UP FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hlpza6Hfrq&sn2=
 #EXTINF:-1 tvg-id="816921" tvg-name="FR - IDF 1" tvg-logo="http://51.158.145.100/picons/logos/france/816921.png" group-title="FR| FRANCE GÉNÉRAL",FR - IDF 1
@@ -5735,6 +6545,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=eR4SAr3tLX&sn2=
 #EXTINF:-1 tvg-id="828387" tvg-name="UK - GAAGO FIXTURES 00" tvg-logo="http://103.176.90.118/picons/logos/UK/GAAGO.png" group-title="EN| OTHER SPORTS",UK - GAAGO FIXTURES 00
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5tl1yrSbuj&sn2=
+#EXTINF:-1 tvg-id="829902" tvg-name="ENG - 24/7 AMERICAN DAD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AMERICAN-DAD.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 AMERICAN DAD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=6SL3XB2gmQ&sn2=
 #EXTINF:-1 tvg-id="841538" tvg-name="ENG - TS HITS" tvg-logo="http://103.176.90.118/picons/logos/TS-HITS.png" group-title="EN| ENGLISH",ENG - TS HITS
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=IrZqWEQeFn&sn2=
 #EXTINF:-1 tvg-id="841539" tvg-name="ENG - D2H RHYMIS" tvg-logo="http://103.176.90.118/picons/logos/d2h.jpg" group-title="EN| ENGLISH",ENG - D2H RHYMIS
@@ -6215,6 +7027,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/pl
 ffmpeg http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=876580&extension=ts&play_token=qGdGNb9dh8
 #EXTINF:-1 tvg-id="879882" tvg-name="ES - ONETORO HD (bk)" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ONETORO.png" group-title="ES| DEPORTES",ES - ONETORO HD (bk)
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=v4zLRlpsYB&sn2=
+#EXTINF:-1 tvg-id="880931" tvg-name="ENG - 24/7 WKRP" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WKRP.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 WKRP
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=b5GNGS3Gcq&sn2=
 #EXTINF:-1 tvg-id="882221" tvg-name="EN - CLINT EASTWOOD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CLINT-EASTWOOD.png" group-title="EN| 24/7 ENGLISH 4K",EN - CLINT EASTWOOD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Pa5cci6tSt&sn2=
 #EXTINF:-1 tvg-id="882222" tvg-name="EN - JAMES BOND 007" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/JAMES-BOND007.png" group-title="EN| 24/7 ENGLISH 4K",EN - JAMES BOND 007
@@ -6239,6 +7053,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=XeoDMIr0NP&sn2=
 #EXTINF:-1 tvg-id="883174" tvg-name="FR - FOX KIDS" tvg-logo="http://51.158.145.100/picons/logos/france/883174.png" group-title="FR| FRANCE ENFANTS",FR - FOX KIDS
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ZjGIENM2dk&sn2=
+#EXTINF:-1 tvg-id="883662" tvg-name="ENG - 24/7 MET GALA 2023" tvg-logo="http://103.176.90.118/picons/logos/USA/MET-GALA-2023.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 MET GALA 2023
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=TFyrxZ0uFt&sn2=
 #EXTINF:-1 tvg-id="884951" tvg-name="UK - YESTERDAY+1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/YESTERDAY.png" group-title="EN| ENTERTAINMENT",UK - YESTERDAY+1
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=884951&extension=ts&play&extension=ts&sn2=
 #EXTINF:-1 tvg-id="901666" tvg-name="UK - SOUTH PARK" tvg-logo="http://103.176.90.118/picons/logos/UK/SOUTH-PARK.png" group-title="EN| 24/7 FLEX",UK - SOUTH PARK
