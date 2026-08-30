@@ -111,6 +111,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mzRTqXtNlo&sn2=
 #EXTINF:-1 tvg-id="1099055" tvg-name="FR - MARTINIQUE 1ERE" tvg-logo="http://51.158.145.100/picons/logos/france/1099055.png" group-title="FR| FRANCE CARRIBEAN",FR - MARTINIQUE 1ERE
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=piwX0PZf6g&sn2=
+#EXTINF:-1 tvg-id="1100616" tvg-name="EN - JOHN WICK" tvg-logo="http://103.176.90.118/picons/logos/UK/JOHN-WICK.png" group-title="EN| 24/7 ENGLISH 4K",EN - JOHN WICK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=eOKHm41SWT&sn2=
 #EXTINF:-1 tvg-id="1108481" tvg-name="ES - DAZN BAR 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="ES| DEPORTES",ES - DAZN BAR 1
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1108481&extension=ts&play_token=a7Zjfh91tX&sn2=
 #EXTINF:-1 tvg-id="1108482" tvg-name="ES - DAZN BAR 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="ES| DEPORTES",ES - DAZN BAR 1 FHD
@@ -2235,6 +2237,54 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SdEtPPxDjD&sn2=
 #EXTINF:-1 tvg-id="1411771" tvg-name="Premier League+ 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/PremierLeague.png" group-title="EN| EPL+ PPV",Premier League+ 1
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=1411771&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="281642" tvg-name="ENG - AND PRIVE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/AND_PRIVE_HD.png" group-title="EN| ENGLISH",ENG - AND PRIVE UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=JTMkMsQ7SL&sn2=
+#EXTINF:-1 tvg-id="281643" tvg-name="ENG - STAR MOVIES UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/starmovies.png" group-title="EN| ENGLISH",ENG - STAR MOVIES UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MgvC79JYSC&sn2=
+#EXTINF:-1 tvg-id="281644" tvg-name="ENG - STAR MOVIES SELECT UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="EN| ENGLISH",ENG - STAR MOVIES SELECT UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=oITfEeCsa5&sn2=
+#EXTINF:-1 tvg-id="281647" tvg-name="ENG - TATA SKY WORLD CINEMA UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/TATA-SKY.png" group-title="EN| ENGLISH",ENG - TATA SKY WORLD CINEMA UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DHuRVtKGRV&sn2=
+#EXTINF:-1 tvg-id="281648" tvg-name="ENG - TLC WORLD UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/TLC-WORLD-HD.jpg" group-title="EN| ENGLISH",ENG - TLC WORLD UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=szBoARqqqt&sn2=
+#EXTINF:-1 tvg-id="281649" tvg-name="ENG - TRAVEL XP UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/travelxp.png" group-title="EN| ENGLISH",ENG - TRAVEL XP UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=N3K2rVgzkt&sn2=
+#EXTINF:-1 tvg-id="281650" tvg-name="ENG - COLORS INFINITY UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/COLORS-INFINITY-HD.png" group-title="EN| ENGLISH",ENG - COLORS INFINITY UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=W3WB2AEnlK&sn2=
+#EXTINF:-1 tvg-id="281651" tvg-name="ENG - HBO UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/hbohd.png" group-title="EN| ENGLISH",ENG - HBO UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QrViKlU7Ia&sn2=
+#EXTINF:-1 tvg-id="281652" tvg-name="ENG - ALJAZEERA UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/aljazeerahd.png" group-title="EN| ENGLISH",ENG - ALJAZEERA UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=U52efxgW60&sn2=
+#EXTINF:-1 tvg-id="281653" tvg-name="ENG - ANIMAL PLANET UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/animalplanethd.png" group-title="EN| ENGLISH",ENG - ANIMAL PLANET UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=e8137H9g7E&sn2=
+#EXTINF:-1 tvg-id="281655" tvg-name="ENG - BBC EARTH UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/bbcearthhd.png" group-title="EN| ENGLISH",ENG - BBC EARTH UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bqwzQItkkg&sn2=
+#EXTINF:-1 tvg-id="281656" tvg-name="ENG - CNN NEWS" tvg-logo="http://103.176.90.118/picons-dino/logos/CNN.jpg" group-title="EN| ENGLISH",ENG - CNN NEWS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xCn6NN9PwU&sn2=
+#EXTINF:-1 tvg-id="281657" tvg-name="ENG - COMEDY CENTRAL UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/comedycentralhd.png" group-title="EN| ENGLISH",ENG - COMEDY CENTRAL UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fiJXXhjjG7&sn2=
+#EXTINF:-1 tvg-id="281658" tvg-name="ENG - DISCOVERY KIDS" tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_kids.png" group-title="EN| ENGLISH",ENG - DISCOVERY KIDS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zuNOckWhFN&sn2=
+#EXTINF:-1 tvg-id="281660" tvg-name="ENG - DISCOVERY TURBO" tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_Turbo.png" group-title="EN| ENGLISH",ENG - DISCOVERY TURBO
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=NooNgKzvcE&sn2=
+#EXTINF:-1 tvg-id="281661" tvg-name="ENG - DISCOVERY WORLD UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_world_hd.png" group-title="EN| ENGLISH",ENG - DISCOVERY WORLD UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7lOQN3ZY4D&sn2=
+#EXTINF:-1 tvg-id="281662" tvg-name="ENG - FOX LIFE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/foxlifehd.png" group-title="EN| ENGLISH",ENG - FOX LIFE UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FiYKZyo4gs&sn2=
+#EXTINF:-1 tvg-id="281663" tvg-name="ENG - HISTORY TV 18 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/history.png" group-title="EN| ENGLISH",ENG - HISTORY TV 18 UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5jIFs9WfPU&sn2=
+#EXTINF:-1 tvg-id="281664" tvg-name="ENG - INDIA TODAY" tvg-logo="http://103.176.90.118/picons-dino/logos/INDIA-TODAY.png" group-title="EN| ENGLISH",ENG - INDIA TODAY
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=uIoWreoFhg&sn2=
+#EXTINF:-1 tvg-id="281665" tvg-name="ENG - NATGEO ENGLISH UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/natgeohd.png" group-title="EN| ENGLISH",ENG - NATGEO ENGLISH UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DrWsJ7ZFj3&sn2=
+#EXTINF:-1 tvg-id="281666" tvg-name="ENG - NAT GEO WILD UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/natgeowildhd.png" group-title="EN| ENGLISH",ENG - NAT GEO WILD UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=gib7xzdo3W&sn2=
+#EXTINF:-1 tvg-id="281667" tvg-name="ENG - ROMEDY NOW UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/Romedy_Now_HD.png" group-title="EN| ENGLISH",ENG - ROMEDY NOW UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2OxoMfPIZD&sn2=
+#EXTINF:-1 tvg-id="281668" tvg-name="ENG - VH1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/VH1-HD.jpg" group-title="EN| ENGLISH",ENG - VH1 UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Fvffzl5lmi&sn2=
+#EXTINF:-1 tvg-id="281669" tvg-name="ENG - ZEE CAFE UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/zeecafe.png" group-title="EN| ENGLISH",ENG - ZEE CAFE UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=eMHbKcL3zt&sn2=
 #EXTINF:-1 tvg-id="505545" tvg-name="ES - LA 1 HD" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505545.png" group-title="ES| GENERAL",ES - LA 1 HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=R5aerokGYf&sn2=
 #EXTINF:-1 tvg-id="505546" tvg-name="ES - LA 2" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/505546.png" group-title="ES| GENERAL",ES - LA 2
@@ -5215,6 +5265,132 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=697239&extension=ts&play_token=07CVRXb7j8&sn2=
 #EXTINF:-1 tvg-id="698481" tvg-name="FR - ANTENNE REUNION" tvg-logo="http://51.158.145.100/picons/logos/france/698481.png" group-title="FR| FRANCE GÉNÉRAL",FR - ANTENNE REUNION
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QMh0B6pTSn&sn2=
+#EXTINF:-1 tvg-id="705050" tvg-name="EN - WESTERN CH 5 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/WESTERN-ONDEMAND.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - WESTERN CH 5 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=v0hpDpxtKE&sn2=
+#EXTINF:-1 tvg-id="705051" tvg-name="EN - WESTERN CH 4 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/WESTERN-ONDEMAND.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=CCqs6RlMri&sn2=
+#EXTINF:-1 tvg-id="705052" tvg-name="EN - WESTERN CH 3 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/WESTERN-ONDEMAND.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - WESTERN CH 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=IdgJqZl9vn&sn2=
+#EXTINF:-1 tvg-id="705053" tvg-name="EN - WESTERN CH 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/WESTERN-ONDEMAND.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - WESTERN CH 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cOAHkqMb5Q&sn2=
+#EXTINF:-1 tvg-id="705054" tvg-name="EN - WESTERN CH 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/WESTERN-ONDEMAND.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - WESTERN CH 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Nu7gJNTgWG&sn2=
+#EXTINF:-1 tvg-id="705055" tvg-name="EN - WESTERN CH 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/WESTERN-ONDEMAND.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ujSFmc2LYg&sn2=
+#EXTINF:-1 tvg-id="705057" tvg-name="EN - SHOWTIME 7 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWTIME-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - SHOWTIME 7 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=aIkK4wtOrg&sn2=
+#EXTINF:-1 tvg-id="705058" tvg-name="EN - SHOWTIME 6 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWTIME-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - SHOWTIME 6 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=y2uC0Abneg&sn2=
+#EXTINF:-1 tvg-id="705059" tvg-name="EN - SHOWTIME 5 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWTIME-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - SHOWTIME 5 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=rEZgPIaFcn&sn2=
+#EXTINF:-1 tvg-id="705060" tvg-name="EN - SHOWTIME 4 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWTIME-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - SHOWTIME 4 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Nn7Mt41qZP&sn2=
+#EXTINF:-1 tvg-id="705061" tvg-name="EN - SHOWTIME 3 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWTIME-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - SHOWTIME 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=wt99bQeOFO&sn2=
+#EXTINF:-1 tvg-id="705062" tvg-name="EN - SHOWTIME 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWTIME-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - SHOWTIME 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ypjmRRU56g&sn2=
+#EXTINF:-1 tvg-id="705063" tvg-name="EN - SHOWTIME 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWTIME-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - SHOWTIME 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2A6cMkkHZk&sn2=
+#EXTINF:-1 tvg-id="705064" tvg-name="EN - SHOWTIME 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/SHOWTIME-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - SHOWTIME 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vN2YYIsiVa&sn2=
+#EXTINF:-1 tvg-id="705066" tvg-name="EN - NETFLIX 5 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/NETFLIX--ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - NETFLIX 5 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Kv9mIZE3en&sn2=
+#EXTINF:-1 tvg-id="705067" tvg-name="EN - NETFLIX 4 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/NETFLIX--ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - NETFLIX 4 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=JGQQVsnW9n&sn2=
+#EXTINF:-1 tvg-id="705068" tvg-name="EN - NETFLIX 3 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/NETFLIX--ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - NETFLIX 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=1E6VSv808R&sn2=
+#EXTINF:-1 tvg-id="705069" tvg-name="EN - NETFLIX 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/NETFLIX--ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - NETFLIX 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lnhj2oEYz3&sn2=
+#EXTINF:-1 tvg-id="705070" tvg-name="EN - NETFLIX 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/NETFLIX--ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - NETFLIX 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=V1WtZVsmj9&sn2=
+#EXTINF:-1 tvg-id="705071" tvg-name="EN - NETFLIX 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/NETFLIX--ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - NETFLIX 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=GYAoLfyoO4&sn2=
+#EXTINF:-1 tvg-id="705073" tvg-name="EN - MARVEL CHANNEL 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/MARVEL-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - MARVEL CHANNEL 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705073&extension=ts&play_token=DClucbxP8F&sn2=
+#EXTINF:-1 tvg-id="705074" tvg-name="EN - MARVEL CHANNEL 3 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/MARVEL-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - MARVEL CHANNEL 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=afZsMKNKa2&sn2=
+#EXTINF:-1 tvg-id="705075" tvg-name="EN - MARVEL CHANNEL 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/MARVEL-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - MARVEL CHANNEL 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ltYdzB6btV&sn2=
+#EXTINF:-1 tvg-id="705076" tvg-name="EN - MARVEL CHANNEL 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/MARVEL-ONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - MARVEL CHANNEL 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=KHMSxB7iJB&sn2=
+#EXTINF:-1 tvg-id="705078" tvg-name="EN - KIDS CHANNEL 11 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 11 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705078&extension=ts&play_token=1GSMsjVQiQ&sn2=
+#EXTINF:-1 tvg-id="705079" tvg-name="EN - KIDS CHANNEL 10 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 10 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705079&extension=ts&play_token=B8IFgKfCK7&sn2=
+#EXTINF:-1 tvg-id="705080" tvg-name="EN - KIDS CHANNEL 9 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 9 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705080&extension=ts&play_token=Zc4K3vISKj&sn2=
+#EXTINF:-1 tvg-id="705081" tvg-name="EN - KIDS CHANNEL 8 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 8 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705081&extension=ts&play_token=mxGZ8wNuhQ&sn2=
+#EXTINF:-1 tvg-id="705082" tvg-name="EN - KIDS CHANNEL 7 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 7 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705082&extension=ts&play_token=ljoOsW37cR&sn2=
+#EXTINF:-1 tvg-id="705083" tvg-name="EN - KIDS CHANNEL 6 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 6 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705083&extension=ts&play_token=ydwxPrwcqP&sn2=
+#EXTINF:-1 tvg-id="705084" tvg-name="EN - KIDS CHANNEL 5 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 5 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705084&extension=ts&play_token=SBcv07vukf&sn2=
+#EXTINF:-1 tvg-id="705085" tvg-name="EN - KIDS CHANNEL 4 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 4 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705085&extension=ts&play_token=6z4w5Q1fjU&sn2=
+#EXTINF:-1 tvg-id="705086" tvg-name="EN - KIDS CHANNEL 3 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705086&extension=ts&play_token=o9aWysWzTR&sn2=
+#EXTINF:-1 tvg-id="705087" tvg-name="EN - KIDS CHANNEL 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705087&extension=ts&play_token=rxXYRIbbVl&sn2=
+#EXTINF:-1 tvg-id="705088" tvg-name="EN - KIDS CHANNEL 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705088&extension=ts&play_token=bltEGwbp1B&sn2=
+#EXTINF:-1 tvg-id="705089" tvg-name="EN - KIDS CHANNEL 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/KIDS--NETONDEMAND.png" group-title="EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705089&extension=ts&play_token=vQHoYIs6mm&sn2=
+#EXTINF:-1 tvg-id="705091" tvg-name="EN - HULU 6 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HULU-.png" group-title="EN| 24/7 ENGLISH 4K",EN - HULU 6 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705091&extension=ts&play_token=pjMFaOAwGS&sn2=
+#EXTINF:-1 tvg-id="705092" tvg-name="EN - HULU 5 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HULU-.png" group-title="EN| 24/7 ENGLISH 4K",EN - HULU 5 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705092&extension=ts&play_token=HUFApMOeP4&sn2=
+#EXTINF:-1 tvg-id="705093" tvg-name="EN - HULU 4 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HULU-.png" group-title="EN| 24/7 ENGLISH 4K",EN - HULU 4 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705093&extension=ts&play_token=lWckCQUtaE&sn2=
+#EXTINF:-1 tvg-id="705094" tvg-name="EN - HULU 3 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HULU-.png" group-title="EN| 24/7 ENGLISH 4K",EN - HULU 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705094&extension=ts&play_token=knoTyoE4iW&sn2=
+#EXTINF:-1 tvg-id="705095" tvg-name="EN - HULU 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HULU-.png" group-title="EN| 24/7 ENGLISH 4K",EN - HULU 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705095&extension=ts&play_token=fZskOdGk0q&sn2=
+#EXTINF:-1 tvg-id="705096" tvg-name="EN - HULU 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HULU-.png" group-title="EN| 24/7 ENGLISH 4K",EN - HULU 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705096&extension=ts&play_token=h23CGsUCa7&sn2=
+#EXTINF:-1 tvg-id="705097" tvg-name="EN - HULU 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HULU-.png" group-title="EN| 24/7 ENGLISH 4K",EN - HULU 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705097&extension=ts&play_token=gkBkUhYMjg&sn2=
+#EXTINF:-1 tvg-id="705099" tvg-name="EN - HBO MAX 7 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - HBO MAX 7 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705099&extension=ts&play_token=d3NAXbs8qo&sn2=
+#EXTINF:-1 tvg-id="705100" tvg-name="EN - HBO MAX 6 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - HBO MAX 6 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UnDIWzqqF7&sn2=
+#EXTINF:-1 tvg-id="705101" tvg-name="EN - HBO MAX 5 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - HBO MAX 5 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HmNh1Ic4w6&sn2=
+#EXTINF:-1 tvg-id="705102" tvg-name="EN - HBO MAX 4 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - HBO MAX 4 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=k7SZIfgYuu&sn2=
+#EXTINF:-1 tvg-id="705103" tvg-name="EN - HBO MAX 3 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - HBO MAX 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=iFGxEeU38r&sn2=
+#EXTINF:-1 tvg-id="705104" tvg-name="EN - HBO MAX 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - HBO MAX 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vd8U7bCZkc&sn2=
+#EXTINF:-1 tvg-id="705105" tvg-name="EN - HBO MAX 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - HBO MAX 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fTQg0dMp6V&sn2=
+#EXTINF:-1 tvg-id="705106" tvg-name="EN - HBO MAX F&F 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/HBO-MAX.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - HBO MAX F&F 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=4cjU0p9BLa&sn2=
+#EXTINF:-1 tvg-id="705108" tvg-name="EN - MAFIA & GANGSTER 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/MAFFIA-GANGSTER.png" group-title="EN| 24/7 ENGLISH 4K",EN - MAFIA & GANGSTER 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705108&extension=ts&play_token=7y5qI5vkxK&sn2=
+#EXTINF:-1 tvg-id="705109" tvg-name="EN - MAFIA & GANGSTER 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/MAFFIA-GANGSTER.png" group-title="EN| 24/7 ENGLISH 4K",EN - MAFIA & GANGSTER 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705109&extension=ts&play_token=vJQzXNOSQI&sn2=
+#EXTINF:-1 tvg-id="705110" tvg-name="EN - MAFIA & GANGSTER 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/MAFFIA-GANGSTER.png" group-title="EN| 24/7 ENGLISH 4K",EN - MAFIA & GANGSTER 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=705110&extension=ts&play_token=s8MVXDyBmL&sn2=
+#EXTINF:-1 tvg-id="705112" tvg-name="EN - BOX OFFICE 2022 5 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/BOX--OFFICE.png" group-title="EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 5 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9ZpEJPpTaV&sn2=
+#EXTINF:-1 tvg-id="705113" tvg-name="EN - BOX OFFICE 2022 4 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/BOX--OFFICE.png" group-title="EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 4 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UQxRrGjgYR&sn2=
+#EXTINF:-1 tvg-id="705114" tvg-name="EN - BOX OFFICE 2022 3 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/BOX--OFFICE.png" group-title="EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=E4v2T7PGHr&sn2=
+#EXTINF:-1 tvg-id="705115" tvg-name="EN - BOX OFFICE 2022 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/BOX--OFFICE.png" group-title="EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=4HwxfPRy91&sn2=
+#EXTINF:-1 tvg-id="705116" tvg-name="EN - BOX OFFICE 2022 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/BOX--OFFICE.png" group-title="EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=to8EC4dZTJ&sn2=
+#EXTINF:-1 tvg-id="705117" tvg-name="EN - BOX OFFICE 2022 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/BOX--OFFICE.png" group-title="EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FE7ulw8Im8&sn2=
+#EXTINF:-1 tvg-id="705119" tvg-name="EN - ALL TIME BEST 2 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/TOP-MOVIES.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - ALL TIME BEST 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5HPqKiqM0p&sn2=
+#EXTINF:-1 tvg-id="705120" tvg-name="EN - ALL TIME BEST 1 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/TOP-MOVIES.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - ALL TIME BEST 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DtHKEntW6E&sn2=
+#EXTINF:-1 tvg-id="705121" tvg-name="EN - ALL TIME BEST 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/TOP-MOVIES.jpeg" group-title="EN| 24/7 ENGLISH 4K",EN - ALL TIME BEST 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WUhXq9cUlT&sn2=
 #EXTINF:-1 tvg-id="710928" tvg-name="FR - ENFANT 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/710928.png" group-title="FR| FRANCE ENFANTS",FR - ENFANT 1 FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=710928&extension=ts&play_token=uegcYOGZyp&sn2=
 #EXTINF:-1 tvg-id="710929" tvg-name="FR - ENFANT 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/710929.png" group-title="FR| FRANCE ENFANTS",FR - ENFANT 2 FHD
@@ -5321,6 +5497,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=3YUz5kmOIy&sn2=
 #EXTINF:-1 tvg-id="721480" tvg-name="FR - ZING HD" tvg-logo="http://51.158.145.100/picons/logos/france/721480.png" group-title="FR| FRANCE CARRIBEAN",FR - ZING HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bmRbzdOcyx&sn2=
+#EXTINF:-1 tvg-id="722506" tvg-name="EN - RULES OF ENGAGEMENT 4K" tvg-logo="https://www.seekpng.com/png/full/103-1034049_rules-of-engagement-return-date-rules-of-engagement.png" group-title="EN| 24/7 ENGLISH 4K",EN - RULES OF ENGAGEMENT 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=c0dEZCWcll&sn2=
 #EXTINF:-1 tvg-id="723590" tvg-name="ENG - 24/7 MISSION IMPOSSIBLE" tvg-logo="http://103.176.90.118/picons-dino/logos/24.7.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 MISSION IMPOSSIBLE
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hib9yLhkGu&sn2=
 #EXTINF:-1 tvg-id="723870" tvg-name="ES - M PELICULAS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/1200px-Movistar_TV.svg.png" group-title="ES| M.PELICULAS",ES - M PELICULAS 1
@@ -5693,6 +5871,26 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=L6aBNM5ZsS&sn2=
 #EXTINF:-1 tvg-id="766855" tvg-name="UK - SUPERSPORT 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="EN| SPORTS",UK - SUPERSPORT 4 HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=t2J9ZupoVS&sn2=
+#EXTINF:-1 tvg-id="766940" tvg-name="EN - CHRISTMAS 1 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 1 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SoKRWUs258&sn2=
+#EXTINF:-1 tvg-id="766941" tvg-name="EN - CHRISTMAS 2 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 2 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=YMvDXk3TKh&sn2=
+#EXTINF:-1 tvg-id="766942" tvg-name="EN - CHRISTMAS 4 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 4 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=8m6QjmLspy&sn2=
+#EXTINF:-1 tvg-id="766943" tvg-name="EN - CHRISTMAS 5 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 5 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zZZY9No7SF&sn2=
+#EXTINF:-1 tvg-id="766944" tvg-name="EN - CHRISTMAS 3 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 3 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=M1ybDA0U5G&sn2=
+#EXTINF:-1 tvg-id="766945" tvg-name="EN - CHRISTMAS 6 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 6 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MZFkCP3frr&sn2=
+#EXTINF:-1 tvg-id="766946" tvg-name="EN - CHRISTMAS 7 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 7 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=x2QpbmyhoD&sn2=
+#EXTINF:-1 tvg-id="766947" tvg-name="EN - CHRISTMAS 8 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 8 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=S3od4Vosn7&sn2=
+#EXTINF:-1 tvg-id="766948" tvg-name="EN - CHRISTMAS 9 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 9 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FgBjF0PDpt&sn2=
+#EXTINF:-1 tvg-id="766949" tvg-name="EN - CHRISTMAS 10 4K" tvg-logo="http://103.176.90.118/picons/logos/CHRISTMAS.jpg" group-title="EN| 24/7 ENGLISH 4K",EN - CHRISTMAS 10 4K
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=4TM6v6DxSr&sn2=
 #EXTINF:-1 tvg-id="767760" tvg-name="UK - TOM & JERRY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TOMJERRY.png" group-title="EN| KIDS",UK - TOM & JERRY
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=rsJx98U5Jk&sn2=
 #EXTINF:-1 tvg-id="767761" tvg-name="ENG - 24/7 THE WALKING DEAD" tvg-logo="http://51.158.145.100/picons/logos/logos/THE-WALKING-DEAD.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 THE WALKING DEAD
@@ -6407,6 +6605,146 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=828386&extens
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=828387&extension=ts&play_token=SQbX9vQ4we&sn2=
 #EXTINF:-1 tvg-id="829902" tvg-name="ENG - 24/7 AMERICAN DAD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AMERICAN-DAD.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 AMERICAN DAD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=829902&extension=ts&play_token=NcfguGQfzG&sn2=
+#EXTINF:-1 tvg-id="841538" tvg-name="ENG - TS HITS" tvg-logo="http://103.176.90.118/picons/logos/TS-HITS.png" group-title="EN| ENGLISH",ENG - TS HITS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QSATuEyExF&sn2=
+#EXTINF:-1 tvg-id="841539" tvg-name="ENG - D2H RHYMIS" tvg-logo="http://103.176.90.118/picons/logos/d2h.jpg" group-title="EN| ENGLISH",ENG - D2H RHYMIS
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=dAO8qgzB8p&sn2=
+#EXTINF:-1 tvg-id="841540" tvg-name="ENG - DISNEY INTER" tvg-logo="http://103.176.90.118/picons/logos/disneyinenglish.png" group-title="EN| ENGLISH",ENG - DISNEY INTER
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hKRO3ppR7J&sn2=
+#EXTINF:-1 tvg-id="841542" tvg-name="ENG - NEWS X" tvg-logo="http://103.176.90.118/picons/logos/NEWS-X.jpg" group-title="EN| ENGLISH",ENG - NEWS X
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zDFEGVWbxy&sn2=
+#EXTINF:-1 tvg-id="841543" tvg-name="ENG - NDTV 24x7" tvg-logo="http://103.176.90.118/picons/logos/in.NDTV_24X7.png" group-title="EN| ENGLISH",ENG - NDTV 24x7
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=b0mW1aCYDV&sn2=
+#EXTINF:-1 tvg-id="841544" tvg-name="ENG - HOPE TV" tvg-logo="http://103.176.90.118/picons/logos/hopetv.png" group-title="EN| ENGLISH",ENG - HOPE TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7yBNvoUfyu&sn2=
+#EXTINF:-1 tvg-id="841549" tvg-name="ENG - CARTOON NETWORK" tvg-logo="http://103.176.90.118/picons/logos/cartoonnetwork.png" group-title="EN| ENGLISH",ENG - CARTOON NETWORK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xbtQHh7lqY&sn2=
+#EXTINF:-1 tvg-id="841551" tvg-name="ENG - NDTV PROFIT" tvg-logo="http://103.176.90.118/picons/logos/NDTV-PROFIT.jpeg" group-title="EN| ENGLISH",ENG - NDTV PROFIT
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=1jxXO8GxxV&sn2=
+#EXTINF:-1 tvg-id="841552" tvg-name="ENG - NICK" tvg-logo="http://103.176.90.118/picons/logos/NICK-JR-HD.png" group-title="EN| ENGLISH",ENG - NICK
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lZkVxutR9L&sn2=
+#EXTINF:-1 tvg-id="842138" tvg-name="UK - NFL HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - NFL HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tslIXiIxCK&sn2=
+#EXTINF:-1 tvg-id="842139" tvg-name="UK - XTRA 83 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 83 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=842139&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="842140" tvg-name="UK - XTRA 83 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 83 FHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=b4gXxXwnQd&sn2=
+#EXTINF:-1 tvg-id="842141" tvg-name="UK - XTRA 82 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 82 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qBDoAI2F8X&sn2=
+#EXTINF:-1 tvg-id="842142" tvg-name="UK - XTRA 81 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 81 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UQapZASbaD&sn2=
+#EXTINF:-1 tvg-id="842143" tvg-name="UK - XTRA 80 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 80 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BLa2VATQPl&sn2=
+#EXTINF:-1 tvg-id="842144" tvg-name="UK - XTRA 79 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 79 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=842144&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="842145" tvg-name="UK - XTRA 78 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 78 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DpztdL8nyA&sn2=
+#EXTINF:-1 tvg-id="842146" tvg-name="UK - XTRA 77 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 77 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=m9FvvJ1GPd&sn2=
+#EXTINF:-1 tvg-id="842147" tvg-name="UK - XTRA 76 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 76 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=B4YJH8DCUH&sn2=
+#EXTINF:-1 tvg-id="842148" tvg-name="UK - XTRA 75 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 75 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mEnjU7GKNT&sn2=
+#EXTINF:-1 tvg-id="842149" tvg-name="UK - XTRA 74 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 74 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mLCYRIhODJ&sn2=
+#EXTINF:-1 tvg-id="842150" tvg-name="UK - XTRA 73 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 73 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=NRL1zfd6jV&sn2=
+#EXTINF:-1 tvg-id="842151" tvg-name="UK - XTRA 72 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 72 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FFpsJ1F3No&sn2=
+#EXTINF:-1 tvg-id="842152" tvg-name="UK - XTRA 71 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 71 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VibbXGuQYi&sn2=
+#EXTINF:-1 tvg-id="842153" tvg-name="UK - XTRA 71 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 71 FHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=KybmV4D6Go&sn2=
+#EXTINF:-1 tvg-id="842154" tvg-name="UK - XTRA 70 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 70 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=N0Fk2qtGuc&sn2=
+#EXTINF:-1 tvg-id="842155" tvg-name="UK - XTRA 69 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 69 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=emx6DQyWf5&sn2=
+#EXTINF:-1 tvg-id="842156" tvg-name="UK - XTRA 68 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 68 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SaZ7qcRGrZ&sn2=
+#EXTINF:-1 tvg-id="842157" tvg-name="UK - XTRA 67 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 67 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mvc25xj7dE&sn2=
+#EXTINF:-1 tvg-id="842158" tvg-name="UK - XTRA 66 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 66 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WpER2LScvh&sn2=
+#EXTINF:-1 tvg-id="842159" tvg-name="UK - XTRA 65 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 65 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xp106c5hWi&sn2=
+#EXTINF:-1 tvg-id="842160" tvg-name="UK - XTRA 64 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 64 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BDy5siBWJH&sn2=
+#EXTINF:-1 tvg-id="842161" tvg-name="UK - XTRA 63 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 63 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=aeX2zuyLrJ&sn2=
+#EXTINF:-1 tvg-id="842162" tvg-name="UK - XTRA 50 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 50 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=LPfcB6cIo1&sn2=
+#EXTINF:-1 tvg-id="842163" tvg-name="UK - XTRA 49 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 49 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WSDimZ1bsK&sn2=
+#EXTINF:-1 tvg-id="842164" tvg-name="UK - XTRA 48 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 48 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=G1IQaahnXD&sn2=
+#EXTINF:-1 tvg-id="842165" tvg-name="UK - XTRA 44 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 44 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BImPmPW5RV&sn2=
+#EXTINF:-1 tvg-id="842166" tvg-name="UK - XTRA 40 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 40 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=FRJX63TswD&sn2=
+#EXTINF:-1 tvg-id="842167" tvg-name="UK - XTRA 26 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 26 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=YBzL8sMIV5&sn2=
+#EXTINF:-1 tvg-id="842168" tvg-name="UK - XTRA 25 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 25 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=RO7h3TDBjz&sn2=
+#EXTINF:-1 tvg-id="842169" tvg-name="UK - XTRA 23 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 23 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=E5guVpYbwx&sn2=
+#EXTINF:-1 tvg-id="842170" tvg-name="UK - XTRA 22 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 22 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cwEIKYb2yE&sn2=
+#EXTINF:-1 tvg-id="842171" tvg-name="UK - XTRA 21 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 21 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=5HdVDJdVdp&sn2=
+#EXTINF:-1 tvg-id="842172" tvg-name="UK - XTRA 20 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 20 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=l8yM9juIrd&sn2=
+#EXTINF:-1 tvg-id="842173" tvg-name="UK - XTRA 19 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 19 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bhSs4iuO8m&sn2=
+#EXTINF:-1 tvg-id="842174" tvg-name="UK - XTRA 18 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 18 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hKZvCkKuqV&sn2=
+#EXTINF:-1 tvg-id="842175" tvg-name="UK - XTRA 17 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 17 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=sUvdIPItDH&sn2=
+#EXTINF:-1 tvg-id="842176" tvg-name="UK - XTRA 15 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 15 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=0LsPAf0XUO&sn2=
+#EXTINF:-1 tvg-id="842177" tvg-name="UK - XTRA 14 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 14 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=l5cxGcZPZU&sn2=
+#EXTINF:-1 tvg-id="842178" tvg-name="UK - XTRA 13 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 13 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=iB9Q9cte7f&sn2=
+#EXTINF:-1 tvg-id="842179" tvg-name="UK - XTRA 12 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 12 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=nTgDyNWPef&sn2=
+#EXTINF:-1 tvg-id="842180" tvg-name="UK - XTRA 11 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 11 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Sq4Rrr8YGc&sn2=
+#EXTINF:-1 tvg-id="842181" tvg-name="UK - XTRA 10 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 10 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QTgwfe8ZAQ&sn2=
+#EXTINF:-1 tvg-id="842182" tvg-name="UK - XTRA 9 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 9 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=plXuz9PoEu&sn2=
+#EXTINF:-1 tvg-id="842183" tvg-name="UK - XTRA 8 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 8 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zHgSzMWFOq&sn2=
+#EXTINF:-1 tvg-id="842184" tvg-name="UK - XTRA 7 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 7 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=iaVeQQlduM&sn2=
+#EXTINF:-1 tvg-id="842185" tvg-name="UK - XTRA 6 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 6 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VgMgPb7MfJ&sn2=
+#EXTINF:-1 tvg-id="842186" tvg-name="UK - XTRA 5 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 5 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WuNNQNjZV1&sn2=
+#EXTINF:-1 tvg-id="842187" tvg-name="UK - XTRA 4 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 4 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=842187&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="842188" tvg-name="UK - XTRA 3 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 3 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=g3s92exTtJ&sn2=
+#EXTINF:-1 tvg-id="842189" tvg-name="UK - XTRA 2 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 2 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=IB5venz5h8&sn2=
+#EXTINF:-1 tvg-id="842190" tvg-name="UK - XTRA 1 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - XTRA 1 HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WifTEBNaJl&sn2=
+#EXTINF:-1 tvg-id="842191" tvg-name="UK - PREMIER LEAGUE TOP EVENT HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - PREMIER LEAGUE TOP EVENT HD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ia35OwcuPB&sn2=
+#EXTINF:-1 tvg-id="842192" tvg-name="UK - PREMIER LEAGUE TOP EVENT FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" group-title="EN| VIAPLAY PPV",UK - PREMIER LEAGUE TOP EVENT FHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=gJjRuK1E8r&sn2=
+#EXTINF:-1 tvg-id="843895" tvg-name="ENG - CNBC PRIME UHD" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/cnbc-tv18.png" group-title="EN| ENGLISH",ENG - CNBC PRIME UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=4PMdPGIoEO&sn2=
+#EXTINF:-1 tvg-id="843898" tvg-name="ENG - NAT GEO UHD" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/NATIONALGEOGRAPHICHD.png" group-title="EN| ENGLISH",ENG - NAT GEO UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bQuzy2f7OV&sn2=
+#EXTINF:-1 tvg-id="843899" tvg-name="ENG - SONY PIX UHD" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/sony-pix.png" group-title="EN| ENGLISH",ENG - SONY PIX UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ceEELgo876&sn2=
+#EXTINF:-1 tvg-id="843900" tvg-name="ENG - TLC UHD" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/TLCHDWORLD.png" group-title="EN| ENGLISH",ENG - TLC UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=EkbjUjlSaD&sn2=
+#EXTINF:-1 tvg-id="843901" tvg-name="ENG - AND FLIX UHD" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/and-flix.png" group-title="EN| ENGLISH",ENG - AND FLIX UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kqeV9ztclV&sn2=
+#EXTINF:-1 tvg-id="843902" tvg-name="ENG - TIMES NOW UHD" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/TIMESNOWNEWSHD.png" group-title="EN| ENGLISH",ENG - TIMES NOW UHD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=OYSTNdOfGc&sn2=
 #EXTINF:-1 tvg-id="845035" tvg-name="ES - INTERCOMARCAL TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INTERCOMARCAL.png" group-title="ES| LOCALS",ES - INTERCOMARCAL TV
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=G1kQrZWFPZ&sn2=
 #EXTINF:-1 tvg-id="845284" tvg-name="FR - CLUBBING TV HEVC" tvg-logo="http://51.158.145.100/picons/logos/france/845284.png" group-title="FR| FRANCE HEVC",FR - CLUBBING TV HEVC
@@ -6749,6 +7087,28 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lS9iBlucvc&sn2=
 #EXTINF:-1 tvg-id="880931" tvg-name="ENG - 24/7 WKRP" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WKRP.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 WKRP
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=q3pjaTIEHi&sn2=
+#EXTINF:-1 tvg-id="882221" tvg-name="EN - CLINT EASTWOOD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CLINT-EASTWOOD.png" group-title="EN| 24/7 ENGLISH 4K",EN - CLINT EASTWOOD
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=demP7UiuV7&sn2=
+#EXTINF:-1 tvg-id="882222" tvg-name="EN - JAMES BOND 007" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/JAMES-BOND007.png" group-title="EN| 24/7 ENGLISH 4K",EN - JAMES BOND 007
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=wyhCOKZv3R&sn2=
+#EXTINF:-1 tvg-id="882223" tvg-name="EN - HORROR CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HORROR.png" group-title="EN| 24/7 ENGLISH 4K",EN - HORROR CHANNEL
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=91hWZOKozi&sn2=
+#EXTINF:-1 tvg-id="882224" tvg-name="EN - HALLMARK CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/hallmark.png" group-title="EN| 24/7 ENGLISH 4K",EN - HALLMARK CHANNEL
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=pg6soN1ARg&sn2=
+#EXTINF:-1 tvg-id="882225" tvg-name="EN - GUNSMOKE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GUNSMOKE.png" group-title="EN| 24/7 ENGLISH 4K",EN - GUNSMOKE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vN4gLqMh9v&sn2=
+#EXTINF:-1 tvg-id="882226" tvg-name="EN - DISCOVERY+ IMAX" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Discovery+.png" group-title="EN| 24/7 ENGLISH 4K",EN - DISCOVERY+ IMAX
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2oKKp5wI5l&sn2=
+#EXTINF:-1 tvg-id="882227" tvg-name="EN - DISCOVERY+ DOC 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Discovery+.png" group-title="EN| 24/7 ENGLISH 4K",EN - DISCOVERY+ DOC 1
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cLZDm5WNw9&sn2=
+#EXTINF:-1 tvg-id="882228" tvg-name="EN - DISCOVERY+ DOC 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Discovery+.png" group-title="EN| 24/7 ENGLISH 4K",EN - DISCOVERY+ DOC 2
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=pLfyPLOjNO&sn2=
+#EXTINF:-1 tvg-id="882229" tvg-name="EN - PIXAR CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PIXAR.png" group-title="EN| 24/7 ENGLISH 4K",EN - PIXAR CHANNEL
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bzdoSowWah&sn2=
+#EXTINF:-1 tvg-id="882230" tvg-name="EN - TOM HARDY COLLECTION" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TOM-HARDY.png" group-title="EN| 24/7 ENGLISH 4K",EN - TOM HARDY COLLECTION
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hVe8QUCZs6&sn2=
+#EXTINF:-1 tvg-id="882231" tvg-name="EN - TOP MOVIES" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TOP-MOVIES.png" group-title="EN| 24/7 ENGLISH 4K",EN - TOP MOVIES
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ih7oEM23Da&sn2=
 #EXTINF:-1 tvg-id="883174" tvg-name="FR - FOX KIDS" tvg-logo="http://51.158.145.100/picons/logos/france/883174.png" group-title="FR| FRANCE ENFANTS",FR - FOX KIDS
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=y1fQBIoT6M&sn2=
 #EXTINF:-1 tvg-id="883662" tvg-name="ENG - 24/7 MET GALA 2023" tvg-logo="http://103.176.90.118/picons/logos/USA/MET-GALA-2023.png" group-title="EN| 24/7 ENGLISH",ENG - 24/7 MET GALA 2023
@@ -6999,6 +7359,204 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=988512&extension=ts&play_token=N8Kzda4viZ&sn2=
 #EXTINF:-1 tvg-id="988513" tvg-name="UK - TALKING PICTURES" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TALKINGPICTURES.png" group-title="EN| MOVIES",UK - TALKING PICTURES
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=4NPErIWTME&sn2=
+#EXTINF:-1 tvg-id="990464" tvg-name="D+ (UK) Events 1: Rugby | Northampton Saints _ Vodacom Bulls | Investec Champions Cup | Quarter_Final | Wed 31 Jul 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 1: Rugby | Northampton Saints _ Vodacom Bulls | Investec Champions Cup | Quarter_Final | Wed 31 Jul 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990464&extension=ts&play_token=rMu797lSqh&sn2=
+#EXTINF:-1 tvg-id="990465" tvg-name="D+ (UK) Events 2: Professional Wrestling | WWE Raw | Wed 31 Jul 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 2: Professional Wrestling | WWE Raw | Wed 31 Jul 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990465&extension=ts&play_token=KNXajAU3tM&sn2=
+#EXTINF:-1 tvg-id="990466" tvg-name="D+ (UK) Events 3: UEFA Documentaries | Champions League Defining Moments | Wed 31 Jul 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 3: UEFA Documentaries | Champions League Defining Moments | Wed 31 Jul 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990466&extension=ts&play_token=9TE62WFOQN&sn2=
+#EXTINF:-1 tvg-id="990467" tvg-name="D+ (UK) Events 4: MLB Classic | 2023 Top Finishes | Wed 31 Jul 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 4: MLB Classic | 2023 Top Finishes | Wed 31 Jul 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990467&extension=ts&play_token=o3zfEf4u8p&sn2=
+#EXTINF:-1 tvg-id="990468" tvg-name="D+ (UK) Events 5: Rugby | Northampton Saints _ Vodacom Bulls | Investec Champions Cup | Quarter_Final | Wed 31 Jul 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 5: Rugby | Northampton Saints _ Vodacom Bulls | Investec Champions Cup | Quarter_Final | Wed 31 Jul 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990468&extension=ts&play_token=GZ5JwYKNzq&sn2=
+#EXTINF:-1 tvg-id="990469" tvg-name="D+ (UK) Events 6: Professional Wrestling | WWE Raw | Wed 31 Jul 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 6: Professional Wrestling | WWE Raw | Wed 31 Jul 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990469&extension=ts&play_token=Mx2eVONhXA&sn2=
+#EXTINF:-1 tvg-id="990470" tvg-name="D+ (UK) Events 7: UEFA Documentaries | Champions League Defining Moments | Wed 31 Jul 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 7: UEFA Documentaries | Champions League Defining Moments | Wed 31 Jul 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990470&extension=ts&play_token=HzifVlfT6r&sn2=
+#EXTINF:-1 tvg-id="990471" tvg-name="D+ (UK) Events 8: MLB Classic | 2023 Top Finishes | Wed 31 Jul 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 8: MLB Classic | 2023 Top Finishes | Wed 31 Jul 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990471&extension=ts&play_token=AB4DASeydK&sn2=
+#EXTINF:-1 tvg-id="990472" tvg-name="D+ (UK) Events 9: Rugby | Leinster Rugby _ Northampton Saints | Investec Champions Cup | Semi_Final | Wed 31 Jul 09:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 9: Rugby | Leinster Rugby _ Northampton Saints | Investec Champions Cup | Semi_Final | Wed 31 Jul 09:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990472&extension=ts&play_token=LrwgRmRYSi&sn2=
+#EXTINF:-1 tvg-id="990473" tvg-name="D+ (UK) Events 10: MLB Classic | Top Games 2023 | Wed 31 Jul 09:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 10: MLB Classic | Top Games 2023 | Wed 31 Jul 09:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990473&extension=ts&play_token=EgdulVZeMr&sn2=
+#EXTINF:-1 tvg-id="990474" tvg-name="D+ (UK) Events 11: Rugby | Toulouse _ Harlequins | Investec Champions Cup | Semi_Final | Wed 31 Jul 10:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 11: Rugby | Toulouse _ Harlequins | Investec Champions Cup | Semi_Final | Wed 31 Jul 10:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990474&extension=ts&play_token=MN460dYnd5&sn2=
+#EXTINF:-1 tvg-id="990475" tvg-name="D+ (UK) Events 12: Triathlon | T100 Triathlon World Tour | London | Countdown | Wed 31 Jul 10:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 12: Triathlon | T100 Triathlon World Tour | London | Countdown | Wed 31 Jul 10:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990475&extension=ts&play_token=FhHcpfsnGi&sn2=
+#EXTINF:-1 tvg-id="990476" tvg-name="D+ (UK) Events 13: MLB Classic | Top Rookies 2023 | Wed 31 Jul 10:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 13: MLB Classic | Top Rookies 2023 | Wed 31 Jul 10:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990476&extension=ts&play_token=J1c4qdG7O9&sn2=
+#EXTINF:-1 tvg-id="990477" tvg-name="D+ (UK) Events 14: Rugby | Leinster Rugby _ Toulouse | Investec Champions Cup | Final | Wed 31 Jul 11:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 14: Rugby | Leinster Rugby _ Toulouse | Investec Champions Cup | Final | Wed 31 Jul 11:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990477&extension=ts&play_token=uGJQ7T4NkY&sn2=
+#EXTINF:-1 tvg-id="990478" tvg-name="D+ (UK) Events 15: Australian Rules Football | Gold Coast Suns _ Brisbane Lions | AFL | Wed 31 Jul 11:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 15: Australian Rules Football | Gold Coast Suns _ Brisbane Lions | AFL | Wed 31 Jul 11:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=669tK5DtfZ&sn2=
+#EXTINF:-1 tvg-id="990479" tvg-name="D+ (UK) Events 16: Sign Up: Into Football | Wed 31 Jul 11:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 16: Sign Up: Into Football | Wed 31 Jul 11:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=X5qEMFPXsN&sn2=
+#EXTINF:-1 tvg-id="990480" tvg-name="D+ (UK) Events 17: Rugby | Gloucester _ Ospreys | EPCR Challenge Cup | Quarter_Final | Wed 31 Jul 12:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 17: Rugby | Gloucester _ Ospreys | EPCR Challenge Cup | Quarter_Final | Wed 31 Jul 12:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ZDb3Nla4EN&sn2=
+#EXTINF:-1 tvg-id="990481" tvg-name="D+ (UK) Events 18: NBA Originals | Steph Curry | Wed 31 Jul 12:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 18: NBA Originals | Steph Curry | Wed 31 Jul 12:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VuASnSRlMJ&sn2=
+#EXTINF:-1 tvg-id="990482" tvg-name="D+ (UK) Events 19: NBA Originals | Jason Kidd | Wed 31 Jul 12:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 19: NBA Originals | Jason Kidd | Wed 31 Jul 12:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990482&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="990483" tvg-name="D+ (UK) Events 20: Rugby | Hollywoodbets Sharks  _ ASM Clermont | EPCR Challenge Cup | Semi_Final | Wed 31 Jul 13:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 20: Rugby | Hollywoodbets Sharks  _ ASM Clermont | EPCR Challenge Cup | Semi_Final | Wed 31 Jul 13:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tcz5Eec6Vz&sn2=
+#EXTINF:-1 tvg-id="990484" tvg-name="D+ (UK) Events 21: Australian Rules Football | Melbourne _ GWS Giants | AFL | Wed 31 Jul 13:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 21: Australian Rules Football | Melbourne _ GWS Giants | AFL | Wed 31 Jul 13:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=XIpex5IBjC&sn2=
+#EXTINF:-1 tvg-id="990485" tvg-name="D+ (UK) Events 22: Rallycross | World Rallycross Championship | Hungary | Day 1 | Wed 31 Jul 13:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 22: Rallycross | World Rallycross Championship | Hungary | Day 1 | Wed 31 Jul 13:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ebv3VbzzKe&sn2=
+#EXTINF:-1 tvg-id="990486" tvg-name="D+ (UK) Events 23: The WRC Magazine | Rally Finland | Wed 31 Jul 13:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 23: The WRC Magazine | Rally Finland | Wed 31 Jul 13:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9qezBsg3bc&sn2=
+#EXTINF:-1 tvg-id="990487" tvg-name="D+ (UK) Events 24: NBA Originals | Bill Russell | Wed 31 Jul 13:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 24: NBA Originals | Bill Russell | Wed 31 Jul 13:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=suO4fgWhxQ&sn2=
+#EXTINF:-1 tvg-id="990488" tvg-name="D+ (UK) Events 25: Rugby | Gloucester _ Benetton Rugby | EPCR Challenge Cup | Semi_Final | Wed 31 Jul 14:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 25: Rugby | Gloucester _ Benetton Rugby | EPCR Challenge Cup | Semi_Final | Wed 31 Jul 14:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=k8oCMCKUO7&sn2=
+#EXTINF:-1 tvg-id="990489" tvg-name="D+ (UK) Events 26: Rallycross | World Rallycross Championship | Hungary | Day 2 | Wed 31 Jul 14:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 26: Rallycross | World Rallycross Championship | Hungary | Day 2 | Wed 31 Jul 14:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SJpcvGUCbD&sn2=
+#EXTINF:-1 tvg-id="990490" tvg-name="D+ (UK) Events 27: Motorsports | European Rally Championship | Wed 31 Jul 15:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 27: Motorsports | European Rally Championship | Wed 31 Jul 15:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=XhO2OSHkUh&sn2=
+#EXTINF:-1 tvg-id="990491" tvg-name="D+ (UK) Events 28: Rugby | Gloucester _ Hollywoodbets Sharks | EPCR Challenge Cup | Final | Wed 31 Jul 15:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 28: Rugby | Gloucester _ Hollywoodbets Sharks | EPCR Challenge Cup | Final | Wed 31 Jul 15:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vWfIWxLktB&sn2=
+#EXTINF:-1 tvg-id="990492" tvg-name="D+ (UK) Events 29: NBA Originals | Wed 31 Jul 15:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 29: NBA Originals | Wed 31 Jul 15:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Sd6reS9VKP&sn2=
+#EXTINF:-1 tvg-id="990493" tvg-name="D+ (UK) Events 30: NBA Originals | Wed 31 Jul 15:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 30: NBA Originals | Wed 31 Jul 15:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=uBIlUyxeCK&sn2=
+#EXTINF:-1 tvg-id="990494" tvg-name="D+ (UK) Events 31: The Jake Dixon Diaries _ Part 2 | Original Documentaries | Wed 31 Jul 15:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 31: The Jake Dixon Diaries _ Part 2 | Original Documentaries | Wed 31 Jul 15:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=6XytbsM2oy&sn2=
+#EXTINF:-1 tvg-id="990495" tvg-name="D+ (UK) Events 32: The Jake Dixon Diares _ Part 1 | Original Documentaries | Wed 31 Jul 15:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 32: The Jake Dixon Diares _ Part 1 | Original Documentaries | Wed 31 Jul 15:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qQbYji2QBB&sn2=
+#EXTINF:-1 tvg-id="990496" tvg-name="D+ (UK) Events 33: NBA Originals | Wed 31 Jul 16:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 33: NBA Originals | Wed 31 Jul 16:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tJgh0cAr51&sn2=
+#EXTINF:-1 tvg-id="990497" tvg-name="D+ (UK) Events 34: NBA Originals | Wed 31 Jul 16:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 34: NBA Originals | Wed 31 Jul 16:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=pvsUc1hbHw&sn2=
+#EXTINF:-1 tvg-id="990498" tvg-name="D+ (UK) Events 35: The Jake Dixon Diaries _ Part 3 | Original Documentaries | Wed 31 Jul 16:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 35: The Jake Dixon Diaries _ Part 3 | Original Documentaries | Wed 31 Jul 16:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=QhEaIKoWQQ&sn2=
+#EXTINF:-1 tvg-id="990499" tvg-name="D+ (UK) Events 36: Badminton Weekly | Wed 31 Jul 16:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 36: Badminton Weekly | Wed 31 Jul 16:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=vRgNH3FDuQ&sn2=
+#EXTINF:-1 tvg-id="990500" tvg-name="D+ (UK) Events 37: Cricket | Bangla Tigers Mississauga _ Surrey Jaguars | GT20 | Wed 31 Jul 16:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 37: Cricket | Bangla Tigers Mississauga _ Surrey Jaguars | GT20 | Wed 31 Jul 16:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=990500&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="990501" tvg-name="D+ (UK) Events 38: Cricket | Sri Lanka _ India | 3rd T20 | Wed 31 Jul 16:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 38: Cricket | Sri Lanka _ India | 3rd T20 | Wed 31 Jul 16:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WoRHnoqCyw&sn2=
+#EXTINF:-1 tvg-id="990502" tvg-name="D+ (UK) Events 39: Triathlon | T100 Triathlon World Tour | London | Wed 31 Jul 17:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 39: Triathlon | T100 Triathlon World Tour | London | Wed 31 Jul 17:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zpzvDP8Jnu&sn2=
+#EXTINF:-1 tvg-id="990503" tvg-name="D+ (UK) Events 40: TNT Sports Reload | Episode 32 | Wed 31 Jul 17:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 40: TNT Sports Reload | Episode 32 | Wed 31 Jul 17:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hJJnV75biH&sn2=
+#EXTINF:-1 tvg-id="990504" tvg-name="D+ (UK) Events 41: MLB Plays of the Week | Episode 32 | Wed 31 Jul 17:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 41: MLB Plays of the Week | Episode 32 | Wed 31 Jul 17:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cDozauw5Lt&sn2=
+#EXTINF:-1 tvg-id="990505" tvg-name="D+ (UK) Events 42: Rally | WRC | Rally Finland | Opening Ceremony _ Day 1 | Wed 31 Jul 18:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 42: Rally | WRC | Rally Finland | Opening Ceremony _ Day 1 | Wed 31 Jul 18:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VsH5JswCH6&sn2=
+#EXTINF:-1 tvg-id="990506" tvg-name="D+ (UK) Events 43: Australian Rules Football | Gold Coast Suns _ Brisbane Lions | AFL | Wed 31 Jul 18:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 43: Australian Rules Football | Gold Coast Suns _ Brisbane Lions | AFL | Wed 31 Jul 18:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UkcG3Sf7fC&sn2=
+#EXTINF:-1 tvg-id="990507" tvg-name="D+ (UK) Events 44: Boxing | Joyce v Chisora | Fight Night Live | Heavyweight | Wed 31 Jul 18:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 44: Boxing | Joyce v Chisora | Fight Night Live | Heavyweight | Wed 31 Jul 18:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lCvZ6oCDo5&sn2=
+#EXTINF:-1 tvg-id="990508" tvg-name="D+ (UK) Events 45: Baseball | Atlanta Braves @ Milwaukee Brewers | MLB | Wed 31 Jul 20:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 45: Baseball | Atlanta Braves @ Milwaukee Brewers | MLB | Wed 31 Jul 20:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VtsDxnwfar&sn2=
+#EXTINF:-1 tvg-id="990509" tvg-name="D+ (UK) Events 46: Australian Rules Football | Melbourne _ GWS Giants | AFL | Wed 31 Jul 20:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 46: Australian Rules Football | Melbourne _ GWS Giants | AFL | Wed 31 Jul 20:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=35fVyk3VEF&sn2=
+#EXTINF:-1 tvg-id="990510" tvg-name="D+ (UK) Events 47: TNT Sports Reload | Wed 31 Jul 20:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 47: TNT Sports Reload | Wed 31 Jul 20:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hPwG1Woyli&sn2=
+#EXTINF:-1 tvg-id="990511" tvg-name="D+ (UK) Events 48: Pool | Ultimate Pool | Pairs Cup | Group 7 | Wed 31 Jul 20:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 48: Pool | Ultimate Pool | Pairs Cup | Group 7 | Wed 31 Jul 20:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=oviD2JTGNg&sn2=
+#EXTINF:-1 tvg-id="990512" tvg-name="D+ (UK) Events 49: Premier League Stories | Hwang Hee Chan | Wed 31 Jul 21:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 49: Premier League Stories | Hwang Hee Chan | Wed 31 Jul 21:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=1ES8UCK0g2&sn2=
+#EXTINF:-1 tvg-id="990513" tvg-name="D+ (UK) Events 50: Motorsports | European Rally Championship | Wed 31 Jul 21:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 50: Motorsports | European Rally Championship | Wed 31 Jul 21:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=TdGoH4WmAS&sn2=
+#EXTINF:-1 tvg-id="990514" tvg-name="D+ (UK) Events 51: TNT Sports Reload | Wed 31 Jul 21:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 51: TNT Sports Reload | Wed 31 Jul 21:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=orIz6Q0elv&sn2=
+#EXTINF:-1 tvg-id="990515" tvg-name="D+ (UK) Events 52: Cricket | Brampton Wolves _ Vancouver Knights | GT20 | Wed 31 Jul 21:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 52: Cricket | Brampton Wolves _ Vancouver Knights | GT20 | Wed 31 Jul 21:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mDU8QynXae&sn2=
+#EXTINF:-1 tvg-id="990516" tvg-name="D+ (UK) Events 53: Baseball | Seattle Mariners @ Boston Red Sox | MLB | Wed 31 Jul 22:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 53: Baseball | Seattle Mariners @ Boston Red Sox | MLB | Wed 31 Jul 22:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=WctpLzGmYo&sn2=
+#EXTINF:-1 tvg-id="990517" tvg-name="D+ (UK) Events 54: Australian Rules Football | Fremantle _ West Coast Eagles | AFL | Wed 31 Jul 23:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 54: Australian Rules Football | Fremantle _ West Coast Eagles | AFL | Wed 31 Jul 23:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=DnTnlpaSpk&sn2=
+#EXTINF:-1 tvg-id="990518" tvg-name="D+ (UK) Events 55: Boxing | Joyce _ Chisora | Fight Night Live | Heavyweight | Wed 31 Jul 23:15" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 55: Boxing | Joyce _ Chisora | Fight Night Live | Heavyweight | Wed 31 Jul 23:15
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=jFnHyMMpK4&sn2=
+#EXTINF:-1 tvg-id="990519" tvg-name="D+ (UK) Events 56: MLB Plays of the Week | Episode 32 | Thu 01 Aug 01:15" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 56: MLB Plays of the Week | Episode 32 | Thu 01 Aug 01:15
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=YSPevmYPwh&sn2=
+#EXTINF:-1 tvg-id="990520" tvg-name="D+ (UK) Events 57: TNT Sports Reload | Thu 01 Aug 01:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 57: TNT Sports Reload | Thu 01 Aug 01:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=8nBWytj0C1&sn2=
+#EXTINF:-1 tvg-id="990521" tvg-name="D+ (UK) Events 58: Badminton Weekly | Thu 01 Aug 01:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 58: Badminton Weekly | Thu 01 Aug 01:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=q6ZebXg3yE&sn2=
+#EXTINF:-1 tvg-id="990522" tvg-name="D+ (UK) Events 59: Rugby | Gloucester _ Leicester Tigers | Premiership Rugby Cup | Thu 01 Aug 01:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 59: Rugby | Gloucester _ Leicester Tigers | Premiership Rugby Cup | Thu 01 Aug 01:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VUP6wSmlJ7&sn2=
+#EXTINF:-1 tvg-id="990523" tvg-name="D+ (UK) Events 60: TNT Sports Reload | Episode 32 | Thu 01 Aug 01:15" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 60: TNT Sports Reload | Episode 32 | Thu 01 Aug 01:15
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=OEJ0x9LlKm&sn2=
+#EXTINF:-1 tvg-id="990524" tvg-name="D+ (UK) Events 61: South of the River | Part 1 | Original Documentaries | Thu 01 Aug 01:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 61: South of the River | Part 1 | Original Documentaries | Thu 01 Aug 01:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=VGpMVxiVnC&sn2=
+#EXTINF:-1 tvg-id="990525" tvg-name="D+ (UK) Events 62: Pool | Ultimate Pool | Pairs Cup | Group 7 | Thu 01 Aug 02:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 62: Pool | Ultimate Pool | Pairs Cup | Group 7 | Thu 01 Aug 02:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2ch0O54R0A&sn2=
+#EXTINF:-1 tvg-id="990526" tvg-name="D+ (UK) Events 63: UFC | The Ultimate Fighter | Series 32 | Episode 8 | Thu 01 Aug 02:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 63: UFC | The Ultimate Fighter | Series 32 | Episode 8 | Thu 01 Aug 02:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UGkAkTPHfd&sn2=
+#EXTINF:-1 tvg-id="990527" tvg-name="D+ (UK) Events 64: South of the River | Part 2 | Original Documentaries | Thu 01 Aug 02:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 64: South of the River | Part 2 | Original Documentaries | Thu 01 Aug 02:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=MOPgoniHWb&sn2=
+#EXTINF:-1 tvg-id="990528" tvg-name="D+ (UK) Events 65: MLB Classic | 1996 Home Run Derby | Thu 01 Aug 03:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 65: MLB Classic | 1996 Home Run Derby | Thu 01 Aug 03:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=C1v4YHkDkr&sn2=
+#EXTINF:-1 tvg-id="990529" tvg-name="D+ (UK) Events 66: Triathlon | T100 Triathlon World Tour | London | Countdown | Thu 01 Aug 03:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 66: Triathlon | T100 Triathlon World Tour | London | Countdown | Thu 01 Aug 03:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=USHz7gCZgp&sn2=
+#EXTINF:-1 tvg-id="990530" tvg-name="D+ (UK) Events 67: MLB Classic | All_Star Highlights: Kansas City (1973) | Thu 01 Aug 03:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 67: MLB Classic | All_Star Highlights: Kansas City (1973) | Thu 01 Aug 03:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=yok9jyaBzg&sn2=
+#EXTINF:-1 tvg-id="990531" tvg-name="D+ (UK) Events 68: The WRC Magazine | Rally Finland | Thu 01 Aug 03:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 68: The WRC Magazine | Rally Finland | Thu 01 Aug 03:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=jUyCqfoYPr&sn2=
+#EXTINF:-1 tvg-id="990532" tvg-name="D+ (UK) Events 69: UFC Fight Week | UFC 304 Review Show | Thu 01 Aug 03:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 69: UFC Fight Week | UFC 304 Review Show | Thu 01 Aug 03:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7tBTcUmuge&sn2=
+#EXTINF:-1 tvg-id="990533" tvg-name="D+ (UK) Events 70: South of the River | Part 3 | Original Documentaries | Thu 01 Aug 03:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 70: South of the River | Part 3 | Original Documentaries | Thu 01 Aug 03:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9QDyvVnYUq&sn2=
+#EXTINF:-1 tvg-id="990534" tvg-name="D+ (UK) Events 71: UEFA Champions League Classics | Thu 01 Aug 04:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 71: UEFA Champions League Classics | Thu 01 Aug 04:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=M14PAvdhak&sn2=
+#EXTINF:-1 tvg-id="990535" tvg-name="D+ (UK) Events 72: TNT Sports Reload | Thu 01 Aug 04:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 72: TNT Sports Reload | Thu 01 Aug 04:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=mIZ2lEO2QR&sn2=
+#EXTINF:-1 tvg-id="990536" tvg-name="D+ (UK) Events 73: Between the Lines | Unai Emery | Thu 01 Aug 05:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 73: Between the Lines | Unai Emery | Thu 01 Aug 05:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SbMM0guIMe&sn2=
+#EXTINF:-1 tvg-id="990537" tvg-name="D+ (UK) Events 74: Classic Premier League | Thu 01 Aug 05:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 74: Classic Premier League | Thu 01 Aug 05:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=jLpvUpASTR&sn2=
+#EXTINF:-1 tvg-id="990538" tvg-name="D+ (UK) Events 75: MLB Classic | 1997 Home Run Derby | Thu 01 Aug 05:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 75: MLB Classic | 1997 Home Run Derby | Thu 01 Aug 05:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hZS6th3EY3&sn2=
+#EXTINF:-1 tvg-id="990539" tvg-name="D+ (UK) Events 76: UEFA Documentaries | Outraged _ Online Abuse | Thu 01 Aug 05:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 76: UEFA Documentaries | Outraged _ Online Abuse | Thu 01 Aug 05:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=o7Eq61aSa7&sn2=
+#EXTINF:-1 tvg-id="990540" tvg-name="D+ (UK) Events 77: UEFA Documentaries | Outraged _ Disability | Thu 01 Aug 05:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 77: UEFA Documentaries | Outraged _ Disability | Thu 01 Aug 05:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=L9uwLldQsl&sn2=
+#EXTINF:-1 tvg-id="990541" tvg-name="D+ (UK) Events 78: Classic Premier League | Manchester United _ Chelsea 1999/2000 | Thu 01 Aug 05:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 78: Classic Premier League | Manchester United _ Chelsea 1999/2000 | Thu 01 Aug 05:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=bnQqLofKnm&sn2=
+#EXTINF:-1 tvg-id="990542" tvg-name="D+ (UK) Events 79: UFC Fight Flashback | UFC 248 | Thu 01 Aug 06:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 79: UFC Fight Flashback | UFC 248 | Thu 01 Aug 06:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=3ILgefbH39&sn2=
+#EXTINF:-1 tvg-id="990543" tvg-name="D+ (UK) Events 80: Classic Premier League | Manchester United _ Chelsea 2000/2001 | Thu 01 Aug 06:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 80: Classic Premier League | Manchester United _ Chelsea 2000/2001 | Thu 01 Aug 06:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=RLrfXzxpXQ&sn2=
+#EXTINF:-1 tvg-id="990544" tvg-name="D+ (UK) Events 81: What I Wore | Robin van Persie | Thu 01 Aug 06:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 81: What I Wore | Robin van Persie | Thu 01 Aug 06:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HrWmm2neKg&sn2=
+#EXTINF:-1 tvg-id="990545" tvg-name="D+ (UK) Events 82: Classic Premier League | Arsenal _ Newcastle United 2001/2002 | Thu 01 Aug 06:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 82: Classic Premier League | Arsenal _ Newcastle United 2001/2002 | Thu 01 Aug 06:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=1dvKlVMXsx&sn2=
+#EXTINF:-1 tvg-id="990546" tvg-name="D+ (UK) Events 83: UEFA Documentaries | Champions League Defining Moments _ Part 3 | Thu 01 Aug 06:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 83: UEFA Documentaries | Champions League Defining Moments _ Part 3 | Thu 01 Aug 06:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=zFppNhb4i7&sn2=
+#EXTINF:-1 tvg-id="990547" tvg-name="D+ (UK) Events 84: TNT Sports Reload | Thu 01 Aug 07:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 84: TNT Sports Reload | Thu 01 Aug 07:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fh63RSUcB6&sn2=
+#EXTINF:-1 tvg-id="990548" tvg-name="D+ (UK) Events 85: MotoGP | World Championship | Emilia Romagna | ETC | Race 1 | Thu 01 Aug 07:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 85: MotoGP | World Championship | Emilia Romagna | ETC | Race 1 | Thu 01 Aug 07:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fu1FAI8WH4&sn2=
+#EXTINF:-1 tvg-id="990549" tvg-name="D+ (UK) Events 86: MLB Plays of the Week | Episode 32 | Thu 01 Aug 07:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 86: MLB Plays of the Week | Episode 32 | Thu 01 Aug 07:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=JUz5wzueq7&sn2=
+#EXTINF:-1 tvg-id="990550" tvg-name="D+ (UK) Events 87: MotoGP | World Championship | Emilia Romagna | JuniorGP | Race 1 | Thu 01 Aug 07:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 87: MotoGP | World Championship | Emilia Romagna | JuniorGP | Race 1 | Thu 01 Aug 07:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kym9jLHQQB&sn2=
+#EXTINF:-1 tvg-id="990552" tvg-name="D+ (UK) Events 89: Futsal | Manchester Futsal Club _ Bloomsbury Futsal Club | Men | National Futsal Series | Thu 01 Aug 07:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 89: Futsal | Manchester Futsal Club _ Bloomsbury Futsal Club | Men | National Futsal Series | Thu 01 Aug 07:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=d7DYwh7SWh&sn2=
+#EXTINF:-1 tvg-id="990553" tvg-name="UK D+ Events 90 HD (D): Superbikes | BSB | Round 11 | Support Races _ Brands Hatch | Tue 07 Nov 04:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",UK D+ Events 90 HD (D): Superbikes | BSB | Round 11 | Support Races _ Brands Hatch | Tue 07 Nov 04:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=W4ZBuBTmPi&sn2=
+#EXTINF:-1 tvg-id="990554" tvg-name="UK D+ Events 91 HD (D): TNT Sports Goals Reload | Episode 13 | Tue 07 Nov 04:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",UK D+ Events 91 HD (D): TNT Sports Goals Reload | Episode 13 | Tue 07 Nov 04:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cKFfMnPNp4&sn2=
+#EXTINF:-1 tvg-id="990555" tvg-name="D+ (UK) Events 92: Futsal | London Helvecia _ Bolton Futsal Club | Women | National Futsal Series | Thu 01 Aug 08:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 92: Futsal | London Helvecia _ Bolton Futsal Club | Women | National Futsal Series | Thu 01 Aug 08:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=11uBIhJmDf&sn2=
+#EXTINF:-1 tvg-id="990556" tvg-name="D+ (UK) Events 93: MotoGP | World Championship | Emilia Romagna | Moto 2 | Thu 01 Aug 08:30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 93: MotoGP | World Championship | Emilia Romagna | Moto 2 | Thu 01 Aug 08:30
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=uowAzm3Yog&sn2=
+#EXTINF:-1 tvg-id="990557" tvg-name="D+ (UK) Events 94: MotoGP | World Championahip | Emilia Romagna | JuniorGP Race 2 | Thu 01 Aug 09:15" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 94: MotoGP | World Championahip | Emilia Romagna | JuniorGP Race 2 | Thu 01 Aug 09:15
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=txe5PF8dYl&sn2=
+#EXTINF:-1 tvg-id="990558" tvg-name="D+ (UK) Events 95: Football | Barcelona _ Real Madrid | LigaF | Thu 01 Aug 09:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 95: Football | Barcelona _ Real Madrid | LigaF | Thu 01 Aug 09:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=tqT9AuN2zz&sn2=
+#EXTINF:-1 tvg-id="990559" tvg-name="D+ (UK) Events 96: Cricket | Sri Lanka _ India | Twenty20 | Thu 01 Aug 09:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 96: Cricket | Sri Lanka _ India | Twenty20 | Thu 01 Aug 09:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=W1pbgnWJuv&sn2=
+#EXTINF:-1 tvg-id="990560" tvg-name="D+ (UK) Events 97: Rally | WRC | Rally Finland | Shakedown _ Day 2 | Thu 01 Aug 09:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 97: Rally | WRC | Rally Finland | Shakedown _ Day 2 | Thu 01 Aug 09:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=oNd4MgaCir&sn2=
+#EXTINF:-1 tvg-id="990561" tvg-name="D+ (UK) Events 98: MotoGP | World Championship | Emilia Romagna | Stock | Thu 01 Aug 10:45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 98: MotoGP | World Championship | Emilia Romagna | Stock | Thu 01 Aug 10:45
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SIlbPv00gm&sn2=
+#EXTINF:-1 tvg-id="990562" tvg-name="D+ (UK) Events 99: MotoGP | World Championship | Emilia Romagna | ETC Race 2 | Thu 01 Aug 10:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 99: MotoGP | World Championship | Emilia Romagna | ETC Race 2 | Thu 01 Aug 10:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=OrV9Prrd7E&sn2=
+#EXTINF:-1 tvg-id="990563" tvg-name="D+ (UK) Events 100: Football | UD Tenerife _ Barcelona | LALIGA | Thu 01 Aug 10:00" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISCOVERYPLUS.png" group-title="EN| DISCOVERY+ PPV",D+ (UK) Events 100: Football | UD Tenerife _ Barcelona | LALIGA | Thu 01 Aug 10:00
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ApD359oDCb&sn2=
 #EXTINF:-1 tvg-id="991435" tvg-name="FR - STAR ACADEMY FHD" tvg-logo="http://51.158.145.100/picons/logos/france/991435.png" group-title="FR| FRANCE GÉNÉRAL",FR - STAR ACADEMY FHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=SN3cQDWIoo&sn2=
 #EXTINF:-1 tvg-id="998384" tvg-name="UK - ARISE NEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ARISENEWS.png" group-title="EN| NEWS",UK - ARISE NEWS
