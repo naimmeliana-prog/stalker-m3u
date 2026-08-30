@@ -1393,6 +1393,8 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=t6kabO9J7P
 #EXTINF:-1 tvg-id="1338663" tvg-name="SKWEEK 6 HD" tvg-logo="http://51.158.145.100/picons/logos/france/1338663.png" group-title="FR| SPORTS HD",SKWEEK 6 HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=T94Nmnt2hD
+#EXTINF:-1 tvg-id="1347433" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=naSoshfQzR
 #EXTINF:-1 tvg-id="1348093" tvg-name="BEIN SPORTS AU 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="EN| WORLD SPORTS",BEIN SPORTS AU 1
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Qlm1Qwdgng
 #EXTINF:-1 tvg-id="1348102" tvg-name="BEIN SPORTS AU 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="EN| WORLD SPORTS",BEIN SPORTS AU 2
@@ -3783,6 +3785,12 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=SZdkpaq33v
 #EXTINF:-1 tvg-id="1547243" tvg-name="FLOOXER FHD" tvg-logo="http://103.176.90.92/images/1547243.png" group-title="ES| ESTILO DE VIDA",FLOOXER FHD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Mae4yduuIs
+#EXTINF:-1 tvg-id="1547248" tvg-name="DAZN LALIGA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA HEVC
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=P3j6wqXV4k
+#EXTINF:-1 tvg-id="1547249" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=RFlX5aLwEO
+#EXTINF:-1 tvg-id="1547250" tvg-name="DAZN LALIGA 5 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 5 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=GKHfKFZtkb
 #EXTINF:-1 tvg-id="1547251" tvg-name="DAZN F1 HEVC" tvg-logo="http://103.176.90.95/images/1547251.png" group-title="ES| DAZN ESPAÑA",DAZN F1 HEVC
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Rz5a2SHv0t
 #EXTINF:-1 tvg-id="1547252" tvg-name="DAZN F1 FHD" tvg-logo="http://103.176.90.95/images/1547252.png" group-title="ES| DAZN ESPAÑA",DAZN F1 FHD
@@ -4059,6 +4067,12 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=CQMNkOZS51
 #EXTINF:-1 tvg-id="1548322" tvg-name="BOM CINE HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BOMCINE.png" group-title="ES| M+ CINE",BOM CINE HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=jiZoHe3Z7U
+#EXTINF:-1 tvg-id="1548416" tvg-name="DAZN LALIGA 4 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 4 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=8cmi6Ozneg
+#EXTINF:-1 tvg-id="1548417" tvg-name="DAZN LALIGA 3 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 3 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=iq1kjGhOok
+#EXTINF:-1 tvg-id="1548418" tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=hyKR95jlsm
 #EXTINF:-1 tvg-id="1556637" tvg-name="BBC EARTH HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1556637.png" group-title="EN| GENERAL",BBC EARTH HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=7xNflFx3r9
 #EXTINF:-1 tvg-id="1556643" tvg-name="PDCTV 4 | Players Championship 28 - Players Championship - Board 3 // UK Wed 26 Aug 1:00pm // ET Wed 26 Aug 8:00am" tvg-logo="http://103.176.90.95/images/1556643.png" group-title="EN| PDC BOARD PPV",PDCTV 4 | Players Championship 28 - Players Championship - Board 3 // UK Wed 26 Aug 1:00pm // ET Wed 26 Aug 8:00am
@@ -15175,6 +15189,24 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=xJr0mkGdMX
 #EXTINF:-1 tvg-id="2072552" tvg-name="End | QP Moto3 & Moto2 & Sprint Race MotoGP | Aragon GP | all | 29-08-2026 | 12:19 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="ES| SOCCER PPV",End | QP Moto3 & Moto2 & Sprint Race MotoGP | Aragon GP | all | 29-08-2026 | 12:19 (GMT) | 8K EXCLUSIVE | ES: SOCCER PPV 1
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=pkH7dINiR7
+#EXTINF:-1 tvg-id="2074433" tvg-name="DAZN LA LIGA 5 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 5 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=YkmfrEEwFj
+#EXTINF:-1 tvg-id="2074434" tvg-name="DAZN LA LIGA 4 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 4 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=IswNrvdVj3
+#EXTINF:-1 tvg-id="2074435" tvg-name="DAZN LA LIGA 3 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 3 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=rdLdluxCWn
+#EXTINF:-1 tvg-id="2074436" tvg-name="DAZN LA LIGA 5 ᵁᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 5 ᵁᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=7ELPX4b72O
+#EXTINF:-1 tvg-id="2074437" tvg-name="DAZN LA LIGA 4 ᵁᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 4 ᵁᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=qxKb3RLKLT
+#EXTINF:-1 tvg-id="2074438" tvg-name="DAZN LA LIGA 3 ᵁᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 3 ᵁᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=NGAFxVQE7Y
+#EXTINF:-1 tvg-id="2074439" tvg-name="DAZN LA LIGA 5 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 5 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=LTfMLstiD1
+#EXTINF:-1 tvg-id="2074440" tvg-name="DAZN LA LIGA 4 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 4 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=fAfEDtOgkF
+#EXTINF:-1 tvg-id="2074441" tvg-name="DAZN LA LIGA 3 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 3 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Ppu5M4codi
 #EXTINF:-1 tvg-id="2078942" tvg-name="LALIGA TV HYPERMOTION 3 SD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGATVHYPERMOTION.png" group-title="ES| M+ LALIGA",LALIGA TV HYPERMOTION 3 SD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=MDtpqqDEm2
 #EXTINF:-1 tvg-id="2078943" tvg-name="LALIGA TV HYPERMOTION 2 SD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGATVHYPERMOTION.png" group-title="ES| M+ LALIGA",LALIGA TV HYPERMOTION 2 SD
@@ -15519,6 +15551,406 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=oRoPN9HQiN
 #EXTINF:-1 tvg-id="2111829" tvg-name="BBC STREAM 1" tvg-logo="http://51.158.145.100/picons/logos/logos/BBC.png" group-title="EN| BBC STREAM PPV",BBC STREAM 1
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=VdMl1b43lC
+#EXTINF:-1 tvg-id="2112911" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 200" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 200
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=BCi4Zb7faX
+#EXTINF:-1 tvg-id="2112912" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 199" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 199
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=aONGuuJFUO
+#EXTINF:-1 tvg-id="2112913" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 198" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 198
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=k0CUvsReUL
+#EXTINF:-1 tvg-id="2112914" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 197" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 197
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=X0qvvDQZXc
+#EXTINF:-1 tvg-id="2112915" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 196" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 196
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=t8bQpJS0sT
+#EXTINF:-1 tvg-id="2112916" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 195" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 195
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=pdrGJOjFRi
+#EXTINF:-1 tvg-id="2112917" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 194" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 194
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=DUkXnVmJ9I
+#EXTINF:-1 tvg-id="2112918" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 193" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 193
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=ZqCo7FRqvz
+#EXTINF:-1 tvg-id="2112919" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 192" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 192
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=i2NKMMqjuQ
+#EXTINF:-1 tvg-id="2112920" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 191" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 191
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=869n3JBjcb
+#EXTINF:-1 tvg-id="2112921" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 190" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 190
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=YVES9UTv0C
+#EXTINF:-1 tvg-id="2112922" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 189" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 189
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=5FipCpOKdE
+#EXTINF:-1 tvg-id="2112923" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 188" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 188
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=GM3ac0cQ6h
+#EXTINF:-1 tvg-id="2112924" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 187" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 187
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=TVdXfqecUT
+#EXTINF:-1 tvg-id="2112925" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 186" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 186
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=clxd6eVPZH
+#EXTINF:-1 tvg-id="2112926" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 185" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 185
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=VFWvVl7uOQ
+#EXTINF:-1 tvg-id="2112927" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 184" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 184
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=xb9v4vVEpH
+#EXTINF:-1 tvg-id="2112928" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 183" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 183
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=dmWp2rP00n
+#EXTINF:-1 tvg-id="2112929" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 182" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 182
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=1pjizIASBj
+#EXTINF:-1 tvg-id="2112930" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 181" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 181
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=KP11QYWJK4
+#EXTINF:-1 tvg-id="2112931" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 180" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 180
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=01bUWR2Pcc
+#EXTINF:-1 tvg-id="2112932" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=q2hPSSgaKs
+#EXTINF:-1 tvg-id="2112933" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 178" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 178
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=G48bjbngpo
+#EXTINF:-1 tvg-id="2112934" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=HekZ3yU0yE
+#EXTINF:-1 tvg-id="2112935" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 176" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 176
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Wk3MDVXjzW
+#EXTINF:-1 tvg-id="2112936" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 175" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 175
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=lS2OUyybZr
+#EXTINF:-1 tvg-id="2112937" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 174" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 174
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=AODTNnsq0l
+#EXTINF:-1 tvg-id="2112938" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 173" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 173
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=b9n3JAFZZA
+#EXTINF:-1 tvg-id="2112939" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 172" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 172
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=T9uOLyB2xZ
+#EXTINF:-1 tvg-id="2112940" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 171" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 171
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=sQljFOo14l
+#EXTINF:-1 tvg-id="2112941" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 170" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 170
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=DoPnDQFM6N
+#EXTINF:-1 tvg-id="2112942" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 169" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 169
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=nUfTdIBfxY
+#EXTINF:-1 tvg-id="2112943" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 168" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 168
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=9dyKywKOXh
+#EXTINF:-1 tvg-id="2112944" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 167" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 167
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=yYNxhlIMsl
+#EXTINF:-1 tvg-id="2112945" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 166" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 166
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=sgbwrqk89m
+#EXTINF:-1 tvg-id="2112946" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 165" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 165
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=8n9P1aoGJR
+#EXTINF:-1 tvg-id="2112947" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 164" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 164
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=2TZAEWiPQd
+#EXTINF:-1 tvg-id="2112948" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 163" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 163
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=0cSnoBcNKY
+#EXTINF:-1 tvg-id="2112949" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 162" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 162
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=hLyJzWhWDg
+#EXTINF:-1 tvg-id="2112950" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=UkqCwlRZln
+#EXTINF:-1 tvg-id="2112951" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=w1vv0R4u7o
+#EXTINF:-1 tvg-id="2112952" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 159" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 159
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=GTtifz4j9M
+#EXTINF:-1 tvg-id="2112953" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 158" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 158
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=CfFz39yfRQ
+#EXTINF:-1 tvg-id="2112954" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 157" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 157
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=vSkYJrZWq8
+#EXTINF:-1 tvg-id="2112955" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 156" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 156
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=gW1inmY4q2
+#EXTINF:-1 tvg-id="2112956" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 155" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 155
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=t3FcJNaADk
+#EXTINF:-1 tvg-id="2112957" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 154" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 154
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=NAuX0ruNiD
+#EXTINF:-1 tvg-id="2112958" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 153" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 153
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=9jlaZk6vuh
+#EXTINF:-1 tvg-id="2112959" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 152" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 152
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=7csamh46o6
+#EXTINF:-1 tvg-id="2112960" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 151" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 151
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=0bsFtllN6q
+#EXTINF:-1 tvg-id="2112961" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 150" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 150
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=n8uoJaZZAU
+#EXTINF:-1 tvg-id="2112962" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 149" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 149
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=iiQvphzLYc
+#EXTINF:-1 tvg-id="2112963" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 148" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 148
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=BDUgLg4A02
+#EXTINF:-1 tvg-id="2112964" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 147" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 147
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=e4Fad00iqD
+#EXTINF:-1 tvg-id="2112965" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 146" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 146
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=TCzuTgL5bL
+#EXTINF:-1 tvg-id="2112966" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 145" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 145
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=hYzkqIVaQ7
+#EXTINF:-1 tvg-id="2112967" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 144" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 144
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=LNcv6EkBBb
+#EXTINF:-1 tvg-id="2112968" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 143" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 143
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=u4qj6sjg6G
+#EXTINF:-1 tvg-id="2112969" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 142" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 142
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=pKpuk3ET22
+#EXTINF:-1 tvg-id="2112970" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 141" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 141
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Wl1b1WAzhD
+#EXTINF:-1 tvg-id="2112971" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 140" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 140
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=IIfZkDI674
+#EXTINF:-1 tvg-id="2112972" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 139" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 139
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=lGob1qvQQm
+#EXTINF:-1 tvg-id="2112973" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 138" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 138
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=t2yxDEiMzJ
+#EXTINF:-1 tvg-id="2112974" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 137" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 137
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=MHNyRvQGQB
+#EXTINF:-1 tvg-id="2112975" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 136" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 136
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=6X1wWu1RHP
+#EXTINF:-1 tvg-id="2112976" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 135" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 135
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=7Y2NOTv9Tw
+#EXTINF:-1 tvg-id="2112977" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=gbtIhpPM2U
+#EXTINF:-1 tvg-id="2112978" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 133" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 133
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=N1jpu3aAg2
+#EXTINF:-1 tvg-id="2112979" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 132" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 132
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=vajVk32Cuk
+#EXTINF:-1 tvg-id="2112980" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=LWvJXLt8zw
+#EXTINF:-1 tvg-id="2112981" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=6Gd7zHOi1S
+#EXTINF:-1 tvg-id="2112982" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 129" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 129
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=zo6jUho1xb
+#EXTINF:-1 tvg-id="2112983" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 128" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 128
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=m0wR6Lae1v
+#EXTINF:-1 tvg-id="2112984" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 127" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 127
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=geUdlDPudW
+#EXTINF:-1 tvg-id="2112985" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 126" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 126
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=0nV8KmF3V2
+#EXTINF:-1 tvg-id="2112986" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 125" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 125
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=NqS5NfuHtv
+#EXTINF:-1 tvg-id="2112987" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 124" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 124
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=UFUgxOazNX
+#EXTINF:-1 tvg-id="2112988" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 123" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 123
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=NWhWaeWgHP
+#EXTINF:-1 tvg-id="2112989" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 122" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 122
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=RmVbFT5J1W
+#EXTINF:-1 tvg-id="2112990" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 121" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 121
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=LCdd2HRIGY
+#EXTINF:-1 tvg-id="2112991" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 120" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 120
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=NFa0ngCIGa
+#EXTINF:-1 tvg-id="2112992" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 119" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 119
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=6oMdQ5SwTm
+#EXTINF:-1 tvg-id="2112993" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 118" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 118
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=l3Mh5gtkxY
+#EXTINF:-1 tvg-id="2112994" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 117" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 117
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=qAthBkIlDO
+#EXTINF:-1 tvg-id="2112995" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 116" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 116
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=YJWKZ15Pqc
+#EXTINF:-1 tvg-id="2112996" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 115" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 115
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=BVkNTVYd2t
+#EXTINF:-1 tvg-id="2112997" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 114" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 114
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=R8KVIulxrp
+#EXTINF:-1 tvg-id="2112998" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 113" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 113
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=32sLxqyR2m
+#EXTINF:-1 tvg-id="2112999" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 112" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 112
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=HHaJ6MmMLX
+#EXTINF:-1 tvg-id="2113000" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 111" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 111
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=rHAwr8BJiG
+#EXTINF:-1 tvg-id="2113001" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 110" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 110
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=LcBNp0BQFZ
+#EXTINF:-1 tvg-id="2113002" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 109" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 109
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=arZlV0b5z9
+#EXTINF:-1 tvg-id="2113003" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 108" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 108
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=TdhUJ2CRGk
+#EXTINF:-1 tvg-id="2113004" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 107" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 107
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Yvk6vzzXw7
+#EXTINF:-1 tvg-id="2113005" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 106" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 106
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=pG37be4ukD
+#EXTINF:-1 tvg-id="2113006" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 105" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 105
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=sUfDAF0ATw
+#EXTINF:-1 tvg-id="2113007" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 104" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 104
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=M6NiwBgB4k
+#EXTINF:-1 tvg-id="2113008" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 103" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 103
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=VWFJlwmIqP
+#EXTINF:-1 tvg-id="2113009" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 102" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 102
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=osW59LQ0t6
+#EXTINF:-1 tvg-id="2113010" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 101" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 101
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=7vRX27uAM8
+#EXTINF:-1 tvg-id="2113011" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 100" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 100
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=QwFv1Y9imC
+#EXTINF:-1 tvg-id="2113012" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 99" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 99
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=HsfOZltnej
+#EXTINF:-1 tvg-id="2113013" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 98" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 98
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=GdUA60i1m7
+#EXTINF:-1 tvg-id="2113014" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 97" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 97
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=zwFInSE0dE
+#EXTINF:-1 tvg-id="2113015" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 96" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 96
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=BeEPAFEUJ9
+#EXTINF:-1 tvg-id="2113016" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 95" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 95
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=ugeOuL8FCt
+#EXTINF:-1 tvg-id="2113017" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 94" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 94
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Yhnx2oOmfE
+#EXTINF:-1 tvg-id="2113018" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 93" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 93
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=BeNMcgsWqW
+#EXTINF:-1 tvg-id="2113019" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 92" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 92
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=FWndc6OBwV
+#EXTINF:-1 tvg-id="2113020" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 91" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 91
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=At11A1qDQF
+#EXTINF:-1 tvg-id="2113021" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 90" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 90
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=1Y5KzoKeUo
+#EXTINF:-1 tvg-id="2113022" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 89" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 89
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Q8FAlIT2Iq
+#EXTINF:-1 tvg-id="2113023" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 88" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 88
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=anjg1UzpoN
+#EXTINF:-1 tvg-id="2113024" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 87" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 87
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=DbeFEv8OAs
+#EXTINF:-1 tvg-id="2113025" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 86" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 86
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=oFle02lw0r
+#EXTINF:-1 tvg-id="2113026" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 85" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 85
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=NqGUAAAmL7
+#EXTINF:-1 tvg-id="2113027" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 84" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 84
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=8i91vwvBXa
+#EXTINF:-1 tvg-id="2113028" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 83" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 83
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=gGD7b6wvJk
+#EXTINF:-1 tvg-id="2113029" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 82" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 82
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=3Q9gKxWQ99
+#EXTINF:-1 tvg-id="2113030" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 81" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 81
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=QtqsROQ34a
+#EXTINF:-1 tvg-id="2113031" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 80" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 80
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=hDJ681jIaH
+#EXTINF:-1 tvg-id="2113032" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 179
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Qp32X5smoV
+#EXTINF:-1 tvg-id="2113033" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 178" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 178
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=WhmVSMad6i
+#EXTINF:-1 tvg-id="2113034" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 177
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=iUZcuT0MHa
+#EXTINF:-1 tvg-id="2113035" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 176" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 176
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=yHSigi6BwE
+#EXTINF:-1 tvg-id="2113036" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 175" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 175
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=D3p9rjRBzc
+#EXTINF:-1 tvg-id="2113037" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 174" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 174
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=X2f9hnvBF1
+#EXTINF:-1 tvg-id="2113038" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 173" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 173
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=WSXYLhWc7I
+#EXTINF:-1 tvg-id="2113039" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 172" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 172
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=kCrRIpLZwV
+#EXTINF:-1 tvg-id="2113040" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 171" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 171
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=lnMPpdErWn
+#EXTINF:-1 tvg-id="2113041" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 170" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 170
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=VTzX4dD298
+#EXTINF:-1 tvg-id="2113042" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 169" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 169
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=yoEURSPEbz
+#EXTINF:-1 tvg-id="2113043" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 168" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 168
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=48gfAj5v3J
+#EXTINF:-1 tvg-id="2113044" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 167" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 167
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Ec5YqAgaR5
+#EXTINF:-1 tvg-id="2113045" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 166" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 166
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=u3WkX2X1UI
+#EXTINF:-1 tvg-id="2113046" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 165" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 165
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=yUzdi9dSF5
+#EXTINF:-1 tvg-id="2113047" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 164" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 164
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=lFTlIFzyCf
+#EXTINF:-1 tvg-id="2113048" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 163" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 163
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=LtDSRjPELb
+#EXTINF:-1 tvg-id="2113049" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 162" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 162
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=YiNLss8UAy
+#EXTINF:-1 tvg-id="2113050" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 161
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=t5eeE8iowE
+#EXTINF:-1 tvg-id="2113051" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 160
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=UbSbOhaMkK
+#EXTINF:-1 tvg-id="2113052" tvg-name="Next | Paolini vs. Erjavec | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 59" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Paolini vs. Erjavec | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 59
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=gkJPP0wHYO
+#EXTINF:-1 tvg-id="2113053" tvg-name="Next | Stefanini vs. Yastremska | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 58" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Stefanini vs. Yastremska | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 58
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=jVOza5UDjn
+#EXTINF:-1 tvg-id="2113054" tvg-name="Next | Gibson vs. Vekić | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 57" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Gibson vs. Vekić | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 57
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=PI0IUEFbKz
+#EXTINF:-1 tvg-id="2113055" tvg-name="Next | Rakhimova vs. Krejčíková | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 56" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Rakhimova vs. Krejčíková | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 56
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=ypF68kNJs0
+#EXTINF:-1 tvg-id="2113056" tvg-name="Next | Pegula vs. Ruse | all | 30-08-2026 | 18:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 55" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Pegula vs. Ruse | all | 30-08-2026 | 18:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 55
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=RLbODYBfxg
+#EXTINF:-1 tvg-id="2113057" tvg-name="Next | Kostyuk vs. Hunter | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 54" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Kostyuk vs. Hunter | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 54
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=EuA27RoTdr
+#EXTINF:-1 tvg-id="2113058" tvg-name="Next | Zarazúa vs. Iatcenko | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 53" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Zarazúa vs. Iatcenko | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 53
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=S0flBR6WnB
+#EXTINF:-1 tvg-id="2113059" tvg-name="Next | Kalieva vs. Tararudee | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 52" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Kalieva vs. Tararudee | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 52
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=kAnBdwcaMS
+#EXTINF:-1 tvg-id="2113060" tvg-name="Next | Zhang vs. Fernandez | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 51" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Zhang vs. Fernandez | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 51
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=MFNwbxZW2f
+#EXTINF:-1 tvg-id="2113061" tvg-name="Next | Arango vs. Wang | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 50" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Arango vs. Wang | all | 30-08-2026 | 19:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 50
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=jbEM9Cqy9q
+#EXTINF:-1 tvg-id="2113062" tvg-name="Next | Telstar vs. Ajax | all | 30-08-2026 | 16:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 49" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Telstar vs. Ajax | all | 30-08-2026 | 16:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 49
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=3YAmxWnw7B
+#EXTINF:-1 tvg-id="2113063" tvg-name="Next | Glentoran vs. Cliftonville | all | 30-08-2026 | 16:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 48" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Glentoran vs. Cliftonville | all | 30-08-2026 | 16:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 48
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=XetR21WyVj
+#EXTINF:-1 tvg-id="2113064" tvg-name="Next | Mariners at Blue Jays | all | 30-08-2026 | 19:37 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 47" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Mariners at Blue Jays | all | 30-08-2026 | 19:37 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 47
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=1keC9S1qbW
+#EXTINF:-1 tvg-id="2113065" tvg-name="Next | Championnats d'Europe | Gravel – Épreuves (H/F) UEC Gravel European Championships | all | 30-08-2026 | 15:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 46" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Championnats d'Europe | Gravel – Épreuves (H/F) UEC Gravel European Championships | all | 30-08-2026 | 15:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 46
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=ygmGmIzYR0
+#EXTINF:-1 tvg-id="2113066" tvg-name="Next | Bretagne Classic – CIC Plouay – Plouay (228km) | all | 30-08-2026 | 15:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 45" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Bretagne Classic – CIC Plouay – Plouay (228km) | all | 30-08-2026 | 15:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 45
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=1oCpudFAt1
+#EXTINF:-1 tvg-id="2113067" tvg-name="Next | All In Buy In | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 44" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | All In Buy In | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 44
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=1xRNFe06LO
+#EXTINF:-1 tvg-id="2113068" tvg-name="Next | Leverkusen vs. Wolfsburg | all | 30-08-2026 | 15:49 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 43" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Leverkusen vs. Wolfsburg | all | 30-08-2026 | 15:49 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 43
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=J5IQbYi9BA
+#EXTINF:-1 tvg-id="2113069" tvg-name="Next | AEW All In London 2026 | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 42" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | AEW All In London 2026 | all | 30-08-2026 | 17:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 42
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=3uPs9cURjU
+#EXTINF:-1 tvg-id="2113070" tvg-name="Next | AS Roma v Sassuolo | all | 30-08-2026 | 17:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 41" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | AS Roma v Sassuolo | all | 30-08-2026 | 17:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 41
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Rb6DK5ArZl
+#EXTINF:-1 tvg-id="2113071" tvg-name="Next | Rangers at Brewers | all | 30-08-2026 | 20:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 40" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Rangers at Brewers | all | 30-08-2026 | 20:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 40
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=oK5WjCc0uB
+#EXTINF:-1 tvg-id="2113072" tvg-name="Next | Rockies at Braves | all | 30-08-2026 | 19:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Rockies at Braves | all | 30-08-2026 | 19:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=i1KCTOyOxO
+#EXTINF:-1 tvg-id="2113073" tvg-name="Next | Royals at Guardians | all | 30-08-2026 | 19:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 38" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Royals at Guardians | all | 30-08-2026 | 19:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 38
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=YRzSAFRCQ1
+#EXTINF:-1 tvg-id="2113074" tvg-name="Next | White Sox at Twins | all | 30-08-2026 | 20:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 37" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | White Sox at Twins | all | 30-08-2026 | 20:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 37
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=POO0rZIuxv
+#EXTINF:-1 tvg-id="2113075" tvg-name="Next | Al Qadsiah FC vs. Al Faisaly FC | all | 30-08-2026 | 19:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 36" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Al Qadsiah FC vs. Al Faisaly FC | all | 30-08-2026 | 19:45 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 36
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=JGwwewP8BK
+#EXTINF:-1 tvg-id="2113076" tvg-name="Next | Red Bull Bowl Rippera | all | 30-08-2026 | 16:37 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 35" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Red Bull Bowl Rippera | all | 30-08-2026 | 16:37 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 35
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Q2hX0lI8WM
+#EXTINF:-1 tvg-id="2113077" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 134
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=i5xlrLrk4D
+#EXTINF:-1 tvg-id="2113078" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 133" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 133
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=oZaY4spP0I
+#EXTINF:-1 tvg-id="2113079" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 132" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 132
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Hg8opRD8Ov
+#EXTINF:-1 tvg-id="2113080" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 131
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=mPHUq5xSWQ
+#EXTINF:-1 tvg-id="2113081" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 130
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=H7aC0R1QjH
+#EXTINF:-1 tvg-id="2113082" tvg-name="Next | Red Sox at Yankees | all | 30-08-2026 | 19:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 29" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Red Sox at Yankees | all | 30-08-2026 | 19:35 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 29
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=WhRbUIUEEj
+#EXTINF:-1 tvg-id="2113083" tvg-name="Next | BSB | Cadwell Park – Course 1 British Superbikes | all | 30-08-2026 | 13:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | BSB | Cadwell Park – Course 1 British Superbikes | all | 30-08-2026 | 13:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Zu6kmj5Rl8
+#EXTINF:-1 tvg-id="2113084" tvg-name="Next | VTT : UCI Mountain Bike World Series: Val di Sole : Cross country olympique  MessieursElite | all | 30-08-2026 | 15:05 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 27" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | VTT : UCI Mountain Bike World Series: Val di Sole : Cross country olympique, MessieursElite | all | 30-08-2026 | 15:05 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 27
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=mScwojYq2u
+#EXTINF:-1 tvg-id="2113085" tvg-name="Next | Union Saint-Gilloise vs. Anderlecht | all | 30-08-2026 | 18:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 26" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Union Saint-Gilloise vs. Anderlecht | all | 30-08-2026 | 18:20 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 26
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=vGRArj8cmh
+#EXTINF:-1 tvg-id="2113086" tvg-name="Next | Most - Race 4 | all | 30-08-2026 | 16:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 25" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Most - Race 4 | all | 30-08-2026 | 16:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 25
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=BX4XO3SeFa
+#EXTINF:-1 tvg-id="2113087" tvg-name="Next | Napoli vs. Como | all | 30-08-2026 | 18:16 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 24" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Napoli vs. Como | all | 30-08-2026 | 18:16 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 24
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=qa1Ya7jjQI
+#EXTINF:-1 tvg-id="2113088" tvg-name="Next | NASCAR GP Czech Republic - NASCAR Pro Race 2 | all | 30-08-2026 | 14:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 23" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | NASCAR GP Czech Republic - NASCAR Pro Race 2 | all | 30-08-2026 | 14:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 23
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=tDAXx9inWI
+#EXTINF:-1 tvg-id="2113089" tvg-name="Next | Marlins at Nationals | all | 30-08-2026 | 18:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Marlins at Nationals | all | 30-08-2026 | 18:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=AWH5nXZrOK
+#EXTINF:-1 tvg-id="2113090" tvg-name="Next | Les Rois de la Pédale | Le débrief Magazine | La Vuelta – 9e étape | all | 30-08-2026 | 17:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 21" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Les Rois de la Pédale | Le débrief Magazine | La Vuelta – 9e étape | all | 30-08-2026 | 17:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 21
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=0iqgD3I7jd
+#EXTINF:-1 tvg-id="2113091" tvg-name="Next | Dodgers at Tigers | all | 30-08-2026 | 19:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 20" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Dodgers at Tigers | all | 30-08-2026 | 19:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 20
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=pLthy2RHjB
+#EXTINF:-1 tvg-id="2113092" tvg-name="Next | Lazio vs. Genoa | all | 30-08-2026 | 20:31 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Lazio vs. Genoa | all | 30-08-2026 | 20:31 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=1yT33oRMXj
+#EXTINF:-1 tvg-id="2113093" tvg-name="Next | Pirates at Cardinals | all | 30-08-2026 | 20:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Pirates at Cardinals | all | 30-08-2026 | 20:15 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=UjQ6RTh2tN
+#EXTINF:-1 tvg-id="2113094" tvg-name="Next | Padres at Rays | all | 30-08-2026 | 19:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 17" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Padres at Rays | all | 30-08-2026 | 19:40 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 17
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Nf5HEACxYh
+#EXTINF:-1 tvg-id="2113095" tvg-name="Next | Le Club-Journée 2 | all | 30-08-2026 | 19:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Le Club-Journée 2 | all | 30-08-2026 | 19:10 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=i2wpXRjDNf
+#EXTINF:-1 tvg-id="2113096" tvg-name="Next | Cagliari vs. Inter | all | 30-08-2026 | 20:31 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 15" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Cagliari vs. Inter | all | 30-08-2026 | 20:31 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 15
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=vNHvXYb94t
+#EXTINF:-1 tvg-id="2113097" tvg-name="Next | Paris FC vs. Nice | all | 30-08-2026 | 14:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Paris FC vs. Nice | all | 30-08-2026 | 14:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=tnWSr8nVqQ
+#EXTINF:-1 tvg-id="2113098" tvg-name="Next | Real Madrid vs. Málaga | all | 30-08-2026 | 16:27 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Real Madrid vs. Málaga | all | 30-08-2026 | 16:27 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=tH0fniCTqE
+#EXTINF:-1 tvg-id="2113099" tvg-name="Next | Deportivo vs. Valencia | all | 30-08-2026 | 19:08 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Deportivo vs. Valencia | all | 30-08-2026 | 19:08 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=1MOY8N8NsV
+#EXTINF:-1 tvg-id="2113100" tvg-name="Next | Rennes vs. Le Mans | all | 30-08-2026 | 16:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Rennes vs. Le Mans | all | 30-08-2026 | 16:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=9a6KAkrKSG
+#EXTINF:-1 tvg-id="2113101" tvg-name="Next | Mantova 1911 vs. Empoli FC | all | 30-08-2026 | 18:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | Mantova 1911 vs. Empoli FC | all | 30-08-2026 | 18:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=f7KJXrXlKK
+#EXTINF:-1 tvg-id="2113102" tvg-name="Next | SS Arezzo vs. Palermo FC | all | 30-08-2026 | 18:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 9" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Next | SS Arezzo vs. Palermo FC | all | 30-08-2026 | 18:50 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 9
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=M3hfy62Nw9
+#EXTINF:-1 tvg-id="2113103" tvg-name="Live | IRONMAN 70.3 Zell am See-Kaprun | all | 8K EXCLUSIVE | FR: SOCCER PPV 8" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | IRONMAN 70.3 Zell am See-Kaprun | all | 8K EXCLUSIVE | FR: SOCCER PPV 8
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=jjNKZOHlWl
+#EXTINF:-1 tvg-id="2113104" tvg-name="Live | Utrecht vs. PSV | all | 8K EXCLUSIVE | FR: SOCCER PPV 7" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | Utrecht vs. PSV | all | 8K EXCLUSIVE | FR: SOCCER PPV 7
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=qP2m6tJzUb
+#EXTINF:-1 tvg-id="2113105" tvg-name="Live | Championnats du monde | Cross-country olympique (F) Val di Sole | all | 8K EXCLUSIVE | FR: SOCCER PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | Championnats du monde | Cross-country olympique (F) Val di Sole | all | 8K EXCLUSIVE | FR: SOCCER PPV 6
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=pGBdBPRbMm
+#EXTINF:-1 tvg-id="2113106" tvg-name="Live | La Vuelta 9e étape | Villajoyosa – Alto de Aitana (187 5km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | La Vuelta 9e étape | Villajoyosa – Alto de Aitana (187,5km) | all | 8K EXCLUSIVE | FR: SOCCER PPV 5
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=OgHbJ9AMBB
+#EXTINF:-1 tvg-id="2113107" tvg-name="Live | Cyclisme : La Vuelta: 9e étape  Messieurs | all | 8K EXCLUSIVE | FR: SOCCER PPV 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | Cyclisme : La Vuelta: 9e étape, Messieurs | all | 8K EXCLUSIVE | FR: SOCCER PPV 4
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=ipEo3di5qN
+#EXTINF:-1 tvg-id="2113108" tvg-name="Live | VTT : UCI Mountain Bike World Series: Val di Sole : Cross country olympique  DamesElite | all | 8K EXCLUSIVE | FR: SOCCER PPV 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | VTT : UCI Mountain Bike World Series: Val di Sole : Cross country olympique, DamesElite | all | 8K EXCLUSIVE | FR: SOCCER PPV 3
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Z9fu03puKG
+#EXTINF:-1 tvg-id="2113109" tvg-name="End | NASCAR GP Czech Republic - NASCAR Open Race 2 | all | 30-08-2026 | 10:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",End | NASCAR GP Czech Republic - NASCAR Open Race 2 | all | 30-08-2026 | 10:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 2
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=08cKHgYg50
+#EXTINF:-1 tvg-id="2113110" tvg-name="Live | Most - Race 3 | all | 8K EXCLUSIVE | FR: SOCCER PPV 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="FR| SOCCER PPV",Live | Most - Race 3 | all | 8K EXCLUSIVE | FR: SOCCER PPV 1
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=JgLb3RApqE
 #EXTINF:-1 tvg-id="2113154" tvg-name="CDM| PORTUGAL Vs ESPAGNE [PH-32]" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="FR| CDM 2026 REPLAY",CDM| PORTUGAL Vs ESPAGNE [PH-32]
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=lsXi3KsVF4
 #EXTINF:-1 tvg-id="2113155" tvg-name="CDM| FRANCE Vs MAROC [PH-16]" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="FR| CDM 2026 REPLAY",CDM| FRANCE Vs MAROC [PH-16]
@@ -18911,6 +19343,12 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=I8F79f6NqR
 #EXTINF:-1 tvg-id="984953" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://103.176.90.92/images/984953.png" group-title="ES| OTROS DEPORTES",FOX SPORTS PREMIUM
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=HWlfdySo01
+#EXTINF:-1 tvg-id="986639" tvg-name="DAZN LALIGA 4K" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 4K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=sVM0lNAdFv
+#EXTINF:-1 tvg-id="986640" tvg-name="DAZN LALIGA HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=yZMtTjEPhr
+#EXTINF:-1 tvg-id="986641" tvg-name="DAZN LALIGA SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=GdyTPUphxa
 #EXTINF:-1 tvg-id="988351" tvg-name="EPL IPSWICH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/WESTHAM.png" group-title="EN| EPL PREMIER LEAGUE",EPL IPSWICH
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=qIQJ6GZ577
 #EXTINF:-1 tvg-id="988352" tvg-name="EPL TOTTENHAM" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TOTTENHAM.png" group-title="EN| EPL PREMIER LEAGUE",EPL TOTTENHAM
