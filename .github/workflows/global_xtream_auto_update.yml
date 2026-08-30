@@ -1,0 +1,127 @@
+name: Global_Xtream_Auto_Update
+
+on:
+  schedule:
+    - cron: "0 3 */3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate:
+    concurrency:
+      group: global-xtream-gen
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar lista ITV para todos los portales
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for dir in portals/*/; do
+            if [ -f "${dir}config.json" ]; then
+              echo "[+] Generando ITV para ${dir}..."
+              PORTAL_CONFIG_PATH="${dir}config.json" python itv_m3u.py || true
+            fi
+          done
+
+      - name: Generar EPG (XMLTV) para todos los portales
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for dir in portals/*/; do
+            if [ -f "${dir}config.json" ]; then
+              echo "[+] Generando EPG para ${dir}..."
+              PORTAL_CONFIG_PATH="${dir}config.json" python epg.py || echo "EPG parcial o fallido para ${dir} (continuamos)"
+            fi
+          done
+
+      - name: Generar lista VOD para todos los portales
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for dir in portals/*/; do
+            if [ -f "${dir}config.json" ]; then
+              echo "[+] Generando VOD para ${dir}..."
+              PORTAL_CONFIG_PATH="${dir}config.json" python vod_m3u.py || true
+            fi
+          done
+
+      - name: Generar lista M3U de series para todos los portales
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for dir in portals/*/; do
+            if [ -f "${dir}config.json" ]; then
+              echo "[+] Generando series M3U para ${dir}..."
+              PORTAL_CONFIG_PATH="${dir}config.json" python generate.py || true
+            fi
+          done
+
+      - name: Publicar cambios generados de portales
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add portals/ || true
+          git diff --cached --quiet || git commit -m "Global Xtream Auto Update: ITV + VOD + Series ($(date -u +'%F %R UTC'))"
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase -X theirs origin main; sleep 3); done; exit 1
+
+  publish:
+    needs: generate
+    if: always()
+    concurrency:
+      group: pages-pub
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Combinar global.m3u y estructurar datos Xtream
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase -X theirs origin main || true
+          for dir in portals/*/; do
+            if [ -f "${dir}config.json" ]; then
+              echo "[+] Combinando playlist global para ${dir}..."
+              PORTAL_CONFIG_PATH="${dir}config.json" python combine.py || true
+            fi
+          done
+          git add portals/
+          git diff --cached --quiet || git commit -m "Global Xtream Auto Update: Actualizar global.m3u + Xtream JSONs ($(date -u +'%F %R UTC'))"
+          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase -X theirs origin main; sleep 3); done; exit 1
+
+      - name: Desplegar Worker Xtream en Cloudflare
+        if: env.CF_API_TOKEN != ''
+        working-directory: worker
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: npx wrangler@latest deploy
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir artefacto a Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
