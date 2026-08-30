@@ -243,7 +243,13 @@ def list_channels(portal, genre_id):
     return items
 
 
-EXCLUDED_REGIONS = ["LATINO", "QUEBEC", "SUISSE", "SUIZA", "BELGIQUE", "BELGICA", "CANADA", "CANADIAN"]
+EXCLUDED_REGIONS = [
+    "LATINO", "LATAM", "MEXICO", "ARGENTINA", "COLOMBIA", "CHILE", "PERU", "VENEZUELA",
+    "QUEBEC", "SUISSE", "SUIZA", "SWITZERLAND", "BELGIQUE", "BELGICA", "BELGIUM",
+    "CANADA", "CANADIAN", "AFRICA", "AFRIQUE", "AFRICAN",
+    "IRELAND", "IRLANDA", "IRISH", "SCOTLAND", "ESCOCIA", "SCOTTISH",
+    "CARIBE", "CARIBEAN", "CARIBBEAN"
+]
 
 
 def resolve_channel(portal, cmd):
@@ -350,6 +356,23 @@ def main(argv=None):
         except Exception as exc:
             print("[!] Error guardando checkpoint ITV: %s" % exc)
         _git_push(ck_path, progress)
+
+    def _on_emergency_signal(signum, frame):
+        print("[!] Senal %d recibida (cancelacion/timeout). Guardando checkpoint ITV de emergencia..." % signum)
+        if ck_path and ck:
+            try:
+                save_checkpoint(ck_path, ck)
+                with open(progress, "a", encoding="utf-8") as fh:
+                    fh.write("%s itv=%d/%d genres=%d/%d (EMERGENCIA)\n" % (
+                        time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                        len(done), len(known_ids), len(genres_done), len(genres)))
+            except Exception as exc:
+                print("[!] Error guardando checkpoint ITV de emergencia: %s" % exc)
+        sys.exit(128 + signum)
+
+    import signal
+    signal.signal(signal.SIGTERM, _on_emergency_signal)
+    signal.signal(signal.SIGINT, _on_emergency_signal)
 
     def _process(genre):
         gid = str(genre.get("id"))

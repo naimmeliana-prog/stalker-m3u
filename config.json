@@ -24,7 +24,7 @@
         "push_interval": 300,
         "threads": 16,
         "timeout": 15,
-        "languages": ["ES", "FR"],
+        "languages": ["ES", "FR", "UK"],
         "exclude": ["LATINO", "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE"],
         "remove_fr": ["PRIME +", "NETFLIX", "DE NOËL", "FILMOGRAPHIE LOUIS DE FUNES", "CHUCK NORRIS"]
     },

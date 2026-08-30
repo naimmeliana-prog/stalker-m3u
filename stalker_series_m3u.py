@@ -316,7 +316,13 @@ def process_series(portal, item, args):
     xinfo = None
     sid = str(item.get("id") or "").split(":")[0]
     name = str(item.get("name") or "Sin nombre")
-    banned = ["LATINO", "QUEBEC", "SUISSE", "SUIZA", "BELGIQUE", "BELGICA", "CANADA", "CANADIAN"]
+    banned = [
+        "LATINO", "LATAM", "MEXICO", "ARGENTINA", "COLOMBIA", "CHILE", "PERU", "VENEZUELA",
+        "QUEBEC", "SUISSE", "SUIZA", "SWITZERLAND", "BELGIQUE", "BELGICA", "BELGIUM",
+        "CANADA", "CANADIAN", "AFRICA", "AFRIQUE", "AFRICAN",
+        "IRELAND", "IRLANDA", "IRISH", "SCOTLAND", "ESCOCIA", "SCOTTISH",
+        "CARIBE", "CARIBEAN", "CARIBBEAN"
+    ]
     if any(r in _norm(name) for r in banned):
         return block, xinfo
     logo = item.get("screenshot_uri") or item.get("cover")
@@ -587,8 +593,13 @@ def _run(args):
     print("[+] Endpoint: %s" % portal.entry)
 
     categories = portal.get_categories()
-    cat_names = {}
-    banned_regions = {"LATINO", "QUEBEC", "SUISSE", "SUIZA", "BELGIQUE", "BELGICA", "CANADA", "CANADIAN"}
+    banned_regions = {
+        "LATINO", "LATAM", "MEXICO", "ARGENTINA", "COLOMBIA", "CHILE", "PERU", "VENEZUELA",
+        "QUEBEC", "SUISSE", "SUIZA", "SWITZERLAND", "BELGIQUE", "BELGICA", "BELGIUM",
+        "CANADA", "CANADIAN", "AFRICA", "AFRIQUE", "AFRICAN",
+        "IRELAND", "IRLANDA", "IRISH", "SCOTLAND", "ESCOCIA", "SCOTTISH",
+        "CARIBE", "CARIBEAN", "CARIBBEAN"
+    }
     filtered_cat_ids = []
     for cat in categories:
         title = str(cat.get("title") or "")
@@ -599,7 +610,7 @@ def _run(args):
         if any(r in _norm(title) for r in banned_regions):
             continue
         lp = _title_lang(title)
-        if lp not in ["ES", "FR"]:
+        if lp not in ["ES", "FR", "UK"]:
             continue
         if cid:
             cat_names[cid] = title
@@ -680,6 +691,24 @@ def _run(args):
             if entry.get("xtream"):
                 _collect_xtream(entry["xtream"], xt_series, streams, xt_dir)
         print("[+] Checkpoint: %d series ya procesadas (%d episodios)" % (len(done_ids), len(entries)))
+
+    def _on_emergency_signal(signum, frame):
+        print("[!] Senal %d recibida (cancelacion/timeout). Guardando checkpoint de emergencia..." % signum)
+        if args.checkpoint and ck:
+            try:
+                _save_checkpoint(args.checkpoint, ck, portal, args)
+                prog_file = args.progress or "progress.log"
+                with open(prog_file, "a", encoding="utf-8") as fh:
+                    fh.write("%s series=%d/%d (EMERGENCIA)\n" % (
+                        time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                        len(ck.get("done", {})), total if 'total' in locals() else len(series_list)))
+            except Exception as exc:
+                print("[!] Error en guardado de emergencia: %s" % exc)
+        sys.exit(128 + signum)
+
+    import signal
+    signal.signal(signal.SIGTERM, _on_emergency_signal)
+    signal.signal(signal.SIGINT, _on_emergency_signal)
 
     pending = [s for s in series_list if str(s.get("id") or "").split(":")[0] not in done_ids]
     print("[+] Series pendientes: %d" % len(pending))

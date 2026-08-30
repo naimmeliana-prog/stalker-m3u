@@ -24,8 +24,12 @@ from stalker_series_m3u import (
 )
 
 DEFAULT_EXCLUDE = [
-    "LATINO", "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE",
-    "QUEBEC", "SUISSE", "SUIZA", "BELGIQUE", "BELGICA", "CANADA", "CANADIAN"
+    "LATINO", "LATAM", "MEXICO", "ARGENTINA", "COLOMBIA", "CHILE", "PERU", "VENEZUELA",
+    "QUEBEC", "SUISSE", "SUIZA", "SWITZERLAND", "BELGIQUE", "BELGICA", "BELGIUM",
+    "CANADA", "CANADIAN", "AFRICA", "AFRIQUE", "AFRICAN",
+    "IRELAND", "IRLANDA", "IRISH", "SCOTLAND", "ESCOCIA", "SCOTTISH",
+    "CARIBE", "CARIBEAN", "CARIBBEAN",
+    "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE"
 ]
 DEFAULT_REMOVE_FR = ["PRIME +", "NETFLIX", "DE NOËL", "FILMOGRAPHIE LOUIS DE FUNES", "CHUCK NORRIS"]
 NAME_CLEAN_RE = re.compile(r"^[|]?\s*[A-Z]{2}[|]\s*")
@@ -88,7 +92,7 @@ def _sig(portal, cfg):
             [
                 portal.base_url,
                 portal.mac,
-                repr(sorted(cfg.get("languages") or ["ES", "FR"])),
+                repr(sorted(cfg.get("languages") or ["ES", "FR", "UK"])),
                 repr(sorted(cfg.get("exclude") or DEFAULT_EXCLUDE)),
                 repr(sorted(cfg.get("remove_fr") or DEFAULT_REMOVE_FR)),
             ]
@@ -154,7 +158,7 @@ def select_categories(cats, languages, exclude, remove_fr=None):
         if any(r in _norm(title) for r in needles):
             continue
         lp = lang_prefix(title)
-        if lp not in ["ES", "FR"]:
+        if lp not in ["ES", "FR", "UK"]:
             continue
         out.append(c)
     return out
@@ -223,7 +227,13 @@ def _resolve_or_none(portal, movie):
 def make_entry(movie, url, group):
     mid = str(movie.get("id") or "")
     name = clean_name(movie.get("name")) or mid
-    banned = ["LATINO", "QUEBEC", "SUISSE", "SUIZA", "BELGIQUE", "BELGICA", "CANADA", "CANADIAN"]
+    banned = [
+        "LATINO", "LATAM", "MEXICO", "ARGENTINA", "COLOMBIA", "CHILE", "PERU", "VENEZUELA",
+        "QUEBEC", "SUISSE", "SUIZA", "SWITZERLAND", "BELGIQUE", "BELGICA", "BELGIUM",
+        "CANADA", "CANADIAN", "AFRICA", "AFRIQUE", "AFRICAN",
+        "IRELAND", "IRLANDA", "IRISH", "SCOTLAND", "ESCOCIA", "SCOTTISH",
+        "CARIBE", "CARIBEAN", "CARIBBEAN"
+    ]
     if any(r in _norm(name) for r in banned) or any(r in _norm(group) for r in banned):
         return None
     logo = movie.get("pic") or movie.get("screenshot_uri") or ""
@@ -308,6 +318,23 @@ def main(argv=None):
         except Exception as exc:
             print("[!] Error guardando checkpoint VOD: %s" % exc)
         _git_push(ck_path, progress)
+
+    def _on_emergency_signal(signum, frame):
+        print("[!] Senal %d recibida (cancelacion/timeout). Guardando checkpoint VOD de emergencia..." % signum)
+        if ck_path and ck:
+            try:
+                save_checkpoint(ck_path, ck)
+                with open(progress, "a", encoding="utf-8") as fh:
+                    fh.write("%s vod=%d/%d (EMERGENCIA)\n" % (
+                        time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                        len(done), len(known_ids)))
+            except Exception as exc:
+                print("[!] Error guardando checkpoint VOD de emergencia: %s" % exc)
+        sys.exit(128 + signum)
+
+    import signal
+    signal.signal(signal.SIGTERM, _on_emergency_signal)
+    signal.signal(signal.SIGINT, _on_emergency_signal)
 
     for c in selected:
         cid = str(c.get("id"))

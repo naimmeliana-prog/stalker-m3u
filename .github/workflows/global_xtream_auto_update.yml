@@ -35,17 +35,6 @@ jobs:
             fi
           done
 
-      - name: Generar EPG (XMLTV) para todos los portales
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          for dir in portals/*/; do
-            if [ -f "${dir}config.json" ]; then
-              echo "[+] Generando EPG para ${dir}..."
-              PORTAL_CONFIG_PATH="${dir}config.json" python epg.py || echo "EPG parcial o fallido para ${dir} (continuamos)"
-            fi
-          done
-
       - name: Generar lista VOD para todos los portales
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -68,12 +57,13 @@ jobs:
             fi
           done
 
-      - name: Publicar cambios generados de portales
+      - name: Publicar checkpoints y cambios generados (siempre, incluso en cancelacion/timeout)
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add portals/ || true
-          git diff --cached --quiet || git commit -m "Global Xtream Auto Update: ITV + VOD + Series ($(date -u +'%F %R UTC'))"
+          git diff --cached --quiet || git commit -m "Global Xtream Auto Update: Checkpoint/Progreso ($(date -u +'%F %R UTC'))"
           for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase -X theirs origin main; sleep 3); done; exit 1
 
   publish:
