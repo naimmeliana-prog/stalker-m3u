@@ -71,9 +71,9 @@ def _title_lang(title):
         val = raw.split("|", 1)[0].strip()
         if val in ["ES", "FR", "UK", "EN"]:
             return "UK" if val == "EN" else val
-    if any(k in t_upper for k in ["ESPAÑA", "ESPANA", "SPAIN", "SPANISH", "CASTELLANO", "ES |", "| ES"]):
+    if any(k in t_upper for k in ["ESPAÑA", "ESPANA", "SPAIN", "SPANISH", "ESPAÑOL", "ESPANOL", "CASTELLANO", "ES |", "| ES", "ES -", "SERIES ES", "[ES]"]):
         return "ES"
-    if any(k in t_upper for k in ["FRANCE", "FRENCH", "FR |", "| FR"]):
+    if any(k in t_upper for k in ["FRANCE", "FRENCH", "FRANCAIS", "FRANÇAIS", "FR |", "| FR", "FR -", "SERIES FR", "[FR]"]):
         return "FR"
     if any(k in t_upper for k in ["UK |", "| UK", "UNITED KINGDOM", "ENGLAND", "ENGLISH", "ANGLAIS", "BRITISH", "GB"]):
         return "UK"
@@ -240,7 +240,7 @@ class StalkerPortal:
 
     @staticmethod
     def iter_episodes(season):
-        raw = season.get("series", [])
+        raw = season.get("series") or season.get("episodes") or season.get("list") or []
         if isinstance(raw, dict):
             raw = list(raw.values())
         if not isinstance(raw, list):
@@ -259,19 +259,23 @@ class StalkerPortal:
             return None
         if re.match(r"^(?:https?|rtmp)://", season_cmd, re.IGNORECASE):
             return season_cmd
-        params = {
-            "type": "vod",
-            "action": "create_link",
-            "cmd": season_cmd,
-            "series": str(episode),
-            "JsHttpRequest": "1-xml",
-        }
-        try:
-            data = self._request(params)
-        except PortalError:
-            return None
-        raw = self._js(data).get("cmd") or data.get("cmd") or ""
-        return self._clean_cmd(raw) or None
+        for stype in ("series", "vod"):
+            params = {
+                "type": stype,
+                "action": "create_link",
+                "cmd": season_cmd,
+                "series": str(episode),
+                "JsHttpRequest": "1-xml",
+            }
+            try:
+                data = self._request(params)
+                raw = self._js(data).get("cmd") or data.get("cmd") or ""
+                cleaned = self._clean_cmd(raw)
+                if cleaned:
+                    return cleaned
+            except PortalError:
+                continue
+        return None
 
     @staticmethod
     def _clean_cmd(raw):
@@ -321,9 +325,10 @@ def process_series(portal, item, args):
     try:
         seasons = portal.get_seasons(sid)
     except PortalError:
-        return block, xinfo
+        seasons = []
     if not seasons:
-        seasons = [s for s in item.get("seasons", [])] if isinstance(item.get("seasons"), list) else []
+        raw_s = item.get("seasons") or item.get("series")
+        seasons = [s for s in raw_s] if isinstance(raw_s, list) else []
     x_seasons = []
     for idx, season in enumerate(seasons, 1):
         match = SEASON_NUM_RE.search(str(season.get("name") or ""))
@@ -421,16 +426,16 @@ def _matches_lang(item, lang):
 def _config_sig(portal, args):
     h = hashlib.sha256()
     parts = [
-        portal.base_url,
-        portal.mac,
-        repr(sorted(args.category or []) or [None]),
-        repr(sorted(args.remove_cats or []) or [None]),
+        str(portal.base_url or "").rstrip("/"),
+        str(portal.mac or "").upper(),
+        repr(sorted(str(c) for c in (args.category or [])) if args.category else [None]),
+        repr(sorted(str(c) for c in (args.remove_cats or [])) if args.remove_cats else [None]),
         str(args.group or ""),
         str(bool(args.no_verify)),
         str(args.lang or ""),
         str(args.search or ""),
         str(bool(args.no_resolve)),
-        str(args.xtream_dir or ""),
+        str(os.path.normpath(args.xtream_dir) if args.xtream_dir else ""),
     ]
     h.update("|".join(parts).encode("utf-8"))
     return h.hexdigest()
@@ -445,11 +450,14 @@ def _load_checkpoint(path, portal, args):
             ck = json.load(fh)
         if not isinstance(ck, dict) or not isinstance(ck.get("done"), dict):
             return None
-        if ck.get("config_sig") != _config_sig(portal, args):
-            print("[!] Configuracion distinta: se descarta el checkpoint anterior")
+        saved_sig = ck.get("config_sig")
+        curr_sig = _config_sig(portal, args)
+        if saved_sig != curr_sig:
+            print("[!] Configuracion distinta: se descarta el checkpoint anterior (guardado: %s..., actual: %s...)" % (str(saved_sig)[:8], str(curr_sig)[:8]))
             return None
         return ck
-    except Exception:
+    except Exception as exc:
+        print("[!] Error leyendo checkpoint (%s): %s" % (path, exc))
         return None
 
 
@@ -620,7 +628,12 @@ def _run(args):
     if cats == [None]:
         cats = [cid for cid in filtered_cat_ids if cid not in remove_cats]
     else:
-        cats = [c for c in cats if str(c) in filtered_cat_ids and str(c) not in remove_cats]
+        req_cats = [str(c) for c in cats]
+        cats = [c for c in req_cats if c not in remove_cats]
+        for cat in categories:
+            cid = str(cat.get("id") or "").strip()
+            if cid in cats and cid not in cat_names:
+                cat_names[cid] = str(cat.get("title") or cid)
     if not cats:
         print("[!] No quedan categorias tras excluir; nada que hacer")
         return 0
@@ -696,8 +709,12 @@ def _run(args):
         done = 0
         for fut in concurrent.futures.as_completed(future_map):
             series = future_map[fut]
-            block, xinfo = fut.result()
             done += 1
+            try:
+                block, xinfo = fut.result()
+            except Exception as exc:
+                print("[!] Error procesando serie %s (%s): %s" % (series.get("id"), series.get("name"), exc))
+                continue
             if block:
                 entries.extend(block)
                 sid = str(series.get("id") or "").split(":")[0]
@@ -708,7 +725,8 @@ def _run(args):
                 if xinfo and xt_dir:
                     _collect_xtream(xinfo, xt_series, streams, xt_dir)
             _save_and_push()
-            print("[+] Series procesadas: %d/%d" % (done, total))
+            if done % 20 == 0 or done == total:
+                print("[+] Series procesadas: %d/%d" % (done, total))
 
     if xt_dir:
         selected = set(str(c) for c in cats if c is not None)
