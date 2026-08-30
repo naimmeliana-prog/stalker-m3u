@@ -1383,6 +1383,8 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=QV9o4BAAdC
 #EXTINF:-1 tvg-id="1338663" tvg-name="SKWEEK 6 HD" tvg-logo="http://51.158.145.100/picons/logos/france/1338663.png" group-title="FR| SPORTS HD",SKWEEK 6 HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=gNQtIuQSN3
+#EXTINF:-1 tvg-id="1347433" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=9n8GormUat
 #EXTINF:-1 tvg-id="1348093" tvg-name="BEIN SPORTS AU 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="EN| WORLD SPORTS",BEIN SPORTS AU 1
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=9TL4kyGZjR
 #EXTINF:-1 tvg-id="1348102" tvg-name="BEIN SPORTS AU 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="EN| WORLD SPORTS",BEIN SPORTS AU 2
@@ -3761,6 +3763,12 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=MQPlBYPq4I
 #EXTINF:-1 tvg-id="1547243" tvg-name="FLOOXER FHD" tvg-logo="http://103.176.90.92/images/1547243.png" group-title="ES| ESTILO DE VIDA",FLOOXER FHD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=NdJZHBn40E
+#EXTINF:-1 tvg-id="1547248" tvg-name="DAZN LALIGA HEVC" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA HEVC
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=X9p8Dbiv5c
+#EXTINF:-1 tvg-id="1547249" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 FHD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=VKrO7JiRWo
+#EXTINF:-1 tvg-id="1547250" tvg-name="DAZN LALIGA 5 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 5 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=SZhzJUsVez
 #EXTINF:-1 tvg-id="1547251" tvg-name="DAZN F1 HEVC" tvg-logo="http://103.176.90.95/images/1547251.png" group-title="ES| DAZN ESPAÑA",DAZN F1 HEVC
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=6zdfXBgjPu
 #EXTINF:-1 tvg-id="1547252" tvg-name="DAZN F1 FHD" tvg-logo="http://103.176.90.95/images/1547252.png" group-title="ES| DAZN ESPAÑA",DAZN F1 FHD
@@ -4037,6 +4045,12 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=fWqJdBadUT
 #EXTINF:-1 tvg-id="1548322" tvg-name="BOM CINE HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BOMCINE.png" group-title="ES| M+ CINE",BOM CINE HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=q2484B9P6d
+#EXTINF:-1 tvg-id="1548416" tvg-name="DAZN LALIGA 4 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 4 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=6zma3eETTy
+#EXTINF:-1 tvg-id="1548417" tvg-name="DAZN LALIGA 3 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 3 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=58PDLmfiKM
+#EXTINF:-1 tvg-id="1548418" tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=QtzCMWS1Ff
 #EXTINF:-1 tvg-id="1556637" tvg-name="BBC EARTH HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1556637.png" group-title="EN| GENERAL",BBC EARTH HD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=72fK8h9jgM
 #EXTINF:-1 tvg-id="1556643" tvg-name="PDCTV 4 | Players Championship 28 - Players Championship - Board 3 // UK Wed 26 Aug 1:00pm // ET Wed 26 Aug 8:00am" tvg-logo="http://103.176.90.95/images/1556643.png" group-title="EN| PDC BOARD PPV",PDCTV 4 | Players Championship 28 - Players Championship - Board 3 // UK Wed 26 Aug 1:00pm // ET Wed 26 Aug 8:00am
@@ -7119,6 +7133,28 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Bc1MgUKcaB
 #EXTINF:-1 tvg-id="1917764" tvg-name="BBCIPLAYER SERIES info ᴴᴰ" tvg-logo="https://iili.io/HEPAnun.md.png" group-title="EN| BBCIPLAYER SERIES",BBCIPLAYER SERIES info ᴴᴰ
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=dd5QmrnGOg
+#EXTINF:-1 tvg-id="1917766" tvg-name="APPLE TV+ SERIES 10 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 10 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=bTq2RSXtyz
+#EXTINF:-1 tvg-id="1917767" tvg-name="APPLE TV+ SERIES 9 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 9 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=jNxju80n2A
+#EXTINF:-1 tvg-id="1917768" tvg-name="APPLE TV+ SERIES 8 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 8 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=sLDAVTKUWo
+#EXTINF:-1 tvg-id="1917769" tvg-name="APPLE TV+ SERIES 7 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 7 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=Cc1BrAnvdC
+#EXTINF:-1 tvg-id="1917770" tvg-name="APPLE TV+ SERIES 6 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 6 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=nHoyYTH1h3
+#EXTINF:-1 tvg-id="1917771" tvg-name="APPLE TV+ SERIES 5 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 5 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=2kadJVGV4u
+#EXTINF:-1 tvg-id="1917772" tvg-name="APPLE TV+ SERIES 4 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 4 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=90t8HmMtbx
+#EXTINF:-1 tvg-id="1917773" tvg-name="APPLE TV+ SERIES 3 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 3 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=oQQYKSe7Cc
+#EXTINF:-1 tvg-id="1917774" tvg-name="APPLE TV+ SERIES 2 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 2 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=0xZmWAxd82
+#EXTINF:-1 tvg-id="1917775" tvg-name="APPLE TV+ SERIES 1 ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES 1 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=QZTudXotDP
+#EXTINF:-1 tvg-id="1917776" tvg-name="APPLE TV+ SERIES info ᴴᴰ" tvg-logo="http://103.176.90.118/piconsnew/Apple-TV-logo.png" group-title="EN| APPLE TV+ SERIES",APPLE TV+ SERIES info ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=M8v3nznTHI
 #EXTINF:-1 tvg-id="1917778" tvg-name="NETFLIX PREMIERE 13 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="EN| NETFLIX ORIGINAL",NETFLIX PREMIERE 13 ᴴᴰ
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=4Shtat6diV
 #EXTINF:-1 tvg-id="1917779" tvg-name="NETFLIX PREMIERE 12 ᴴᴰ" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="EN| NETFLIX ORIGINAL",NETFLIX PREMIERE 12 ᴴᴰ
@@ -14779,6 +14815,24 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 ffmpeg http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=2072551&extension=ts&play_token=MVjiY4hg31
 #EXTINF:-1 tvg-id="2072552" tvg-name="Live | Aragon GP | All races | all | 8K EXCLUSIVE | ES: SOCCER PPV 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="ES| SOCCER PPV",Live | Aragon GP | All races | all | 8K EXCLUSIVE | ES: SOCCER PPV 1
 ffmpeg http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=2072552&extension=ts&play_token=CfZsMNvcs4
+#EXTINF:-1 tvg-id="2074433" tvg-name="DAZN LA LIGA 5 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 5 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=ZFcSnhnFZ3
+#EXTINF:-1 tvg-id="2074434" tvg-name="DAZN LA LIGA 4 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 4 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=oHvHQDDEgq
+#EXTINF:-1 tvg-id="2074435" tvg-name="DAZN LA LIGA 3 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 3 ᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=gGWIvtSIvD
+#EXTINF:-1 tvg-id="2074436" tvg-name="DAZN LA LIGA 5 ᵁᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 5 ᵁᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=wWBQBPa41K
+#EXTINF:-1 tvg-id="2074437" tvg-name="DAZN LA LIGA 4 ᵁᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 4 ᵁᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=dxtrL5Uk8n
+#EXTINF:-1 tvg-id="2074438" tvg-name="DAZN LA LIGA 3 ᵁᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 3 ᵁᴴᴰ
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=vquCA4mPfj
+#EXTINF:-1 tvg-id="2074439" tvg-name="DAZN LA LIGA 5 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 5 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=GheS2835DK
+#EXTINF:-1 tvg-id="2074440" tvg-name="DAZN LA LIGA 4 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 4 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=pHNNUw5Fq1
+#EXTINF:-1 tvg-id="2074441" tvg-name="DAZN LA LIGA 3 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LA LIGA 3 SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=iBSsXxSwUt
 #EXTINF:-1 tvg-id="2078942" tvg-name="LALIGA TV HYPERMOTION 3 SD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGATVHYPERMOTION.png" group-title="ES| M+ LALIGA",LALIGA TV HYPERMOTION 3 SD
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=zinlEzRYpm
 #EXTINF:-1 tvg-id="2078943" tvg-name="LALIGA TV HYPERMOTION 2 SD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LALIGATVHYPERMOTION.png" group-title="ES| M+ LALIGA",LALIGA TV HYPERMOTION 2 SD
@@ -18839,6 +18893,12 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=qScoMnxggc
 #EXTINF:-1 tvg-id="984953" tvg-name="FOX SPORTS PREMIUM" tvg-logo="http://103.176.90.92/images/984953.png" group-title="ES| OTROS DEPORTES",FOX SPORTS PREMIUM
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=mqtKfkF42E
+#EXTINF:-1 tvg-id="986639" tvg-name="DAZN LALIGA 4K" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 4K
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=aOg2ctEzfD
+#EXTINF:-1 tvg-id="986640" tvg-name="DAZN LALIGA HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=qdbcRm5U5G
+#EXTINF:-1 tvg-id="986641" tvg-name="DAZN LALIGA SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA SD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=qkl5SRoKN8
 #EXTINF:-1 tvg-id="988351" tvg-name="EPL IPSWICH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/WESTHAM.png" group-title="EN| EPL PREMIER LEAGUE",EPL IPSWICH
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:00:04:35&stream=&extension=ts&play_token=eq1I0G9QST
 #EXTINF:-1 tvg-id="988352" tvg-name="EPL TOTTENHAM" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TOTTENHAM.png" group-title="EN| EPL PREMIER LEAGUE",EPL TOTTENHAM
