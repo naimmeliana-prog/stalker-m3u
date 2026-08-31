@@ -1,1 +1,33 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1350366" tvg-name="DISNEY SPORT EVENT 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 1 FHD
+ffmpeg http://localhost/ch/1350366_
+#EXTINF:-1 tvg-id="1350367" tvg-name="DISNEY SPORT EVENT 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 2 FHD
+ffmpeg http://localhost/ch/1350367_
+#EXTINF:-1 tvg-id="1350368" tvg-name="DISNEY SPORT EVENT 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 3 FHD
+ffmpeg http://localhost/ch/1350368_
+#EXTINF:-1 tvg-id="1350369" tvg-name="DISNEY SPORT EVENT 4 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 4 FHD
+ffmpeg http://localhost/ch/1350369_
+#EXTINF:-1 tvg-id="1350370" tvg-name="DISNEY SPORT EVENT 5 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 5 FHD
+ffmpeg http://localhost/ch/1350370_
+#EXTINF:-1 tvg-id="1350371" tvg-name="DISNEY SPORT EVENT 6 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 6 FHD
+ffmpeg http://localhost/ch/1350371_
+#EXTINF:-1 tvg-id="1350372" tvg-name="DISNEY SPORT EVENT 7 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 7 FHD
+ffmpeg http://localhost/ch/1350372_
+#EXTINF:-1 tvg-id="1350373" tvg-name="DISNEY SPORT EVENT 8 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 8 FHD
+ffmpeg http://localhost/ch/1350373_
+#EXTINF:-1 tvg-id="1350374" tvg-name="DISNEY SPORT EVENT 9 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 9 FHD
+ffmpeg http://localhost/ch/1350374_
+#EXTINF:-1 tvg-id="1350375" tvg-name="DISNEY SPORT EVENT 10 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 10 FHD
+ffmpeg http://localhost/ch/1350375_
+#EXTINF:-1 tvg-id="1350376" tvg-name="DISNEY SPORT EVENT 11 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 11 FHD
+ffmpeg http://localhost/ch/1350376_
+#EXTINF:-1 tvg-id="1350377" tvg-name="DISNEY SPORT EVENT 12 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 12 FHD
+ffmpeg http://localhost/ch/1350377_
+#EXTINF:-1 tvg-id="1350378" tvg-name="DISNEY SPORT EVENT 13 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 13 FHD
+ffmpeg http://localhost/ch/1350378_
+#EXTINF:-1 tvg-id="1350379" tvg-name="DISNEY SPORT EVENT 14 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 14 FHD
+ffmpeg http://localhost/ch/1350379_
+#EXTINF:-1 tvg-id="1350380" tvg-name="DISNEY SPORT EVENT 15 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 15 FHD
+ffmpeg http://localhost/ch/1350380_
+#EXTINF:-1 tvg-id="1350386" tvg-name="•●★★DISNEY SPORTS WORLD★★•●" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",•●★★DISNEY SPORTS WORLD★★•●
+http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350386?play_token=nuUlrfDQrY
