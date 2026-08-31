@@ -13,10 +13,14 @@ permissions:
 jobs:
   generate:
     concurrency:
-      group: global-xtream-gen
+      group: global-xtream-${{ matrix.portal }}
       cancel-in-progress: false
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      matrix:
+        portal: [backup, devtv, greatott, ipfr, oktay, sny57, tfx1, tvmoderne, wave]
     steps:
       - uses: actions/checkout@v4
 
@@ -24,47 +28,38 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generar lista ITV para todos los portales
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generar ITV para portal ${{ matrix.portal }}
         run: |
-          for dir in portals/*/; do
-            if [ -f "${dir}config.json" ]; then
-              echo "[+] Generando ITV para ${dir}..."
-              PORTAL_CONFIG_PATH="${dir}config.json" python itv_m3u.py || true
-            fi
-          done
+          if [ -f "portals/${{ matrix.portal }}/config.json" ]; then
+            echo "[+] Generando ITV para portals/${{ matrix.portal }}..."
+            PORTAL_CONFIG_PATH="portals/${{ matrix.portal }}/config.json" python itv_m3u.py || true
+          fi
 
-      - name: Generar lista VOD para todos los portales
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generar VOD para portal ${{ matrix.portal }}
         run: |
-          for dir in portals/*/; do
-            if [ -f "${dir}config.json" ]; then
-              echo "[+] Generando VOD para ${dir}..."
-              PORTAL_CONFIG_PATH="${dir}config.json" python vod_m3u.py || true
-            fi
-          done
+          if [ -f "portals/${{ matrix.portal }}/config.json" ]; then
+            echo "[+] Generando VOD para portals/${{ matrix.portal }}..."
+            PORTAL_CONFIG_PATH="portals/${{ matrix.portal }}/config.json" python vod_m3u.py || true
+          fi
 
-      - name: Generar lista M3U de series para todos los portales
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generar Series M3U para portal ${{ matrix.portal }}
         run: |
-          for dir in portals/*/; do
-            if [ -f "${dir}config.json" ]; then
-              echo "[+] Generando series M3U para ${dir}..."
-              PORTAL_CONFIG_PATH="${dir}config.json" python generate.py || true
-            fi
-          done
+          if [ -f "portals/${{ matrix.portal }}/config.json" ]; then
+            echo "[+] Generando Series para portals/${{ matrix.portal }}..."
+            PORTAL_CONFIG_PATH="portals/${{ matrix.portal }}/config.json" python generate.py || true
+          fi
 
-      - name: Publicar checkpoints y cambios generados (siempre, incluso en cancelacion/timeout)
+      - name: Publicar checkpoint y cambios del portal ${{ matrix.portal }}
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add portals/ || true
-          git diff --cached --quiet || git commit -m "Global Xtream Auto Update: Checkpoint/Progreso ($(date -u +'%F %R UTC'))"
-          for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase -X theirs origin main; sleep 3); done; exit 1
+          git add "portals/${{ matrix.portal }}" || true
+          git diff --cached --quiet || git commit -m "Auto-update portal ${{ matrix.portal }} ($(date -u +'%F %R UTC'))"
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            git pull --rebase -X theirs origin main || true
+            git push origin HEAD:main && exit 0 || sleep 5
+          done
 
   publish:
     needs: generate
@@ -80,7 +75,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Combinar global.m3u y estructurar datos Xtream
+      - name: Combinar playlists y estructurar datos Xtream
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
