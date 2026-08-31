@@ -5703,6 +5703,40 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extensio
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=vRACiqmSFI
 #EXTINF:-1 tvg-id="907820" tvg-name="┃CA EN┃ HGTV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA EN/DOCUMENTAIR/HGTV HD.png" group-title="EN| ┃CA EN┃ DOCUMENTARY",┃CA EN┃ HGTV HD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=EMueY6aZXq
+#EXTINF:-1 tvg-id="935630" tvg-name="┃ES┃ M+ ESTRENOS 16 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 16 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=GIJqWzKGU4
+#EXTINF:-1 tvg-id="935631" tvg-name="┃ES┃ M+ ESTRENOS 15 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 15 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=JOR9dFlzhM
+#EXTINF:-1 tvg-id="935632" tvg-name="┃ES┃ M+ ESTRENOS 14 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 14 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=VBV12wGf1e
+#EXTINF:-1 tvg-id="935633" tvg-name="┃ES┃ M+ ESTRENOS 13 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 13 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=5iTRP4lea7
+#EXTINF:-1 tvg-id="935634" tvg-name="┃ES┃ M+ ESTRENOS 12 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 12 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=7GnRBurJGx
+#EXTINF:-1 tvg-id="935635" tvg-name="┃ES┃ M+ ESTRENOS 11 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 11 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=jZYCPRcFxv
+#EXTINF:-1 tvg-id="935636" tvg-name="┃ES┃ M+ ESTRENOS 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 10 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=dIRAurniZZ
+#EXTINF:-1 tvg-id="935637" tvg-name="┃ES┃ M+ ESTRENOS 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 9 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6aGVjnhNoQ
+#EXTINF:-1 tvg-id="935638" tvg-name="┃ES┃ M+ ESTRENOS 8 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 8 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=fzVIxsg6He
+#EXTINF:-1 tvg-id="935639" tvg-name="┃ES┃ M+ ESTRENOS 7 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 7 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=11V6upq8gq
+#EXTINF:-1 tvg-id="935640" tvg-name="┃ES┃ M+ ESTRENOS 6 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 6 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=lDuS59nhNF
+#EXTINF:-1 tvg-id="935641" tvg-name="┃ES┃ M+ ESTRENOS 5 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 5 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=kiWhT6tfuv
+#EXTINF:-1 tvg-id="935642" tvg-name="┃ES┃ M+ ESTRENOS 4 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 4 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=930l8t25aT
+#EXTINF:-1 tvg-id="935643" tvg-name="┃ES┃ M+ ESTRENOS 3 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 3 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=EVFwVEpRRL
+#EXTINF:-1 tvg-id="935644" tvg-name="┃ES┃ M+ ESTRENOS 2 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 2 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=eXE23w2m6u
+#EXTINF:-1 tvg-id="935645" tvg-name="┃ES┃ M+ ESTRENOS 1 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS 1 HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=yYTSG27Fzp
+#EXTINF:-1 tvg-id="935646" tvg-name="┃ES┃ M+ ESTRENOS INFO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ ESTRENOS/M+ ESTRENOS.png" group-title="ES| ┃ES┃ OD M+ ESTRENOS",┃ES┃ M+ ESTRENOS INFO HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=T6spNy3h96
 #EXTINF:-1 tvg-id="935651" tvg-name="┃ES┃ M+ SERIES 10 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ SERIES/M+ SERIES.png" group-title="ES| ┃ES┃ OD M+ SERIES",┃ES┃ M+ SERIES 10 HD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4jangkTxnL
 #EXTINF:-1 tvg-id="935652" tvg-name="┃ES┃ M+ SERIES 9 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/M+ SERIES/M+ SERIES.png" group-title="ES| ┃ES┃ OD M+ SERIES",┃ES┃ M+ SERIES 9 HD
