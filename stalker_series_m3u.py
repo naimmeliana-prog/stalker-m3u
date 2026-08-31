@@ -597,6 +597,7 @@ def _run(args):
         return 0
 
     categories = portal.get_categories()
+    cat_names = {}
     banned_regions = {
         "LATINO", "LATAM", "MEXICO", "ARGENTINA", "COLOMBIA", "CHILE", "PERU", "VENEZUELA",
         "QUEBEC", "SUISSE", "SUIZA", "SWITZERLAND", "BELGIQUE", "BELGICA", "BELGIUM",

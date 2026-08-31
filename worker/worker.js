@@ -384,26 +384,6 @@ export default {
       }
 
       let finalTarget = target;
-      if (target.includes("localhost") || !target.startsWith("http")) {
-        try {
-          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-          const configRes = await fetch(configUrl);
-          if (configRes.ok) {
-            const config = await configRes.json();
-            if (config.portal && config.mac) {
-              const type = parts[0] === "live" ? "itv" : "vod";
-              finalTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
-            }
-          }
-        } catch (e) {
-          console.error("Dynamic stream resolution failed, using fallback:", e);
-        }
-      }
-
-      if (!finalTarget) {
-        return corsJson({}, 404);
-      }
-      
       let portal = "";
       let mac = "";
       try {
@@ -413,14 +393,26 @@ export default {
           const config = await configRes.json();
           portal = config.portal || "";
           mac = config.mac || "";
+          if (config.portal && config.mac) {
+            const type = parts[0] === "live" ? "itv" : "vod";
+            const freshTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
+            if (freshTarget) {
+              finalTarget = freshTarget;
+            }
+          }
         }
-      } catch (e) {}
-
-      const forceProxy = parts[0] === "movie";
-      if (!forceProxy && env && env.PROXY_STREAM === "off") {
-        return redirectCors(finalTarget);
+      } catch (e) {
+        console.error("Dynamic stream resolution error, using target fallback:", e);
       }
-      return withCors(await streamProxy(finalTarget, request, portal, mac));
+
+      if (!finalTarget) {
+        return corsJson({}, 404);
+      }
+
+      if (env && env.PROXY_STREAM === "on") {
+        return withCors(await streamProxy(finalTarget, request, portal, mac));
+      }
+      return redirectCors(finalTarget);
     }
 
     if (parts.length === 3) {
@@ -439,15 +431,16 @@ export default {
             const config = await configRes.json();
             portal = config.portal || "";
             mac = config.mac || "";
-            if ((fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) && config.portal && config.mac) {
-              fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "itv");
+            if (config.portal && config.mac) {
+              const fresh = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "itv");
+              if (fresh) fallbackTarget = fresh;
             }
           }
         } catch (e) {}
-        if (env && env.PROXY_STREAM === "off") {
-          return redirectCors(fallbackTarget);
+        if (env && env.PROXY_STREAM === "on") {
+          return withCors(await streamProxy(fallbackTarget, request, portal, mac));
         }
-        return withCors(await streamProxy(fallbackTarget, request, portal, mac));
+        return redirectCors(fallbackTarget);
       }
 
       // 2. Check vod_urls.json
@@ -463,12 +456,16 @@ export default {
             const config = await configRes.json();
             portal = config.portal || "";
             mac = config.mac || "";
-            if ((fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) && config.portal && config.mac) {
-              fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
+            if (config.portal && config.mac) {
+              const fresh = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
+              if (fresh) fallbackTarget = fresh;
             }
           }
         } catch (e) {}
-        return withCors(await streamProxy(fallbackTarget, request, portal, mac));
+        if (env && env.PROXY_STREAM === "on") {
+          return withCors(await streamProxy(fallbackTarget, request, portal, mac));
+        }
+        return redirectCors(fallbackTarget);
       }
 
       // 3. Check streams.json (Xtream Series)
@@ -484,12 +481,16 @@ export default {
             const config = await configRes.json();
             portal = config.portal || "";
             mac = config.mac || "";
-            if ((fallbackTarget.includes("localhost") || !fallbackTarget.startsWith("http")) && config.portal && config.mac) {
-              fallbackTarget = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
+            if (config.portal && config.mac) {
+              const fresh = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "series");
+              if (fresh) fallbackTarget = fresh;
             }
           }
         } catch (e) {}
-        return withCors(await streamProxy(fallbackTarget, request, portal, mac));
+        if (env && env.PROXY_STREAM === "on") {
+          return withCors(await streamProxy(fallbackTarget, request, portal, mac));
+        }
+        return redirectCors(fallbackTarget);
       }
 
       return corsJson({}, 404);
