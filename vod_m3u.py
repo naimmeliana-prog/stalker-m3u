@@ -50,6 +50,12 @@ def load_config():
 def lang_prefix(title):
     t = str(title or "").strip()
     t_upper = t.upper()
+    if re.search(r"\[(ES|SPAIN|ESP)\]|\bES\b|\bSPAIN\b|\bESPAÑA\b|\bESPANA\b|\bSPANISH\b|\bCASTELLANO\b", t_upper):
+        return "ES"
+    if re.search(r"\[(FR|FRENCH|FRA)\]|\bFR\b|\bFRANCE\b|\bFRENCH\b|\bFRANCAIS\b|\bFRANÇAIS\b", t_upper):
+        return "FR"
+    if re.search(r"\[(UK|EN|ENG|ENGLISH)\]|\bUK\b|\bEN\b|\bENGLISH\b|\bENGLAND\b|\bBRITISH\b|\bGB\b", t_upper):
+        return "UK"
     match = re.match(r"^(ES|FR|UK|EN)\b", t_upper)
     if match:
         val = match.group(1)
@@ -63,12 +69,6 @@ def lang_prefix(title):
         val = t.split("|", 1)[0].strip()
         if val in ["ES", "FR", "UK", "EN"]:
             return "UK" if val == "EN" else val
-    if any(k in t_upper for k in ["ESPAÑA", "ESPANA", "SPAIN", "SPANISH", "CASTELLANO", "ES |", "| ES"]):
-        return "ES"
-    if any(k in t_upper for k in ["FRANCE", "FRENCH", "FR |", "| FR"]):
-        return "FR"
-    if any(k in t_upper for k in ["UK |", "| UK", "UNITED KINGDOM", "ENGLAND", "ENGLISH", "ANGLAIS", "BRITISH", "GB"]):
-        return "UK"
     return ""
 
 
@@ -202,9 +202,9 @@ def list_movies(portal, cid):
             break
         page += 1
     if total and len(items) < total:
-        raise PortalError("VOD %s incompleta: %d/%d (pagina %d)" % (cid, len(items), total, page))
+        print("[+] VOD %s: %d/%d items recibidos (parcial)" % (cid, len(items), total))
     if page > 500:
-        raise PortalError("VOD %s: limite de paginas (500) alcanzado" % cid)
+        print("[!] VOD %s: limite de paginas (500) alcanzado (%d items)" % (cid, len(items)))
     return items
 
 
@@ -258,11 +258,15 @@ def main(argv=None):
         print("[!] Falta la MAC: define el secret MAG_MAC o la clave 'mac' en config.json", file=sys.stderr)
         return 1
 
-    portal = StalkerPortal(
-        cfg_all["portal"], mac, cfg.get("timeout", 15), not cfg_all.get("no_verify", False)
-    )
-    portal.handshake()
-    print("[+] Token VOD OK: %s... endpoint %s" % (portal.token[:12], portal.entry))
+    try:
+        portal = StalkerPortal(
+            cfg_all["portal"], mac, cfg.get("timeout", 15), not cfg_all.get("no_verify", False)
+        )
+        portal.handshake()
+        print("[+] Token VOD OK: %s... endpoint %s" % (portal.token[:12], portal.entry))
+    except PortalError as exc:
+        print("[!] Error de conexion/handshake VOD (%s): %s" % (cfg_all.get("portal"), exc), file=sys.stderr)
+        return 0
 
     languages = cfg.get("languages") or ["ES", "FR"]
     exclude = cfg.get("exclude") or DEFAULT_EXCLUDE

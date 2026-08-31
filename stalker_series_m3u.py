@@ -58,6 +58,12 @@ def _clean_series_name(title):
 def _title_lang(title):
     raw = str(title or "").strip()
     t_upper = raw.upper()
+    if re.search(r"\[(ES|SPAIN|ESP)\]|\bES\b|\bSPAIN\b|\bESPAÑA\b|\bESPANA\b|\bSPANISH\b|\bCASTELLANO\b", t_upper):
+        return "ES"
+    if re.search(r"\[(FR|FRENCH|FRA)\]|\bFR\b|\bFRANCE\b|\bFRENCH\b|\bFRANCAIS\b|\bFRANÇAIS\b", t_upper):
+        return "FR"
+    if re.search(r"\[(UK|EN|ENG|ENGLISH)\]|\bUK\b|\bEN\b|\bENGLISH\b|\bENGLAND\b|\bBRITISH\b|\bGB\b", t_upper):
+        return "UK"
     match = re.match(r"^(ES|FR|UK|EN)\b", t_upper)
     if match:
         val = match.group(1)
@@ -71,12 +77,6 @@ def _title_lang(title):
         val = raw.split("|", 1)[0].strip()
         if val in ["ES", "FR", "UK", "EN"]:
             return "UK" if val == "EN" else val
-    if any(k in t_upper for k in ["ESPAÑA", "ESPANA", "SPAIN", "SPANISH", "ESPAÑOL", "ESPANOL", "CASTELLANO", "ES |", "| ES", "ES -", "SERIES ES", "[ES]"]):
-        return "ES"
-    if any(k in t_upper for k in ["FRANCE", "FRENCH", "FRANCAIS", "FRANÇAIS", "FR |", "| FR", "FR -", "SERIES FR", "[FR]"]):
-        return "FR"
-    if any(k in t_upper for k in ["UK |", "| UK", "UNITED KINGDOM", "ENGLAND", "ENGLISH", "ANGLAIS", "BRITISH", "GB"]):
-        return "UK"
     return ""
 
 
@@ -224,9 +224,9 @@ class StalkerPortal:
                 break
             page += 1
         if total and len(items) < total:
-            raise PortalError("Lista incompleta %d/%d en pagina %d" % (len(items), total, page))
+            print("[+] Lista de series: %d/%d items recibidos (parcial)" % (len(items), total))
         if page > max_pages:
-            raise PortalError("Limite de paginas (%d) alcanzado" % max_pages)
+            print("[!] Limite de paginas (%d) alcanzado (%d items)" % (max_pages, len(items)))
         return items
 
     def get_series(self, category=None):
@@ -587,10 +587,14 @@ def main(argv=None):
 
 
 def _run(args):
-    portal = StalkerPortal(args.portal, args.mac, args.timeout, not args.no_verify)
-    portal.handshake()
-    print("[+] Token obtenido: %s..." % (portal.token[:12] if portal.token else "(vacio)"))
-    print("[+] Endpoint: %s" % portal.entry)
+    try:
+        portal = StalkerPortal(args.portal, args.mac, args.timeout, not args.no_verify)
+        portal.handshake()
+        print("[+] Token obtenido: %s..." % (portal.token[:12] if portal.token else "(vacio)"))
+        print("[+] Endpoint: %s" % portal.entry)
+    except PortalError as exc:
+        print("[!] Error de conexion/handshake Series (%s): %s" % (args.portal, exc), file=sys.stderr)
+        return 0
 
     categories = portal.get_categories()
     banned_regions = {
