@@ -3899,6 +3899,18 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&pl
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=80f7NBhMYL
 #EXTINF:-1 tvg-id="1616586" tvg-name="EPL| PREMIERE LEAGUE 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="EN| EPL PREMIER LEAGUE",EPL| PREMIERE LEAGUE 1
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=m0o83GnOop
+#EXTINF:-1 tvg-id="1616917" tvg-name="LA CHAINE EQUIPE FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",LA CHAINE EQUIPE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=mppemWa0Y6
+#EXTINF:-1 tvg-id="1616918" tvg-name="DAZN 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",DAZN 1 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=4BkDEBLEw7
+#EXTINF:-1 tvg-id="1616919" tvg-name="LA CHAINE EQUIPE HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",LA CHAINE EQUIPE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=aSPLvrSJWy
+#EXTINF:-1 tvg-id="1616920" tvg-name="DAZN 1 HD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",DAZN 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=bpBEaTCnz2
+#EXTINF:-1 tvg-id="1616921" tvg-name="LA CHAINE EQUIPE SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",LA CHAINE EQUIPE SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=QAx0807Zur
+#EXTINF:-1 tvg-id="1616922" tvg-name="DAZN 1 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",DAZN 1 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=oz0NjO6iGt
 #EXTINF:-1 tvg-id="1624000" tvg-name="LIGUE1 + 10" tvg-logo="http://51.158.145.100/picons/logos/logos/ligue1.png" group-title="FR| LIGUE 1+",LIGUE1 + 10
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=6xhiRnNJ96
 #EXTINF:-1 tvg-id="1624001" tvg-name="LIGUE1 + 9" tvg-logo="http://51.158.145.100/picons/logos/logos/ligue1.png" group-title="FR| LIGUE 1+",LIGUE1 + 9
@@ -9141,6 +9153,204 @@ http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&pl
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=dl6vMMz3Ne
 #EXTINF:-1 tvg-id="2040730" tvg-name="End | Diriangén FC vs. ART Municipal Jalapa | Primera Division - Nicaragua | 2026-08-30 | 00:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="ES| DAZN PPV",End | Diriangén FC vs. ART Municipal Jalapa | Primera Division - Nicaragua | 2026-08-30 | 00:00 (GMT) | 8K EXCLUSIVE | ES: DAZN PPV 1
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=SKOaTufgsZ
+#EXTINF:-1 tvg-id="2041947" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 99" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 99
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=iNhkzGX2N6
+#EXTINF:-1 tvg-id="2041948" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 98" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 98
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=VPSpHLetEq
+#EXTINF:-1 tvg-id="2041949" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 97" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 97
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=wWEWTgu8Q0
+#EXTINF:-1 tvg-id="2041950" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 96" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 96
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=eaGAFeIqKn
+#EXTINF:-1 tvg-id="2041951" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 95" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 95
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=9qEPEEtF6U
+#EXTINF:-1 tvg-id="2041952" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 94" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 94
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=cTCyMhZx2U
+#EXTINF:-1 tvg-id="2041953" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 93" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 93
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=8IjXiNuFL5
+#EXTINF:-1 tvg-id="2041954" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 92" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 92
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=NIoH3jKLhe
+#EXTINF:-1 tvg-id="2041955" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 91" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 91
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=LEmLxa6NRD
+#EXTINF:-1 tvg-id="2041956" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 90" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 90
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=oPztQx04tU
+#EXTINF:-1 tvg-id="2041957" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 89" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 89
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=HrthBuovix
+#EXTINF:-1 tvg-id="2041958" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 88" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 88
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=OhCJkIyU6q
+#EXTINF:-1 tvg-id="2041959" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 87" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 87
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=iQq3mRNgCo
+#EXTINF:-1 tvg-id="2041960" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 86" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 86
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=pJepUuVXec
+#EXTINF:-1 tvg-id="2041961" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 85" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 85
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=ePOmvYXQiv
+#EXTINF:-1 tvg-id="2041962" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 84" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 84
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=nVLY7HZVfS
+#EXTINF:-1 tvg-id="2041963" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 83" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 83
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=LtDpBX3X3e
+#EXTINF:-1 tvg-id="2041964" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 82" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 82
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=DQijqpRi0E
+#EXTINF:-1 tvg-id="2041965" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 81" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 81
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=3JvvMgIn2c
+#EXTINF:-1 tvg-id="2041966" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 80" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 80
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=VNzExPCpI8
+#EXTINF:-1 tvg-id="2041967" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 79" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 79
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=KXhhud2fs2
+#EXTINF:-1 tvg-id="2041968" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 78" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 78
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=ZNQSkbAVn8
+#EXTINF:-1 tvg-id="2041969" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 77" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 77
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=4J0N33JrSd
+#EXTINF:-1 tvg-id="2041970" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 76" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 76
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=mo7D0QaeRS
+#EXTINF:-1 tvg-id="2041971" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 75" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 75
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=rHvTBTu6rT
+#EXTINF:-1 tvg-id="2041972" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 74" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 74
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=JNXd3qnUUE
+#EXTINF:-1 tvg-id="2041973" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 73" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 73
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=MeWz6rVjt5
+#EXTINF:-1 tvg-id="2041974" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 72" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 72
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=LlF7wKcFU7
+#EXTINF:-1 tvg-id="2041975" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 71" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 71
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=RQPl6aG6RN
+#EXTINF:-1 tvg-id="2041976" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 70" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 70
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=kYkTwvGC7Y
+#EXTINF:-1 tvg-id="2041977" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 69" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 69
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=wThAuHepFI
+#EXTINF:-1 tvg-id="2041978" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 68" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 68
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=pQDXit4KM1
+#EXTINF:-1 tvg-id="2041979" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 67" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 67
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=sjti30kESP
+#EXTINF:-1 tvg-id="2041980" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 66" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 66
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=WnGT0yoySt
+#EXTINF:-1 tvg-id="2041981" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 65" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 65
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=hlScb0n6WW
+#EXTINF:-1 tvg-id="2041982" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 64" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 64
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=EdULq24rZ9
+#EXTINF:-1 tvg-id="2041983" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 63" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 63
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=7kdm2cq3FY
+#EXTINF:-1 tvg-id="2041984" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 62" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 62
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=2viovI0cv3
+#EXTINF:-1 tvg-id="2041985" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 61" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 61
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=XnjPvg61eU
+#EXTINF:-1 tvg-id="2041986" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 60" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 60
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=Q2FfKrLMJJ
+#EXTINF:-1 tvg-id="2041987" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 59" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 59
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=gGzBpIQ8nu
+#EXTINF:-1 tvg-id="2041988" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 58" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 58
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=AeQ2pKd1kD
+#EXTINF:-1 tvg-id="2041989" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 57" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 57
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=P3KlMrkMjW
+#EXTINF:-1 tvg-id="2041990" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 56" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 56
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=37QE4UNtIN
+#EXTINF:-1 tvg-id="2041991" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 55" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 55
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=JfwZoq5hUd
+#EXTINF:-1 tvg-id="2041992" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 54" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 54
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=anrxRd9w3v
+#EXTINF:-1 tvg-id="2041993" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 53" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 53
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=RrFvYU8XEN
+#EXTINF:-1 tvg-id="2041994" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 52" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 52
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=bu7VIEio1a
+#EXTINF:-1 tvg-id="2041995" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 51" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 51
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=3xSOaPIWhq
+#EXTINF:-1 tvg-id="2041996" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 50" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 50
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=SxIfME0rct
+#EXTINF:-1 tvg-id="2041997" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 49" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 49
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=a8jZcZ3HHd
+#EXTINF:-1 tvg-id="2041998" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 48" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 48
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=jtZZRKWCRI
+#EXTINF:-1 tvg-id="2041999" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 47" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 47
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=pEncNPCZIH
+#EXTINF:-1 tvg-id="2042000" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 46" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 46
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=GCSY9lmUgf
+#EXTINF:-1 tvg-id="2042001" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 45" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 45
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=cRfQX3eWtf
+#EXTINF:-1 tvg-id="2042002" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 44" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 44
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=sqCBGLQO87
+#EXTINF:-1 tvg-id="2042003" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 43" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 43
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=aIlpxefJyK
+#EXTINF:-1 tvg-id="2042004" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 42" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 42
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=5Fq8Zm8QiI
+#EXTINF:-1 tvg-id="2042005" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 41" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 41
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=0YuKT2AFzb
+#EXTINF:-1 tvg-id="2042006" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 40" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 40
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=3iu7LRvcOq
+#EXTINF:-1 tvg-id="2042007" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 39" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 39
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=GUFkcX6RD6
+#EXTINF:-1 tvg-id="2042008" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 38" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 38
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=xxc6I961Fz
+#EXTINF:-1 tvg-id="2042009" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 37" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 37
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=v7k2j5D8qI
+#EXTINF:-1 tvg-id="2042010" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 36" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 36
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=aLWZ92IZgp
+#EXTINF:-1 tvg-id="2042011" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 35" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 35
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=cWHruvMHQ2
+#EXTINF:-1 tvg-id="2042012" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 34" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 34
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=zAMKJOtlSF
+#EXTINF:-1 tvg-id="2042013" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 33" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 33
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=EQpJ5vIXDv
+#EXTINF:-1 tvg-id="2042014" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 32" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 32
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=6GWC9Bflpk
+#EXTINF:-1 tvg-id="2042015" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 31" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 31
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=QFHT37HCiL
+#EXTINF:-1 tvg-id="2042016" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 30" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 30
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=Jl9dLdIVzG
+#EXTINF:-1 tvg-id="2042017" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 29" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 29
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=vE1qZJczOZ
+#EXTINF:-1 tvg-id="2042018" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 28" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 28
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=oOJHjLpoY0
+#EXTINF:-1 tvg-id="2042019" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 27" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 27
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=qHmZED1yNI
+#EXTINF:-1 tvg-id="2042020" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 26" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 26
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=lzoluOL5q0
+#EXTINF:-1 tvg-id="2042021" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 25" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 25
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=Yd9Pr9JReQ
+#EXTINF:-1 tvg-id="2042022" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 24" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 24
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=sHQoxKD1uu
+#EXTINF:-1 tvg-id="2042023" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 23" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 23
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=fEpKGsLyzJ
+#EXTINF:-1 tvg-id="2042024" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 22" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 22
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=jEE6uEZggy
+#EXTINF:-1 tvg-id="2042025" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 21" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 21
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=RMm7W5JX49
+#EXTINF:-1 tvg-id="2042026" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 20" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 20
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=iHAzh6CGEg
+#EXTINF:-1 tvg-id="2042027" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 19" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 19
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=ibod5IctQw
+#EXTINF:-1 tvg-id="2042028" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 18" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 18
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=OJY90JnHCN
+#EXTINF:-1 tvg-id="2042029" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 17" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 17
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=hBeNtDOV20
+#EXTINF:-1 tvg-id="2042030" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 16" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 16
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=kVzmxrMXOz
+#EXTINF:-1 tvg-id="2042031" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 15" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 15
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=NbmCKUctHN
+#EXTINF:-1 tvg-id="2042032" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 14" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 14
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=QD74VMRUqH
+#EXTINF:-1 tvg-id="2042033" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 13" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 13
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=EZ3xfeb5T0
+#EXTINF:-1 tvg-id="2042034" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 12" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 12
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=n8mWVMTVeP
+#EXTINF:-1 tvg-id="2042035" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 11" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 11
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=azOrdwW0lJ
+#EXTINF:-1 tvg-id="2042036" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 10" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 10
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=uk1ppbthNc
+#EXTINF:-1 tvg-id="2042037" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 9" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 9
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=Y8e4i2ss7O
+#EXTINF:-1 tvg-id="2042038" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 8" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=oSA0zKx4PV
+#EXTINF:-1 tvg-id="2042039" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 7" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=FEdJFb62az
+#EXTINF:-1 tvg-id="2042040" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 6" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=R13TrFqhKi
+#EXTINF:-1 tvg-id="2042041" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 5" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=KMGICFKfpb
+#EXTINF:-1 tvg-id="2042042" tvg-name="Next | We United FC vs. Mahaut Soca Strikers FC | DFA Premier League - Dominica | 2026-09-01 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",Next | We United FC vs. Mahaut Soca Strikers FC | DFA Premier League - Dominica | 2026-09-01 | 23:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=m7trc82mIP
+#EXTINF:-1 tvg-id="2042043" tvg-name="Next | DAZN Transfer by Fabrizio Romano - 1er Septembre | DAZN Transfer by Fabrizio Romano | 2026-09-01 | 18:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 3" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",Next | DAZN Transfer by Fabrizio Romano - 1er Septembre | DAZN Transfer by Fabrizio Romano | 2026-09-01 | 18:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=M7r9LU7Ld7
+#EXTINF:-1 tvg-id="2042044" tvg-name="Next | The Ocean Race Atlantic 2026: Start Show | The Ocean Race Atlantic | 2026-09-01 | 16:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",Next | The Ocean Race Atlantic 2026: Start Show | The Ocean Race Atlantic | 2026-09-01 | 16:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=y2ChYdO3bM
+#EXTINF:-1 tvg-id="2042045" tvg-name="Next | Taylor vs. Pili: Conférence de Presse | Matchroom Boxing | 2026-09-01 | 15:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="FR| DAZN PPV",Next | Taylor vs. Pili: Conférence de Presse | Matchroom Boxing | 2026-09-01 | 15:00 (GMT) | 8K EXCLUSIVE | FR: DAZN PPV 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=PAzxJTAJcO
 #EXTINF:-1 tvg-id="2046211" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | ES: MAX PPV 100" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="ES| MAX PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | ES: MAX PPV 100
 http://iptvnow.nl:80/play/live.php?mac=00:1A:79:00:00:99&stream=&extension=ts&play_token=raakouL5uD
 #EXTINF:-1 tvg-id="2046212" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | ES: MAX PPV 99" tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="ES| MAX PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | ES: MAX PPV 99
