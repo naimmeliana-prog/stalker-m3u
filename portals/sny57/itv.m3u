@@ -3027,6 +3027,22 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extensio
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=z6QN6biw1W
 #EXTINF:-1 tvg-id="569063" tvg-name="┃ES┃ M+ LA RESISTENCIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Logo_La_Resistencia.png" group-title="ES| ┃ES┃ ENTERTENIMIENTO",┃ES┃ M+ LA RESISTENCIA HD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=gZSLtFyuja
+#EXTINF:-1 tvg-id="569065" tvg-name="┃ES┃ M+ ORIGINALES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSMUSICA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ORIGINALES FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=e3vwdORY5i
+#EXTINF:-1 tvg-id="569067" tvg-name="┃ES┃ M+ CINE Ñ FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSCINE.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ CINE Ñ FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=SAm01y9eBh
+#EXTINF:-1 tvg-id="569070" tvg-name="┃ES┃ M+ CLASICOS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/CLASICOS.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ CLASICOS FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=3itM00iudt
+#EXTINF:-1 tvg-id="569074" tvg-name="┃ES┃ M+ HITS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSSERIES.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ HITS FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Xrvm8b5M6l
+#EXTINF:-1 tvg-id="569076" tvg-name="┃ES┃ M+ ESTRENOS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Estrenos_por_Movistar_Plus+_2022_logo.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ESTRENOS FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=YLCNTlK6hj
+#EXTINF:-1 tvg-id="569078" tvg-name="┃ES┃ M+ DRAMA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSDRAMA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ DRAMA FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=3oAbkIijaC
+#EXTINF:-1 tvg-id="569080" tvg-name="┃ES┃ M+ COMEDIA FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSCOMEDIA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ COMEDIA FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=OWWoAZbSuX
+#EXTINF:-1 tvg-id="569082" tvg-name="┃ES┃ M+ ACCION FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUS.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ACCION FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=z3fiUwgFwU
 #EXTINF:-1 tvg-id="569206" tvg-name="┃UK┃ SKY STORE PREMIERE 21 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKY STORE/SKY STORE.png" group-title="EN| ┃UK┃ OD SKY STORE",┃UK┃ SKY STORE PREMIERE 21 HD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=shjfddjkMI
 #EXTINF:-1 tvg-id="569207" tvg-name="┃UK┃ SKY STORE PREMIERE 20 HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SKY STORE/SKY STORE.png" group-title="EN| ┃UK┃ OD SKY STORE",┃UK┃ SKY STORE PREMIERE 20 HD
@@ -3073,22 +3089,36 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extensio
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=wWhr3pvD3n
 #EXTINF:-1 tvg-id="569745" tvg-name="┃ES┃ DMAX FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DMax_Espa%C3%B1a.svg.png" group-title="ES| ┃ES┃ DOCUMENTALES",┃ES┃ DMAX FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=DfKTF1ga4F
+#EXTINF:-1 tvg-id="569748" tvg-name="┃ES┃ SUNDANCE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Sundance_Channel.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SUNDANCE FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Lz6j6xpzUq
+#EXTINF:-1 tvg-id="569751" tvg-name="┃ES┃ PARAMOUNT CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Paramount_Channel.png" group-title="ES| ┃ES┃ CINE",┃ES┃ PARAMOUNT CHANNEL FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=tVftXKDiHf
 #EXTINF:-1 tvg-id="569753" tvg-name="┃ES┃ ENERGY FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/ENERGY.png" group-title="ES| ┃ES┃ SERIES",┃ES┃ ENERGY FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=lBCVbvzqgx
 #EXTINF:-1 tvg-id="569755" tvg-name="┃ES┃ DIVINITY FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Divinity.svg.png" group-title="ES| ┃ES┃ ENTERTENIMIENTO",┃ES┃ DIVINITY FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=sgInxmtcpx
+#EXTINF:-1 tvg-id="569757" tvg-name="┃ES┃ SYFY FHD (VOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/2560px-SYFY.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SYFY FHD (VOS)
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=5bdE9qD1FB
 #EXTINF:-1 tvg-id="569760" tvg-name="┃ES┃ MTV FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MTV_Logo_2010.svg.png" group-title="ES| ┃ES┃ ENTERTENIMIENTO",┃ES┃ MTV FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cTjUskatck
 #EXTINF:-1 tvg-id="569762" tvg-name="┃ES┃ COMEDY CENTRAL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Comedy_Central_2018.png" group-title="ES| ┃ES┃ SERIES",┃ES┃ COMEDY CENTRAL FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4L6pza1cOF
+#EXTINF:-1 tvg-id="569764" tvg-name="┃ES┃ COSMO FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LOGO_COSMO.png" group-title="ES| ┃ES┃ CINE",┃ES┃ COSMO FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=HerDxsuAGr
 #EXTINF:-1 tvg-id="569768" tvg-name="┃ES┃ CALLE 13 FHD (VOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Calle13_logo.svg.png" group-title="ES| ┃ES┃ SERIES",┃ES┃ CALLE 13 FHD (VOS)
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=YSj1nVGe7B
 #EXTINF:-1 tvg-id="569772" tvg-name="┃ES┃ BE MAD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/BEMAD.png" group-title="ES| ┃ES┃ ENTERTENIMIENTO",┃ES┃ BE MAD FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=2BKhMVSkWP
 #EXTINF:-1 tvg-id="569774" tvg-name="┃ES┃ WARNER TV FHD (VOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Warner2018LA.png" group-title="ES| ┃ES┃ SERIES",┃ES┃ WARNER TV FHD (VOS)
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=6E1F7NKrHJ
+#EXTINF:-1 tvg-id="569776" tvg-name="┃ES┃ TCM FHD (VOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/TCM_logo.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ TCM FHD (VOS)
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=f95tuhYeC7
+#EXTINF:-1 tvg-id="569779" tvg-name="┃ES┃ AXN MOVIES FHD (VOS)" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/AXN_logo_(2015).svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ AXN MOVIES FHD (VOS)
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=w8yoE9Y05Z
 #EXTINF:-1 tvg-id="569781" tvg-name="┃ES┃ AMC BREAK FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/AMCBREK.png" group-title="ES| ┃ES┃ ENTERTENIMIENTO",┃ES┃ AMC BREAK FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=aizDvfsTiS
+#EXTINF:-1 tvg-id="569783" tvg-name="┃ES┃ AMC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/AMC_logo_2019.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ AMC FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=u9EFOs2FKk
 #EXTINF:-1 tvg-id="569785" tvg-name="┃ES┃ STAR CHANNEL FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/FOX.png" group-title="ES| ┃ES┃ SERIES",┃ES┃ STAR CHANNEL FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8Upk5AePHg
 #EXTINF:-1 tvg-id="587330" tvg-name="┃ES┃ M+ LIGA DE CAMPEONES 9" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M+ LIGA CHAMPEONES/M+ LIGA DE CAMPEONES .png" group-title="ES| ┃ES┃ M+ LIGA CHAMPEONES",┃ES┃ M+ LIGA DE CAMPEONES 9
@@ -4193,6 +4223,108 @@ http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extensio
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=yBppfkvNiM
 #EXTINF:-1 tvg-id="895811" tvg-name="┃ES┃ CMT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/CMT.png" group-title="ES| ┃ES┃ AUTONÓMICOS",┃ES┃ CMT
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ZGe4QeWwut
+#EXTINF:-1 tvg-id="895837" tvg-name="┃ES┃ M+ ACCION HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUS.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ACCION HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=eWFwnJtrVJ
+#EXTINF:-1 tvg-id="895838" tvg-name="┃ES┃ M+ ACCION" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUS.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ACCION
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=AF0DBV7xFk
+#EXTINF:-1 tvg-id="895839" tvg-name="┃ES┃ M+ COMEDIA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSCOMEDIA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ COMEDIA HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=nnCFOJN5HN
+#EXTINF:-1 tvg-id="895840" tvg-name="┃ES┃ M+ COMEDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSCOMEDIA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ COMEDIA
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=G73czcnXxv
+#EXTINF:-1 tvg-id="895841" tvg-name="┃ES┃ M+ DRAMA HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSDRAMA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ DRAMA HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=qwgM8GLfN0
+#EXTINF:-1 tvg-id="895842" tvg-name="┃ES┃ M+ DRAMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSDRAMA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ DRAMA
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ImH5EsMzWW
+#EXTINF:-1 tvg-id="895843" tvg-name="┃ES┃ M+ ORIGINALES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSMUSICA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ORIGINALES HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=g8ZNpmVOOD
+#EXTINF:-1 tvg-id="895844" tvg-name="┃ES┃ M+ ORIGINALES" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSMUSICA.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ORIGINALES
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4f1r9zRM6P
+#EXTINF:-1 tvg-id="895845" tvg-name="┃ES┃ M+ CLASICOS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/CLASICOS.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ CLASICOS HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=rz69tcgiRL
+#EXTINF:-1 tvg-id="895846" tvg-name="┃ES┃ M+ CLASICOS" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/CLASICOS.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ CLASICOS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=t47zwIH93a
+#EXTINF:-1 tvg-id="895847" tvg-name="┃ES┃ M+ ESTRENOS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Estrenos_por_Movistar_Plus+_2022_logo.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ESTRENOS HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=frBoBmdyq7
+#EXTINF:-1 tvg-id="895848" tvg-name="┃ES┃ M+ ESTRENOS" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Estrenos_por_Movistar_Plus+_2022_logo.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ ESTRENOS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=c8cZ45xMjH
+#EXTINF:-1 tvg-id="895849" tvg-name="┃ES┃ M+ CINE Ñ HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSCINE.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ CINE Ñ HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=0mifqd1345
+#EXTINF:-1 tvg-id="895850" tvg-name="┃ES┃ M+ CINE Ñ" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSCINE.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ CINE Ñ
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=BvGWsdfSGw
+#EXTINF:-1 tvg-id="895851" tvg-name="┃ES┃ M+ INDIE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Indie por M.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ INDIE FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=LH81XW4pDq
+#EXTINF:-1 tvg-id="895852" tvg-name="┃ES┃ M+ INDIE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Indie por M.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ INDIE HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=DhackJ9aeQ
+#EXTINF:-1 tvg-id="895853" tvg-name="┃ES┃ M+ INDIE" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Indie por M.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ INDIE
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=rJgJmewfkR
+#EXTINF:-1 tvg-id="895854" tvg-name="┃ES┃ M+ CLINT EASTWOOD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/M +.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ CLINT EASTWOOD FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=7rweqSVUmo
+#EXTINF:-1 tvg-id="895855" tvg-name="┃ES┃ COSMO HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LOGO_COSMO.png" group-title="ES| ┃ES┃ CINE",┃ES┃ COSMO HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=9w4zJTvJD2
+#EXTINF:-1 tvg-id="895856" tvg-name="┃ES┃ COSMO" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LOGO_COSMO.png" group-title="ES| ┃ES┃ CINE",┃ES┃ COSMO
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=SdWBaU4vuJ
+#EXTINF:-1 tvg-id="895857" tvg-name="┃ES┃ AXN MOVIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/AXN_logo_(2015).svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ AXN MOVIES FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=evSXzP3Q6D
+#EXTINF:-1 tvg-id="895858" tvg-name="┃ES┃ AXN MOVIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/AXN_logo_(2015).svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ AXN MOVIES HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=qQjoFKTSXf
+#EXTINF:-1 tvg-id="895859" tvg-name="┃ES┃ AXN MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/AXN_logo_(2015).svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ AXN MOVIES
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=oHkmtu8U7p
+#EXTINF:-1 tvg-id="895860" tvg-name="┃ES┃ AMC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/AMC_logo_2019.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ AMC HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=L4amXYvG5T
+#EXTINF:-1 tvg-id="895861" tvg-name="┃ES┃ AMC" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/AMC_logo_2019.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ AMC
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ngBoEWiO69
+#EXTINF:-1 tvg-id="895862" tvg-name="┃ES┃ SYFY FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/2560px-SYFY.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SYFY FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=fzIkeCcCpv
+#EXTINF:-1 tvg-id="895863" tvg-name="┃ES┃ SYFY HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/2560px-SYFY.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SYFY HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=chnVbP5gXY
+#EXTINF:-1 tvg-id="895864" tvg-name="┃ES┃ SYFY" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/2560px-SYFY.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SYFY
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=iSXrz04zLo
+#EXTINF:-1 tvg-id="895865" tvg-name="┃ES┃ TCM FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/TCM_logo.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ TCM FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=cQ5Jvudkg6
+#EXTINF:-1 tvg-id="895866" tvg-name="┃ES┃ TCM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/TCM_logo.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ TCM HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=W8EKDytOmr
+#EXTINF:-1 tvg-id="895867" tvg-name="┃ES┃ TCM" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/TCM_logo.svg.png" group-title="ES| ┃ES┃ CINE",┃ES┃ TCM
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ImQxxzwcco
+#EXTINF:-1 tvg-id="895868" tvg-name="┃ES┃ HOLLYWOOD FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Hollywood.png" group-title="ES| ┃ES┃ CINE",┃ES┃ HOLLYWOOD FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ArQiI5S0mW
+#EXTINF:-1 tvg-id="895869" tvg-name="┃ES┃ HOLLYWOOD HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Hollywood.png" group-title="ES| ┃ES┃ CINE",┃ES┃ HOLLYWOOD HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=XCYwBzLvkt
+#EXTINF:-1 tvg-id="895870" tvg-name="┃ES┃ HOLLYWOOD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Hollywood.png" group-title="ES| ┃ES┃ CINE",┃ES┃ HOLLYWOOD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=KHS3zeTdeT
+#EXTINF:-1 tvg-id="895871" tvg-name="┃ES┃ SUNDANCE TV HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Sundance_Channel.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SUNDANCE TV HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=vxhbwQ1raL
+#EXTINF:-1 tvg-id="895872" tvg-name="┃ES┃ SUNDANCE TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Sundance_Channel.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SUNDANCE TV
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=9p9KBHIZ92
+#EXTINF:-1 tvg-id="895873" tvg-name="┃ES┃ BOM CINE FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/BOMCINE.png" group-title="ES| ┃ES┃ CINE",┃ES┃ BOM CINE FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=LkgxV090eE
+#EXTINF:-1 tvg-id="895874" tvg-name="┃ES┃ BOM CINE HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/BOMCINE.png" group-title="ES| ┃ES┃ CINE",┃ES┃ BOM CINE HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ExewdeLLb8
+#EXTINF:-1 tvg-id="895875" tvg-name="┃ES┃ BOM CINE" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/BOMCINE.png" group-title="ES| ┃ES┃ CINE",┃ES┃ BOM CINE
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=ScaXGqzXxw
+#EXTINF:-1 tvg-id="895876" tvg-name="┃ES┃ PARAMOUNT CHANNEL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Paramount_Channel.png" group-title="ES| ┃ES┃ CINE",┃ES┃ PARAMOUNT CHANNEL HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=4tEE7AQRgs
+#EXTINF:-1 tvg-id="895877" tvg-name="┃ES┃ DARK FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DARK.png" group-title="ES| ┃ES┃ CINE",┃ES┃ DARK FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=80aagEVkR7
+#EXTINF:-1 tvg-id="895878" tvg-name="┃ES┃ DARK HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DARK.png" group-title="ES| ┃ES┃ CINE",┃ES┃ DARK HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=A1ceRSGBF9
+#EXTINF:-1 tvg-id="895879" tvg-name="┃ES┃ DARK" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DARK.png" group-title="ES| ┃ES┃ CINE",┃ES┃ DARK
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=50pY384BPg
+#EXTINF:-1 tvg-id="895880" tvg-name="┃ES┃ XTRM FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/XTRM_España.png" group-title="ES| ┃ES┃ CINE",┃ES┃ XTRM FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=282nFoKsLe
+#EXTINF:-1 tvg-id="895881" tvg-name="┃ES┃ XTRM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/XTRM_España.png" group-title="ES| ┃ES┃ CINE",┃ES┃ XTRM HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=7MWsu80hxi
+#EXTINF:-1 tvg-id="895882" tvg-name="┃ES┃ XTRM" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/XTRM_España.png" group-title="ES| ┃ES┃ CINE",┃ES┃ XTRM
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=mOYDOCwj6E
+#EXTINF:-1 tvg-id="895883" tvg-name="┃ES┃ SOMOS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Somos.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SOMOS FHD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=2YO5QT1IGx
+#EXTINF:-1 tvg-id="895884" tvg-name="┃ES┃ SOMOS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Somos.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SOMOS HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=8buhgdPOZ2
+#EXTINF:-1 tvg-id="895885" tvg-name="┃ES┃ SOMOS" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/Somos.png" group-title="ES| ┃ES┃ CINE",┃ES┃ SOMOS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=MfHe9NavFD
+#EXTINF:-1 tvg-id="895913" tvg-name="┃ES┃ M+ HITS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSSERIES.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ HITS HD
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=lwWZIlTQUd
+#EXTINF:-1 tvg-id="895914" tvg-name="┃ES┃ M+ HITS" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSSERIES.png" group-title="ES| ┃ES┃ CINE",┃ES┃ M+ HITS
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=Bb18b1zSRz
 #EXTINF:-1 tvg-id="895915" tvg-name="┃ES┃ A3SERIES FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/A3SATRESERIES.png" group-title="ES| ┃ES┃ SERIES",┃ES┃ A3SERIES FHD
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:17:85:85&stream=&extension=ts&play_token=VFI3QcKOdY
 #EXTINF:-1 tvg-id="895916" tvg-name="┃ES┃ A3SERIES HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/A3SATRESERIES.png" group-title="ES| ┃ES┃ SERIES",┃ES┃ A3SERIES HD
