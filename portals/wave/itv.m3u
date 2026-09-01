@@ -1,40 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="10148" tvg-name="CANAL+ HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplus.png" group-title="FR| CINEMA FHD HD",CANAL+ HD
-ffmpeg http://localhost/ch/10148_
-#EXTINF:-1 tvg-id="10149" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/CanalPlusCinema.fr.png" group-title="FR| CINEMA FHD HD",CANAL+ CINEMA HD
-ffmpeg http://localhost/ch/10149_
 #EXTINF:-1 tvg-id="10150" tvg-name="CANAL+ SPORT HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT HD
 ffmpeg http://localhost/ch/10150_
-#EXTINF:-1 tvg-id="10152" tvg-name="CANAL+ KIDS HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalpluskids.png" group-title="FR| CINEMA FHD HD",CANAL+ KIDS HD
-ffmpeg http://localhost/ch/10152_
-#EXTINF:-1 tvg-id="10154" tvg-name="CINE+ OCS HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusocs.png" group-title="FR| CINEMA FHD HD",CINE+ OCS HD
-ffmpeg http://localhost/ch/10154_
-#EXTINF:-1 tvg-id="10155" tvg-name="CINE+ FRISSON HD" tvg-logo="https://infinity-logo.ddns.net/images/logo_channel/FR/cineplusfrisson.png" group-title="FR| CINEMA FHD HD",CINE+ FRISSON HD
-ffmpeg http://localhost/ch/10155_
-#EXTINF:-1 tvg-id="10156" tvg-name="CINE+ EMOTION HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusemotion.png" group-title="FR| CINEMA FHD HD",CINE+ EMOTION HD
-ffmpeg http://localhost/ch/10156_
-#EXTINF:-1 tvg-id="10158" tvg-name="CINE+ FESTIVAL HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusfestival.png" group-title="FR| CINEMA FHD HD",CINE+ FESTIVAL HD
-ffmpeg http://localhost/ch/10158_
-#EXTINF:-1 tvg-id="10159" tvg-name="CINE+ CLASSIC HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusclassic.png" group-title="FR| CINEMA FHD HD",CINE+ CLASSIC HD
-ffmpeg http://localhost/ch/10159_
-#EXTINF:-1 tvg-id="10165" tvg-name="TCM CINEMA HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/tcmcinemahd.png" group-title="FR| CINEMA FHD HD",TCM CINEMA HD
-ffmpeg http://localhost/ch/10165_
-#EXTINF:-1 tvg-id="10167" tvg-name="ACTION HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fr/Action.fr.png" group-title="FR| CINEMA FHD HD",ACTION HD
-ffmpeg http://localhost/ch/10167_
-#EXTINF:-1 tvg-id="1018238" tvg-name="CANAL+ BOX OFFICE HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BOXOFFICE.png" group-title="FR| CINEMA FHD HD",CANAL+ BOX OFFICE HD
-ffmpeg http://localhost/ch/1018238_
-#EXTINF:-1 tvg-id="10194" tvg-name="INFOSPORT+ HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/infosportplus.png" group-title="FR| FR SPORTS | TV",INFOSPORT+ HD
-ffmpeg http://localhost/ch/10194_
-#EXTINF:-1 tvg-id="1019480" tvg-name="PSG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png" group-title="FR| FR SPORTS | TV",PSG FHD
-ffmpeg http://localhost/ch/1019480_
-#EXTINF:-1 tvg-id="10197" tvg-name="EUROSPORT 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport1Bis.png" group-title="FR| FR SPORTS | TV",EUROSPORT 1 HD
-ffmpeg http://localhost/ch/10197_
-#EXTINF:-1 tvg-id="10198" tvg-name="EUROSPORT 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport2Bis.png" group-title="FR| FR SPORTS | TV",EUROSPORT 2 HD
-ffmpeg http://localhost/ch/10198_
 #EXTINF:-1 tvg-id="10199" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports1.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 1 HD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/10199?play_token=h9JlgdRSEf
-#EXTINF:-1 tvg-id="1019992" tvg-name="|MMA| UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/800px-UFC_Logo.svg.png" group-title="FR| FR SPORTS | TV",|MMA| UFC
-ffmpeg http://localhost/ch/1019992_
+ffmpeg http://localhost/ch/10199_
 #EXTINF:-1 tvg-id="10200" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports2.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 2 HD
 ffmpeg http://localhost/ch/10200_
 #EXTINF:-1 tvg-id="10201" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports3.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 3 HD
@@ -43,12 +11,6 @@ ffmpeg http://localhost/ch/10201_
 ffmpeg http://localhost/ch/10202_
 #EXTINF:-1 tvg-id="10203" tvg-name="RMC SPORT 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport2.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 2 HD
 ffmpeg http://localhost/ch/10203_
-#EXTINF:-1 tvg-id="10208" tvg-name="AUTOMOTO HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/automoto.png" group-title="FR| FR SPORTS | TV",AUTOMOTO HD
-ffmpeg http://localhost/ch/10208_
-#EXTINF:-1 tvg-id="10210" tvg-name="EQUIDIA HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/equidialive.png" group-title="FR| FR SPORTS | TV",EQUIDIA HD
-ffmpeg http://localhost/ch/10210_
-#EXTINF:-1 tvg-id="10211" tvg-name="GOLF+ HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/golfplus.png" group-title="FR| FR SPORTS | TV",GOLF+ HD
-ffmpeg http://localhost/ch/10211_
 #EXTINF:-1 tvg-id="10223" tvg-name="BEIN SPORTS MAX 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax4.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 4 HD
 ffmpeg http://localhost/ch/10223_
 #EXTINF:-1 tvg-id="10224" tvg-name="BEIN SPORTS MAX 5 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax5.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 5 HD
@@ -63,30 +25,16 @@ ffmpeg http://localhost/ch/10227_
 ffmpeg http://localhost/ch/10228_
 #EXTINF:-1 tvg-id="10229" tvg-name="BEIN SPORTS MAX 10 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax10.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 10 HD
 ffmpeg http://localhost/ch/10229_
-#EXTINF:-1 tvg-id="1026565" tvg-name="EUROSPORT 1 360 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport360.png" group-title="FR| FR SPORTS | TV",EUROSPORT 1 360 HD
-ffmpeg http://localhost/ch/1026565_
-#EXTINF:-1 tvg-id="1026567" tvg-name="EUROSPORT 2 360 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport360.png" group-title="FR| FR SPORTS | TV",EUROSPORT 2 360 HD
-ffmpeg http://localhost/ch/1026567_
-#EXTINF:-1 tvg-id="1026568" tvg-name="EUROSPORT 3 360 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport360.png" group-title="FR| FR SPORTS | TV",EUROSPORT 3 360 HD
-ffmpeg http://localhost/ch/1026568_
-#EXTINF:-1 tvg-id="1026569" tvg-name="EUROSPORT 4 360 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport360.png" group-title="FR| FR SPORTS | TV",EUROSPORT 4 360 HD
-ffmpeg http://localhost/ch/1026569_
-#EXTINF:-1 tvg-id="1026570" tvg-name="EUROSPORT 5 360 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport360.png" group-title="FR| FR SPORTS | TV",EUROSPORT 5 360 HD
-ffmpeg http://localhost/ch/1026570_
-#EXTINF:-1 tvg-id="1028196" tvg-name="CHEVAL TV EVENT" tvg-logo="https://www.chevalmag.com/wp-content/uploads/2020/09/Cheval-TV-hisse-ses-couleurs.png" group-title="FR| FR SPORTS | TV",CHEVAL TV EVENT
-ffmpeg http://localhost/ch/1028196_
 #EXTINF:-1 tvg-id="1028197" tvg-name="LIGUE 1+ 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+2.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 2 SD
 ffmpeg http://localhost/ch/1028197_
 #EXTINF:-1 tvg-id="1028198" tvg-name="LIGUE 1+ 10 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+10.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 10 HD
 ffmpeg http://localhost/ch/1028198_
-#EXTINF:-1 tvg-id="1104385" tvg-name="CANAL+ BOX OFFICE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusboxoffice.png" group-title="FR| CINEMA FHD HD",CANAL+ BOX OFFICE FHD
-ffmpeg http://localhost/ch/1104385_
 #EXTINF:-1 tvg-id="1121642" tvg-name="LIGUE 1+ 9 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+9.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 9 HD
 ffmpeg http://localhost/ch/1121642_
 #EXTINF:-1 tvg-id="1121956" tvg-name="LIGUE 1+ 1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+2.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 1 SD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1121956?play_token=JWkFWYzNcG
+ffmpeg http://localhost/ch/1121956_
 #EXTINF:-1 tvg-id="1200694" tvg-name="LIGUE 1+ 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 1 HD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1200694?play_token=1h87t35NMA
+ffmpeg http://localhost/ch/1200694_
 #EXTINF:-1 tvg-id="1200695" tvg-name="LIGUE 1+ 8 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 8 FHD
 ffmpeg http://localhost/ch/1200695_
 #EXTINF:-1 tvg-id="1200696" tvg-name="LIGUE 1+ 7 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+7.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 7 FHD
@@ -100,9 +48,9 @@ ffmpeg http://localhost/ch/1200699_
 #EXTINF:-1 tvg-id="1200700" tvg-name="LIGUE 1+ 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+3.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 3 FHD
 ffmpeg http://localhost/ch/1200700_
 #EXTINF:-1 tvg-id="1200701" tvg-name="LIGUE 1+ 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+2.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 2 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1200701?play_token=cA8iTaOjh9
+ffmpeg http://localhost/ch/1200701_
 #EXTINF:-1 tvg-id="1200702" tvg-name="LIGUE 1+ 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 1 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1200702?play_token=TMut0qotLh
+ffmpeg http://localhost/ch/1200702_
 #EXTINF:-1 tvg-id="1201172" tvg-name="LIGUE 1+ 8 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 8 HD
 ffmpeg http://localhost/ch/1201172_
 #EXTINF:-1 tvg-id="1201173" tvg-name="LIGUE 1+ 7 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+7.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 7 HD
@@ -116,39 +64,9 @@ ffmpeg http://localhost/ch/1201176_
 #EXTINF:-1 tvg-id="1201177" tvg-name="LIGUE 1+ 3 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+3.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 3 HD
 ffmpeg http://localhost/ch/1201177_
 #EXTINF:-1 tvg-id="1201178" tvg-name="LIGUE 1+ 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+2.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 2 HD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1201178?play_token=eaX9ZzlHdg
-#EXTINF:-1 tvg-id="1203886" tvg-name="CANAL+BOX-OFFICE 4K" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusboxoffice.png" group-title="FR| CINEMA FHD HD",CANAL+BOX-OFFICE 4K
-ffmpeg http://localhost/ch/1203886_
+ffmpeg http://localhost/ch/1201178_
 #EXTINF:-1 tvg-id="1204921" tvg-name="CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalpluspremierleague.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ PREMIER LEAGUE FHD
 ffmpeg http://localhost/ch/1204921_
-#EXTINF:-1 tvg-id="1206062" tvg-name="CANAL+A LA CARTE 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalsatalacarte.png" group-title="FR| CINEMA FHD HD",CANAL+A LA CARTE 1 FHD
-ffmpeg http://localhost/ch/1206062_
-#EXTINF:-1 tvg-id="1206063" tvg-name="CANAL+A LA CARTE 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalsatalacarte.png" group-title="FR| CINEMA FHD HD",CANAL+A LA CARTE 2 FHD
-ffmpeg http://localhost/ch/1206063_
-#EXTINF:-1 tvg-id="1206064" tvg-name="ORANGE SERIES FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",ORANGE SERIES FHD
-ffmpeg http://localhost/ch/1206064_
-#EXTINF:-1 tvg-id="1206065" tvg-name="ORANGE ACTION FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",ORANGE ACTION FHD
-ffmpeg http://localhost/ch/1206065_
-#EXTINF:-1 tvg-id="1206066" tvg-name="ORANGE LA DEUX FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",ORANGE LA DEUX FHD
-ffmpeg http://localhost/ch/1206066_
-#EXTINF:-1 tvg-id="1206067" tvg-name="ORANGE LA UNE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",ORANGE LA UNE FHD
-ffmpeg http://localhost/ch/1206067_
-#EXTINF:-1 tvg-id="1206068" tvg-name="OCS US +24 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",OCS US +24 FHD
-ffmpeg http://localhost/ch/1206068_
-#EXTINF:-1 tvg-id="1206070" tvg-name="OCS SIGNATURE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",OCS SIGNATURE FHD
-ffmpeg http://localhost/ch/1206070_
-#EXTINF:-1 tvg-id="1206072" tvg-name="ORANGE STUDIO FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",ORANGE STUDIO FHD
-ffmpeg http://localhost/ch/1206072_
-#EXTINF:-1 tvg-id="1206073" tvg-name="ORANGE CLUB FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",ORANGE CLUB FHD
-ffmpeg http://localhost/ch/1206073_
-#EXTINF:-1 tvg-id="1206074" tvg-name="ORANGE PREMIUM FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/OCSFULL.jpg" group-title="FR| CINEMA FHD HD",ORANGE PREMIUM FHD
-ffmpeg http://localhost/ch/1206074_
-#EXTINF:-1 tvg-id="1207009" tvg-name="NETFLIX PREMIUM FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AR/NETFLIX.png" group-title="FR| CINEMA FHD HD",NETFLIX PREMIUM FHD
-ffmpeg http://localhost/ch/1207009_
-#EXTINF:-1 tvg-id="1207010" tvg-name="AMAZON PRIME CINEMA FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/AMAZONPRIME.png" group-title="FR| CINEMA FHD HD",AMAZON PRIME CINEMA FHD
-ffmpeg http://localhost/ch/1207010_
-#EXTINF:-1 tvg-id="1207098" tvg-name="6play Alert: Missing Persons Unit" tvg-logo="https://www.trueachievements.com/contentimages/431225.jpg" group-title="FR| CINEMA FHD HD",6play Alert: Missing Persons Unit
-ffmpeg http://localhost/ch/1207098_
 #EXTINF:-1 tvg-id="1207218" tvg-name="CANAL+ LIVE 16 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 16 FHD
 ffmpeg http://localhost/ch/1207218_
 #EXTINF:-1 tvg-id="1207219" tvg-name="CANAL+ LIVE 15 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 15 FHD
@@ -180,81 +98,21 @@ ffmpeg http://localhost/ch/1207231_
 #EXTINF:-1 tvg-id="1207232" tvg-name="CANAL+ LIVE 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 2 FHD
 ffmpeg http://localhost/ch/1207232_
 #EXTINF:-1 tvg-id="1207233" tvg-name="CANAL+ LIVE 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 1 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1207233?play_token=plYmyAjwI3
+ffmpeg http://localhost/ch/1207233_
 #EXTINF:-1 tvg-id="1209193" tvg-name="LIGUE 1+ 4 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+4.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 4 SD
 ffmpeg http://localhost/ch/1209193_
 #EXTINF:-1 tvg-id="1209194" tvg-name="LIGUE 1+ 6 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+6.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 6 SD
 ffmpeg http://localhost/ch/1209194_
 #EXTINF:-1 tvg-id="1209195" tvg-name="LIGUE 1+ 5 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+5.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 5 SD
 ffmpeg http://localhost/ch/1209195_
-#EXTINF:-1 tvg-id="1212835" tvg-name="CANAL+ FILM FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusfilm.png" group-title="FR| CINEMA FHD HD",CANAL+ FILM FHD
-ffmpeg http://localhost/ch/1212835_
-#EXTINF:-1 tvg-id="1212836" tvg-name="CANAL+ FIRST FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusfirst.png" group-title="FR| CINEMA FHD HD",CANAL+ FIRST FHD
-ffmpeg http://localhost/ch/1212836_
-#EXTINF:-1 tvg-id="1212838" tvg-name="CANAL+ SVOD FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo/FRANCE/CANAL+SERIEHD.png" group-title="FR| CINEMA FHD HD",CANAL+ SVOD FHD
-ffmpeg http://localhost/ch/1212838_
-#EXTINF:-1 tvg-id="1212839" tvg-name="CANAL+ STUDIO FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALSTUDIO.jpg" group-title="FR| CINEMA FHD HD",CANAL+ STUDIO FHD
-ffmpeg http://localhost/ch/1212839_
 #EXTINF:-1 tvg-id="1218854" tvg-name="LIGUE 1+ 7 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+7.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 7 SD
 ffmpeg http://localhost/ch/1218854_
-#EXTINF:-1 tvg-id="1220310" tvg-name="RAKUTEN PREMIUM 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RAKUTEN.png" group-title="FR| CINEMA FHD HD",RAKUTEN PREMIUM 1 FHD
-ffmpeg http://localhost/ch/1220310_
-#EXTINF:-1 tvg-id="1220311" tvg-name="RAKUTEN PREMIUM 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RAKUTEN.png" group-title="FR| CINEMA FHD HD",RAKUTEN PREMIUM 2 FHD
-ffmpeg http://localhost/ch/1220311_
-#EXTINF:-1 tvg-id="1220312" tvg-name="RAKUTEN PREMIUM 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RAKUTEN.png" group-title="FR| CINEMA FHD HD",RAKUTEN PREMIUM 3 FHD
-ffmpeg http://localhost/ch/1220312_
-#EXTINF:-1 tvg-id="1221942" tvg-name="BOX OFFICE ACTION HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BOXOFFICE.png" group-title="FR| CINEMA FHD HD",BOX OFFICE ACTION HD
-ffmpeg http://localhost/ch/1221942_
-#EXTINF:-1 tvg-id="1221943" tvg-name="BOX OFFICE TEENS HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BOXOFFICE.png" group-title="FR| CINEMA FHD HD",BOX OFFICE TEENS HD
-ffmpeg http://localhost/ch/1221943_
-#EXTINF:-1 tvg-id="1221944" tvg-name="BOX OFFICE DRAMA HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BOXOFFICE.png" group-title="FR| CINEMA FHD HD",BOX OFFICE DRAMA HD
-ffmpeg http://localhost/ch/1221944_
-#EXTINF:-1 tvg-id="1225741" tvg-name="FREE SAS ACTION  FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/action.png" group-title="FR| CINEMA FHD HD",FREE SAS ACTION  FHD
-ffmpeg http://localhost/ch/1225741_
 #EXTINF:-1 tvg-id="1244197" tvg-name="•●★★LIGUE1+ FRANCE •●★★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1PLUS.PNG" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",•●★★LIGUE1+ FRANCE •●★★
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1244197?play_token=ZZrE4KcifE
-#EXTINF:-1 tvg-id="1244946" tvg-name="SKWEEK 2 EVENT" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/SKWEEK.jpg" group-title="FR| FR SPORTS | TV",SKWEEK 2 EVENT
-ffmpeg http://localhost/ch/1244946_
-#EXTINF:-1 tvg-id="1290027" tvg-name="MULTIVISON 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/MULTIVISION.jpg" group-title="FR| CINEMA FHD HD",MULTIVISON 1 FHD
-ffmpeg http://localhost/ch/1290027_
-#EXTINF:-1 tvg-id="1290028" tvg-name="MULTIVISON 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/MULTIVISION.jpg" group-title="FR| CINEMA FHD HD",MULTIVISON 2 FHD
-ffmpeg http://localhost/ch/1290028_
-#EXTINF:-1 tvg-id="1290029" tvg-name="MULTIVISON 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/MULTIVISION.jpg" group-title="FR| CINEMA FHD HD",MULTIVISON 3 FHD
-ffmpeg http://localhost/ch/1290029_
-#EXTINF:-1 tvg-id="1290030" tvg-name="MULTIVISON 4 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/MULTIVISION.jpg" group-title="FR| CINEMA FHD HD",MULTIVISON 4 FHD
-ffmpeg http://localhost/ch/1290030_
-#EXTINF:-1 tvg-id="1296982" tvg-name="ROLAND GARROS (EVENT 1) FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo/FRANCE/Roland-Garros.jpg" group-title="FR| FR SPORTS | TV",ROLAND GARROS (EVENT 1) FHD
-ffmpeg http://localhost/ch/1296982_
-#EXTINF:-1 tvg-id="1296983" tvg-name="ROLAND GARROS (EVENT 3) FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo/FRANCE/Roland-Garros.jpg" group-title="FR| FR SPORTS | TV",ROLAND GARROS (EVENT 3) FHD
-ffmpeg http://localhost/ch/1296983_
-#EXTINF:-1 tvg-id="1296984" tvg-name="ROLAND GARROS 4  FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo/FRANCE/Roland-Garros.jpg" group-title="FR| FR SPORTS | TV",ROLAND GARROS 4  FHD
-ffmpeg http://localhost/ch/1296984_
-#EXTINF:-1 tvg-id="1298743" tvg-name="Coeur de dragon▶️SAGUA" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qpJmobVumMRb2eR6J0pfevCG8YC.jpg" group-title="FR| CINEMA FHD HD",Coeur de dragon▶️SAGUA
-ffmpeg http://localhost/ch/1298743_
-#EXTINF:-1 tvg-id="1298746" tvg-name="CINE MAX FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/US/cinemax.png" group-title="FR| CINEMA FHD HD",CINE MAX FHD
-ffmpeg http://localhost/ch/1298746_
-#EXTINF:-1 tvg-id="1298747" tvg-name="BLACKPILLS FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BLACKPILLS.png" group-title="FR| CINEMA FHD HD",BLACKPILLS FHD
-ffmpeg http://localhost/ch/1298747_
-#EXTINF:-1 tvg-id="1298748" tvg-name="BOX OFFICE ACTION FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BOXOFFICE.jpg" group-title="FR| CINEMA FHD HD",BOX OFFICE ACTION FHD
-ffmpeg http://localhost/ch/1298748_
-#EXTINF:-1 tvg-id="1298749" tvg-name="BOX OFFICE TEENS FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BOXOFFICE.jpg" group-title="FR| CINEMA FHD HD",BOX OFFICE TEENS FHD
-ffmpeg http://localhost/ch/1298749_
-#EXTINF:-1 tvg-id="1298759" tvg-name="DRIVE-IN MOVIE AUVERGNE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DRIVEMOVIE.png" group-title="FR| CINEMA FHD HD",DRIVE-IN MOVIE AUVERGNE FHD
-ffmpeg http://localhost/ch/1298759_
-#EXTINF:-1 tvg-id="1298771" tvg-name="Docteur Dolittle▶️SAGUA" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yGF6vv7ekbkf9C3FRjrGIrkyyhc.jpg" group-title="FR| CINEMA FHD HD",Docteur Dolittle▶️SAGUA
-ffmpeg http://localhost/ch/1298771_
-#EXTINF:-1 tvg-id="1298772" tvg-name="Les Enquêtes du Département V▶️SAGUA" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_bestv2/bhWjdlAcuG36pY6TOd2angZ8hKs.jpg" group-title="FR| CINEMA FHD HD",Les Enquêtes du Département V▶️SAGUA
-ffmpeg http://localhost/ch/1298772_
-#EXTINF:-1 tvg-id="1298851" tvg-name="CINE NANAR FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CINENANAR.jpg" group-title="FR| CINEMA FHD HD",CINE NANAR FHD
-ffmpeg http://localhost/ch/1298851_
+ffmpeg http://localhost/ch/1244197_
 #EXTINF:-1 tvg-id="1337839" tvg-name="LIGUE 1+ 9 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+9.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 9 FHD
 ffmpeg http://localhost/ch/1337839_
 #EXTINF:-1 tvg-id="1337840" tvg-name="|⚽️| LIGUE 1+ ⚽️10 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+10.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",|⚽️| LIGUE 1+ ⚽️10 FHD
 ffmpeg http://localhost/ch/1337840_
-#EXTINF:-1 tvg-id="1338839" tvg-name="CANAL+A LA CARTE 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalsatalacarte.png" group-title="FR| CINEMA FHD HD",CANAL+A LA CARTE 1 HD
-ffmpeg http://localhost/ch/1338839_
-#EXTINF:-1 tvg-id="1338840" tvg-name="CANAL+A LA CARTE 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalsatalacarte.png" group-title="FR| CINEMA FHD HD",CANAL+A LA CARTE 2 HD
-ffmpeg http://localhost/ch/1338840_
 #EXTINF:-1 tvg-id="1339056" tvg-name="DAZN 1 FR SPORT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/BE/DAZN.png" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN 1 FR SPORT FHD
 ffmpeg http://localhost/ch/1339056_
 #EXTINF:-1 tvg-id="1339057" tvg-name="DAZN 2 FR  SPORT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/BE/DAZN.png" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN 2 FR  SPORT FHD
@@ -265,18 +123,6 @@ ffmpeg http://localhost/ch/1339058_
 ffmpeg http://localhost/ch/1339059_
 #EXTINF:-1 tvg-id="1339060" tvg-name="DAZN LIGUE 1+ SPORT HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/BE/DAZN.png" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN LIGUE 1+ SPORT HD
 ffmpeg http://localhost/ch/1339060_
-#EXTINF:-1 tvg-id="1341784" tvg-name="L'EQUIPE LIVE 3 FHD EVENT" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive3.png" group-title="FR| FR SPORTS | TV",L'EQUIPE LIVE 3 FHD EVENT
-ffmpeg http://localhost/ch/1341784_
-#EXTINF:-1 tvg-id="1341785" tvg-name="L'EQUIPE LIVE 4 FHD EVENT" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive4.png" group-title="FR| FR SPORTS | TV",L'EQUIPE LIVE 4 FHD EVENT
-ffmpeg http://localhost/ch/1341785_
-#EXTINF:-1 tvg-id="1341786" tvg-name="L'EQUIPE LIVE 5 FHD EVENT" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive5.png" group-title="FR| FR SPORTS | TV",L'EQUIPE LIVE 5 FHD EVENT
-ffmpeg http://localhost/ch/1341786_
-#EXTINF:-1 tvg-id="1341787" tvg-name="L'EQUIPE LIVE 6 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive6.png" group-title="FR| FR SPORTS | TV",L'EQUIPE LIVE 6 FHD
-ffmpeg http://localhost/ch/1341787_
-#EXTINF:-1 tvg-id="1341788" tvg-name="L'EQUIPE LIVE 7 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive7.png" group-title="FR| FR SPORTS | TV",L'EQUIPE LIVE 7 FHD
-ffmpeg http://localhost/ch/1341788_
-#EXTINF:-1 tvg-id="1342241" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalgrandecran.png" group-title="FR| CINEMA FHD HD",CANAL+ GRAND ECRAN HD
-ffmpeg http://localhost/ch/1342241_
 #EXTINF:-1 tvg-id="1342948" tvg-name="CANAL+ LIVE 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 1 HD
 ffmpeg http://localhost/ch/1342948_
 #EXTINF:-1 tvg-id="1342950" tvg-name="CANAL+ LIVE 1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 1 SD
@@ -301,8 +147,6 @@ ffmpeg http://localhost/ch/1343533_
 ffmpeg http://localhost/ch/1343534_
 #EXTINF:-1 tvg-id="1343535" tvg-name="CANAL+ LIVE 6 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 6 SD
 ffmpeg http://localhost/ch/1343535_
-#EXTINF:-1 tvg-id="1344249" tvg-name="HANDBAL TV 1 EVENT" tvg-logo="https://assets-eu-01.kc-usercontent.com/310504ad-6ee8-015f-bb87-461067bfdd68/fbab4bd4-08d0-4359-aabe-163e90f12f0c/logo_HandballTV_header.png?h=60&dpr=2" group-title="FR| FR SPORTS | TV",HANDBAL TV 1 EVENT
-ffmpeg http://localhost/ch/1344249_
 #EXTINF:-1 tvg-id="1345390" tvg-name="DAZN BETCLIC EVENT 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BETCLIC.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN BETCLIC EVENT 1 FHD
 ffmpeg http://localhost/ch/1345390_
 #EXTINF:-1 tvg-id="1345391" tvg-name="DAZN BETCLIC EVENT 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BETCLIC.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN BETCLIC EVENT 2 FHD
@@ -319,38 +163,18 @@ ffmpeg http://localhost/ch/1345395_
 ffmpeg http://localhost/ch/1345396_
 #EXTINF:-1 tvg-id="1345397" tvg-name="DAZN 3 FR SPORT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BETCLIC.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN 3 FR SPORT FHD
 ffmpeg http://localhost/ch/1345397_
-#EXTINF:-1 tvg-id="1345693" tvg-name="CANAL+ INTERNATIONAL FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CanalPLUSINTERNA.jpg" group-title="FR| CINEMA FHD HD",CANAL+ INTERNATIONAL FHD
-ffmpeg http://localhost/ch/1345693_
-#EXTINF:-1 tvg-id="1345765" tvg-name="HANDBAL TV 2 EVENT" tvg-logo="https://assets-eu-01.kc-usercontent.com/310504ad-6ee8-015f-bb87-461067bfdd68/fbab4bd4-08d0-4359-aabe-163e90f12f0c/logo_HandballTV_header.png?h=60&dpr=2" group-title="FR| FR SPORTS | TV",HANDBAL TV 2 EVENT
-ffmpeg http://localhost/ch/1345765_
-#EXTINF:-1 tvg-id="1345898" tvg-name="L'EQUIPE CINE  FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/equipecine.jpg" group-title="FR| CINEMA FHD HD",L'EQUIPE CINE  FHD
-ffmpeg http://localhost/ch/1345898_
-#EXTINF:-1 tvg-id="1345900" tvg-name="L'EQUIPE SPORT TV FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive.png" group-title="FR| FR SPORTS | TV",L'EQUIPE SPORT TV FHD
-ffmpeg http://localhost/ch/1345900_
-#EXTINF:-1 tvg-id="1347973" tvg-name="HANDBAL TV 3 EVENT" tvg-logo="https://assets-eu-01.kc-usercontent.com/310504ad-6ee8-015f-bb87-461067bfdd68/fbab4bd4-08d0-4359-aabe-163e90f12f0c/logo_HandballTV_header.png?h=60&dpr=2" group-title="FR| FR SPORTS | TV",HANDBAL TV 3 EVENT
-ffmpeg http://localhost/ch/1347973_
-#EXTINF:-1 tvg-id="1347974" tvg-name="HANDBAL TV 4 EVENT" tvg-logo="https://assets-eu-01.kc-usercontent.com/310504ad-6ee8-015f-bb87-461067bfdd68/fbab4bd4-08d0-4359-aabe-163e90f12f0c/logo_HandballTV_header.png?h=60&dpr=2" group-title="FR| FR SPORTS | TV",HANDBAL TV 4 EVENT
-ffmpeg http://localhost/ch/1347974_
-#EXTINF:-1 tvg-id="1347975" tvg-name="HANDBAL TV 5 EVENT" tvg-logo="https://assets-eu-01.kc-usercontent.com/310504ad-6ee8-015f-bb87-461067bfdd68/fbab4bd4-08d0-4359-aabe-163e90f12f0c/logo_HandballTV_header.png?h=60&dpr=2" group-title="FR| FR SPORTS | TV",HANDBAL TV 5 EVENT
-ffmpeg http://localhost/ch/1347975_
-#EXTINF:-1 tvg-id="1347976" tvg-name="HANDBAL TV 6 EVENT" tvg-logo="https://assets-eu-01.kc-usercontent.com/310504ad-6ee8-015f-bb87-461067bfdd68/fbab4bd4-08d0-4359-aabe-163e90f12f0c/logo_HandballTV_header.png?h=60&dpr=2" group-title="FR| FR SPORTS | TV",HANDBAL TV 6 EVENT
-ffmpeg http://localhost/ch/1347976_
-#EXTINF:-1 tvg-id="1347977" tvg-name="HANDBAL TV 7 EVENT" tvg-logo="https://assets-eu-01.kc-usercontent.com/310504ad-6ee8-015f-bb87-461067bfdd68/fbab4bd4-08d0-4359-aabe-163e90f12f0c/logo_HandballTV_header.png?h=60&dpr=2" group-title="FR| FR SPORTS | TV",HANDBAL TV 7 EVENT
-ffmpeg http://localhost/ch/1347977_
-#EXTINF:-1 tvg-id="1350342" tvg-name="FIFA+ FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/fifa-plus-logo.png" group-title="FR| FR SPORTS | TV",FIFA+ FHD
-ffmpeg http://localhost/ch/1350342_
 #EXTINF:-1 tvg-id="1350366" tvg-name="DISNEY SPORT EVENT 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 1 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350366?play_token=t5WjeysNs0
+ffmpeg http://localhost/ch/1350366_
 #EXTINF:-1 tvg-id="1350367" tvg-name="DISNEY SPORT EVENT 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 2 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350367?play_token=yoFuUoA35O
+ffmpeg http://localhost/ch/1350367_
 #EXTINF:-1 tvg-id="1350368" tvg-name="DISNEY SPORT EVENT 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 3 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350368?play_token=mGX1JOB18x
+ffmpeg http://localhost/ch/1350368_
 #EXTINF:-1 tvg-id="1350369" tvg-name="DISNEY SPORT EVENT 4 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 4 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350369?play_token=XW7AyRCRU7
+ffmpeg http://localhost/ch/1350369_
 #EXTINF:-1 tvg-id="1350370" tvg-name="DISNEY SPORT EVENT 5 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 5 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350370?play_token=eO0KuJ713l
+ffmpeg http://localhost/ch/1350370_
 #EXTINF:-1 tvg-id="1350371" tvg-name="DISNEY SPORT EVENT 6 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 6 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350371?play_token=wRgmtMRtee
+ffmpeg http://localhost/ch/1350371_
 #EXTINF:-1 tvg-id="1350372" tvg-name="DISNEY SPORT EVENT 7 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 7 FHD
 ffmpeg http://localhost/ch/1350372_
 #EXTINF:-1 tvg-id="1350373" tvg-name="DISNEY SPORT EVENT 8 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 8 FHD
@@ -370,33 +194,11 @@ ffmpeg http://localhost/ch/1350379_
 #EXTINF:-1 tvg-id="1350380" tvg-name="DISNEY SPORT EVENT 15 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 15 FHD
 ffmpeg http://localhost/ch/1350380_
 #EXTINF:-1 tvg-id="1350386" tvg-name="•●★★DISNEY SPORTS WORLD★★•●" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",•●★★DISNEY SPORTS WORLD★★•●
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350386?play_token=f069IRTCfU
-#EXTINF:-1 tvg-id="1389492" tvg-name="EMOTION'L+ FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/emtionl.png" group-title="FR| CINEMA FHD HD",EMOTION'L+ FHD
-ffmpeg http://localhost/ch/1389492_
-#EXTINF:-1 tvg-id="1389493" tvg-name="CINE+ WESTERN  FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CINEWEST.png" group-title="FR| CINEMA FHD HD",CINE+ WESTERN  FHD
-ffmpeg http://localhost/ch/1389493_
-#EXTINF:-1 tvg-id="1389892" tvg-name="ALLOCINE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/ALLOCINE.png" group-title="FR| CINEMA FHD HD",ALLOCINE FHD
-ffmpeg http://localhost/ch/1389892_
-#EXTINF:-1 tvg-id="1409997" tvg-name="GLORY 105 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/GLORY.jpg" group-title="FR| FR SPORTS | TV",GLORY 105 FHD
-ffmpeg http://localhost/ch/1409997_
-#EXTINF:-1 tvg-id="1409998" tvg-name="GLORY FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/GLORY.jpg" group-title="FR| FR SPORTS | TV",GLORY FHD
-ffmpeg http://localhost/ch/1409998_
+http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350386?play_token=tx1Ss8a8qt
 #EXTINF:-1 tvg-id="1447676" tvg-name="CANAL+ LIVE 1 HD S2" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 1 HD S2
 ffmpeg http://localhost/ch/1447676_
-#EXTINF:-1 tvg-id="173043" tvg-name="INFOSPORT+ H265" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/infosportplus.png" group-title="FR| FR SPORTS | TV",INFOSPORT+ H265
-ffmpeg http://localhost/ch/173043_
-#EXTINF:-1 tvg-id="173044" tvg-name="EUROSPORT 1 H265" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport1Bis.png" group-title="FR| FR SPORTS | TV",EUROSPORT 1 H265
-ffmpeg http://localhost/ch/173044_
-#EXTINF:-1 tvg-id="173045" tvg-name="EUROSPORT 2 H265" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport2Bis.png" group-title="FR| FR SPORTS | TV",EUROSPORT 2 H265
-ffmpeg http://localhost/ch/173045_
-#EXTINF:-1 tvg-id="197673" tvg-name="L'EQUIPE LIVE 1 FHD EVENT" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive1.png" group-title="FR| FR SPORTS | TV",L'EQUIPE LIVE 1 FHD EVENT
-ffmpeg http://localhost/ch/197673_
-#EXTINF:-1 tvg-id="19968" tvg-name="EUROSPORT 1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport1Bis.png" group-title="FR| FR SPORTS | TV",EUROSPORT 1 SD
-ffmpeg http://localhost/ch/19968_
-#EXTINF:-1 tvg-id="19969" tvg-name="EUROSPORT 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport2Bis.png" group-title="FR| FR SPORTS | TV",EUROSPORT 2 SD
-ffmpeg http://localhost/ch/19969_
 #EXTINF:-1 tvg-id="19970" tvg-name="BEIN SPORTS 1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports1.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 1 SD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/19970?play_token=mCRbMTIVHE
+ffmpeg http://localhost/ch/19970_
 #EXTINF:-1 tvg-id="19971" tvg-name="BEIN SPORTS 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports2.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 2 SD
 ffmpeg http://localhost/ch/19971_
 #EXTINF:-1 tvg-id="19972" tvg-name="BEIN SPORTS 3 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports3.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 3 SD
@@ -405,76 +207,22 @@ ffmpeg http://localhost/ch/19972_
 ffmpeg http://localhost/ch/19974_
 #EXTINF:-1 tvg-id="19975" tvg-name="RMC SPORT 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport2.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 2 SD
 ffmpeg http://localhost/ch/19975_
-#EXTINF:-1 tvg-id="19978" tvg-name="AUTOMOTO SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/automoto.png" group-title="FR| FR SPORTS | TV",AUTOMOTO SD
-ffmpeg http://localhost/ch/19978_
-#EXTINF:-1 tvg-id="19979" tvg-name="EQUIDIA SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/equidialive.png" group-title="FR| FR SPORTS | TV",EQUIDIA SD
-ffmpeg http://localhost/ch/19979_
-#EXTINF:-1 tvg-id="19980" tvg-name="GOLF+ SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/golfplus.png" group-title="FR| FR SPORTS | TV",GOLF+ SD
-ffmpeg http://localhost/ch/19980_
-#EXTINF:-1 tvg-id="19990" tvg-name="MULTISPORTS 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/multisports1.png" group-title="FR| FR SPORTS | TV",MULTISPORTS 1 HD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/19990?play_token=lSyw5f2vtK
-#EXTINF:-1 tvg-id="19991" tvg-name="MULTISPORTS 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/multisports2.png" group-title="FR| FR SPORTS | TV",MULTISPORTS 2 HD
-ffmpeg http://localhost/ch/19991_
-#EXTINF:-1 tvg-id="19992" tvg-name="MULTISPORTS 3 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/multisports3.png" group-title="FR| FR SPORTS | TV",MULTISPORTS 3 HD
-ffmpeg http://localhost/ch/19992_
-#EXTINF:-1 tvg-id="19993" tvg-name="MULTISPORTS 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/multisports4.png" group-title="FR| FR SPORTS | TV",MULTISPORTS 4 HD
-ffmpeg http://localhost/ch/19993_
-#EXTINF:-1 tvg-id="19994" tvg-name="MULTISPORTS 5 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/multisports5.png" group-title="FR| FR SPORTS | TV",MULTISPORTS 5 HD
-ffmpeg http://localhost/ch/19994_
-#EXTINF:-1 tvg-id="19995" tvg-name="MULTISPORTS 6 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/multisports6.png" group-title="FR| FR SPORTS | TV",MULTISPORTS 6 HD
-ffmpeg http://localhost/ch/19995_
 #EXTINF:-1 tvg-id="238228" tvg-name="•●★★RMC SPORTS •●★★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RMCSPORT.jpg" group-title="FR| BEIN_RMC  SPORT",•●★★RMC SPORTS •●★★
 ffmpeg http://localhost/ch/238228_
 #EXTINF:-1 tvg-id="238232" tvg-name="•●★★BEIN SPORTS •●★★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BEINSPORT.png" group-title="FR| BEIN_RMC  SPORT",•●★★BEIN SPORTS •●★★
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/238232?play_token=pdXseqnLEE
+http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/238232?play_token=bLmK8wTeTm
 #EXTINF:-1 tvg-id="238233" tvg-name="•●★★CANAL+ SPORTS •●★★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport.png" group-title="FR| CANAL+ LIVE SPORT",•●★★CANAL+ SPORTS •●★★
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/238233?play_token=VudfpKE1WL
-#EXTINF:-1 tvg-id="238234" tvg-name="★MULTISPORTS★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FLAGS/fr.png" group-title="FR| FR SPORTS | TV",★MULTISPORTS★
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/238234?play_token=RWT8zFF4ui
-#EXTINF:-1 tvg-id="493839" tvg-name="▬▬ L'EQUIPE LIVE ▬▬" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FLAGS/fr.png" group-title="FR| FR SPORTS | TV",▬▬ L'EQUIPE LIVE ▬▬
-ffmpeg http://localhost/ch/493839_
-#EXTINF:-1 tvg-id="618689" tvg-name="CANAL+ GRAND ECRAN FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalgrandecran.png" group-title="FR| CINEMA FHD HD",CANAL+ GRAND ECRAN FHD
-ffmpeg http://localhost/ch/618689_
-#EXTINF:-1 tvg-id="632267" tvg-name="L'EQUIPE LIVE 2 SD EVENT" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive2.png" group-title="FR| FR SPORTS | TV",L'EQUIPE LIVE 2 SD EVENT
-ffmpeg http://localhost/ch/632267_
-#EXTINF:-1 tvg-id="632268" tvg-name="L'EQUIPE  5 FHD (event )" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive3.png" group-title="FR| FR SPORTS | TV",L'EQUIPE  5 FHD (event )
-ffmpeg http://localhost/ch/632268_
-#EXTINF:-1 tvg-id="632269" tvg-name="L'EQUIPE LIVE FOOT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipelive4.png" group-title="FR| FR SPORTS | TV",L'EQUIPE LIVE FOOT FHD
-ffmpeg http://localhost/ch/632269_
-#EXTINF:-1 tvg-id="648201" tvg-name="▬▬ AUTRE SPORTS ▬▬" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FLAGS/fr.png" group-title="FR| FR SPORTS | TV",▬▬ AUTRE SPORTS ▬▬
-ffmpeg http://localhost/ch/648201_
+ffmpeg http://localhost/ch/238233_
 #EXTINF:-1 tvg-id="650656" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusfoot.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ FOOT FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/650656?play_token=KqAh78qve8
+ffmpeg http://localhost/ch/650656_
 #EXTINF:-1 tvg-id="650658" tvg-name="CANAL+ FOOT HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusfoot.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ FOOT HD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/650658?play_token=jyNwSk238M
+ffmpeg http://localhost/ch/650658_
 #EXTINF:-1 tvg-id="650659" tvg-name="CANAL+ SPORT 360 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport360.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 360 HD
 ffmpeg http://localhost/ch/650659_
 #EXTINF:-1 tvg-id="650735" tvg-name="CANAL+ FOOT SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusfoot.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ FOOT SD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/650735?play_token=F6t7VLqosF
-#EXTINF:-1 tvg-id="700165" tvg-name="SPORT EN FRANCE HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/sportenfrance.png" group-title="FR| FR SPORTS | TV",SPORT EN FRANCE HD
-ffmpeg http://localhost/ch/700165_
-#EXTINF:-1 tvg-id="715485" tvg-name="ORANGE CANAL+  4K" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusuhd.png" group-title="FR| CINEMA FHD HD",ORANGE CANAL+  4K
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/715485?play_token=3GWIJXrhHU
+ffmpeg http://localhost/ch/650735_
 #EXTINF:-1 tvg-id="715486" tvg-name="LIGUE 1+ 3 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+3.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 3 SD
 ffmpeg http://localhost/ch/715486_
-#EXTINF:-1 tvg-id="716249" tvg-name="TRACE SPORT STARS FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tracesportstars.png" group-title="FR| FR SPORTS | TV",TRACE SPORT STARS FHD
-ffmpeg http://localhost/ch/716249_
-#EXTINF:-1 tvg-id="716250" tvg-name="TRACE SPORT STARS HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tracesportstars.png" group-title="FR| FR SPORTS | TV",TRACE SPORT STARS HD
-ffmpeg http://localhost/ch/716250_
-#EXTINF:-1 tvg-id="716251" tvg-name="SPORT EN FRANCE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/sportenfrance.png" group-title="FR| FR SPORTS | TV",SPORT EN FRANCE FHD
-ffmpeg http://localhost/ch/716251_
-#EXTINF:-1 tvg-id="716252" tvg-name="L'EQUIPE 21 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipe21.png" group-title="FR| FR SPORTS | TV",L'EQUIPE 21 HD
-ffmpeg http://localhost/ch/716252_
-#EXTINF:-1 tvg-id="716253" tvg-name="L'EQUIPE 21 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipe21.png" group-title="FR| FR SPORTS | TV",L'EQUIPE 21 SD
-ffmpeg http://localhost/ch/716253_
-#EXTINF:-1 tvg-id="716255" tvg-name="MOTORVISON TV HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/motorvision.png" group-title="FR| FR SPORTS | TV",MOTORVISON TV HD
-ffmpeg http://localhost/ch/716255_
-#EXTINF:-1 tvg-id="716269" tvg-name="REDBULL TV SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/redbulltv.png" group-title="FR| FR SPORTS | TV",REDBULL TV SD
-ffmpeg http://localhost/ch/716269_
-#EXTINF:-1 tvg-id="716270" tvg-name="REDBULL TV HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/redbulltv.png" group-title="FR| FR SPORTS | TV",REDBULL TV HD
-ffmpeg http://localhost/ch/716270_
-#EXTINF:-1 tvg-id="716271" tvg-name="REDBULL TV FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/redbulltv.png" group-title="FR| FR SPORTS | TV",REDBULL TV FHD
-ffmpeg http://localhost/ch/716271_
 #EXTINF:-1 tvg-id="716296" tvg-name="RMC SPORT LIVE 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive4.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 4 HD
 ffmpeg http://localhost/ch/716296_
 #EXTINF:-1 tvg-id="716297" tvg-name="RMC SPORT LIVE 4 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive4.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 4 FHD
@@ -483,22 +231,10 @@ ffmpeg http://localhost/ch/716297_
 ffmpeg http://localhost/ch/716298_
 #EXTINF:-1 tvg-id="716299" tvg-name="RMC SPORT LIVE 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive3.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 3 FHD
 ffmpeg http://localhost/ch/716299_
-#EXTINF:-1 tvg-id="716467" tvg-name="▬▬ FFF TV ▬▬" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FLAGS/fr.png" group-title="FR| FR SPORTS | TV",▬▬ FFF TV ▬▬
-ffmpeg http://localhost/ch/716467_
 #EXTINF:-1 tvg-id="716550" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT FHD
 ffmpeg http://localhost/ch/716550_
 #EXTINF:-1 tvg-id="716551" tvg-name="CANAL+ SPORT SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT SD
 ffmpeg http://localhost/ch/716551_
-#EXTINF:-1 tvg-id="727169" tvg-name="AUTOPLUS HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/autoplus.png" group-title="FR| FR SPORTS | TV",AUTOPLUS HD
-ffmpeg http://localhost/ch/727169_
-#EXTINF:-1 tvg-id="727170" tvg-name="AUTOPLUS FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/autoplus.png" group-title="FR| FR SPORTS | TV",AUTOPLUS FHD
-ffmpeg http://localhost/ch/727170_
-#EXTINF:-1 tvg-id="728930" tvg-name="CLIP MYHORS TV" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/MYHORS.png" group-title="FR| FR SPORTS | TV",CLIP MYHORS TV
-ffmpeg http://localhost/ch/728930_
-#EXTINF:-1 tvg-id="752609" tvg-name="OL TV FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/oltv.png" group-title="FR| FR SPORTS | TV",OL TV FHD
-ffmpeg http://localhost/ch/752609_
-#EXTINF:-1 tvg-id="760481" tvg-name="Rakuten CINEMA" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="FR| CINEMA FHD HD",Rakuten CINEMA
-ffmpeg http://localhost/ch/760481_
 #EXTINF:-1 tvg-id="782382" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AF/canalplussport1.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 1 HD
 ffmpeg http://localhost/ch/782382_
 #EXTINF:-1 tvg-id="782384" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AF/canalplussport2.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 2 HD
@@ -509,114 +245,18 @@ ffmpeg http://localhost/ch/782385_
 ffmpeg http://localhost/ch/782386_
 #EXTINF:-1 tvg-id="782387" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AF/canalplussport5.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 5 HD
 ffmpeg http://localhost/ch/782387_
-#EXTINF:-1 tvg-id="792114" tvg-name="ROLAND GARROS (EVENT 2) FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo/FRANCE/Roland-Garros.jpg" group-title="FR| FR SPORTS | TV",ROLAND GARROS (EVENT 2) FHD
-ffmpeg http://localhost/ch/792114_
-#EXTINF:-1 tvg-id="808839" tvg-name="USA| TENNIS ⚾" tvg-logo="http://vod-logo.net/photos/69a85f299ece3d61faf010ce011fba8e.crdownload" group-title="FR| FR SPORTS | TV",USA| TENNIS ⚾
-ffmpeg http://localhost/ch/808839_
-#EXTINF:-1 tvg-id="842822" tvg-name="NETFLIX TOP" tvg-logo="https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png" group-title="FR| CINEMA FHD HD",NETFLIX TOP
-ffmpeg http://localhost/ch/842822_
-#EXTINF:-1 tvg-id="842829" tvg-name="AMAZON PRIME TOP" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/AMAZONPRIME.png" group-title="FR| CINEMA FHD HD",AMAZON PRIME TOP
-ffmpeg http://localhost/ch/842829_
-#EXTINF:-1 tvg-id="842830" tvg-name="AMAZON PRIME ACTION" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/AMAZONPRIME.png" group-title="FR| CINEMA FHD HD",AMAZON PRIME ACTION
-ffmpeg http://localhost/ch/842830_
-#EXTINF:-1 tvg-id="842831" tvg-name="AMAZON PRIME COMEDIE" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/AMAZONPRIME.png" group-title="FR| CINEMA FHD HD",AMAZON PRIME COMEDIE
-ffmpeg http://localhost/ch/842831_
-#EXTINF:-1 tvg-id="842832" tvg-name="AMAZON PRIME DRAMA" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/AMAZONPRIME.png" group-title="FR| CINEMA FHD HD",AMAZON PRIME DRAMA
-ffmpeg http://localhost/ch/842832_
-#EXTINF:-1 tvg-id="842833" tvg-name="AMAZON PRIME ANIMATION" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/AMAZONPRIME.png" group-title="FR| CINEMA FHD HD",AMAZON PRIME ANIMATION
-ffmpeg http://localhost/ch/842833_
-#EXTINF:-1 tvg-id="842834" tvg-name="AMAZON PRIME MANGA" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/AMAZONPRIME.png" group-title="FR| CINEMA FHD HD",AMAZON PRIME MANGA
-ffmpeg http://localhost/ch/842834_
-#EXTINF:-1 tvg-id="842835" tvg-name="DISNEY TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="FR| CINEMA FHD HD",DISNEY TOP
-ffmpeg http://localhost/ch/842835_
-#EXTINF:-1 tvg-id="842836" tvg-name="DISNEY ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="FR| CINEMA FHD HD",DISNEY ACTION
-ffmpeg http://localhost/ch/842836_
-#EXTINF:-1 tvg-id="842837" tvg-name="DISNEY COMEDIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="FR| CINEMA FHD HD",DISNEY COMEDIE
-ffmpeg http://localhost/ch/842837_
-#EXTINF:-1 tvg-id="842838" tvg-name="DISNEY DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="FR| CINEMA FHD HD",DISNEY DRAMA
-ffmpeg http://localhost/ch/842838_
-#EXTINF:-1 tvg-id="842839" tvg-name="DISNEY HORREUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="FR| CINEMA FHD HD",DISNEY HORREUR
-ffmpeg http://localhost/ch/842839_
-#EXTINF:-1 tvg-id="842840" tvg-name="DISNEY ANIMATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="FR| CINEMA FHD HD",DISNEY ANIMATION
-ffmpeg http://localhost/ch/842840_
-#EXTINF:-1 tvg-id="842841" tvg-name="CANAL PLAY 1" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLAY.png" group-title="FR| CINEMA FHD HD",CANAL PLAY 1
-ffmpeg http://localhost/ch/842841_
-#EXTINF:-1 tvg-id="842842" tvg-name="CANAL PLAY 2" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLAY.png" group-title="FR| CINEMA FHD HD",CANAL PLAY 2
-ffmpeg http://localhost/ch/842842_
-#EXTINF:-1 tvg-id="842843" tvg-name="CANAL PLAY 3" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLAY.png" group-title="FR| CINEMA FHD HD",CANAL PLAY 3
-ffmpeg http://localhost/ch/842843_
-#EXTINF:-1 tvg-id="842844" tvg-name="CANAL PLAY 4" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLAY.png" group-title="FR| CINEMA FHD HD",CANAL PLAY 4
-ffmpeg http://localhost/ch/842844_
-#EXTINF:-1 tvg-id="842845" tvg-name="CANAL PLAY 5" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLAY.png" group-title="FR| CINEMA FHD HD",CANAL PLAY 5
-ffmpeg http://localhost/ch/842845_
-#EXTINF:-1 tvg-id="842846" tvg-name="CANAL PLAY 6" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLAY.png" group-title="FR| CINEMA FHD HD",CANAL PLAY 6
-ffmpeg http://localhost/ch/842846_
-#EXTINF:-1 tvg-id="842847" tvg-name="CANAL PLAY 7" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLAY.png" group-title="FR| CINEMA FHD HD",CANAL PLAY 7
-ffmpeg http://localhost/ch/842847_
-#EXTINF:-1 tvg-id="842848" tvg-name="CANAL PLAY 8" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLAY.png" group-title="FR| CINEMA FHD HD",CANAL PLAY 8
-ffmpeg http://localhost/ch/842848_
-#EXTINF:-1 tvg-id="842849" tvg-name="CINEMAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cinemax_LA_logo.png/250px-Cinemax_LA_logo.png" group-title="FR| CINEMA FHD HD",CINEMAX 1
-ffmpeg http://localhost/ch/842849_
-#EXTINF:-1 tvg-id="842850" tvg-name="CINEMAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cinemax_LA_logo.png/250px-Cinemax_LA_logo.png" group-title="FR| CINEMA FHD HD",CINEMAX 2
-ffmpeg http://localhost/ch/842850_
-#EXTINF:-1 tvg-id="842851" tvg-name="CINEMAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cinemax_LA_logo.png/250px-Cinemax_LA_logo.png" group-title="FR| CINEMA FHD HD",CINEMAX 3
-ffmpeg http://localhost/ch/842851_
-#EXTINF:-1 tvg-id="842852" tvg-name="CINEMAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cinemax_LA_logo.png/250px-Cinemax_LA_logo.png" group-title="FR| CINEMA FHD HD",CINEMAX 4
-ffmpeg http://localhost/ch/842852_
-#EXTINF:-1 tvg-id="842853" tvg-name="CINEMAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cinemax_LA_logo.png/250px-Cinemax_LA_logo.png" group-title="FR| CINEMA FHD HD",CINEMAX 5
-ffmpeg http://localhost/ch/842853_
-#EXTINF:-1 tvg-id="951323" tvg-name="LA PLANETE DES SINGES (PLANET OF THE APES)" tvg-logo="https://www.themoviedb.org/t/p/w500/dtczUHgXXTRkBzPoQJKei4wtHzr.jpg" group-title="FR| CINEMA FHD HD",LA PLANETE DES SINGES (PLANET OF THE APES)
-ffmpeg http://localhost/ch/951323_
-#EXTINF:-1 tvg-id="962131" tvg-name="RUGBY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/World_Rugby_logo.svg/1200px-World_Rugby_logo.svg.png" group-title="FR| FR SPORTS | TV",RUGBY
-ffmpeg http://localhost/ch/962131_
-#EXTINF:-1 tvg-id="9646" tvg-name="L'EQUIPE 21 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/lequipe21.png" group-title="FR| FR SPORTS | TV",L'EQUIPE 21 FHD
-ffmpeg http://localhost/ch/9646_
-#EXTINF:-1 tvg-id="9653" tvg-name="CANAL+ FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplus.png" group-title="FR| CINEMA FHD HD",CANAL+ FHD
-ffmpeg http://localhost/ch/9653_
-#EXTINF:-1 tvg-id="9654" tvg-name="CANAL+ CINEMA FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalpluscinema.png" group-title="FR| CINEMA FHD HD",CANAL+ CINEMA FHD
-ffmpeg http://localhost/ch/9654_
-#EXTINF:-1 tvg-id="9657" tvg-name="CANAL+ KIDS FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalpluskids.png" group-title="FR| CINEMA FHD HD",CANAL+ KIDS FHD
-ffmpeg http://localhost/ch/9657_
 #EXTINF:-1 tvg-id="9658" tvg-name="CANAL+ SPORT 360 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport360.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 360 FHD
 ffmpeg http://localhost/ch/9658_
-#EXTINF:-1 tvg-id="9660" tvg-name="CINE+ FRISSON FHD" tvg-logo="https://infinity-logo.ddns.net/images/logo_channel/FR/cineplusfrisson.png" group-title="FR| CINEMA FHD HD",CINE+ FRISSON FHD
-ffmpeg http://localhost/ch/9660_
-#EXTINF:-1 tvg-id="9661" tvg-name="CINE+ EMOTION FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusemotion.png" group-title="FR| CINEMA FHD HD",CINE+ EMOTION FHD
-ffmpeg http://localhost/ch/9661_
-#EXTINF:-1 tvg-id="9662" tvg-name="CINE+ FAMILY FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusfamily.png" group-title="FR| CINEMA FHD HD",CINE+ FAMILY FHD
-ffmpeg http://localhost/ch/9662_
-#EXTINF:-1 tvg-id="9663" tvg-name="CINE+ FESTIVAL FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusfestival.png" group-title="FR| CINEMA FHD HD",CINE+ FESTIVAL FHD
-ffmpeg http://localhost/ch/9663_
-#EXTINF:-1 tvg-id="9664" tvg-name="CINE+ CLASSIC FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/cineplusclassic.png" group-title="FR| CINEMA FHD HD",CINE+ CLASSIC FHD
-ffmpeg http://localhost/ch/9664_
-#EXTINF:-1 tvg-id="9670" tvg-name="TCM CINEMA FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/tcmcinema.png" group-title="FR| CINEMA FHD HD",TCM CINEMA FHD
-ffmpeg http://localhost/ch/9670_
-#EXTINF:-1 tvg-id="9672" tvg-name="ACTION FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/action.png" group-title="FR| CINEMA FHD HD",ACTION FHD
-ffmpeg http://localhost/ch/9672_
-#EXTINF:-1 tvg-id="9700" tvg-name="INFOSPORT+ FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/infosportplus.png" group-title="FR| FR SPORTS | TV",INFOSPORT+ FHD
-ffmpeg http://localhost/ch/9700_
-#EXTINF:-1 tvg-id="9701" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport1Bis.png" group-title="FR| FR SPORTS | TV",EUROSPORT 1 FHD
-ffmpeg http://localhost/ch/9701_
-#EXTINF:-1 tvg-id="9702" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/eurosport2Bis.png" group-title="FR| FR SPORTS | TV",EUROSPORT 2 FHD
-ffmpeg http://localhost/ch/9702_
 #EXTINF:-1 tvg-id="9703" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports1.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 1 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/9703?play_token=SLWTc1g8sJ
+ffmpeg http://localhost/ch/9703_
 #EXTINF:-1 tvg-id="9704" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports2.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 2 FHD
-http://fx.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/9704?play_token=TTvLmt9FWc
+ffmpeg http://localhost/ch/9704_
 #EXTINF:-1 tvg-id="9705" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports3.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 3 FHD
 ffmpeg http://localhost/ch/9705_
 #EXTINF:-1 tvg-id="9706" tvg-name="RMC SPORT 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport1.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 1 FHD
 ffmpeg http://localhost/ch/9706_
 #EXTINF:-1 tvg-id="9707" tvg-name="RMC SPORT 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport2.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 2 FHD
 ffmpeg http://localhost/ch/9707_
-#EXTINF:-1 tvg-id="9712" tvg-name="AUTOMOTO FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/automoto.png" group-title="FR| FR SPORTS | TV",AUTOMOTO FHD
-ffmpeg http://localhost/ch/9712_
-#EXTINF:-1 tvg-id="9713" tvg-name="MOTORVISON TV FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/motorvision.png" group-title="FR| FR SPORTS | TV",MOTORVISON TV FHD
-ffmpeg http://localhost/ch/9713_
-#EXTINF:-1 tvg-id="9714" tvg-name="EQUIDIA FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/equidialive.png" group-title="FR| FR SPORTS | TV",EQUIDIA FHD
-ffmpeg http://localhost/ch/9714_
-#EXTINF:-1 tvg-id="9715" tvg-name="GOLF+ FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/golfplus.png" group-title="FR| FR SPORTS | TV",GOLF+ FHD
-ffmpeg http://localhost/ch/9715_
 #EXTINF:-1 tvg-id="9727" tvg-name="BEIN SPORTS MAX 4 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax4.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 4 FHD
 ffmpeg http://localhost/ch/9727_
 #EXTINF:-1 tvg-id="9728" tvg-name="BEIN SPORTS MAX 5 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax5.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 5 FHD
