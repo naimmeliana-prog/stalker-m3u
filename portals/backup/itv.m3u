@@ -2411,6 +2411,84 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=dsMgUiVWLI&sn2=
 #EXTINF:-1 tvg-id="505704" tvg-name="ES - ALQUILER 1 HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png" group-title="ES| CINEMA",ES - ALQUILER 1 HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=CRhrAJSIgF&sn2=
+#EXTINF:-1 tvg-id="505712" tvg-name="ES - CANAL 25 BARBASTRO" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANAL25BARBASTRO.png" group-title="ES| LOCALS",ES - CANAL 25 BARBASTRO
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=iD7TiTM6Xh&sn2=
+#EXTINF:-1 tvg-id="505715" tvg-name="ES - TELEVISIÓN DE GALICIA AMÉRICA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEVISIONDEGALICIAAMERICA.png" group-title="ES| LOCALS",ES - TELEVISIÓN DE GALICIA AMÉRICA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2qfhpfXNuI&sn2=
+#EXTINF:-1 tvg-id="505717" tvg-name="ES - TELEVISIÓN DE GALICIA EUROPA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEVISIONDEGALICIAEUROPA.png" group-title="ES| LOCALS",ES - TELEVISIÓN DE GALICIA EUROPA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=7uCUN1lLFE&sn2=
+#EXTINF:-1 tvg-id="505722" tvg-name="ES - SOPHIA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SOPHIA.png" group-title="ES| LOCALS",ES - SOPHIA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=dbB02OR3sK&sn2=
+#EXTINF:-1 tvg-id="505724" tvg-name="ES - POPULAR TV MELILLA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/POPULARTVMELILLA.png" group-title="ES| LOCALS",ES - POPULAR TV MELILLA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=hzLJmEyWDe&sn2=
+#EXTINF:-1 tvg-id="505729" tvg-name="ES - TVG 2" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TVG2.png" group-title="ES| LOCALS",ES - TVG 2
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ix4O1WbSFN&sn2=
+#EXTINF:-1 tvg-id="505731" tvg-name="ES - HUESCA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/HUESCA.png" group-title="ES| LOCALS",ES - HUESCA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=505731&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="505733" tvg-name="ES - LANCELOT TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LANCELOT.png" group-title="ES| LOCALS",ES - LANCELOT TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=siE237fugw&sn2=
+#EXTINF:-1 tvg-id="505739" tvg-name="ES - CASTILLA-LA-MANCHA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CASTILLA-LA-MANCHA.png" group-title="ES| LOCALS",ES - CASTILLA-LA-MANCHA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PuyJlfQTjJ&sn2=
+#EXTINF:-1 tvg-id="505740" tvg-name="ES - MIRAME TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MIRAME.png" group-title="ES| LOCALS",ES - MIRAME TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=y0AUbQoa6D&sn2=
+#EXTINF:-1 tvg-id="505741" tvg-name="ES - TELEVISIÓ DE GIRONA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEVISIODEGIRONA.png" group-title="ES| LOCALS",ES - TELEVISIÓ DE GIRONA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PaQ84fqHvX&sn2=
+#EXTINF:-1 tvg-id="505743" tvg-name="ES - TV GALICIA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TVGALICIA.png" group-title="ES| LOCALS",ES - TV GALICIA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Bh3wudkOVD&sn2=
+#EXTINF:-1 tvg-id="505744" tvg-name="ES - TELESUR" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELESUR.png" group-title="ES| LOCALS",ES - TELESUR
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=U9kazKJ5nx&sn2=
+#EXTINF:-1 tvg-id="505749" tvg-name="ES - EITB P.VASCO (PV)" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/EITBPVASCO.png" group-title="ES| LOCALS",ES - EITB P.VASCO (PV)
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=52ZBfSvx6S&sn2=
+#EXTINF:-1 tvg-id="505752" tvg-name="ES - ONDA TV CANAL 10" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ONDATVCANAL10.png" group-title="ES| LOCALS",ES - ONDA TV CANAL 10
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HoUberxA12&sn2=
+#EXTINF:-1 tvg-id="505753" tvg-name="ES - ALCARRIA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ALCARRIA.png" group-title="ES| LOCALS",ES - ALCARRIA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=505753&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-id="505754" tvg-name="ES - TV GIRONA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/GIRONA.png" group-title="ES| LOCALS",ES - TV GIRONA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=BAY8Bd5ufb&sn2=
+#EXTINF:-1 tvg-id="505756" tvg-name="ES - 101 TELE ANTEQUERA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/101TELEANTEQUERA.png" group-title="ES| LOCALS",ES - 101 TELE ANTEQUERA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ziJT0bXXwA&sn2=
+#EXTINF:-1 tvg-id="505763" tvg-name="ES - BAILÉN TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BAILEN.png" group-title="ES| LOCALS",ES - BAILÉN TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=k3rbcLWDqA&sn2=
+#EXTINF:-1 tvg-id="505765" tvg-name="ES - COSTADELSOL TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/COSTADELSOL.png" group-title="ES| LOCALS",ES - COSTADELSOL TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=CJZCPW16zy&sn2=
+#EXTINF:-1 tvg-id="505767" tvg-name="ES - DIEZ TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DIEZ.png" group-title="ES| LOCALS",ES - DIEZ TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qXL4WfN3Ty&sn2=
+#EXTINF:-1 tvg-id="505769" tvg-name="ES - CANAL DOÑANA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALDONANA.png" group-title="ES| LOCALS",ES - CANAL DOÑANA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9vWMWklVa7&sn2=
+#EXTINF:-1 tvg-id="505770" tvg-name="ES - TUYA LA JANDA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TUYALAJANDA.png" group-title="ES| LOCALS",ES - TUYA LA JANDA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=HmEYiCKh6G&sn2=
+#EXTINF:-1 tvg-id="505772" tvg-name="ES - CANAL SIERRA DE CADIZ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALSIERRADECADIZ.png" group-title="ES| LOCALS",ES - CANAL SIERRA DE CADIZ
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=UxFSaQ7zAh&sn2=
+#EXTINF:-1 tvg-id="505774" tvg-name="ES - M95 MARBELLA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/M95MARBELLA.png" group-title="ES| LOCALS",ES - M95 MARBELLA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=dRcH1SLlA4&sn2=
+#EXTINF:-1 tvg-id="505775" tvg-name="ES - 101TV MÁLAGA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/101TVMALAGA.png" group-title="ES| LOCALS",ES - 101TV MÁLAGA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=fIpjcGiFZD&sn2=
+#EXTINF:-1 tvg-id="505777" tvg-name="ES - TRECE" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TRECE.png" group-title="ES| LOCALS",ES - TRECE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=ud9BLBXAgd&sn2=
+#EXTINF:-1 tvg-id="505780" tvg-name="ES - LEVANTE TV" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/LEVANTE.png" group-title="ES| LOCALS",ES - LEVANTE TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=qXUli2hnI1&sn2=
+#EXTINF:-1 tvg-id="505783" tvg-name="ES - LOGOS TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/LOGOS.png" group-title="ES| LOCALS",ES - LOGOS TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=O77IaSQb0z&sn2=
+#EXTINF:-1 tvg-id="505784" tvg-name="ES - SOLIDARIA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/SOLIDARIA.png" group-title="ES| LOCALS",ES - SOLIDARIA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=xTaxpLaZJa&sn2=
+#EXTINF:-1 tvg-id="505785" tvg-name="ES - DISTRITO TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/DISTRITO.png" group-title="ES| LOCALS",ES - DISTRITO TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=KKTUeqhpnv&sn2=
+#EXTINF:-1 tvg-id="505787" tvg-name="ES - IBIZA GLOBAL TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/IBIZAGLOBAL.png" group-title="ES| LOCALS",ES - IBIZA GLOBAL TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Sy4XarEtaH&sn2=
+#EXTINF:-1 tvg-id="505789" tvg-name="ES - MOLA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOLA.png" group-title="ES| LOCALS",ES - MOLA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=lbhqUSHt5P&sn2=
+#EXTINF:-1 tvg-id="505791" tvg-name="ES - BON DIA CATALUÑA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/BONDIACATALUNA.png" group-title="ES| LOCALS",ES - BON DIA CATALUÑA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=uQ1eg8ZBEt&sn2=
+#EXTINF:-1 tvg-id="505792" tvg-name="ES - TV3" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TV3.png" group-title="ES| LOCALS",ES - TV3
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=x0b5zAcl3t&sn2=
+#EXTINF:-1 tvg-id="505793" tvg-name="ES - TELEARANDA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TELEARANDA.png" group-title="ES| LOCALS",ES - TELEARANDA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=RIxawNgEwS&sn2=
+#EXTINF:-1 tvg-id="505798" tvg-name="ES - CANAL SAN ROQUE" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALSANROQUE.png" group-title="ES| LOCALS",ES - CANAL SAN ROQUE
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Kl3E1lnOHq&sn2=
+#EXTINF:-1 tvg-id="505799" tvg-name="ES - ALTERNATIVA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ALTERNATIVA.png" group-title="ES| LOCALS",ES - ALTERNATIVA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=GBWdFS9vx7&sn2=
+#EXTINF:-1 tvg-id="505800" tvg-name="ES - TV MUNICIPAL CORDOBA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/TVMUNICIPALCORDOBA.png" group-title="ES| LOCALS",ES - TV MUNICIPAL CORDOBA
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=505800&extension=ts&play&extension=ts&sn2=
 #EXTINF:-1 tvg-id="507597" tvg-name="ES - 24/7 PELICULAS 20" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="ES| 24/7 SPANISH",ES - 24/7 PELICULAS 20
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=84d8zwPZSu&sn2=
 #EXTINF:-1 tvg-id="507598" tvg-name="ES - 24/7 BOB ESPONJA" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/247.png" group-title="ES| 24/7 SPANISH",ES - 24/7 BOB ESPONJA
@@ -5005,6 +5083,8 @@ ffmpeg http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=677310
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=9Inxra36Op&sn2=
 #EXTINF:-1 tvg-id="678748" tvg-name="ES - BOM CINE HD" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MOVISTARPLUSPLUS2.png" group-title="ES| CINEMA",ES - BOM CINE HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=CKJitjCoSN&sn2=
+#EXTINF:-1 tvg-id="679906" tvg-name="ES - A PUNT" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/APUNT.png" group-title="ES| LOCALS",ES - A PUNT
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=cYrxra4kIV&sn2=
 #EXTINF:-1 tvg-id="682888" tvg-name="ES - RT ESP HD" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/682888.png" group-title="ES| GENERAL",ES - RT ESP HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=R3sYTmMS3L&sn2=
 #EXTINF:-1 tvg-id="682889" tvg-name="ES - #0 HD" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/682889.png" group-title="ES| GENERAL",ES - #0 HD
@@ -5585,6 +5665,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=3C0nWBnTla&sn2=
 #EXTINF:-1 tvg-id="744800" tvg-name="FR - BFM ALSACE HD" tvg-logo="http://51.158.145.100/picons/logos/france/744800.png" group-title="FR| FRANCE GÉNÉRAL",FR - BFM ALSACE HD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=2Mo8KcFCUc&sn2=
+#EXTINF:-1 tvg-id="748089" tvg-name="ES - ONDA CADIZ" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/ONDACADIZ.png" group-title="ES| LOCALS",ES - ONDA CADIZ
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=Ojgsr8ZTUa&sn2=
 #EXTINF:-1 tvg-id="754447" tvg-name="UK - MUTV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="EN| SPORTS",UK - MUTV
 ffmpeg http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=754447&extension=ts&play_token=mnsKWKe8sy
 #EXTINF:-1 tvg-id="754448" tvg-name="ES - DAZN FORMULA1 4K" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="ES| DEPORTES",ES - DAZN FORMULA1 4K
@@ -5735,6 +5817,10 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=ato.com:80/pl
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=nESPHiUYHj&sn2=
 #EXTINF:-1 tvg-id="780057" tvg-name="FR - LUDIKIDS" tvg-logo="http://51.158.145.100/picons/logos/france/780057.png" group-title="FR| FRANCE ENFANTS",FR - LUDIKIDS
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=kbV5T3eFv2&sn2=
+#EXTINF:-1 tvg-id="780298" tvg-name="ES - CANAL SUR ANDALUCÍA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/CANALSURANDALUCIA.png" group-title="ES| LOCALS",ES - CANAL SUR ANDALUCÍA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=t867DCaJsz&sn2=
+#EXTINF:-1 tvg-id="780299" tvg-name="ES - EXTREMADURA TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/EXTREMADURA.png" group-title="ES| LOCALS",ES - EXTREMADURA TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=PwHu7f811V&sn2=
 #EXTINF:-1 tvg-id="780566" tvg-name="UK - SKY MAX" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMAX.png" group-title="EN| ENTERTAINMENT",UK - SKY MAX
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=wxumXWJJMD&sn2=
 #EXTINF:-1 tvg-id="781616" tvg-name="FR - LA PAT PATROUILLE FHD" tvg-logo="http://51.158.145.100/picons/logos/france/781616.png" group-title="FR| FRANCE ENFANTS",FR - LA PAT PATROUILLE FHD
@@ -6559,6 +6645,8 @@ http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=8mcmO51Mbk&sn2=
 #EXTINF:-1 tvg-id="843902" tvg-name="ENG - TIMES NOW UHD" tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/TIMESNOWNEWSHD.png" group-title="EN| ENGLISH",ENG - TIMES NOW UHD
 http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=GEe0IT8mIK&sn2=
+#EXTINF:-1 tvg-id="845035" tvg-name="ES - INTERCOMARCAL TV" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/INTERCOMARCAL.png" group-title="ES| LOCALS",ES - INTERCOMARCAL TV
+http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=&extension=ts&play_token=h94SdyzXJ6&sn2=
 #EXTINF:-1 tvg-id="845284" tvg-name="FR - CLUBBING TV HEVC" tvg-logo="http://51.158.145.100/picons/logos/france/845284.png" group-title="FR| FRANCE HEVC",FR - CLUBBING TV HEVC
 ffmpeg http://kamariato.com:80/play/live.php?mac=00:1A:79:EF:55:66&stream=845284&extension=ts&play_token=qLso0u0H9l
 #EXTINF:-1 tvg-id="845286" tvg-name="FR - CHEVAL TV HEVC" tvg-logo="http://51.158.145.100/picons/logos/france/845286.png" group-title="FR| FRANCE HEVC",FR - CHEVAL TV HEVC
