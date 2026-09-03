@@ -1,6 +1,6 @@
 {
-    "portal": "http://sm.ipfr.tv/c",
-    "mac": "00:1A:79:FB:1B:8A",
+    "portal": "http://nexusconnects.org:80/c/",
+    "mac": "00:1A:79:C2:8B:42",
     "categories": [],
     "remove_categories": [],
     "out": "series.m3u",
