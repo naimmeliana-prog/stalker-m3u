@@ -123,6 +123,12 @@ async function streamProxy(target, clientRequest, portalUrl = "", mac = "") {
 const STALKER_TOKENS = {};
 
 async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
+  if (!rawCmd) return "";
+  const trimmed = rawCmd.trim();
+  if ((trimmed.startsWith("http://") || trimmed.startsWith("https://")) && !trimmed.includes("localhost") && !trimmed.includes("127.0.0.1")) {
+    return trimmed;
+  }
+
   const headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
     "X-User-Agent": "Model: MAG250; Link: WiFi",
@@ -170,26 +176,35 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   headers["Cookie"] += `; token=${token}`;
   headers["Authorization"] = `Bearer ${token}`;
 
-  let clCmd = rawCmd;
+  let clCmd = trimmed;
   if (!clCmd.startsWith("ffmpeg ") && !clCmd.startsWith("ffrt ")) {
     clCmd = "ffmpeg " + clCmd;
   }
 
-  const clParams = new URLSearchParams({
-    type: type,
-    action: "create_link",
-    cmd: clCmd,
-    JsHttpRequest: "1-xml"
-  });
-
-  const clUrl = `${portalUrl.replace(/\/$/, "")}${activeEntry}?${clParams.toString()}`;
-  const res = await fetch(clUrl, { headers });
-  if (!res.ok) {
-    throw new Error("Create link request failed: " + res.status);
+  const typesToTry = type === "series" ? ["series", "vod"] : [type];
+  let rawUrl = "";
+  for (const t of typesToTry) {
+    const clParams = new URLSearchParams({
+      type: t,
+      action: "create_link",
+      cmd: clCmd,
+      JsHttpRequest: "1-xml"
+    });
+    const clUrl = `${portalUrl.replace(/\/$/, "")}${activeEntry}?${clParams.toString()}`;
+    try {
+      const res = await fetch(clUrl, { headers });
+      if (res.ok) {
+        const body = await res.json();
+        const js = body.js || body;
+        const u = js.cmd || body.cmd || "";
+        if (u) {
+          rawUrl = u;
+          break;
+        }
+      }
+    } catch (e) {}
   }
-  const body = await res.json();
-  const js = body.js || body;
-  const rawUrl = js.cmd || body.cmd || "";
+
   if (!rawUrl) {
     throw new Error("No URL returned from create_link");
   }
@@ -374,9 +389,12 @@ export default {
       return withCors(await streamProxy(finalTarget, request, portal, mac));
     }
 
-    if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie")) {
+    if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie" || parts[0] === "series")) {
       const sid = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
-      const mapFile = parts[0] === "live" ? "live_urls.json" : "vod_urls.json";
+      let mapFile = "live_urls.json";
+      if (parts[0] === "movie") mapFile = "vod_urls.json";
+      if (parts[0] === "series") mapFile = "streams.json";
+
       const urls = await fetchData(dataBase + mapFile, 600);
       const target = urls[sid];
       if (!target) {
@@ -394,7 +412,7 @@ export default {
           portal = config.portal || "";
           mac = config.mac || "";
           if (config.portal && config.mac) {
-            const type = parts[0] === "live" ? "itv" : "vod";
+            const type = parts[0] === "live" ? "itv" : (parts[0] === "series" ? "series" : "vod");
             const freshTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
             if (freshTarget) {
               finalTarget = freshTarget;
@@ -407,6 +425,10 @@ export default {
 
       if (!finalTarget) {
         return corsJson({}, 404);
+      }
+
+      if (parts[0] === "live") {
+        return withCors(await streamProxy(finalTarget, request, portal, mac));
       }
 
       if (env && env.PROXY_STREAM === "on") {

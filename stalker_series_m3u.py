@@ -456,11 +456,7 @@ def _load_checkpoint(path, portal, args):
             ck = json.load(fh)
         if not isinstance(ck, dict) or not isinstance(ck.get("done"), dict):
             return None
-        saved_sig = ck.get("config_sig")
-        curr_sig = _config_sig(portal, args)
-        if saved_sig != curr_sig:
-            print("[!] Configuracion distinta: se descarta el checkpoint anterior (guardado: %s..., actual: %s...)" % (str(saved_sig)[:8], str(curr_sig)[:8]))
-            return None
+        ck["config_sig"] = _config_sig(portal, args)
         return ck
     except Exception as exc:
         print("[!] Error leyendo checkpoint (%s): %s" % (path, exc))

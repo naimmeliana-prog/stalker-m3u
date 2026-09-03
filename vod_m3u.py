@@ -107,9 +107,9 @@ def load_checkpoint(path, portal, cfg):
     try:
         with _gzip_open(path, "rt") as fh:
             ck = json.load(fh)
-        if ck.get("sig") != _sig(portal, cfg):
-            print("[!] Configuracion distinta: se descarta el checkpoint VOD")
+        if not isinstance(ck, dict) or not isinstance(ck.get("done"), dict):
             return None
+        ck["sig"] = _sig(portal, cfg)
         return ck
     except Exception:
         return None
