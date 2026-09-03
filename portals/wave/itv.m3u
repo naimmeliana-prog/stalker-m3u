@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="10199" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports1.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 1 HD
+ffmpeg http://localhost/ch/10199_
+#EXTINF:-1 tvg-id="10200" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports2.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 2 HD
+ffmpeg http://localhost/ch/10200_
+#EXTINF:-1 tvg-id="10201" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports3.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 3 HD
+ffmpeg http://localhost/ch/10201_
+#EXTINF:-1 tvg-id="10202" tvg-name="RMC SPORT 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport1.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 1 HD
+ffmpeg http://localhost/ch/10202_
+#EXTINF:-1 tvg-id="10203" tvg-name="RMC SPORT 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport2.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 2 HD
+ffmpeg http://localhost/ch/10203_
+#EXTINF:-1 tvg-id="10223" tvg-name="BEIN SPORTS MAX 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax4.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 4 HD
+ffmpeg http://localhost/ch/10223_
+#EXTINF:-1 tvg-id="10224" tvg-name="BEIN SPORTS MAX 5 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax5.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 5 HD
+ffmpeg http://localhost/ch/10224_
+#EXTINF:-1 tvg-id="10225" tvg-name="BEIN SPORTS MAX 6 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax6.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 6 HD
+ffmpeg http://localhost/ch/10225_
+#EXTINF:-1 tvg-id="10226" tvg-name="BEIN SPORTS MAX 7 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax7.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 7 HD
+ffmpeg http://localhost/ch/10226_
+#EXTINF:-1 tvg-id="10227" tvg-name="BEIN SPORTS MAX 8 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax8.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 8 HD
+ffmpeg http://localhost/ch/10227_
+#EXTINF:-1 tvg-id="10228" tvg-name="BEIN SPORTS MAX 9 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax9.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 9 HD
+ffmpeg http://localhost/ch/10228_
+#EXTINF:-1 tvg-id="10229" tvg-name="BEIN SPORTS MAX 10 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax10.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 10 HD
+ffmpeg http://localhost/ch/10229_
 #EXTINF:-1 tvg-id="1028197" tvg-name="LIGUE 1+ 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+2.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 2 SD
 ffmpeg http://localhost/ch/1028197_
 #EXTINF:-1 tvg-id="1028198" tvg-name="LIGUE 1+ 10 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+10.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 10 HD
@@ -80,7 +104,7 @@ ffmpeg http://localhost/ch/1345396_
 #EXTINF:-1 tvg-id="1345397" tvg-name="DAZN 3 FR SPORT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BETCLIC.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN 3 FR SPORT FHD
 ffmpeg http://localhost/ch/1345397_
 #EXTINF:-1 tvg-id="1350366" tvg-name="DISNEY SPORT EVENT 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 1 FHD
-http://wy.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350366?play_token=AggczDC42z
+ffmpeg http://localhost/ch/1350366_
 #EXTINF:-1 tvg-id="1350367" tvg-name="DISNEY SPORT EVENT 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 2 FHD
 ffmpeg http://localhost/ch/1350367_
 #EXTINF:-1 tvg-id="1350368" tvg-name="DISNEY SPORT EVENT 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 3 FHD
@@ -110,6 +134,52 @@ ffmpeg http://localhost/ch/1350379_
 #EXTINF:-1 tvg-id="1350380" tvg-name="DISNEY SPORT EVENT 15 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",DISNEY SPORT EVENT 15 FHD
 ffmpeg http://localhost/ch/1350380_
 #EXTINF:-1 tvg-id="1350386" tvg-name="•●★★DISNEY SPORTS WORLD★★•●" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/DISNEYSPORTS.jpg" group-title="FR| DISNEY SPORTS",•●★★DISNEY SPORTS WORLD★★•●
-http://wy.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350386?play_token=WRej9yqxQk
+http://wy.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/1350386?play_token=GRzKsvgKRW
+#EXTINF:-1 tvg-id="19970" tvg-name="BEIN SPORTS 1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports1.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 1 SD
+ffmpeg http://localhost/ch/19970_
+#EXTINF:-1 tvg-id="19971" tvg-name="BEIN SPORTS 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports2.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 2 SD
+ffmpeg http://localhost/ch/19971_
+#EXTINF:-1 tvg-id="19972" tvg-name="BEIN SPORTS 3 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports3.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 3 SD
+ffmpeg http://localhost/ch/19972_
+#EXTINF:-1 tvg-id="19974" tvg-name="RMC SPORT 1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport1.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 1 SD
+ffmpeg http://localhost/ch/19974_
+#EXTINF:-1 tvg-id="19975" tvg-name="RMC SPORT 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport2.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 2 SD
+ffmpeg http://localhost/ch/19975_
+#EXTINF:-1 tvg-id="238228" tvg-name="•●★★RMC SPORTS •●★★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/RMCSPORT.jpg" group-title="FR| BEIN_RMC  SPORT",•●★★RMC SPORTS •●★★
+ffmpeg http://localhost/ch/238228_
+#EXTINF:-1 tvg-id="238232" tvg-name="•●★★BEIN SPORTS •●★★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BEINSPORT.png" group-title="FR| BEIN_RMC  SPORT",•●★★BEIN SPORTS •●★★
+http://wy.1.az11111.com:80/xZbHGDpfB3cZcAB/ONBxMIsvk9/238232?play_token=ZSzm1Bv9Jc
 #EXTINF:-1 tvg-id="715486" tvg-name="LIGUE 1+ 3 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+3.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 3 SD
 ffmpeg http://localhost/ch/715486_
+#EXTINF:-1 tvg-id="716296" tvg-name="RMC SPORT LIVE 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive4.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 4 HD
+ffmpeg http://localhost/ch/716296_
+#EXTINF:-1 tvg-id="716297" tvg-name="RMC SPORT LIVE 4 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive4.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 4 FHD
+ffmpeg http://localhost/ch/716297_
+#EXTINF:-1 tvg-id="716298" tvg-name="RMC SPORT LIVE 3 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive3.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 3 HD
+ffmpeg http://localhost/ch/716298_
+#EXTINF:-1 tvg-id="716299" tvg-name="RMC SPORT LIVE 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive3.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 3 FHD
+ffmpeg http://localhost/ch/716299_
+#EXTINF:-1 tvg-id="9703" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports1.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 1 FHD
+ffmpeg http://localhost/ch/9703_
+#EXTINF:-1 tvg-id="9704" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports2.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 2 FHD
+ffmpeg http://localhost/ch/9704_
+#EXTINF:-1 tvg-id="9705" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports3.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 3 FHD
+ffmpeg http://localhost/ch/9705_
+#EXTINF:-1 tvg-id="9706" tvg-name="RMC SPORT 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport1.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 1 FHD
+ffmpeg http://localhost/ch/9706_
+#EXTINF:-1 tvg-id="9707" tvg-name="RMC SPORT 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsport2.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT 2 FHD
+ffmpeg http://localhost/ch/9707_
+#EXTINF:-1 tvg-id="9727" tvg-name="BEIN SPORTS MAX 4 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax4.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 4 FHD
+ffmpeg http://localhost/ch/9727_
+#EXTINF:-1 tvg-id="9728" tvg-name="BEIN SPORTS MAX 5 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax5.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 5 FHD
+ffmpeg http://localhost/ch/9728_
+#EXTINF:-1 tvg-id="9729" tvg-name="BEIN SPORTS MAX 6 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax6.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 6 FHD
+ffmpeg http://localhost/ch/9729_
+#EXTINF:-1 tvg-id="9730" tvg-name="BEIN SPORTS MAX 7 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax7.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 7 FHD
+ffmpeg http://localhost/ch/9730_
+#EXTINF:-1 tvg-id="9731" tvg-name="BEIN SPORTS MAX 8 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax8.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 8 FHD
+ffmpeg http://localhost/ch/9731_
+#EXTINF:-1 tvg-id="9732" tvg-name="BEIN SPORTS MAX 9 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax9.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 9 FHD
+ffmpeg http://localhost/ch/9732_
+#EXTINF:-1 tvg-id="9733" tvg-name="BEIN SPORTS MAX 10 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsportsmax10.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS MAX 10 FHD
+ffmpeg http://localhost/ch/9733_
