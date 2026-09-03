@@ -190,14 +190,8 @@ def combine(out="global.m3u"):
     tmp = out_path + ".tmp"
     counts = {}
 
-    subpath = ""
-    config_rel = os.path.relpath(config_dir, os.getcwd()).replace("\\", "/")
-    if config_rel != ".":
-        subpath = config_rel + "/"
-    epg_url = f"https://naimmeliana-prog.github.io/stalker-m3u/{subpath}epg.xml.gz"
-
     with open(tmp, "w", encoding="utf-8", newline="\n") as fh:
-        fh.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
+        fh.write("#EXTM3U\n")
         for sec in sections:
             lines = _lines(sec)
             counts[sec] = len(lines)
