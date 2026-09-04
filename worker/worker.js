@@ -93,10 +93,22 @@ async function streamProxy(target, clientRequest, portalUrl = "", mac = "") {
     reqHeaders.set("Cookie", `mac=${mac}; stb_lang=en`);
   }
 
-  const upstream = await fetch(target, { 
-    headers: reqHeaders,
-    redirect: "follow" 
-  });
+  let currUrl = target;
+  let upstream = null;
+  for (let i = 0; i < 5; i++) {
+    upstream = await fetch(currUrl, { 
+      headers: reqHeaders,
+      redirect: "manual" 
+    });
+    if (upstream.status >= 300 && upstream.status < 400) {
+      const loc = upstream.headers.get("Location");
+      if (loc) {
+        currUrl = loc.startsWith("http") ? loc : new URL(loc, currUrl).href;
+        continue;
+      }
+    }
+    break;
+  }
 
   const responseHeaders = new Headers();
   const copyHeaders = [
@@ -145,7 +157,7 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   }
 
   const headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 sb2ed89f0 Safari/533.3",
     "X-User-Agent": "Model: MAG250; Link: WiFi",
     "Cookie": `mac=${mac}; stb_lang=en; timezone=Europe/London`
   };
@@ -155,20 +167,24 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   let token = "";
   let activeEntry = "";
 
+  const cleanBase = portalUrl.replace(/\/(c|server|portal\.php|stalker_portal).*$/i, "").replace(/\/$/, "");
+
   if (cached && (Date.now() - cached.ts < 3600 * 1000)) {
     token = cached.token;
     activeEntry = cached.entry;
   } else {
     const entryPoints = [
+      portalUrl.endsWith("/c") ? "/c/server/load.php" : "/server/load.php",
       "/server/load.php",
-      "/portal.php",
       "/c/server/load.php",
+      "/portal.php",
+      "/c/portal.php",
       "/stalker_portal/server/load.php",
     ];
 
     for (const entry of entryPoints) {
       try {
-        const hsUrl = `${portalUrl.replace(/\/$/, "")}${entry}?type=stb&action=handshake&JsHttpRequest=1-xml`;
+        const hsUrl = `${cleanBase}${entry}?type=stb&action=handshake&JsHttpRequest=1-xml`;
         const res = await fetch(hsUrl, { headers });
         if (res.ok) {
           const body = await res.json();
@@ -185,7 +201,7 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   }
 
   if (!token) {
-    throw new Error("Handshake failed");
+    throw new Error("Handshake failed for " + portalUrl);
   }
 
   headers["Cookie"] += `; token=${token}`;
@@ -208,7 +224,7 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
       p.series = epSeries;
     }
     const clParams = new URLSearchParams(p);
-    const clUrl = `${portalUrl.replace(/\/$/, "")}${activeEntry}?${clParams.toString()}`;
+    const clUrl = `${cleanBase}${activeEntry}?${clParams.toString()}`;
     try {
       const res = await fetch(clUrl, { headers });
       if (res.ok) {
@@ -386,41 +402,7 @@ export default {
         );
       }
     }
-    if (parts.length >= 4 && parts[0] === "series") {
-      const ep = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
-      const streams = await fetchData(dataBase + "streams.json", 600);
-      const target = streams[ep];
-      if (!target) {
-        return corsJson({}, 404);
-      }
-      let finalTarget = target;
-      if (target.includes("localhost") || !target.startsWith("http")) {
-        try {
-          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-          const configRes = await fetch(configUrl);
-          if (configRes.ok) {
-            const config = await configRes.json();
-            if (config.portal && config.mac) {
-              finalTarget = await resolveStalkerLink(config.portal, config.mac, target, "vod");
-            }
-          }
-        } catch (e) {
-          console.error("Dynamic series resolution failed:", e);
-        }
-      }
-      let portal = "";
-      let mac = "";
-      try {
-        const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-        const configRes = await fetch(configUrl);
-        if (configRes.ok) {
-          const config = await configRes.json();
-          portal = config.portal || "";
-          mac = config.mac || "";
-        }
-      } catch (e) {}
-      return withCors(await streamProxy(finalTarget, request, portal, mac));
-    }
+
 
     if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie" || parts[0] === "series")) {
       const sid = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
@@ -444,16 +426,40 @@ export default {
           const config = await configRes.json();
           portal = config.portal || "";
           mac = config.mac || "";
-          if (config.portal && config.mac) {
-            const type = parts[0] === "live" ? "itv" : (parts[0] === "series" ? "series" : "vod");
-            const freshTarget = await resolveStalkerLink(config.portal, config.mac, target, type);
-            if (freshTarget) {
-              finalTarget = freshTarget;
-            }
-          }
         }
-      } catch (e) {
-        console.error("Dynamic stream resolution error, using target fallback:", e);
+      } catch (e) {}
+
+      if ((!portal || !mac) && target && target.startsWith("http")) {
+        try {
+          const targetHost = new URL(target).host;
+          const portalList = ["backup", "devtv", "greatott", "ipfr", "oktay", "sny57", "tfx1", "tvmoderne", "wave"];
+          const root = dataBase.replace(/\/xtream\/?$/, "/");
+          for (const pName of portalList) {
+            try {
+              const pCfgRes = await fetch(root + "portals/" + pName + "/config.json");
+              if (pCfgRes.ok) {
+                const pCfg = await pCfgRes.json();
+                if (pCfg.portal && pCfg.portal.includes(targetHost)) {
+                  portal = pCfg.portal;
+                  mac = pCfg.mac || "";
+                  break;
+                }
+              }
+            } catch (e) {}
+          }
+        } catch (e) {}
+      }
+
+      if (portal && mac) {
+        try {
+          const type = parts[0] === "live" ? "itv" : (parts[0] === "series" ? "series" : "vod");
+          const freshTarget = await resolveStalkerLink(portal, mac, target, type);
+          if (freshTarget) {
+            finalTarget = freshTarget;
+          }
+        } catch (e) {
+          console.error("Dynamic stream resolution error, using target fallback:", e);
+        }
       }
 
       if (!finalTarget) {
