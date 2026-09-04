@@ -2,7 +2,7 @@ name: Generar ITV m3u
 
 on:
   schedule:
-    - cron: "50 7 * * *"
+    - cron: "50 7 */2 * *"
   workflow_dispatch:
 
 permissions:
