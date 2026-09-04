@@ -375,9 +375,7 @@ def process_series(portal, item, args):
                 extinf += "#EXTGRP:%s\n" % _escape_attr(group)
             block.append(extinf + url + "\n")
             if args.xtream_dir:
-                xurl = url if not args.no_resolve else portal.resolve_stream(cmd, ep_num)
-                if not xurl:
-                    continue
+                xurl = url
                 x_eps.append(
                     {
                         "id": "%s:%s:%s" % (sid, season_num, ep_num),

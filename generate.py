@@ -57,6 +57,8 @@ def _build_args(cfg):
     if cfg.get("xtream_dir"):
         args += ["--xtream-dir", resolve_path(cfg["xtream_dir"])]
     args += ["--threads", str(cfg.get("threads", 8))]
+    if not cfg.get("resolve", False):
+        args += ["--no-resolve"]
     return args
 
 
