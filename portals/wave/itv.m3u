@@ -177,6 +177,58 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=zA5YcoFdVf
 #EXTINF:-1 tvg-id="1014292" tvg-name="MC-TODDLER JAMS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="EN| MUSIC",MC-TODDLER JAMS
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=rfdSSNUy5f
+#EXTINF:-1 tvg-id="1014294" tvg-name="ITV +1 LONDON" tvg-logo="http://51.158.145.100/picons/logos/UK/1014294.png" group-title="EN| GENERAL",ITV +1 LONDON
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ZZdn0tenDT
+#EXTINF:-1 tvg-id="1014295" tvg-name="ITV +1 GRANADA" tvg-logo="http://51.158.145.100/picons/logos/UK/1014295.png" group-title="EN| GENERAL",ITV +1 GRANADA
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=G3XVg3dhkN
+#EXTINF:-1 tvg-id="1014296" tvg-name="ITV +1 CENTRAL WEST" tvg-logo="http://103.176.90.92/images/1014296.png" group-title="EN| GENERAL",ITV +1 CENTRAL WEST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=fprMK9NJr6
+#EXTINF:-1 tvg-id="1014297" tvg-name="ITV MERIDIAN SOUTH FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014297.png" group-title="EN| GENERAL",ITV MERIDIAN SOUTH FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=TkxLg6ex9s
+#EXTINF:-1 tvg-id="1014298" tvg-name="ITV MERIDIAN NORTH FHD" tvg-logo="http://103.176.90.92/images/1014298.png" group-title="EN| GENERAL",ITV MERIDIAN NORTH FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=MUVcA0aFo3
+#EXTINF:-1 tvg-id="1014299" tvg-name="ITV ANGLIA WEST FHD" tvg-logo="http://103.176.90.92/images/1014299.png" group-title="EN| GENERAL",ITV ANGLIA WEST FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=C4Q9HuUvha
+#EXTINF:-1 tvg-id="1014301" tvg-name="ITV MERIDIAN WEST" tvg-logo="http://51.158.145.100/picons/logos/UK/1014301.png" group-title="EN| GENERAL",ITV MERIDIAN WEST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=C8gFtXaqUg
+#EXTINF:-1 tvg-id="1014302" tvg-name="ITV 1 Granada FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014302.png" group-title="EN| GENERAL",ITV 1 Granada FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=PFrwiMDQL3
+#EXTINF:-1 tvg-id="1014303" tvg-name="ITV 1 TYNE TEES FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014303.png" group-title="EN| GENERAL",ITV 1 TYNE TEES FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ESWKpcxteq
+#EXTINF:-1 tvg-id="1014304" tvg-name="ITV 1 WEST COUNTRY WEST FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014304.png" group-title="EN| GENERAL",ITV 1 WEST COUNTRY WEST FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=yDlqfk67uM
+#EXTINF:-1 tvg-id="1014305" tvg-name="ITV1 LONDON FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014305.png" group-title="EN| GENERAL",ITV1 LONDON FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=VW2YDEcYMm
+#EXTINF:-1 tvg-id="1014307" tvg-name="CHANNEL 4 +1" tvg-logo="http://51.158.145.100/picons/logos/UK/1014307.png" group-title="EN| GENERAL",CHANNEL 4 +1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=wRb37CcjNy
+#EXTINF:-1 tvg-id="1014308" tvg-name="RTE ONE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014308.png" group-title="EN| GENERAL",RTE ONE HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=I9iEihr2mj
+#EXTINF:-1 tvg-id="1014309" tvg-name="RTE TWO HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014309.png" group-title="EN| GENERAL",RTE TWO HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ezGUW4PNw5
+#EXTINF:-1 tvg-id="1014311" tvg-name="GOD CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/UK/1014311.png" group-title="EN| GENERAL",GOD CHANNEL
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=26cPcfO24J
+#EXTINF:-1 tvg-id="1014312" tvg-name="GEOTV" tvg-logo="http://51.158.145.100/picons/logos/UK/1014312.png" group-title="EN| GENERAL",GEOTV
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=zHRIC2eKZy
+#EXTINF:-1 tvg-id="1014314" tvg-name="E4 EXTRA" tvg-logo="http://51.158.145.100/picons/logos/UK/1014314.png" group-title="EN| GENERAL",E4 EXTRA
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=NBDKS657Gu
+#EXTINF:-1 tvg-id="1014317" tvg-name="LEGEND" tvg-logo="http://51.158.145.100/picons/logos/UK/1014317.png" group-title="EN| GENERAL",LEGEND
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=sL0fJWJhu8
+#EXTINF:-1 tvg-id="1014319" tvg-name="TRUE CRIME XTRA" tvg-logo="http://51.158.145.100/picons/logos/UK/1014319.png" group-title="EN| GENERAL",TRUE CRIME XTRA
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=DDU5S8Bgow
+#EXTINF:-1 tvg-id="1014320" tvg-name="QUEST RED" tvg-logo="http://51.158.145.100/picons/logos/UK/1014320.png" group-title="EN| GENERAL",QUEST RED
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=g99eG8ElWR
+#EXTINF:-1 tvg-id="1014323" tvg-name="HOBBY MAKER" tvg-logo="http://51.158.145.100/picons/logos/UK/1014323.png" group-title="EN| GENERAL",HOBBY MAKER
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=19j18F6idK
+#EXTINF:-1 tvg-id="1014326" tvg-name="STV NORTH" tvg-logo="http://51.158.145.100/picons/logos/UK/1014326.png" group-title="EN| GENERAL",STV NORTH
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=23g0WJy2q5
+#EXTINF:-1 tvg-id="1014327" tvg-name="STV CENTRAL EAST" tvg-logo="http://51.158.145.100/picons/logos/UK/1014327.png" group-title="EN| GENERAL",STV CENTRAL EAST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=VPBCk13r7J
+#EXTINF:-1 tvg-id="1014328" tvg-name="STV CENTRAL WEST" tvg-logo="http://51.158.145.100/picons/logos/UK/1014328.png" group-title="EN| GENERAL",STV CENTRAL WEST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=rLZeB8Dpsg
+#EXTINF:-1 tvg-id="1014329" tvg-name="HGTV" tvg-logo="http://51.158.145.100/picons/logos/UK/1014329.png" group-title="EN| GENERAL",HGTV
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ZNzyVEn1o8
+#EXTINF:-1 tvg-id="1014331" tvg-name="U&W HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014331.png" group-title="EN| GENERAL",U&W HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=DO4UvXegLo
 #EXTINF:-1 tvg-id="1014333" tvg-name="CRIME INVESTIGATION +1" tvg-logo="http://51.158.145.100/picons/logos/UK/1014333.png" group-title="EN| DOCUMENTARY",CRIME INVESTIGATION +1
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=9VJKpWPX51
 #EXTINF:-1 tvg-id="1014334" tvg-name="NAT GEO +1" tvg-logo="http://51.158.145.100/picons/logos/UK/1014334.png" group-title="EN| DOCUMENTARY",NAT GEO +1
@@ -865,6 +917,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Y9Aco8ZMPq
 #EXTINF:-1 tvg-id="1081655" tvg-name="SKY NEWS FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png" group-title="EN| NEWS",SKY NEWS FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=DJuDNhCsV4
+#EXTINF:-1 tvg-id="1093281" tvg-name="PRAISE TV NETWORK" tvg-logo="http://51.158.145.100/picons/logos/UK/1093281.png" group-title="EN| GENERAL",PRAISE TV NETWORK
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=XMEbGCVf6s
 #EXTINF:-1 tvg-id="1095777" tvg-name="SKY STORE PREMIERE 21 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="EN| SKY STORE",SKY STORE PREMIERE 21 ᴴᴰ
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=1AWzSvpBfb
 #EXTINF:-1 tvg-id="1095778" tvg-name="SKY STORE PREMIERE 20 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="EN| SKY STORE",SKY STORE PREMIERE 20 ᴴᴰ
@@ -1023,16 +1077,50 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=lB32JC3OuQ
 #EXTINF:-1 tvg-id="1111819" tvg-name="PREMIER LEAGUE TOP EVENT FHD" tvg-logo="http://103.176.90.95/images/1111819.png" group-title="EN| VIAPLAY PPV",PREMIER LEAGUE TOP EVENT FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=CPyVGQBrAv
+#EXTINF:-1 tvg-id="111539" tvg-name="TRT WORLD" tvg-logo="http://51.158.145.100/picons/logos/UK/111539.png" group-title="EN| GENERAL",TRT WORLD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=xXHI49Nsji
 #EXTINF:-1 tvg-id="111540" tvg-name="BLOOMBERG EU" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BLOOMBERG.png" group-title="EN| NEWS",BLOOMBERG EU
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=jxM6hXp3A9
 #EXTINF:-1 tvg-id="111541" tvg-name="BBC NEWS HEVC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="EN| NEWS",BBC NEWS HEVC
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=XZkIZDZa3c
+#EXTINF:-1 tvg-id="111542" tvg-name="BBC 1 HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111542.png" group-title="EN| GENERAL",BBC 1 HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=HEbDmmYChP
+#EXTINF:-1 tvg-id="111543" tvg-name="BBC ONE NI HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111543.png" group-title="EN| GENERAL",BBC ONE NI HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=DOyNqKUSBs
+#EXTINF:-1 tvg-id="111545" tvg-name="BBC ONE WALES HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111545.png" group-title="EN| GENERAL",BBC ONE WALES HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=NlfCZZ867t
+#EXTINF:-1 tvg-id="111546" tvg-name="BBC 2 HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111546.png" group-title="EN| GENERAL",BBC 2 HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=kaWU2ZC8jk
+#EXTINF:-1 tvg-id="111547" tvg-name="BBC TWO WALES HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111547.png" group-title="EN| GENERAL",BBC TWO WALES HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=YTmHWyYgrc
 #EXTINF:-1 tvg-id="111549" tvg-name="BLOOMBERG HEVC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BLOOMBERG.png" group-title="EN| NEWS",BLOOMBERG HEVC
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=T1aa8Z1VyK
+#EXTINF:-1 tvg-id="111550" tvg-name="BBC 3 / CBBC HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111550.png" group-title="EN| GENERAL",BBC 3 / CBBC HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=1pXkLYJayZ
+#EXTINF:-1 tvg-id="111551" tvg-name="BBC 4 / CBEEBIES HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111551.png" group-title="EN| GENERAL",BBC 4 / CBEEBIES HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ssL59ogzsN
 #EXTINF:-1 tvg-id="111552" tvg-name="DAYSTAR HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111552.png" group-title="EN| ENTERTAINMENT",DAYSTAR HEVC
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=hFog6sYafH
+#EXTINF:-1 tvg-id="111553" tvg-name="ITV 1 HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111553.png" group-title="EN| GENERAL",ITV 1 HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=7poddEYbmk
+#EXTINF:-1 tvg-id="111554" tvg-name="ITV WALES HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111554.png" group-title="EN| GENERAL",ITV WALES HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=HzvTplGX58
+#EXTINF:-1 tvg-id="111555" tvg-name="ITV 2 HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111555.png" group-title="EN| GENERAL",ITV 2 HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=wiZ8gPqbSl
+#EXTINF:-1 tvg-id="111556" tvg-name="ITV 3 HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111556.png" group-title="EN| GENERAL",ITV 3 HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=xyoVwJUHn0
+#EXTINF:-1 tvg-id="111557" tvg-name="ITV 4 HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/111557.png" group-title="EN| GENERAL",ITV 4 HEVC
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=yy0q7qvKbL
+#EXTINF:-1 tvg-id="111559" tvg-name="BBC TWO HD" tvg-logo="http://51.158.145.100/picons/logos/UK/111559.png" group-title="EN| GENERAL",BBC TWO HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ykNo9Reerv
+#EXTINF:-1 tvg-id="111560" tvg-name="BBC TWO WALES HD" tvg-logo="http://51.158.145.100/picons/logos/UK/111560.png" group-title="EN| GENERAL",BBC TWO WALES HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=f962XDgD6B
 #EXTINF:-1 tvg-id="111561" tvg-name="DAYSTAR HD" tvg-logo="http://51.158.145.100/picons/logos/UK/111561.png" group-title="EN| ENTERTAINMENT",DAYSTAR HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=49OYTAr9EO
+#EXTINF:-1 tvg-id="111562" tvg-name="ITV WALES HD" tvg-logo="http://51.158.145.100/picons/logos/UK/111562.png" group-title="EN| GENERAL",ITV WALES HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=R8Wlymu0BY
+#EXTINF:-1 tvg-id="111563" tvg-name="LONDON LIVE" tvg-logo="http://51.158.145.100/picons/logos/UK/111563.png" group-title="EN| GENERAL",LONDON LIVE
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=PKWbVtBBmA
 #EXTINF:-1 tvg-id="1121642" tvg-name="LIGUE 1+ 9 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+9.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 9 HD
 ffmpeg http://localhost/ch/1121642_
 #EXTINF:-1 tvg-id="1121956" tvg-name="LIGUE 1+ 1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+2.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 1 SD
@@ -1057,6 +1145,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=49YLb6hVh0
 #EXTINF:-1 tvg-id="114740" tvg-name="SONY CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SONYCHANNEL.png" group-title="EN| MOVIES",SONY CHANNEL
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=mtiNBh5XfC
+#EXTINF:-1 tvg-id="114747" tvg-name="CITV" tvg-logo="http://51.158.145.100/picons/logos/UK/114747.png" group-title="EN| GENERAL",CITV
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=UclPPfAw3H
 #EXTINF:-1 tvg-id="1180209" tvg-name="JET LI MOVIES" tvg-logo="http://103.176.90.95/images/1180209.png" group-title="EN| 24/7 MOVIES & SERIES",JET LI MOVIES
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=u3Kc7u0r00
 #EXTINF:-1 tvg-id="1187709" tvg-name="JAMES BOND 007" tvg-logo="http://103.176.90.95/images/1187709.png" group-title="EN| 24/7 MOVIES & SERIES",JAMES BOND 007
@@ -2775,6 +2865,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=uJMhgYjxkN
 #EXTINF:-1 tvg-id="149646" tvg-name="RT AMERICA HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="EN| NEWS",RT AMERICA HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=q66kYtluJa
+#EXTINF:-1 tvg-id="149647" tvg-name="RT DOCUMENTRY HD" tvg-logo="http://51.158.145.100/picons/logos/UK/149647.png" group-title="EN| GENERAL",RT DOCUMENTRY HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=42tWlzWAzG
 #EXTINF:-1 tvg-id="149648" tvg-name="RT NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="EN| NEWS",RT NEWS HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=YfDjMA6jHD
 #EXTINF:-1 tvg-id="149649" tvg-name="RT UK HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="EN| NEWS",RT UK HD
@@ -3543,6 +3635,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=wavTpACVDl
 #EXTINF:-1 tvg-id="1548418" tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN-LALIGA.png" group-title="ES| DAZN LALIGA",DAZN LALIGA 2 SD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=nvSVN3dT7a
+#EXTINF:-1 tvg-id="1556637" tvg-name="BBC EARTH HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1556637.png" group-title="EN| GENERAL",BBC EARTH HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=WGBPy5s7sx
 #EXTINF:-1 tvg-id="1556643" tvg-name="PDCTV 4 | Players Championship 28 - Players Championship - Board 3 // UK Wed 26 Aug 1:00pm // ET Wed 26 Aug 8:00am" tvg-logo="http://103.176.90.95/images/1556643.png" group-title="EN| PDC BOARD PPV",PDCTV 4 | Players Championship 28 - Players Championship - Board 3 // UK Wed 26 Aug 1:00pm // ET Wed 26 Aug 8:00am
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=6ManKft9JV
 #EXTINF:-1 tvg-id="1556644" tvg-name="PDCTV 5 | Players Championship 28 - Players Championship Board 1 - German // UK Wed 26 Aug 1:00pm // ET Wed 26 Aug 8:00am" tvg-logo="http://103.176.90.95/images/1556644.png" group-title="EN| PDC BOARD PPV",PDCTV 5 | Players Championship 28 - Players Championship Board 1 - German // UK Wed 26 Aug 1:00pm // ET Wed 26 Aug 8:00am
@@ -3713,6 +3807,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=74d8QZRP62
 #EXTINF:-1 tvg-id="1596285" tvg-name="TNT SPORTS | Event 1" tvg-logo="http://103.176.90.95/images/1596285.png" group-title="EN| TNT SPORTS EVENT",TNT SPORTS | Event 1
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=KAlcJl6T6p
+#EXTINF:-1 tvg-id="1600124" tvg-name="BBC ONE SOUTH WEST" tvg-logo="http://51.158.145.100/picons/logos/UK/1600124.png" group-title="EN| GENERAL",BBC ONE SOUTH WEST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=1cnVrn7dXI
 #EXTINF:-1 tvg-id="1612561" tvg-name="Sky Sport+ 40" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="EN| SKY SPORT+ VIP",Sky Sport+ 40
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=pzw18WIoUs
 #EXTINF:-1 tvg-id="1612562" tvg-name="Sky Sport+ 39" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="EN| SKY SPORT+ VIP",Sky Sport+ 39
@@ -3973,6 +4069,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=haEz7cR2KH
 #EXTINF:-1 tvg-id="164046" tvg-name="EDEN +1" tvg-logo="http://51.158.145.100/picons/logos/UK/164046.png" group-title="EN| ENTERTAINMENT",EDEN +1
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=wkZIgQib9i
+#EXTINF:-1 tvg-id="164047" tvg-name="FOOD NETWORK +1" tvg-logo="http://51.158.145.100/picons/logos/UK/164047.png" group-title="EN| GENERAL",FOOD NETWORK +1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=55n1dy4tD3
 #EXTINF:-1 tvg-id="164048" tvg-name="GOLD +1" tvg-logo="http://51.158.145.100/picons/logos/UK/164048.png" group-title="EN| ENTERTAINMENT",GOLD +1
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=zpfe3wcwL8
 #EXTINF:-1 tvg-id="164049" tvg-name="GEMS TV" tvg-logo="http://51.158.145.100/picons/logos/UK/164049.png" group-title="EN| ENTERTAINMENT",GEMS TV
@@ -3989,12 +4087,16 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=BuFF3gciVC
 #EXTINF:-1 tvg-id="164062" tvg-name="TV WAREHOUSE" tvg-logo="http://51.158.145.100/picons/logos/UK/164062.png" group-title="EN| ENTERTAINMENT",TV WAREHOUSE
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=YVwVPOsI9t
+#EXTINF:-1 tvg-id="164064" tvg-name="CBBC FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/164064.png" group-title="EN| GENERAL",CBBC FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=xmCRjXLE55
 #EXTINF:-1 tvg-id="164071" tvg-name="SKY NATURE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/164071.png" group-title="EN| DOCUMENTARY",SKY NATURE FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=5fJmlPWIAQ
 #EXTINF:-1 tvg-id="164072" tvg-name="SKY DOCUMENTARIES FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/164072.png" group-title="EN| DOCUMENTARY",SKY DOCUMENTARIES FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=9egQPatDhM
 #EXTINF:-1 tvg-id="164073" tvg-name="SKY CRIME FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/164073.png" group-title="EN| DOCUMENTARY",SKY CRIME FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=2aekFPjODx
+#EXTINF:-1 tvg-id="164074" tvg-name="MORE4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/164074.png" group-title="EN| GENERAL",MORE4 HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=pIaaA8cLjy
 #EXTINF:-1 tvg-id="1641636" tvg-name="SKY SPORTS MAIN EVENT UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" group-title="EN| SPORTS",SKY SPORTS MAIN EVENT UHD/4K
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=hV1vKOLe42
 #EXTINF:-1 tvg-id="1641637" tvg-name="SKY SPORTS F1 UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png" group-title="EN| SPORTS",SKY SPORTS F1 UHD/4K
@@ -4199,6 +4301,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=LKXCVRJRxk
 #EXTINF:-1 tvg-id="1761600" tvg-name="L'ÉQUIPE LIVE  1 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/LEQUIPE.png" group-title="FR| L'EQUIPE LIVE",L'ÉQUIPE LIVE  1 FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=YkTm5GsUoS
+#EXTINF:-1 tvg-id="1765821" tvg-name="THATS TV" tvg-logo="http://51.158.145.100/picons/logos/UK/1765821.png" group-title="EN| GENERAL",THATS TV
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=cuq9eV1J0T
 #EXTINF:-1 tvg-id="1768579" tvg-name="RMC ALERTE SECOURS HD" tvg-logo="http://51.158.145.100/picons/logos/france/1768579.png" group-title="FR| FRANCE HD",RMC ALERTE SECOURS HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=IoomYzkqED
 #EXTINF:-1 tvg-id="1777811" tvg-name="M. LIGA DE CAMPEONES 18 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1777811.png" group-title="ES| M+ LIGA DE CAMPEONES VIP",M. LIGA DE CAMPEONES 18 ᴿᴬᵂ
@@ -4615,6 +4719,10 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=GAIH9oLVMn
 #EXTINF:-1 tvg-id="1859407" tvg-name="TT RACES| EVENT 1" tvg-logo="http://103.176.90.95/images/1859407.png" group-title="EN| TT RACE PPV",TT RACES| EVENT 1
 ffmpeg http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=1859407&extension=ts&play_token=JDREEVuOB9
+#EXTINF:-1 tvg-id="1879960" tvg-name="LEGEND XTRA" tvg-logo="http://51.158.145.100/picons/logos/UK/1879960.png" group-title="EN| GENERAL",LEGEND XTRA
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=6kQrs9BnN5
+#EXTINF:-1 tvg-id="1885546" tvg-name="BBC LIFESTYLE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1885546.png" group-title="EN| GENERAL",BBC LIFESTYLE HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=CglwqIdYNS
 #EXTINF:-1 tvg-id="1887532" tvg-name="MONACO INFO HD" tvg-logo="http://51.158.145.100/picons/logos/france/1887532.png" group-title="FR| FRANCE HD",MONACO INFO HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=AYlBw7oqIr
 #EXTINF:-1 tvg-id="1891320" tvg-name="National League | Event 38" tvg-logo="http://51.158.145.100/picons/logos/UK/NationalLeague.png" group-title="EN| NATIONAL LEAGUE",National League | Event 38
@@ -5699,6 +5807,10 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=9IQkXbhWBe
 #EXTINF:-1 tvg-id="1906073" tvg-name="UK-BBCI| BBC ALBA" tvg-logo="http://51.158.145.100/picons/logos/UK/1906073.png" group-title="EN| BBCI",UK-BBCI| BBC ALBA
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=tf6D5bQ9bZ
+#EXTINF:-1 tvg-id="1907591" tvg-name="ITV YORKSHIRE EAST" tvg-logo="http://51.158.145.100/picons/logos/UK/1907591.png" group-title="EN| GENERAL",ITV YORKSHIRE EAST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=jTKqZwufVv
+#EXTINF:-1 tvg-id="1907592" tvg-name="ITV YORKSHIRE WEST" tvg-logo="http://51.158.145.100/picons/logos/UK/1907592.png" group-title="EN| GENERAL",ITV YORKSHIRE WEST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=I241E3w0OI
 #EXTINF:-1 tvg-id="1907942" tvg-name="MCM POP" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/MCMPOP.png" group-title="FR| FRANCE FHD",MCM POP
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=tJgjMFx3br
 #EXTINF:-1 tvg-id="1908963" tvg-name="CINE WESTERN FHD" tvg-logo="http://51.158.145.100/picons/logos/france/1908963.png" group-title="FR| FRANCE FHD",CINE WESTERN FHD
@@ -7955,6 +8067,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=FoKhX4OLHv
 #EXTINF:-1 tvg-id="1975907" tvg-name="GH 24H 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1975907.png" group-title="ES| TELEFÓNICA ᴿᴬᵂ",GH 24H 1 ᴿᴬᵂ
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=CFBmmJHBHZ
+#EXTINF:-1 tvg-id="1990796" tvg-name="CHANNEL 4SEVEN" tvg-logo="http://51.158.145.100/picons/logos/UK/1990796.png" group-title="EN| GENERAL",CHANNEL 4SEVEN
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=xBRNz2xqCs
 #EXTINF:-1 tvg-id="1992955" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | ES: VIX PPV 50" tvg-logo="http://51.158.145.100/picons/logos/PPV/ViX.png" group-title="ES| VIX PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | ES: VIX PPV 50
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=bnSB9aq8FC
 #EXTINF:-1 tvg-id="1992956" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | ES: VIX PPV 49" tvg-logo="http://51.158.145.100/picons/logos/PPV/ViX.png" group-title="ES| VIX PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | ES: VIX PPV 49
@@ -11981,10 +12095,68 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=50hFHGqFGB
 #EXTINF:-1 tvg-id="228568" tvg-name="COMEDY CENTRAL" tvg-logo="http://51.158.145.100/picons/logos/UK/228568.png" group-title="EN| ENTERTAINMENT",COMEDY CENTRAL
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=cdKQ0v9mT1
+#EXTINF:-1 tvg-id="228571" tvg-name="ITV 2+1" tvg-logo="http://51.158.145.100/picons/logos/UK/228571.png" group-title="EN| GENERAL",ITV 2+1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=pSIO69NZRj
+#EXTINF:-1 tvg-id="228572" tvg-name="ITV 3+1" tvg-logo="http://51.158.145.100/picons/logos/UK/228572.png" group-title="EN| GENERAL",ITV 3+1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=a6z2HtEUJe
+#EXTINF:-1 tvg-id="228573" tvg-name="ITV 4+1" tvg-logo="http://51.158.145.100/picons/logos/UK/228573.png" group-title="EN| GENERAL",ITV 4+1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=KtBnFnKzAz
 #EXTINF:-1 tvg-id="228579" tvg-name="NICKELODEON HD" tvg-logo="http://103.176.90.92/images/228579.png" group-title="EN| KIDS",NICKELODEON HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=WcUTze5dmV
+#EXTINF:-1 tvg-id="229430" tvg-name="ALIBI +1" tvg-logo="http://51.158.145.100/picons/logos/UK/229430.png" group-title="EN| GENERAL",ALIBI +1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=q7yPCmfXnE
 #EXTINF:-1 tvg-id="229460" tvg-name="AL JAZEERA EN HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ALJAZEERA.png" group-title="EN| NEWS",AL JAZEERA EN HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=HoQDZrVcYP
+#EXTINF:-1 tvg-id="229483" tvg-name="BBC ONE EAST W" tvg-logo="http://51.158.145.100/picons/logos/UK/229483.png" group-title="EN| GENERAL",BBC ONE EAST W
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=qkGrBJM3Kx
+#EXTINF:-1 tvg-id="229485" tvg-name="BBC ONE NI HD" tvg-logo="http://51.158.145.100/picons/logos/UK/229485.png" group-title="EN| GENERAL",BBC ONE NI HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=5PZFFnmvdC
+#EXTINF:-1 tvg-id="229486" tvg-name="BBC ONE SOUTH EAST" tvg-logo="http://51.158.145.100/picons/logos/UK/229486.png" group-title="EN| GENERAL",BBC ONE SOUTH EAST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=pKflSnm5Mj
+#EXTINF:-1 tvg-id="229487" tvg-name="BBC ONE SCOT HD" tvg-logo="http://51.158.145.100/picons/logos/UK/229487.png" group-title="EN| GENERAL",BBC ONE SCOT HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=aXfG8svQdt
+#EXTINF:-1 tvg-id="229488" tvg-name="BBC ONE WEST" tvg-logo="http://51.158.145.100/picons/logos/UK/229488.png" group-title="EN| GENERAL",BBC ONE WEST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=XfEgyQ4sUs
+#EXTINF:-1 tvg-id="229489" tvg-name="BBC ONE YK LI" tvg-logo="http://51.158.145.100/picons/logos/UK/229489.png" group-title="EN| GENERAL",BBC ONE YK LI
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Q0j8jEmgx5
+#EXTINF:-1 tvg-id="229490" tvg-name="BBC ONE CHANNEL ISLAND" tvg-logo="http://51.158.145.100/picons/logos/UK/229490.png" group-title="EN| GENERAL",BBC ONE CHANNEL ISLAND
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Djom0UdfDi
+#EXTINF:-1 tvg-id="229492" tvg-name="BBC TWO WALES" tvg-logo="http://51.158.145.100/picons/logos/UK/229492.png" group-title="EN| GENERAL",BBC TWO WALES
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=2J9hzGP81g
+#EXTINF:-1 tvg-id="229495" tvg-name="CHANNEL 4 SOUTH & EAST" tvg-logo="http://51.158.145.100/picons/logos/UK/229495.png" group-title="EN| GENERAL",CHANNEL 4 SOUTH & EAST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=IIz9V2lESG
+#EXTINF:-1 tvg-id="229498" tvg-name="CHANNEL 4 MIDLANDS" tvg-logo="http://51.158.145.100/picons/logos/UK/229498.png" group-title="EN| GENERAL",CHANNEL 4 MIDLANDS
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=gX62sUHqR4
+#EXTINF:-1 tvg-id="229499" tvg-name="CHANNEL 4 LONDON" tvg-logo="http://51.158.145.100/picons/logos/UK/229499.png" group-title="EN| GENERAL",CHANNEL 4 LONDON
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=3BgBjuBQoV
+#EXTINF:-1 tvg-id="229769" tvg-name="BBC ONE EAST MIDLANDS" tvg-logo="http://51.158.145.100/picons/logos/UK/229769.png" group-title="EN| GENERAL",BBC ONE EAST MIDLANDS
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=i70vJKdEqc
+#EXTINF:-1 tvg-id="229770" tvg-name="BBC ONE WEST MIDLANDS" tvg-logo="http://51.158.145.100/picons/logos/UK/229770.png" group-title="EN| GENERAL",BBC ONE WEST MIDLANDS
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=rJzGt7p9Uj
+#EXTINF:-1 tvg-id="229771" tvg-name="BBC ONE NORTH WEST" tvg-logo="http://51.158.145.100/picons/logos/UK/229771.png" group-title="EN| GENERAL",BBC ONE NORTH WEST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=VvWWB71Lvq
+#EXTINF:-1 tvg-id="229773" tvg-name="BBC ONE SCOT" tvg-logo="http://51.158.145.100/picons/logos/UK/229773.png" group-title="EN| GENERAL",BBC ONE SCOT
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=cDBdbUQONe
+#EXTINF:-1 tvg-id="229774" tvg-name="BBC ONE YORKS" tvg-logo="http://51.158.145.100/picons/logos/UK/229774.png" group-title="EN| GENERAL",BBC ONE YORKS
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=D91TgFUKbO
+#EXTINF:-1 tvg-id="229775" tvg-name="BBC ONE EAST" tvg-logo="http://51.158.145.100/picons/logos/UK/229775.png" group-title="EN| GENERAL",BBC ONE EAST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=iuQcAphl2l
+#EXTINF:-1 tvg-id="229776" tvg-name="BBC ONE NORTH EAST& CAM" tvg-logo="http://51.158.145.100/picons/logos/UK/229776.png" group-title="EN| GENERAL",BBC ONE NORTH EAST& CAM
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=2Nk76W6pD3
+#EXTINF:-1 tvg-id="229777" tvg-name="BBC ONE WALES" tvg-logo="http://51.158.145.100/picons/logos/UK/229777.png" group-title="EN| GENERAL",BBC ONE WALES
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=JcoTH4EGaq
+#EXTINF:-1 tvg-id="229780" tvg-name="ITV CENTRAL WEST" tvg-logo="http://51.158.145.100/picons/logos/UK/229780.png" group-title="EN| GENERAL",ITV CENTRAL WEST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=19s2eoBMQu
+#EXTINF:-1 tvg-id="229781" tvg-name="ITV GRANADA" tvg-logo="http://51.158.145.100/picons/logos/UK/229781.png" group-title="EN| GENERAL",ITV GRANADA
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=lL4ZdiiOYp
+#EXTINF:-1 tvg-id="229782" tvg-name="ITV LONDON" tvg-logo="http://51.158.145.100/picons/logos/UK/229782.png" group-title="EN| GENERAL",ITV LONDON
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=RetYhm1zQR
+#EXTINF:-1 tvg-id="229790" tvg-name="ITV CENTRAL EAST" tvg-logo="http://51.158.145.100/picons/logos/UK/229790.png" group-title="EN| GENERAL",ITV CENTRAL EAST
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=sCUSx7p89G
+#EXTINF:-1 tvg-id="229792" tvg-name="ITV WALES" tvg-logo="http://51.158.145.100/picons/logos/UK/229792.png" group-title="EN| GENERAL",ITV WALES
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=OP9visC1Ji
+#EXTINF:-1 tvg-id="229915" tvg-name="BBC 1" tvg-logo="http://51.158.145.100/picons/logos/UK/229915.png" group-title="EN| GENERAL",BBC 1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=vtSNpEFGyK
 #EXTINF:-1 tvg-id="230677" tvg-name="UTV FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/230677.png" group-title="EN| ENTERTAINMENT",UTV FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=SudRG5F6qw
 #EXTINF:-1 tvg-id="230678" tvg-name="STV FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/230678.png" group-title="EN| ENTERTAINMENT",STV FHD
@@ -12107,6 +12279,14 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=KLpZaX6ynb
 #EXTINF:-1 tvg-id="30528" tvg-name="MORE 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30528.png" group-title="EN| ENTERTAINMENT",MORE 4 FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=twM8wvXaBu
+#EXTINF:-1 tvg-id="30530" tvg-name="ITV 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="EN| GENERAL",ITV 4 HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=XlHH1Xeewm
+#EXTINF:-1 tvg-id="30531" tvg-name="ITV 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/30531.png" group-title="EN| GENERAL",ITV 3 HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=dXcZqbx303
+#EXTINF:-1 tvg-id="30532" tvg-name="ITV 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/30532.png" group-title="EN| GENERAL",ITV 2 HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=anlzm8D0Lm
+#EXTINF:-1 tvg-id="30533" tvg-name="ITV 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="EN| GENERAL",ITV 1 HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=DyPYvlvhi3
 #EXTINF:-1 tvg-id="30534" tvg-name="HISTORY FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30534.png" group-title="EN| DOCUMENTARY",HISTORY FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=PrKlNehhdj
 #EXTINF:-1 tvg-id="30535" tvg-name="HISTORY 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30535.png" group-title="EN| DOCUMENTARY",HISTORY 2 FHD
@@ -12121,6 +12301,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Nl9zfEzEfc
 #EXTINF:-1 tvg-id="30544" tvg-name="EDEN FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30544.png" group-title="EN| ENTERTAINMENT",EDEN FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=cBzf89ABxZ
+#EXTINF:-1 tvg-id="30545" tvg-name="E4 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30545.png" group-title="EN| GENERAL",E4 FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=yGnYUVPXSt
 #EXTINF:-1 tvg-id="30549" tvg-name="DISCOVERY FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30549.png" group-title="EN| DOCUMENTARY",DISCOVERY FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=FBQrQ8XoLB
 #EXTINF:-1 tvg-id="30550" tvg-name="DAVE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30550.png" group-title="EN| ENTERTAINMENT",DAVE FHD
@@ -12131,6 +12313,10 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=2FJS7Vt3dD
 #EXTINF:-1 tvg-id="30553" tvg-name="CNN FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CNN.png" group-title="EN| NEWS",CNN FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ujQLoHKfQ1
+#EXTINF:-1 tvg-id="30554" tvg-name="CHANNEL 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30554.png" group-title="EN| GENERAL",CHANNEL 5 FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=g5umaOLiP0
+#EXTINF:-1 tvg-id="30555" tvg-name="CHANNEL 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30555.png" group-title="EN| GENERAL",CHANNEL 4 FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=0022t1fbjI
 #EXTINF:-1 tvg-id="30556" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://103.176.90.92/images/30556.png" group-title="EN| KIDS",CARTOON NETWORK FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=VT2acEc6ww
 #EXTINF:-1 tvg-id="30564" tvg-name="TNT SPORTS ESPN FHD" tvg-logo="http://103.176.90.92/images/30564.png" group-title="EN| SPORTS",TNT SPORTS ESPN FHD
@@ -12143,10 +12329,16 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=pvbTJSmmyq
 #EXTINF:-1 tvg-id="30569" tvg-name="BLAZE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30569.png" group-title="EN| ENTERTAINMENT",BLAZE FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=iWxjiXOTHr
+#EXTINF:-1 tvg-id="30580" tvg-name="BBC 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="EN| GENERAL",BBC 2 HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=fPFewZVwPV
+#EXTINF:-1 tvg-id="30581" tvg-name="BBC 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="EN| GENERAL",BBC 1 HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ep86x0eHoH
 #EXTINF:-1 tvg-id="30582" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30582.png" group-title="EN| DOCUMENTARY",ANIMAL PLANET FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=IgziEiXhfV
 #EXTINF:-1 tvg-id="30583" tvg-name="AMC FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30583.png" group-title="EN| ENTERTAINMENT",AMC FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=pY2nKXYGP3
+#EXTINF:-1 tvg-id="30584" tvg-name="ALIBI FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30584.png" group-title="EN| GENERAL",ALIBI FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=i9Xe7yTfkI
 #EXTINF:-1 tvg-id="314250" tvg-name="F3 ALPES HD" tvg-logo="http://51.158.145.100/picons/logos/france/314250.png" group-title="FR| FRANCE HD",F3 ALPES HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=gDiVOtGz31
 #EXTINF:-1 tvg-id="314251" tvg-name="F3 ALSACE HD" tvg-logo="http://51.158.145.100/picons/logos/france/314251.png" group-title="FR| FRANCE HD",F3 ALSACE HD
@@ -12195,6 +12387,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=5iRgp70ZHW
 #EXTINF:-1 tvg-id="317212" tvg-name="SKY COMEDY FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/317212.png" group-title="EN| ENTERTAINMENT",SKY COMEDY FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=zlB9ofv47K
+#EXTINF:-1 tvg-id="392911" tvg-name="BBC ONE LONDON" tvg-logo="http://51.158.145.100/picons/logos/UK/392911.png" group-title="EN| GENERAL",BBC ONE LONDON
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=NuZxwt4RBD
 #EXTINF:-1 tvg-id="396314" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://103.176.90.92/images/396314.png" group-title="EN| KIDS",DISNEY CHANNEL FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=DNl6HuzLuA
 #EXTINF:-1 tvg-id="425310" tvg-name="SUPERSPORTS BLITZ HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="EN| WORLD SPORTS",SUPERSPORTS BLITZ HD
@@ -12253,6 +12447,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=WrPCP8sxkc
 #EXTINF:-1 tvg-id="45272" tvg-name="HORROR CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/UK/45272.png" group-title="EN| ENTERTAINMENT",HORROR CHANNEL
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=e0oDsYMGvY
+#EXTINF:-1 tvg-id="45275" tvg-name="FOOD NETWORK" tvg-logo="http://51.158.145.100/picons/logos/UK/45275.png" group-title="EN| GENERAL",FOOD NETWORK
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=MSly6aujWt
 #EXTINF:-1 tvg-id="45278" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://51.158.145.100/picons/logos/UK/45278.png" group-title="EN| ENTERTAINMENT",E! ENTERTAINMENT HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=dDI4HBoJCK
 #EXTINF:-1 tvg-id="45279" tvg-name="DISCOVERY TURBO" tvg-logo="http://51.158.145.100/picons/logos/UK/45279.png" group-title="EN| DOCUMENTARY",DISCOVERY TURBO
@@ -12263,6 +12459,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=wefOUpeuk5
 #EXTINF:-1 tvg-id="45285" tvg-name="COMEDY CENT XTRA+1" tvg-logo="http://51.158.145.100/picons/logos/UK/45285.png" group-title="EN| ENTERTAINMENT",COMEDY CENT XTRA+1
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=sC7rkieVzB
+#EXTINF:-1 tvg-id="45286" tvg-name="CHANNEL 5 +1" tvg-logo="http://51.158.145.100/picons/logos/UK/45286.png" group-title="EN| GENERAL",CHANNEL 5 +1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=eLuCxYCu7V
 #EXTINF:-1 tvg-id="45288" tvg-name="CBS REALITY +1" tvg-logo="http://51.158.145.100/picons/logos/UK/45288.png" group-title="EN| ENTERTAINMENT",CBS REALITY +1
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=UUvGAtpXGJ
 #EXTINF:-1 tvg-id="45289" tvg-name="TRUE CRIME HD" tvg-logo="http://51.158.145.100/picons/logos/UK/45289.png" group-title="EN| ENTERTAINMENT",TRUE CRIME HD
@@ -12279,6 +12477,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=6CdTgGIkbq
 #EXTINF:-1 tvg-id="45320" tvg-name="5 STAR" tvg-logo="http://51.158.145.100/picons/logos/UK/45320.png" group-title="EN| ENTERTAINMENT",5 STAR
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=9ou5EMBu7o
+#EXTINF:-1 tvg-id="45323" tvg-name="STV FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/45323.png" group-title="EN| GENERAL",STV FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Lbrz3Q5Bnv
 #EXTINF:-1 tvg-id="45324" tvg-name="MUTV FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="EN| SPORTS",MUTV FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=txiMZYtemn
 #EXTINF:-1 tvg-id="45325" tvg-name="MTV LIVE FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" group-title="EN| MUSIC",MTV LIVE FHD
@@ -12289,10 +12489,18 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=0HURVozXi7
 #EXTINF:-1 tvg-id="45328" tvg-name="SKY KIDS HD" tvg-logo="http://103.176.90.92/images/45328.png" group-title="EN| KIDS",SKY KIDS HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=HXoUEkh7bN
+#EXTINF:-1 tvg-id="45329" tvg-name="BBC ONE WALES HD" tvg-logo="http://51.158.145.100/picons/logos/UK/45329.png" group-title="EN| GENERAL",BBC ONE WALES HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=xpJUTuv9nQ
 #EXTINF:-1 tvg-id="45331" tvg-name="BBC NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="EN| NEWS",BBC NEWS HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=6BpLnTmQGm
+#EXTINF:-1 tvg-id="45333" tvg-name="ITV QUIZ HD" tvg-logo="http://51.158.145.100/picons/logos/UK/45333.png" group-title="EN| GENERAL",ITV QUIZ HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=vtqCoe0YzF
 #EXTINF:-1 tvg-id="45334" tvg-name="QUEST FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/45334.png" group-title="EN| ENTERTAINMENT",QUEST FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=KXdr2n1KRS
+#EXTINF:-1 tvg-id="45335" tvg-name="BBC 4 / CBEEBIES HD" tvg-logo="http://51.158.145.100/picons/logos/UK/45335.png" group-title="EN| GENERAL",BBC 4 / CBEEBIES HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=KcruoDSDf9
+#EXTINF:-1 tvg-id="45336" tvg-name="BBC 3 / CBBC HD" tvg-logo="http://51.158.145.100/picons/logos/UK/45336.png" group-title="EN| GENERAL",BBC 3 / CBBC HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=sigiuQCxyn
 #EXTINF:-1 tvg-id="459631" tvg-name="EURONEWS EN HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EURONEWS.png" group-title="EN| NEWS",EURONEWS EN HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=1bnXaVNkqw
 #EXTINF:-1 tvg-id="459632" tvg-name="CNN INTERNATIONAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CNNINTERNATIONAL.png" group-title="EN| NEWS",CNN INTERNATIONAL
@@ -13407,6 +13615,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Q7jt6c4Cb1
 #EXTINF:-1 tvg-id="667909" tvg-name="TREK FHD" tvg-logo="http://51.158.145.100/picons/logos/france/667909.png" group-title="FR| FRANCE FHD",TREK FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=mzaL919VHk
+#EXTINF:-1 tvg-id="686073" tvg-name="ITV 1 +1" tvg-logo="http://51.158.145.100/picons/logos/UK/686073.png" group-title="EN| GENERAL",ITV 1 +1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=u20FfJfRuO
 #EXTINF:-1 tvg-id="689093" tvg-name="BEIN OD ENFANTS 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",BEIN OD ENFANTS 5 FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=1gWCmIiktP
 #EXTINF:-1 tvg-id="689094" tvg-name="BEIN OD ENFANTS 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",BEIN OD ENFANTS 4 FHD
@@ -13689,6 +13899,10 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=eSWesFFx9b
 #EXTINF:-1 tvg-id="77373" tvg-name="SKY SPORTS RACING FHD" tvg-logo="http://103.176.90.92/images/77373.png" group-title="EN| SPORTS",SKY SPORTS RACING FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=AJPj9NrBdI
+#EXTINF:-1 tvg-id="79450" tvg-name="BBC 2" tvg-logo="http://51.158.145.100/picons/logos/UK/79450.png" group-title="EN| GENERAL",BBC 2
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=mhtVbmxCvp
+#EXTINF:-1 tvg-id="79460" tvg-name="BBC 4" tvg-logo="http://51.158.145.100/picons/logos/UK/79460.png" group-title="EN| GENERAL",BBC 4
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=hG1CoBkrSD
 #EXTINF:-1 tvg-id="79461" tvg-name="SKY CINEMA THRILLER" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="EN| MOVIES",SKY CINEMA THRILLER
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=99fNax916V
 #EXTINF:-1 tvg-id="79463" tvg-name="SKY CINEMA SCI-FI" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMASCIFI.png" group-title="EN| MOVIES",SKY CINEMA SCI-FI
@@ -13749,8 +13963,18 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=rEdFORljNC
 #EXTINF:-1 tvg-id="79718" tvg-name="TRAVEL CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/UK/79718.png" group-title="EN| DOCUMENTARY",TRAVEL CHANNEL
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=MR1GuMN25w
+#EXTINF:-1 tvg-id="79722" tvg-name="ITV 4" tvg-logo="http://51.158.145.100/picons/logos/UK/79722.png" group-title="EN| GENERAL",ITV 4
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=iOmltlkncJ
+#EXTINF:-1 tvg-id="79723" tvg-name="ITV 3" tvg-logo="http://51.158.145.100/picons/logos/UK/79723.png" group-title="EN| GENERAL",ITV 3
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=sjbq4yJ7ws
+#EXTINF:-1 tvg-id="79724" tvg-name="ITV 2" tvg-logo="http://51.158.145.100/picons/logos/UK/79724.png" group-title="EN| GENERAL",ITV 2
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Gl2werr21g
+#EXTINF:-1 tvg-id="79725" tvg-name="ITV 1" tvg-logo="http://51.158.145.100/picons/logos/UK/79725.png" group-title="EN| GENERAL",ITV 1
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=nkAdUm9aby
 #EXTINF:-1 tvg-id="79730" tvg-name="EDEN" tvg-logo="http://51.158.145.100/picons/logos/UK/79730.png" group-title="EN| ENTERTAINMENT",EDEN
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=E0vM0XRS0h
+#EXTINF:-1 tvg-id="79732" tvg-name="E4" tvg-logo="http://51.158.145.100/picons/logos/UK/79732.png" group-title="EN| GENERAL",E4
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=4xEa3fsiyJ
 #EXTINF:-1 tvg-id="79737" tvg-name="5ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UK/79737.png" group-title="EN| ENTERTAINMENT",5ACTION HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=lkdfTihHds
 #EXTINF:-1 tvg-id="825529" tvg-name="APPLE TV FHD" tvg-logo="http://51.158.145.100/picons/logos/PPV/PREMIURPLAY.png" group-title="FR| PREMIUM PLAY",APPLE TV FHD
@@ -13905,6 +14129,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=AT61zrzzTS
 #EXTINF:-1 tvg-id="894387" tvg-name="W! - WATCH FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/894387.png" group-title="EN| ENTERTAINMENT",W! - WATCH FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Tf8WIkBZ4X
+#EXTINF:-1 tvg-id="894388" tvg-name="SKY REPLAY" tvg-logo="http://51.158.145.100/picons/logos/UK/894388.png" group-title="EN| GENERAL",SKY REPLAY
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=fAYbpCGAZA
 #EXTINF:-1 tvg-id="894389" tvg-name="LOVE WORLD FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/894389.png" group-title="EN| ENTERTAINMENT",LOVE WORLD FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=N6mXKvZnpe
 #EXTINF:-1 tvg-id="906592" tvg-name="ENF| ENFANT 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/906592.png" group-title="FR| ENFANTS HD",ENF| ENFANT 1 FHD
@@ -13921,6 +14147,8 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=N1oIrtqKSv
 #EXTINF:-1 tvg-id="906598" tvg-name="ENF| ENFANT 7 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/906598.png" group-title="FR| ENFANTS HD",ENF| ENFANT 7 FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=FLbIBC8RGv
+#EXTINF:-1 tvg-id="90975" tvg-name="N4 ICELAND HD" tvg-logo="http://51.158.145.100/picons/logos/UK/90975.png" group-title="EN| GENERAL",N4 ICELAND HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ut5deXLpqy
 #EXTINF:-1 tvg-id="910647" tvg-name="LFC TV FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="EN| SPORTS",LFC TV FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=NHyhKp1SCV
 #EXTINF:-1 tvg-id="915235" tvg-name="M.LALIGA 3 FHD [LIVEEVENT]" tvg-logo="http://51.158.145.100/picons/logos/SPAINNEW/MLALIGA.png" group-title="ES| M+ LALIGA",M.LALIGA 3 FHD [LIVEEVENT]
@@ -13939,6 +14167,10 @@ http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extensi
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=45XCASCQl4
 #EXTINF:-1 tvg-id="918986" tvg-name="ASTRO Premier League HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="EN| WORLD SPORTS",ASTRO Premier League HD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=cyGvh2WuZd
+#EXTINF:-1 tvg-id="919226" tvg-name="TALK TV FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/919226.png" group-title="EN| GENERAL",TALK TV FHD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=ZKokzimfNs
+#EXTINF:-1 tvg-id="919227" tvg-name="TALK TV HD" tvg-logo="http://51.158.145.100/picons/logos/UK/919227.png" group-title="EN| GENERAL",TALK TV HD
+http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=Y9knSMPe61
 #EXTINF:-1 tvg-id="920270" tvg-name="ORANGE CINEMA 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/CINEPREMIUM.png" group-title="FR| CINE+ PREMIUM",ORANGE CINEMA 2 FHD
 http://vod.supremetv.live:80/play/live.php?mac=10:27:BE:38:52:FE&stream=&extension=ts&play_token=gi7METyyAj
 #EXTINF:-1 tvg-id="920271" tvg-name="OCS GO MAX 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/CINEPREMIUM.png" group-title="FR| CINE+ PREMIUM",OCS GO MAX 1 FHD
