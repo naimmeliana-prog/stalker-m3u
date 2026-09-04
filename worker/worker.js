@@ -144,6 +144,8 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
 
   let clCmd = trimmed;
   let epSeries = "";
+  let extractedStreamId = "";
+
   if (isApiLink) {
     try {
       const parsedUrl = new URL(trimmed);
@@ -155,9 +157,14 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
       if (pType && type !== "series") type = pType;
 
       if (!pCmd && (trimmed.includes("play_token=") || trimmed.includes("token="))) {
-        let pathname = parsedUrl.pathname;
-        if (pathname) {
-          clCmd = "ffmpeg " + pathname;
+        extractedStreamId = parsedUrl.searchParams.get("stream") || parsedUrl.searchParams.get("ch_id") || parsedUrl.searchParams.get("id") || "";
+        if (extractedStreamId) {
+          clCmd = "ffmpeg " + extractedStreamId;
+        } else {
+          let pathname = parsedUrl.pathname;
+          if (pathname) {
+            clCmd = "ffmpeg " + pathname;
+          }
         }
       }
     } catch (e) {}
@@ -214,36 +221,48 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   headers["Cookie"] += `; token=${token}`;
   headers["Authorization"] = `Bearer ${token}`;
 
-  if (!clCmd.startsWith("ffmpeg ") && !clCmd.startsWith("ffrt ") && !clCmd.startsWith("http://") && !clCmd.startsWith("https://")) {
-    clCmd = "ffmpeg " + clCmd;
+  let cmdList = [clCmd];
+  if (extractedStreamId) {
+    cmdList = [
+      `ffmpeg ${extractedStreamId}`,
+      `ffmpeg http://localhost/ch/${extractedStreamId}_`,
+      `ffmpeg /ch/${extractedStreamId}`,
+      clCmd
+    ];
+  } else if (!clCmd.startsWith("ffmpeg ") && !clCmd.startsWith("ffrt ") && !clCmd.startsWith("http://") && !clCmd.startsWith("https://")) {
+    cmdList = ["ffmpeg " + clCmd];
   }
 
   const typesToTry = type === "series" ? ["series", "vod"] : [type, "vod", "itv"];
   let rawUrl = "";
-  for (const t of typesToTry) {
-    const p = {
-      type: t,
-      action: "create_link",
-      cmd: clCmd,
-      JsHttpRequest: "1-xml"
-    };
-    if (epSeries) {
-      p.series = epSeries;
-    }
-    const clParams = new URLSearchParams(p);
-    const clUrl = `${cleanBase}${activeEntry}?${clParams.toString()}`;
-    try {
-      const res = await fetch(clUrl, { headers });
-      if (res.ok) {
-        const body = await res.json();
-        const js = body.js || body;
-        const u = js.cmd || body.cmd || "";
-        if (u) {
-          rawUrl = u;
-          break;
-        }
+
+  for (const cmdItem of cmdList) {
+    for (const t of typesToTry) {
+      const p = {
+        type: t,
+        action: "create_link",
+        cmd: cmdItem,
+        JsHttpRequest: "1-xml"
+      };
+      if (epSeries) {
+        p.series = epSeries;
       }
-    } catch (e) {}
+      const clParams = new URLSearchParams(p);
+      const clUrl = `${cleanBase}${activeEntry}?${clParams.toString()}`;
+      try {
+        const res = await fetch(clUrl, { headers });
+        if (res.ok) {
+          const body = await res.json();
+          const js = body.js || body;
+          const u = js.cmd || body.cmd || "";
+          if (u) {
+            rawUrl = u;
+            break;
+          }
+        }
+      } catch (e) {}
+    }
+    if (rawUrl) break;
   }
 
   if (!rawUrl) {
