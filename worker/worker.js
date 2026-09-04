@@ -125,7 +125,7 @@ const STALKER_TOKENS = {};
 async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   if (!rawCmd) return "";
   const trimmed = rawCmd.trim();
-  const isApiLink = trimmed.includes("action=create_link") || trimmed.includes("load.php") || trimmed.includes("portal.php");
+  const isApiLink = trimmed.includes("action=create_link") || trimmed.includes("load.php") || trimmed.includes("portal.php") || trimmed.includes("play_token=") || trimmed.includes("token=");
   if (!isApiLink && (trimmed.startsWith("http://") || trimmed.startsWith("https://")) && !trimmed.includes("localhost") && !trimmed.includes("127.0.0.1")) {
     return trimmed;
   }
