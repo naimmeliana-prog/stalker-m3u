@@ -125,8 +125,23 @@ const STALKER_TOKENS = {};
 async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   if (!rawCmd) return "";
   const trimmed = rawCmd.trim();
-  if ((trimmed.startsWith("http://") || trimmed.startsWith("https://")) && !trimmed.includes("localhost") && !trimmed.includes("127.0.0.1")) {
+  const isApiLink = trimmed.includes("action=create_link") || trimmed.includes("load.php") || trimmed.includes("portal.php");
+  if (!isApiLink && (trimmed.startsWith("http://") || trimmed.startsWith("https://")) && !trimmed.includes("localhost") && !trimmed.includes("127.0.0.1")) {
     return trimmed;
+  }
+
+  let clCmd = trimmed;
+  let epSeries = "";
+  if (isApiLink) {
+    try {
+      const parsedUrl = new URL(trimmed);
+      const pCmd = parsedUrl.searchParams.get("cmd");
+      const pSeries = parsedUrl.searchParams.get("series");
+      const pType = parsedUrl.searchParams.get("type");
+      if (pCmd) clCmd = pCmd;
+      if (pSeries) epSeries = pSeries;
+      if (pType && type !== "series") type = pType;
+    } catch (e) {}
   }
 
   const headers = {
@@ -176,20 +191,23 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   headers["Cookie"] += `; token=${token}`;
   headers["Authorization"] = `Bearer ${token}`;
 
-  let clCmd = trimmed;
-  if (!clCmd.startsWith("ffmpeg ") && !clCmd.startsWith("ffrt ")) {
+  if (!clCmd.startsWith("ffmpeg ") && !clCmd.startsWith("ffrt ") && !clCmd.startsWith("http://") && !clCmd.startsWith("https://")) {
     clCmd = "ffmpeg " + clCmd;
   }
 
-  const typesToTry = type === "series" ? ["series", "vod"] : [type];
+  const typesToTry = type === "series" ? ["series", "vod"] : [type, "vod", "itv"];
   let rawUrl = "";
   for (const t of typesToTry) {
-    const clParams = new URLSearchParams({
+    const p = {
       type: t,
       action: "create_link",
       cmd: clCmd,
       JsHttpRequest: "1-xml"
-    });
+    };
+    if (epSeries) {
+      p.series = epSeries;
+    }
+    const clParams = new URLSearchParams(p);
     const clUrl = `${portalUrl.replace(/\/$/, "")}${activeEntry}?${clParams.toString()}`;
     try {
       const res = await fetch(clUrl, { headers });
