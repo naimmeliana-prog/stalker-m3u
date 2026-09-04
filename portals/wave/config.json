@@ -1,6 +1,6 @@
 {
-    "portal": "http://wave-tv.nz/c",
-    "mac": "00:1A:79:FB:1B:8A",
+    "portal": "http://vod.supremetv.live:80/c/",
+    "mac": "10:27:BE:38:52:FE",
     "categories": [],
     "remove_categories": [],
     "out": "series.m3u",
