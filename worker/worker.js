@@ -242,7 +242,12 @@ async function handleApi(params, host, dataBase) {
     return json(await fetchData(dataBase + "series_categories.json"));
   }
   if (action === "get_series") {
-    return json(await fetchData(dataBase + "series.json"));
+    const list = await fetchData(dataBase + "series.json");
+    const catId = params.get("category_id");
+    if (catId && Array.isArray(list)) {
+      return json(list.filter((s) => String(s.category_id) === String(catId)));
+    }
+    return json(list);
   }
   if (action === "get_series_info") {
     const sid = params.get("series_id") || "";
@@ -259,13 +264,23 @@ async function handleApi(params, host, dataBase) {
     return json(await fetchData(dataBase + "live_categories.json"));
   }
   if (action === "get_live_streams") {
-    return json(await fetchData(dataBase + "live_streams.json"));
+    const list = await fetchData(dataBase + "live_streams.json");
+    const catId = params.get("category_id");
+    if (catId && Array.isArray(list)) {
+      return json(list.filter((l) => String(l.category_id) === String(catId)));
+    }
+    return json(list);
   }
   if (action === "get_vod_categories") {
     return json(await fetchData(dataBase + "vod_categories.json"));
   }
   if (action === "get_vod_streams") {
-    return json(await fetchData(dataBase + "vod_streams.json"));
+    const list = await fetchData(dataBase + "vod_streams.json");
+    const catId = params.get("category_id");
+    if (catId && Array.isArray(list)) {
+      return json(list.filter((v) => String(v.category_id) === String(catId)));
+    }
+    return json(list);
   }
   if (
     action === "get_short_epg" ||

@@ -492,9 +492,20 @@ def _collect_xtream(xinfo, xt_series, streams, xt_dir):
     sid = str(xinfo["series_id"])
     xt_series.append(
         {
-            "series_id": sid,
+            "num": len(xt_series) + 1,
             "name": str(xinfo.get("name") or ""),
+            "series_id": sid,
             "cover": str(xinfo.get("cover") or ""),
+            "plot": "",
+            "cast": "",
+            "director": "",
+            "genre": "",
+            "releaseDate": "",
+            "last_modified": "2026-01-01 00:00:00",
+            "rating": "0",
+            "rating_5based": 0.0,
+            "backdrop_path": [],
+            "youtube_trailer": "",
             "category_id": str(xinfo.get("category_id") or ""),
         }
     )
@@ -510,6 +521,16 @@ def _collect_xtream(xinfo, xt_series, streams, xt_dir):
         "info": {
             "name": str(xinfo.get("name") or ""),
             "cover": str(xinfo.get("cover") or ""),
+            "plot": "",
+            "cast": "",
+            "director": "",
+            "genre": "",
+            "releaseDate": "",
+            "last_modified": "2026-01-01 00:00:00",
+            "rating": "0",
+            "rating_5based": 0.0,
+            "backdrop_path": [],
+            "youtube_trailer": "",
             "category_id": str(xinfo.get("category_id") or ""),
         },
     }
