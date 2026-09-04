@@ -153,6 +153,13 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
       if (pCmd) clCmd = pCmd;
       if (pSeries) epSeries = pSeries;
       if (pType && type !== "series") type = pType;
+
+      if (!pCmd && (trimmed.includes("play_token=") || trimmed.includes("token="))) {
+        let pathname = parsedUrl.pathname;
+        if (pathname) {
+          clCmd = "ffmpeg " + pathname;
+        }
+      }
     } catch (e) {}
   }
 
@@ -201,7 +208,7 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   }
 
   if (!token) {
-    throw new Error("Handshake failed for " + portalUrl);
+    return trimmed;
   }
 
   headers["Cookie"] += `; token=${token}`;
@@ -240,12 +247,12 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   }
 
   if (!rawUrl) {
-    throw new Error("No URL returned from create_link");
+    return trimmed;
   }
 
   let cleanUrl = rawUrl.replace(/^(ffmpeg|ffrt)\s+/i, "").trim();
   cleanUrl = cleanUrl.replace(/^\d+:\d+\s+/, "").trim();
-  return cleanUrl;
+  return cleanUrl || trimmed;
 }
 
 
@@ -255,15 +262,23 @@ async function handleApi(params, host, dataBase) {
     return json({ user_info: AUTH_USER, server_info: serverInfo(host) });
   }
   if (action === "get_series_categories") {
-    return json(await fetchData(dataBase + "series_categories.json"));
+    try {
+      return json(await fetchData(dataBase + "series_categories.json"));
+    } catch (e) {
+      return json([]);
+    }
   }
   if (action === "get_series") {
-    const list = await fetchData(dataBase + "series.json");
-    const catId = params.get("category_id");
-    if (catId && Array.isArray(list)) {
-      return json(list.filter((s) => String(s.category_id) === String(catId)));
+    try {
+      const list = await fetchData(dataBase + "series.json");
+      const catId = params.get("category_id");
+      if (catId && Array.isArray(list)) {
+        return json(list.filter((s) => String(s.category_id) === String(catId)));
+      }
+      return json(list);
+    } catch (e) {
+      return json([]);
     }
-    return json(list);
   }
   if (action === "get_series_info") {
     const sid = params.get("series_id") || "";
@@ -277,26 +292,42 @@ async function handleApi(params, host, dataBase) {
     }
   }
   if (action === "get_live_categories") {
-    return json(await fetchData(dataBase + "live_categories.json"));
+    try {
+      return json(await fetchData(dataBase + "live_categories.json"));
+    } catch (e) {
+      return json([]);
+    }
   }
   if (action === "get_live_streams") {
-    const list = await fetchData(dataBase + "live_streams.json");
-    const catId = params.get("category_id");
-    if (catId && Array.isArray(list)) {
-      return json(list.filter((l) => String(l.category_id) === String(catId)));
+    try {
+      const list = await fetchData(dataBase + "live_streams.json");
+      const catId = params.get("category_id");
+      if (catId && Array.isArray(list)) {
+        return json(list.filter((l) => String(l.category_id) === String(catId)));
+      }
+      return json(list);
+    } catch (e) {
+      return json([]);
     }
-    return json(list);
   }
   if (action === "get_vod_categories") {
-    return json(await fetchData(dataBase + "vod_categories.json"));
+    try {
+      return json(await fetchData(dataBase + "vod_categories.json"));
+    } catch (e) {
+      return json([]);
+    }
   }
   if (action === "get_vod_streams") {
-    const list = await fetchData(dataBase + "vod_streams.json");
-    const catId = params.get("category_id");
-    if (catId && Array.isArray(list)) {
-      return json(list.filter((v) => String(v.category_id) === String(catId)));
+    try {
+      const list = await fetchData(dataBase + "vod_streams.json");
+      const catId = params.get("category_id");
+      if (catId && Array.isArray(list)) {
+        return json(list.filter((v) => String(v.category_id) === String(catId)));
+      }
+      return json(list);
+    } catch (e) {
+      return json([]);
     }
-    return json(list);
   }
   if (
     action === "get_short_epg" ||
@@ -404,14 +435,18 @@ export default {
     }
 
 
-    if (parts.length >= 4 && (parts[0] === "live" || parts[0] === "movie" || parts[0] === "series")) {
-      const sid = decodeURIComponent(parts[3]).replace(/\.\w+$/, "");
+    if (parts.length >= 3 && (parts[0] === "live" || parts[0] === "movie" || parts[0] === "series")) {
+      const sid = decodeURIComponent(parts[parts.length - 1]).replace(/\.\w+$/, "");
       let mapFile = "live_urls.json";
       if (parts[0] === "movie") mapFile = "vod_urls.json";
       if (parts[0] === "series") mapFile = "streams.json";
 
-      const urls = await fetchData(dataBase + mapFile, 600);
-      const target = urls[sid];
+      let target = "";
+      try {
+        const urls = await fetchData(dataBase + mapFile, 600);
+        target = urls[sid] || "";
+      } catch (e) {}
+
       if (!target) {
         return corsJson({}, 404);
       }
@@ -419,6 +454,7 @@ export default {
       let finalTarget = target;
       let portal = "";
       let mac = "";
+
       try {
         const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
         const configRes = await fetch(configUrl);
@@ -428,6 +464,23 @@ export default {
           mac = config.mac || "";
         }
       } catch (e) {}
+
+      if (!portal || !mac) {
+        try {
+          const mapUrl = dataBase.replace(/\/xtream\/?$/, "/portal_map.json");
+          const pMap = await fetchData(mapUrl, 600);
+          const pName = pMap[sid];
+          if (pName) {
+            const root = dataBase.replace(/\/xtream\/?$/, "/");
+            const pCfgRes = await fetch(root + "portals/" + pName + "/config.json");
+            if (pCfgRes.ok) {
+              const pCfg = await pCfgRes.json();
+              portal = pCfg.portal || "";
+              mac = pCfg.mac || "";
+            }
+          }
+        } catch (e) {}
+      }
 
       if ((!portal || !mac) && target && target.startsWith("http")) {
         try {
@@ -476,87 +529,7 @@ export default {
       return redirectCors(finalTarget);
     }
 
-    if (parts.length === 3) {
-      const sid = decodeURIComponent(parts[2]).replace(/\.\w+$/, "");
-
-      // 1. Check live_urls.json
-      const live = await fetchData(dataBase + "live_urls.json", 600);
-      if (live[sid]) {
-        let fallbackTarget = live[sid];
-        let portal = "";
-        let mac = "";
-        try {
-          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-          const configRes = await fetch(configUrl);
-          if (configRes.ok) {
-            const config = await configRes.json();
-            portal = config.portal || "";
-            mac = config.mac || "";
-            if (config.portal && config.mac) {
-              const fresh = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "itv");
-              if (fresh) fallbackTarget = fresh;
-            }
-          }
-        } catch (e) {}
-        if (env && env.PROXY_STREAM === "on") {
-          return withCors(await streamProxy(fallbackTarget, request, portal, mac));
-        }
-        return redirectCors(fallbackTarget);
-      }
-
-      // 2. Check vod_urls.json
-      const vod = await fetchData(dataBase + "vod_urls.json", 600);
-      if (vod[sid]) {
-        let fallbackTarget = vod[sid];
-        let portal = "";
-        let mac = "";
-        try {
-          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-          const configRes = await fetch(configUrl);
-          if (configRes.ok) {
-            const config = await configRes.json();
-            portal = config.portal || "";
-            mac = config.mac || "";
-            if (config.portal && config.mac) {
-              const fresh = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "vod");
-              if (fresh) fallbackTarget = fresh;
-            }
-          }
-        } catch (e) {}
-        if (env && env.PROXY_STREAM === "on") {
-          return withCors(await streamProxy(fallbackTarget, request, portal, mac));
-        }
-        return redirectCors(fallbackTarget);
-      }
-
-      // 3. Check streams.json (Xtream Series)
-      const streams = await fetchData(dataBase + "streams.json", 600);
-      if (streams[sid]) {
-        let fallbackTarget = streams[sid];
-        let portal = "";
-        let mac = "";
-        try {
-          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-          const configRes = await fetch(configUrl);
-          if (configRes.ok) {
-            const config = await configRes.json();
-            portal = config.portal || "";
-            mac = config.mac || "";
-            if (config.portal && config.mac) {
-              const fresh = await resolveStalkerLink(config.portal, config.mac, fallbackTarget, "series");
-              if (fresh) fallbackTarget = fresh;
-            }
-          }
-        } catch (e) {}
-        if (env && env.PROXY_STREAM === "on") {
-          return withCors(await streamProxy(fallbackTarget, request, portal, mac));
-        }
-        return redirectCors(fallbackTarget);
-      }
-
-      return corsJson({}, 404);
-    }
-
     return corsJson({}, 404);
   },
 };
+
