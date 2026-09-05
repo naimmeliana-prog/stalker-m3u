@@ -304,6 +304,9 @@ def make_entry(ch, group):
 
 def main(argv=None):
     cfg_all = load_config()
+    if cfg_all.get("paused"):
+        print("[+] Portal pausado. Omitiendo ITV...")
+        return 0
     cfg = cfg_all.get("itv") or {}
     mac = cfg_all.get("mac") or os.environ.get("MAG_MAC")
     if not mac:

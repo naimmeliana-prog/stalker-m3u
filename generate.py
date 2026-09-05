@@ -64,6 +64,9 @@ def _build_args(cfg):
 
 if __name__ == "__main__":
     config = _load_config()
+    if config.get("paused"):
+        print("[+] Portal pausado. Omitiendo...")
+        sys.exit(0)
     argv = _build_args(config)
     if argv is None:
         raise SystemExit(1)

@@ -20,7 +20,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        portal: [backup, devtv, greatott, ipfr, oktay, sny57, tfx1, tvmoderne, wave]
+        portal: [backup, greatott, ipfr]
     steps:
       - uses: actions/checkout@v4
 

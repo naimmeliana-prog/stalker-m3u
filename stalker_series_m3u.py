@@ -620,6 +620,14 @@ def _run(args):
         "IRELAND", "IRLANDA", "IRISH", "SCOTLAND", "ESCOCIA", "SCOTTISH",
         "CARIBE", "CARIBEAN", "CARIBBEAN"
     }
+    banned_series_cats = [
+        "TELENOVELA", "TELENOVELAS",
+        "TELEREALITE", "TEJEREANITE", "REALITE",
+        "DOCUMENTAIRE", "DOCUMENTAL", "DOCUMENTARY",
+        "STANDUP", "STAND-UP", "STAND UP",
+        "ANCIENNE", "ANCIENNES",
+        "4K", "UHD"
+    ]
     filtered_cat_ids = []
     for cat in categories:
         title = str(cat.get("title") or "")
@@ -627,13 +635,15 @@ def _run(args):
         title_lower = title.lower().strip()
         if cid in ["*", "all", "0"] or title_lower in ["all", "todos", "all series", "todas las series", "tous"]:
             continue
-        if any(r in _norm(title) for r in banned_regions):
+        norm_t = _norm(title)
+        if any(r in norm_t for r in banned_regions):
+            continue
+        if any(b in norm_t for b in banned_series_cats):
             continue
         lp = _title_lang(title)
         if lp not in ["ES", "FR", "UK"]:
             continue
         if lp == "UK":
-            norm_t = _norm(title)
             if "ANIME" not in norm_t and "MANGA" not in norm_t:
                 continue
         if cid:
@@ -683,6 +693,16 @@ def _run(args):
         for s in fetched:
             sid = str(s.get("id") or "").split(":")[0]
             if sid and sid not in seen_ids:
+                s_name = str(s.get("name") or "")
+                norm_sn = _norm(s_name)
+                if any(b in norm_sn for b in banned_series_cats):
+                    continue
+                s_lp = _title_lang(s_name)
+                if s_lp and s_lp not in ["ES", "FR", "UK"]:
+                    continue
+                if s_lp == "UK":
+                    if "ANIME" not in norm_sn and "MANGA" not in norm_sn:
+                        continue
                 seen_ids.add(sid)
                 series_list.append(s)
     if args.lang:

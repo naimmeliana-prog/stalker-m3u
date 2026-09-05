@@ -255,6 +255,9 @@ def make_entry(movie, url, group):
 
 def main(argv=None):
     cfg_all = load_config()
+    if cfg_all.get("paused"):
+        print("[+] Portal pausado. Omitiendo VOD...")
+        return 0
     cfg = cfg_all.get("vod") or {}
     mac = cfg_all.get("mac") or os.environ.get("MAG_MAC")
     if not mac:

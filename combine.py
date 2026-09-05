@@ -155,6 +155,17 @@ def load_config():
     return {}
 
 
+def _is_portal_paused(p_dir):
+    cfg_file = os.path.join(p_dir, "config.json")
+    if os.path.exists(cfg_file):
+        try:
+            with open(cfg_file, "r", encoding="utf-8") as fh:
+                return bool(json.load(fh).get("paused"))
+        except Exception:
+            pass
+    return False
+
+
 def combine_xtream_series(root_xtream_dir, portals_dir):
     os.makedirs(os.path.join(root_xtream_dir, "series"), exist_ok=True)
     all_cats = []
@@ -167,7 +178,7 @@ def combine_xtream_series(root_xtream_dir, portals_dir):
         for p_name in sorted(os.listdir(portals_dir)):
             p_dir = os.path.join(portals_dir, p_name)
             p_xtream = os.path.join(p_dir, "xtream")
-            if not os.path.isdir(p_xtream):
+            if not os.path.isdir(p_xtream) or _is_portal_paused(p_dir):
                 continue
 
             # 1. Categories
@@ -243,7 +254,7 @@ def combine_xtream_live_vod(root_xtream_dir, portals_dir):
         for p_name in sorted(os.listdir(portals_dir)):
             p_dir = os.path.join(portals_dir, p_name)
             p_xtream = os.path.join(p_dir, "xtream")
-            if not os.path.isdir(p_xtream):
+            if not os.path.isdir(p_xtream) or _is_portal_paused(p_dir):
                 continue
 
             # Categories
@@ -297,7 +308,7 @@ def build_portal_map(root_xtream_dir, portals_dir):
         for p_name in sorted(os.listdir(portals_dir)):
             p_dir = os.path.join(portals_dir, p_name)
             p_xtream = os.path.join(p_dir, "xtream")
-            if not os.path.isdir(p_xtream):
+            if not os.path.isdir(p_xtream) or _is_portal_paused(p_dir):
                 continue
             for map_name in ("live_urls.json", "vod_urls.json", "streams.json"):
                 path = os.path.join(p_xtream, map_name)
