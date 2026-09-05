@@ -579,6 +579,7 @@ def main(argv=None):
     parser.add_argument("--category", nargs="*", help="Filtrar por IDs de categoria de series (p.ej. 949 1006; omitir para todas)")
     parser.add_argument("--remove-cats", nargs="*", help="Nombres de categorias a excluir (coincidencia por nombre, todas las lenguas)")
     parser.add_argument("--search", help="Solo series cuyo nombre contenga este texto (sin distinguir mayusculas)")
+    parser.add_argument("--languages", nargs="*", default=["ES", "UK"], help="Idiomas permitidos para series (p.ej. ES UK)")
     parser.add_argument("--lang", help="Solo series de este idioma, p.ej. espanol, latino, castellano, ingles (busca en language/genres_str/nombre)")
     parser.add_argument("--no-resolve", action="store_true", help="No resolver URLs; emitir el comando create_link")
     parser.add_argument("--group", choices=("series", "single"), default="series",
@@ -640,8 +641,9 @@ def _run(args):
             continue
         if any(b in norm_t for b in banned_series_cats):
             continue
+        allowed_langs = [l.upper() for l in (args.languages or ["ES", "UK"])]
         lp = _title_lang(title)
-        if lp not in ["ES", "FR", "UK"]:
+        if lp not in allowed_langs:
             continue
         if lp == "UK":
             if "ANIME" not in norm_t and "MANGA" not in norm_t:
@@ -698,7 +700,7 @@ def _run(args):
                 if any(b in norm_sn for b in banned_series_cats):
                     continue
                 s_lp = _title_lang(s_name)
-                if s_lp and s_lp not in ["ES", "FR", "UK"]:
+                if s_lp and s_lp not in allowed_langs:
                     continue
                 if s_lp == "UK":
                     if "ANIME" not in norm_sn and "MANGA" not in norm_sn:

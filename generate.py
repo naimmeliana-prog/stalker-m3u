@@ -45,6 +45,8 @@ def _build_args(cfg):
         args += ["--remove-cats"] + [str(n) for n in rc]
     if cfg.get("search"):
         args += ["--search", cfg["search"]]
+    langs = cfg.get("series_languages") or cfg.get("languages") or ["ES", "UK"]
+    args += ["--languages"] + [str(l) for l in langs]
     if cfg.get("no_verify"):
         args += ["--no-verify"]
     if cfg.get("group"):
