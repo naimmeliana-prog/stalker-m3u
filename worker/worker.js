@@ -433,65 +433,8 @@ export default {
         if (!m3uRes.ok) {
           return corsJson({}, 404);
         }
-        const text = await m3uRes.text();
-        const lines = text.split("\n");
-        const host = url.host;
-        const protocol = url.protocol || "https:";
-        const user = username || "test";
-        const pass = url.searchParams.get("password") || "test1";
-
-        let currentId = "";
-        let currentGroup = "";
-        let currentType = "live";
-        let currentExt = "ts";
-
-        const outLines = [];
-        for (let i = 0; i < lines.length; i++) {
-          const line = lines[i].trim();
-          if (!line) continue;
-
-          if (line.startsWith("#EXTINF:")) {
-            outLines.push(line);
-            const idMatch = line.match(/tvg-id="([^"]+)"/);
-            currentId = idMatch ? idMatch[1] : "";
-
-            const groupMatch = line.match(/group-title="([^"]+)"/);
-            currentGroup = groupMatch ? groupMatch[1].toUpperCase() : "";
-
-            if (currentGroup.includes("SERIES") || currentGroup.includes("TEMPORADA") || (line.includes(" - S") && line.includes("E"))) {
-              currentType = "series";
-              currentExt = "mkv";
-            } else if (currentGroup.includes("VOD") || currentGroup.includes("PELICULAS") || currentGroup.includes("CINEMA") || currentGroup.includes("FILM") || currentGroup.includes("MOVIES")) {
-              currentType = "movie";
-              currentExt = "mp4";
-            } else {
-              currentType = "live";
-              currentExt = "ts";
-            }
-          } else if (line.startsWith("#")) {
-            outLines.push(line);
-          } else {
-            let sid = currentId;
-            if (!sid) {
-              const streamM = line.match(/[?&]stream=([a-zA-Z0-9_-]+)/);
-              if (streamM) {
-                sid = streamM[1];
-              } else {
-                const urlParts = line.split("?")[0].split("/");
-                sid = urlParts[urlParts.length - 1].replace(/\.\w+$/, "");
-              }
-            }
-            if (sid && sid !== "0") {
-              const workerStreamUrl = `${protocol}//${host}/${currentType}/${user}/${pass}/${sid}.${currentExt}`;
-              outLines.push(workerStreamUrl);
-            } else {
-              outLines.push(line);
-            }
-          }
-        }
-
         return withCors(
-          new Response(outLines.join("\n"), {
+          new Response(m3uRes.body, {
             headers: {
               "Content-Type": "audio/x-mpegurl; charset=utf-8",
               "Content-Disposition": 'attachment; filename="playlist.m3u"',

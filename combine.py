@@ -272,6 +272,43 @@ def build_xtream(xtream_dir, itv_path, vod_path):
         print("  %s: %d canales/peliculas (%d categorias)" % (src, len(entries), len(cats)))
 
 
+DEFAULT_WORKER_HOST = os.environ.get("WORKER_HOST") or "https://stalker-xtream.naimmeliana.workers.dev"
+
+
+def _rewrite_m3u_section(path, kind, worker_host=DEFAULT_WORKER_HOST, username="test", password="test1"):
+    lines = _lines(path)
+    out = []
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if ln.startswith("#EXTINF:"):
+            out.append(ln)
+            m = EXTINF_RE.match(ln)
+            attrs = dict(ATTR_RE.findall(m.group(1))) if m else {}
+            sid = attrs.get("tvg-id", "")
+            raw_url = lines[i + 1] if i + 1 < len(lines) else ""
+            if not sid and raw_url:
+                stream_m = re.search(r'[?&]stream=([a-zA-Z0-9_-]+)', raw_url)
+                if stream_m:
+                    sid = stream_m.group(1)
+                else:
+                    base = raw_url.split("?")[0].rstrip("/").split("/")[-1]
+                    sid = re.sub(r'\.\w+$', '', base)
+            ext = "ts" if kind == "live" else ("mp4" if kind == "movie" else "mkv")
+            if sid and sid != "0":
+                worker_url = f"{worker_host}/{kind}/{username}/{password}/{sid}.{ext}"
+                out.append(worker_url)
+            else:
+                out.append(raw_url)
+            i += 2
+        elif ln.startswith("#"):
+            out.append(ln)
+            i += 1
+        else:
+            i += 1
+    return out
+
+
 def combine(out="global.m3u"):
     cfg = load_config()
     config_dir = os.path.dirname(os.path.abspath(os.environ.get("PORTAL_CONFIG_PATH") or "config.json"))
@@ -287,20 +324,26 @@ def combine(out="global.m3u"):
     out_path = resolve_path(out)
     portals_dir = resolve_path("portals")
 
-    sections = [series_path, vod_path, itv_path]
+    p_name = os.path.basename(config_dir) if os.path.basename(config_dir) != os.path.basename(os.getcwd()) else "test"
+
+    sections = [
+        (series_path, "series"),
+        (vod_path, "movie"),
+        (itv_path, "live")
+    ]
     tmp = out_path + ".tmp"
     counts = {}
 
     with open(tmp, "w", encoding="utf-8", newline="\n") as fh:
         fh.write("#EXTM3U\n")
-        for sec in sections:
-            lines = _lines(sec)
-            counts[sec] = len(lines)
-            for ln in lines:
+        for sec, kind in sections:
+            written_lines = _rewrite_m3u_section(sec, kind, DEFAULT_WORKER_HOST, p_name, "test1")
+            counts[sec] = len(written_lines)
+            for ln in written_lines:
                 fh.write(ln + "\n")
     os.replace(tmp, out_path)
-    for sec in sections:
-        print("  %s: %d lineas" % (sec, counts.get(sec, 0)))
+    for sec, kind in sections:
+        print("  %s (%s): %d lineas" % (sec, kind, counts.get(sec, 0)))
     print("[+] Combinado en %s" % out_path)
     build_xtream(xtream_dir, itv_path, vod_path)
     combine_xtream_series(xtream_dir, portals_dir)
