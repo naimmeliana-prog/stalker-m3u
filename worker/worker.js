@@ -609,10 +609,6 @@ export default {
         return corsJson({}, 404);
       }
 
-      if (parts[0] === "live") {
-        return withCors(await streamProxy(finalTarget, request, portal, mac));
-      }
-
       if (env && env.PROXY_STREAM === "on") {
         return withCors(await streamProxy(finalTarget, request, portal, mac));
       }
