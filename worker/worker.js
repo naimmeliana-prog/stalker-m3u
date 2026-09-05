@@ -552,10 +552,7 @@ export default {
         return corsJson({}, 404);
       }
 
-      if (env && env.PROXY_STREAM === "off" && !finalTarget.includes("token=")) {
-        return redirectCors(finalTarget);
-      }
-      return withCors(await streamProxy(finalTarget, request, portal, mac));
+      return redirectCors(finalTarget);
     }
 
     return corsJson({}, 404);
