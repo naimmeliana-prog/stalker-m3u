@@ -137,16 +137,12 @@ const STALKER_TOKENS = {};
 async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   if (!rawCmd) return "";
   const trimmed = rawCmd.trim();
-  const isApiLink = trimmed.includes("action=create_link") || trimmed.includes("load.php") || trimmed.includes("portal.php") || trimmed.includes("play_token=") || trimmed.includes("token=");
-  if (!isApiLink && (trimmed.startsWith("http://") || trimmed.startsWith("https://")) && !trimmed.includes("localhost") && !trimmed.includes("127.0.0.1")) {
-    return trimmed;
-  }
 
   let clCmd = trimmed;
   let epSeries = "";
   let extractedStreamId = "";
 
-  if (isApiLink) {
+  if (trimmed.startsWith("http://") || trimmed.startsWith("https://")) {
     try {
       const parsedUrl = new URL(trimmed);
       const pCmd = parsedUrl.searchParams.get("cmd");
@@ -156,18 +152,19 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
       if (pSeries) epSeries = pSeries;
       if (pType && type !== "series") type = pType;
 
-      if (!pCmd && (trimmed.includes("play_token=") || trimmed.includes("token="))) {
-        extractedStreamId = parsedUrl.searchParams.get("stream") || parsedUrl.searchParams.get("ch_id") || parsedUrl.searchParams.get("id") || "";
-        if (extractedStreamId) {
-          clCmd = "ffmpeg " + extractedStreamId;
-        } else {
-          let pathname = parsedUrl.pathname;
-          if (pathname) {
-            clCmd = "ffmpeg " + pathname;
-          }
-        }
+      extractedStreamId = parsedUrl.searchParams.get("stream") || 
+                          parsedUrl.searchParams.get("ch_id") || 
+                          parsedUrl.searchParams.get("id") || "";
+      if (!extractedStreamId) {
+        const m = parsedUrl.pathname.match(/(?:ch\/|stream=|\/live\/|\/movie\/|\/series\/|^\s*)(\d+)/i) || 
+                  parsedUrl.pathname.match(/(\d+)/);
+        if (m) extractedStreamId = m[1];
       }
     } catch (e) {}
+  } else {
+    const m = trimmed.match(/(?:ch\/|stream=|\/live\/|\/movie\/|\/series\/|^\s*|ffmpeg\s+|ffrt\s+)(\d+)/i) || 
+              trimmed.match(/(\d+)/);
+    if (m) extractedStreamId = m[1];
   }
 
   const headers = {
@@ -183,7 +180,7 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
 
   const cleanBase = portalUrl.replace(/\/(c|server|portal\.php|stalker_portal).*$/i, "").replace(/\/$/, "");
 
-  if (cached && (Date.now() - cached.ts < 3600 * 1000)) {
+  if (cached && (Date.now() - cached.ts < 1800 * 1000)) {
     token = cached.token;
     activeEntry = cached.entry;
   } else {
@@ -221,16 +218,19 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
   headers["Cookie"] += `; token=${token}`;
   headers["Authorization"] = `Bearer ${token}`;
 
-  let cmdList = [clCmd];
+  let cmdList = [];
   if (extractedStreamId) {
-    cmdList = [
-      `ffmpeg ${extractedStreamId}`,
-      `ffmpeg http://localhost/ch/${extractedStreamId}_`,
-      `ffmpeg /ch/${extractedStreamId}`,
-      clCmd
-    ];
-  } else if (!clCmd.startsWith("ffmpeg ") && !clCmd.startsWith("ffrt ") && !clCmd.startsWith("http://") && !clCmd.startsWith("https://")) {
-    cmdList = ["ffmpeg " + clCmd];
+    cmdList.push(`ffmpeg http://localhost/ch/${extractedStreamId}`);
+    cmdList.push(`ffmpeg /ch/${extractedStreamId}`);
+    cmdList.push(`ffmpeg http://localhost/ch/${extractedStreamId}_`);
+    cmdList.push(`ffmpeg ${extractedStreamId}`);
+    cmdList.push(`ffrt http://localhost/ch/${extractedStreamId}`);
+  }
+  if (!cmdList.includes(clCmd)) {
+    cmdList.push(clCmd);
+  }
+  if (!clCmd.startsWith("ffmpeg ") && !clCmd.startsWith("ffrt ") && !clCmd.startsWith("http://") && !clCmd.startsWith("https://")) {
+    cmdList.push("ffmpeg " + clCmd);
   }
 
   const typesToTry = type === "series" ? ["series", "vod"] : [type, "vod", "itv"];
@@ -552,10 +552,10 @@ export default {
         return corsJson({}, 404);
       }
 
-      if (env && env.PROXY_STREAM === "on") {
-        return withCors(await streamProxy(finalTarget, request, portal, mac));
+      if (env && env.PROXY_STREAM === "off" && !finalTarget.includes("token=")) {
+        return redirectCors(finalTarget);
       }
-      return redirectCors(finalTarget);
+      return withCors(await streamProxy(finalTarget, request, portal, mac));
     }
 
     return corsJson({}, 404);

@@ -24,11 +24,12 @@
         "push_interval": 300,
         "threads": 16,
         "timeout": 15,
-        "languages": ["ES", "FR", "UK"],
-        "exclude": ["LATINO", "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE"],
+        "languages": ["ES", "FR"],
+        "exclude": ["UK", "EN", "ENGLISH", "LATINO", "SPORT", "TELENOVELA", "DOCUMENTAL", "DOCUMENTAIRE"],
         "remove_fr": ["PRIME +", "NETFLIX", "DE NOËL", "FILMOGRAPHIE LOUIS DE FUNES", "CHUCK NORRIS"]
     },
     "itv": {
+        "resolve": false,
         "out": "itv.m3u",
         "checkpoint": "itv_checkpoint.json.gz",
         "progress": "progress_itv.log",
@@ -37,7 +38,7 @@
         "timeout": 15,
         "es": "all",
         "fr": "no_sport",
-        "uk": ["GENERAL", "DOCUMENTARY", "NEWS"],
+        "uk": ["DOCUMENTARY"],
         "ir": "none",
         "remove": [
             "CARIBEAN",

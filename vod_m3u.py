@@ -158,7 +158,7 @@ def select_categories(cats, languages, exclude, remove_fr=None):
         if any(r in _norm(title) for r in needles):
             continue
         lp = lang_prefix(title)
-        if lp not in ["ES", "FR", "UK"]:
+        if lp not in ["ES", "FR"]:
             continue
         out.append(c)
     return out
@@ -235,6 +235,9 @@ def make_entry(movie, url, group):
         "CARIBE", "CARIBEAN", "CARIBBEAN"
     ]
     if any(r in _norm(name) for r in banned) or any(r in _norm(group) for r in banned):
+        return None
+    lp = lang_prefix(name)
+    if lp and lp not in ["ES", "FR"]:
         return None
     logo = movie.get("pic") or movie.get("screenshot_uri") or ""
     extinf = (

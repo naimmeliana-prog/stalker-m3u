@@ -632,6 +632,10 @@ def _run(args):
         lp = _title_lang(title)
         if lp not in ["ES", "FR", "UK"]:
             continue
+        if lp == "UK":
+            norm_t = _norm(title)
+            if "ANIME" not in norm_t and "MANGA" not in norm_t:
+                continue
         if cid:
             cat_names[cid] = title
             filtered_cat_ids.append(cid)

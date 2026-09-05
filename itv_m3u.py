@@ -187,6 +187,10 @@ def select_genres(genres, cfg):
         lp = lang_prefix(title)
         if lp not in ["ES", "FR", "UK"]:
             continue
+        if lp == "UK":
+            norm_t = _norm(title)
+            if "DOCUMENTARY" not in norm_t and "DOCUMENTAL" not in norm_t:
+                continue
         base = clean_name(title)
         if remove and any(n in _norm(base) for n in remove):
             continue
@@ -272,6 +276,14 @@ def make_entry(ch, group):
     cid = str(ch.get("id") or "")
     name = clean_name(ch.get("name")) or cid
     if any(r in _norm(name) for r in EXCLUDED_REGIONS) or any(r in _norm(group) for r in EXCLUDED_REGIONS):
+        return None
+    lp = lang_prefix(name)
+    if lp == "UK":
+        norm_n = _norm(name)
+        norm_g = _norm(group)
+        if "DOCUMENTARY" not in norm_n and "DOCUMENTAL" not in norm_n and "DOCUMENTARY" not in norm_g and "DOCUMENTAL" not in norm_g:
+            return None
+    elif lp and lp not in ["ES", "FR", "UK"]:
         return None
     logo = ch.get("logo") or ""
     url = ch.get("resolved_url") or (ch.get("cmd") or "").strip()

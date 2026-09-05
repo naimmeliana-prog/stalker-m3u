@@ -229,6 +229,68 @@ def combine_xtream_series(root_xtream_dir, portals_dir):
     print("  %s: %d series (%d categorias, %d streams)" % (root_xtream_dir, len(all_series), len(all_cats), len(all_streams)))
 
 
+def combine_xtream_live_vod(root_xtream_dir, portals_dir):
+    os.makedirs(root_xtream_dir, exist_ok=True)
+    if not os.path.exists(portals_dir):
+        return
+    for kind in ("live", "vod"):
+        all_cats = []
+        seen_cat_names = set()
+        all_streams = []
+        seen_stream_ids = set()
+        all_urls = {}
+
+        for p_name in sorted(os.listdir(portals_dir)):
+            p_dir = os.path.join(portals_dir, p_name)
+            p_xtream = os.path.join(p_dir, "xtream")
+            if not os.path.isdir(p_xtream):
+                continue
+
+            # Categories
+            cat_file = os.path.join(p_xtream, f"{kind}_categories.json")
+            if os.path.exists(cat_file):
+                try:
+                    with open(cat_file, "r", encoding="utf-8") as fh:
+                        cats = json.load(fh)
+                        for c in cats:
+                            cname = str(c.get("category_name") or "")
+                            if cname not in seen_cat_names:
+                                seen_cat_names.add(cname)
+                                all_cats.append(c)
+                except Exception:
+                    pass
+
+            # Streams
+            stream_file = os.path.join(p_xtream, f"{kind}_streams.json")
+            if os.path.exists(stream_file):
+                try:
+                    with open(stream_file, "r", encoding="utf-8") as fh:
+                        st_list = json.load(fh)
+                        for st in st_list:
+                            sid = str(st.get("stream_id"))
+                            if sid not in seen_stream_ids:
+                                seen_stream_ids.add(sid)
+                                all_streams.append(st)
+                except Exception:
+                    pass
+
+            # URLs
+            url_file = os.path.join(p_xtream, f"{kind}_urls.json")
+            if os.path.exists(url_file):
+                try:
+                    with open(url_file, "r", encoding="utf-8") as fh:
+                        urls = json.load(fh)
+                        all_urls.update(urls)
+                except Exception:
+                    pass
+
+        if all_streams:
+            _write_json(os.path.join(root_xtream_dir, f"{kind}_categories.json"), all_cats)
+            _write_json(os.path.join(root_xtream_dir, f"{kind}_streams.json"), all_streams)
+            _write_json(os.path.join(root_xtream_dir, f"{kind}_urls.json"), all_urls)
+            print("  %s: %d %s streams (%d categorias) combinados" % (root_xtream_dir, len(all_streams), kind, len(all_cats)))
+
+
 def build_portal_map(root_xtream_dir, portals_dir):
     portal_map = {}
     if os.path.exists(portals_dir):
@@ -347,6 +409,7 @@ def combine(out="global.m3u"):
     print("[+] Combinado en %s" % out_path)
     build_xtream(xtream_dir, itv_path, vod_path)
     combine_xtream_series(xtream_dir, portals_dir)
+    combine_xtream_live_vod(xtream_dir, portals_dir)
     build_portal_map(xtream_dir, portals_dir)
     return 0
 
