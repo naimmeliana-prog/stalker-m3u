@@ -42,7 +42,10 @@ def _entries(lines):
             attrs = dict(ATTR_RE.findall(m.group(1)))
             name_m = NAME_RE.search(line)
             name = name_m.group(1).strip() if name_m else attrs.get("tvg-name", "")
-            raw_url = lines[i + 1] if i + 1 < len(lines) else ""
+            j = i + 1
+            while j < len(lines) and lines[j].startswith("#"):
+                j += 1
+            raw_url = lines[j] if j < len(lines) else ""
             url = re.sub(r"^(?:ffmpeg|ffrt)\s+", "", raw_url, flags=re.IGNORECASE).strip()
             url = re.sub(r"^\d+:\d+\s+", "", url).strip()
             if url and not url.startswith("#"):
@@ -55,7 +58,7 @@ def _entries(lines):
                         "url": url,
                     }
                 )
-            i += 2
+            i = j + 1
         else:
             i += 1
     return entries
@@ -358,11 +361,18 @@ def _rewrite_m3u_section(path, kind, worker_host=DEFAULT_WORKER_HOST, username="
         ln = lines[i]
         if ln.startswith("#EXTINF:"):
             out.append(ln)
-            raw_url = lines[i + 1] if i + 1 < len(lines) else ""
-            clean_url = re.sub(r"^(?:ffmpeg|ffrt)\s+", "", raw_url, flags=re.IGNORECASE).strip()
-            clean_url = re.sub(r"^\d+:\d+\s+", "", clean_url).strip()
-            out.append(clean_url)
-            i += 2
+            j = i + 1
+            while j < len(lines) and lines[j].startswith("#"):
+                out.append(lines[j])
+                j += 1
+            if j < len(lines):
+                raw_url = lines[j]
+                clean_url = re.sub(r"^(?:ffmpeg|ffrt)\s+", "", raw_url, flags=re.IGNORECASE).strip()
+                clean_url = re.sub(r"^\d+:\d+\s+", "", clean_url).strip()
+                out.append(clean_url)
+                i = j + 1
+            else:
+                i += 1
         elif ln.startswith("#"):
             out.append(ln)
             i += 1
