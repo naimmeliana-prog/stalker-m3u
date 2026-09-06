@@ -1,5 +1,4 @@
 {
-    "paused": true,
     "portal": "http://iptvnow.nl:80/",
     "mac": "00:1A:79:00:00:99",
     "categories": [],
@@ -23,7 +22,7 @@
         "remove_fr": ["PRIME +", "NETFLIX", "DE NOËL"]
     },
     "itv": {
-        "resolve": false,
+        "resolve": true,
         "out": "itv.m3u",
         "checkpoint": "itv_checkpoint.json.gz",
         "progress": "progress_itv.log",

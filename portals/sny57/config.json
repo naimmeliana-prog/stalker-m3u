@@ -1,5 +1,4 @@
 {
-    "paused": true,
     "portal": "http://nexusconnects.org/c/",
     "mac": "00:1A:79:17:85:85",
     "categories": [],
@@ -23,7 +22,7 @@
         "remove_fr": ["PRIME +", "NETFLIX", "DE NOËL"]
     },
     "itv": {
-        "resolve": false,
+        "resolve": true,
         "out": "itv.m3u",
         "checkpoint": "itv_checkpoint.json.gz",
         "progress": "progress_itv.log",
