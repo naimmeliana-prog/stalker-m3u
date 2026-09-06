@@ -356,23 +356,8 @@ def _rewrite_m3u_section(path, kind, worker_host=DEFAULT_WORKER_HOST, username="
         ln = lines[i]
         if ln.startswith("#EXTINF:"):
             out.append(ln)
-            m = EXTINF_RE.match(ln)
-            attrs = dict(ATTR_RE.findall(m.group(1))) if m else {}
-            sid = attrs.get("tvg-id", "")
             raw_url = lines[i + 1] if i + 1 < len(lines) else ""
-            if not sid and raw_url:
-                stream_m = re.search(r'[?&]stream=([a-zA-Z0-9_-]+)', raw_url)
-                if stream_m:
-                    sid = stream_m.group(1)
-                else:
-                    base = raw_url.split("?")[0].rstrip("/").split("/")[-1]
-                    sid = re.sub(r'\.\w+$', '', base)
-            ext = "ts" if kind == "live" else ("mp4" if kind == "movie" else "mkv")
-            if sid and sid != "0":
-                worker_url = f"{worker_host}/{kind}/{username}/{password}/{sid}.{ext}"
-                out.append(worker_url)
-            else:
-                out.append(raw_url)
+            out.append(raw_url)
             i += 2
         elif ln.startswith("#"):
             out.append(ln)
