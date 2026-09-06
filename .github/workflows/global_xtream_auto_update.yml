@@ -1,6 +1,9 @@
 name: Global_Xtream_Auto_Update
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 3 */3 * *"
   workflow_dispatch:
