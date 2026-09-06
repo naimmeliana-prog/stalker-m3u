@@ -22,7 +22,7 @@
         "remove_fr": ["PRIME +", "NETFLIX", "DE NOËL"]
     },
     "itv": {
-        "resolve": false,
+        "resolve": true,
         "out": "itv.m3u",
         "checkpoint": "itv_checkpoint.json.gz",
         "progress": "progress_itv.log",
