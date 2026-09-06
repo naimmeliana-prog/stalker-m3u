@@ -434,6 +434,7 @@ def _config_sig(portal, args):
         str(portal.mac or "").upper(),
         repr(sorted(str(c) for c in (args.category or [])) if args.category else [None]),
         repr(sorted(str(c) for c in (args.remove_cats or [])) if args.remove_cats else [None]),
+        repr(sorted(str(l) for l in (getattr(args, "languages", None) or []))),
         str(args.group or ""),
         str(bool(args.no_verify)),
         str(args.lang or ""),
@@ -454,7 +455,11 @@ def _load_checkpoint(path, portal, args):
             ck = json.load(fh)
         if not isinstance(ck, dict) or not isinstance(ck.get("done"), dict):
             return None
-        ck["config_sig"] = _config_sig(portal, args)
+        sig = _config_sig(portal, args)
+        if ck.get("config_sig") and ck.get("config_sig") != sig:
+            print("[+] Filtros/Configuracion modificados. Reiniciando checkpoint (%s)..." % path)
+            return None
+        ck["config_sig"] = sig
         return ck
     except Exception as exc:
         print("[!] Error leyendo checkpoint (%s): %s" % (path, exc))

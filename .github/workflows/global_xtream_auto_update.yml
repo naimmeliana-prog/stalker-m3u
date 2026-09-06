@@ -20,7 +20,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        portal: [backup, greatott, ipfr]
+        portal: [backup, ipfr]
     steps:
       - uses: actions/checkout@v4
 
