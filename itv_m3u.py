@@ -285,9 +285,9 @@ def make_entry(ch, group):
             return None
     elif lp and lp not in ["ES", "FR", "UK"]:
         return None
-    logo = ch.get("logo") or ""
-    url = ch.get("resolved_url") or (ch.get("cmd") or "").strip()
-    if not url:
+    raw_url = ch.get("resolved_url") or (ch.get("cmd") or "").strip()
+    url = StalkerPortal._clean_cmd(raw_url) if raw_url else None
+    if not url or not (url.startswith("http://") or url.startswith("https://")):
         return None
     extinf = (
         '#EXTINF:-1 tvg-id="%s" tvg-name="%s" tvg-logo="%s" group-title="%s",%s\n'
