@@ -49,9 +49,14 @@ jobs:
             PORTAL_CONFIG_PATH="portals/${{ matrix.portal }}/config.json" python vod_m3u.py || true
           fi
 
-      - name: Generar Series M3U para portal ${{ matrix.portal }} (Desactivado temporalmente)
+      - name: Generar Series M3U para portal ${{ matrix.portal }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "[+] Series desactivadas temporalmente"
+          if [ -f "portals/${{ matrix.portal }}/config.json" ]; then
+            echo "[+] Generando Series para portals/${{ matrix.portal }}..."
+            PORTAL_CONFIG_PATH="portals/${{ matrix.portal }}/config.json" python generate.py || true
+          fi
 
       - name: Publicar checkpoint y cambios del portal ${{ matrix.portal }}
         if: always()

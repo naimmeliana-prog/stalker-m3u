@@ -433,8 +433,28 @@ export default {
         if (!m3uRes.ok) {
           return corsJson({}, 404);
         }
+        let text = await m3uRes.text();
+        const host = url.host;
+        const scheme = url.protocol || "https:";
+        const workerHost = `${scheme}//${host}`;
+        const outputFormat = url.searchParams.get("output") || "";
+        const userAgent = (request.headers.get("user-agent") || "").toLowerCase();
+        const isLgWebOs = userAgent.includes("webos") || userAgent.includes("lg") || userAgent.includes("smarttv") || userAgent.includes("tiviplayer");
+
+        if (outputFormat === "ts" || url.searchParams.get("proxy") === "1" || isLgWebOs) {
+          const pUser = username || "test";
+          text = text.replace(/^(http:\/\/[^\r\n]+)/gm, (match) => {
+            const streamIdMatch = match.match(/stream=([a-zA-Z0-9_-]+)/) || match.match(/\/(\d+)\./) || match.match(/\/(\d+)\b/);
+            const sid = streamIdMatch ? streamIdMatch[1] : "";
+            if (sid) {
+              return `${workerHost}/live/${pUser}/test1/${sid}.ts`;
+            }
+            return match;
+          });
+        }
+
         return withCors(
-          new Response(m3uRes.body, {
+          new Response(text, {
             headers: {
               "Content-Type": "audio/x-mpegurl; charset=utf-8",
               "Content-Disposition": 'attachment; filename="playlist.m3u"',
