@@ -7295,6 +7295,9 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="28201" tvg-name="ES - Loki" tvg-logo="https://image.tmdb.org/t/p/w154/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="ES - Loki",ES - Loki - S02E05
 #EXTGRP:ES - Loki
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjI4MjAxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="28201" tvg-name="ES - Loki" tvg-logo="https://image.tmdb.org/t/p/w154/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg" group-title="ES - Loki",ES - Loki - S02E06
+#EXTGRP:ES - Loki
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjI4MjAxLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="28212" tvg-name="ES - Ser o no ser (2022)" tvg-logo="https://image.tmdb.org/t/p/w154/z0zipqRdOiE2TRtIQ5BsMIiYfhU.jpg" group-title="ES - Ser o no ser (2022)",ES - Ser o no ser (2022) - S01E01
 #EXTGRP:ES - Ser o no ser (2022)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjI4MjEyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -25553,6 +25556,9 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="29989" tvg-name="ES - Miracle Workers" tvg-logo="https://image.tmdb.org/t/p/w154/yrvfcgR0R9uGxyMYrQGxe7Gu47i.jpg" group-title="ES - Miracle Workers",ES - Miracle Workers - S04E08
 #EXTGRP:ES - Miracle Workers
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjI5OTg5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="29989" tvg-name="ES - Miracle Workers" tvg-logo="https://image.tmdb.org/t/p/w154/yrvfcgR0R9uGxyMYrQGxe7Gu47i.jpg" group-title="ES - Miracle Workers",ES - Miracle Workers - S04E09
+#EXTGRP:ES - Miracle Workers
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjI5OTg5LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0%3D&series=9&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="29991" tvg-name="ES - Sherlock" tvg-logo="https://image.tmdb.org/t/p/w154/iyfSdeZeAqj2farduoh5bvnZC5k.jpg" group-title="ES - Sherlock",ES - Sherlock - S01E01
 #EXTGRP:ES - Sherlock
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjI5OTkxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -30155,6 +30161,12 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="30394" tvg-name="ES - Ted Lasso" tvg-logo="https://image.tmdb.org/t/p/w154/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg" group-title="ES - Ted Lasso",ES - Ted Lasso - S04E04
 #EXTGRP:ES - Ted Lasso
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjMwMzk0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="30394" tvg-name="ES - Ted Lasso" tvg-logo="https://image.tmdb.org/t/p/w154/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg" group-title="ES - Ted Lasso",ES - Ted Lasso - S04E05
+#EXTGRP:ES - Ted Lasso
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjMwMzk0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="30394" tvg-name="ES - Ted Lasso" tvg-logo="https://image.tmdb.org/t/p/w154/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg" group-title="ES - Ted Lasso",ES - Ted Lasso - S04E06
+#EXTGRP:ES - Ted Lasso
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjMwMzk0LCJzZWFzb25fbnVtIjo0LCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="30442" tvg-name="ES - Tokyo Vice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epJDlI9kK6KIjf3uaPpoSPr7wm3.jpg" group-title="ES - Tokyo Vice",ES - Tokyo Vice - S01E01
 #EXTGRP:ES - Tokyo Vice
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjMwNDQyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -37247,6 +37259,9 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="33306" tvg-name="ES - Materia oscura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohuI1Ik5FsjSazomDqzMlyb6Yv2.jpg" group-title="ES - Materia oscura",ES - Materia oscura - S02E02
 #EXTGRP:ES - Materia oscura
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjMzMzA2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="33306" tvg-name="ES - Materia oscura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohuI1Ik5FsjSazomDqzMlyb6Yv2.jpg" group-title="ES - Materia oscura",ES - Materia oscura - S02E03
+#EXTGRP:ES - Materia oscura
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjMzMzA2LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="33307" tvg-name="ES - The 8 Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhMjTKlssxPz3xchJ1DQkDCfy9n.jpg" group-title="ES - The 8 Show",ES - The 8 Show - S01E01
 #EXTGRP:ES - The 8 Show
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjMzMzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -46280,30 +46295,6 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="35229" tvg-name="ES - Ángela (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRSVRveIBlA7UomN5yoKaTRI9bQ.jpg" group-title="ES - Ángela (2024)",ES - Ángela (2024) - S01E06
 #EXTGRP:ES - Ángela (2024)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjI5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="35281" tvg-name="ES - Coches viejos resucitados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jSVkv9gGFLfy8wnIC76KeQYhEM.jpg" group-title="ES - Coches viejos resucitados (2024)",ES - Coches viejos resucitados (2024) - S01E01
-#EXTGRP:ES - Coches viejos resucitados (2024)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="35281" tvg-name="ES - Coches viejos resucitados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jSVkv9gGFLfy8wnIC76KeQYhEM.jpg" group-title="ES - Coches viejos resucitados (2024)",ES - Coches viejos resucitados (2024) - S01E02
-#EXTGRP:ES - Coches viejos resucitados (2024)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="35281" tvg-name="ES - Coches viejos resucitados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jSVkv9gGFLfy8wnIC76KeQYhEM.jpg" group-title="ES - Coches viejos resucitados (2024)",ES - Coches viejos resucitados (2024) - S01E03
-#EXTGRP:ES - Coches viejos resucitados (2024)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="35281" tvg-name="ES - Coches viejos resucitados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jSVkv9gGFLfy8wnIC76KeQYhEM.jpg" group-title="ES - Coches viejos resucitados (2024)",ES - Coches viejos resucitados (2024) - S01E04
-#EXTGRP:ES - Coches viejos resucitados (2024)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="35281" tvg-name="ES - Coches viejos resucitados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jSVkv9gGFLfy8wnIC76KeQYhEM.jpg" group-title="ES - Coches viejos resucitados (2024)",ES - Coches viejos resucitados (2024) - S01E05
-#EXTGRP:ES - Coches viejos resucitados (2024)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="35281" tvg-name="ES - Coches viejos resucitados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jSVkv9gGFLfy8wnIC76KeQYhEM.jpg" group-title="ES - Coches viejos resucitados (2024)",ES - Coches viejos resucitados (2024) - S01E06
-#EXTGRP:ES - Coches viejos resucitados (2024)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="35281" tvg-name="ES - Coches viejos resucitados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jSVkv9gGFLfy8wnIC76KeQYhEM.jpg" group-title="ES - Coches viejos resucitados (2024)",ES - Coches viejos resucitados (2024) - S01E07
-#EXTGRP:ES - Coches viejos resucitados (2024)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=7&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="35281" tvg-name="ES - Coches viejos resucitados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jSVkv9gGFLfy8wnIC76KeQYhEM.jpg" group-title="ES - Coches viejos resucitados (2024)",ES - Coches viejos resucitados (2024) - S01E08
-#EXTGRP:ES - Coches viejos resucitados (2024)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="35282" tvg-name="ES - El Decamerón (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70UtM8IIqfSsKZC9Kwdz36W2Z5R.jpg" group-title="ES - El Decamerón (2024)",ES - El Decamerón (2024) - S01E01
 #EXTGRP:ES - El Decamerón (2024)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM1MjgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -60182,42 +60173,6 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="38207" tvg-name="ES - Los originales (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skerTaHjg2cJhxrxybCcVE7Pgcf.jpg" group-title="ES - Los originales (2013)",ES - Los originales (2013) - S05E13
 #EXTGRP:ES - Los originales (2013)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA3LCJzZWFzb25fbnVtIjo1LCJ0eXBlIjoic2VyaWVzIn0%3D&series=13&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E01
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E02
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E03
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E04
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E05
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E06
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E07
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=7&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E08
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E09
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=9&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E10
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=10&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E11
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=11&JsHttpRequest=1-xml
-#EXTINF:-1 tvg-id="38209" tvg-name="ES - Normal People (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4mk4EQVIM11yd3W43DDdqDazDU.jpg" group-title="ES - Normal People (2020)",ES - Normal People (2020) - S01E12
-#EXTGRP:ES - Normal People (2020)
-http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=12&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="38210" tvg-name="ES - ¿A qué estás esperando? (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj1oN9iRqqsX5PpVVCWsMPA2YP.jpg" group-title="ES - ¿A qué estás esperando? (2024)",ES - ¿A qué estás esperando? (2024) - S01E01
 #EXTGRP:ES - ¿A qué estás esperando? (2024)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjM4MjEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -64322,6 +64277,12 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="41819" tvg-name="ES - Śleboda (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIrtJMuUfp4sbUJwrtOtOK1ZrMt.jpg" group-title="ES - Śleboda (2024)",ES - Śleboda (2024) - S01E06
 #EXTGRP:ES - Śleboda (2024)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODE5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="41819" tvg-name="ES - Śleboda (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIrtJMuUfp4sbUJwrtOtOK1ZrMt.jpg" group-title="ES - Śleboda (2024)",ES - Śleboda (2024) - S02E01
+#EXTGRP:ES - Śleboda (2024)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODE5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="41819" tvg-name="ES - Śleboda (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIrtJMuUfp4sbUJwrtOtOK1ZrMt.jpg" group-title="ES - Śleboda (2024)",ES - Śleboda (2024) - S02E02
+#EXTGRP:ES - Śleboda (2024)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODE5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="41820" tvg-name="ES - Tom y Lola (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5EpnM9Ou1BynYEM9CqL62EKrxm.jpg" group-title="ES - Tom y Lola (2024)",ES - Tom y Lola (2024) - S01E01
 #EXTGRP:ES - Tom y Lola (2024)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODIwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -64358,6 +64319,24 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="41822" tvg-name="ES - Golden Kamuy (2024)" tvg-logo="https://pics.filmaffinity.com/golden_kamuy-179336958-large.jpg" group-title="ES - Golden Kamuy (2024)",ES - Golden Kamuy (2024) - S01E09
 #EXTGRP:ES - Golden Kamuy (2024)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODIyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=9&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="41823" tvg-name="ES - Jakov (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjHg4KbDySJRJPoHgMJWh6epGuW.jpg" group-title="ES - Jakov (2025)",ES - Jakov (2025) - S01E01
+#EXTGRP:ES - Jakov (2025)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="41823" tvg-name="ES - Jakov (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjHg4KbDySJRJPoHgMJWh6epGuW.jpg" group-title="ES - Jakov (2025)",ES - Jakov (2025) - S01E02
+#EXTGRP:ES - Jakov (2025)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="41823" tvg-name="ES - Jakov (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjHg4KbDySJRJPoHgMJWh6epGuW.jpg" group-title="ES - Jakov (2025)",ES - Jakov (2025) - S01E03
+#EXTGRP:ES - Jakov (2025)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="41823" tvg-name="ES - Jakov (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjHg4KbDySJRJPoHgMJWh6epGuW.jpg" group-title="ES - Jakov (2025)",ES - Jakov (2025) - S01E04
+#EXTGRP:ES - Jakov (2025)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="41823" tvg-name="ES - Jakov (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjHg4KbDySJRJPoHgMJWh6epGuW.jpg" group-title="ES - Jakov (2025)",ES - Jakov (2025) - S01E05
+#EXTGRP:ES - Jakov (2025)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="41823" tvg-name="ES - Jakov (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjHg4KbDySJRJPoHgMJWh6epGuW.jpg" group-title="ES - Jakov (2025)",ES - Jakov (2025) - S01E06
+#EXTGRP:ES - Jakov (2025)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODIzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="41824" tvg-name="ES - La agencia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWGQaZ9BntXIDT1WKHrbSAVuShk.jpg" group-title="ES - La agencia (2024)",ES - La agencia (2024) - S01E01
 #EXTGRP:ES - La agencia (2024)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQxODI0LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -72878,6 +72857,12 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="47269" tvg-name="ES - Made in Korea (2025) (KR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg" group-title="ES - Made in Korea (2025) (KR)",ES - Made in Korea (2025) (KR) - S01E06
 #EXTGRP:ES - Made in Korea (2025) (KR)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQ3MjY5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="47269" tvg-name="ES - Made in Korea (2025) (KR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg" group-title="ES - Made in Korea (2025) (KR)",ES - Made in Korea (2025) (KR) - S02E01
+#EXTGRP:ES - Made in Korea (2025) (KR)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQ3MjY5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="47269" tvg-name="ES - Made in Korea (2025) (KR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg" group-title="ES - Made in Korea (2025) (KR)",ES - Made in Korea (2025) (KR) - S02E02
+#EXTGRP:ES - Made in Korea (2025) (KR)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQ3MjY5LCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="47415" tvg-name="ES - Crónicas de una actriz superviviente (2025) (ES)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYkXEs6uMUUJmf8DT6cmKyoJnt0.jpg" group-title="ES - Crónicas de una actriz superviviente (2025) (ES)",ES - Crónicas de una actriz superviviente (2025) (ES) - S01E01
 #EXTGRP:ES - Crónicas de una actriz superviviente (2025) (ES)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjQ3NDE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -77633,6 +77618,9 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="50603" tvg-name="ES - Las azules (LQ) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyfKzPxKNVW4WV2xXjm3uBx00I.jpg" group-title="ES - Las azules (LQ) (2024)",ES - Las azules (LQ) (2024) - S02E03
 #EXTGRP:ES - Las azules (LQ) (2024)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUwNjAzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="50603" tvg-name="ES - Las azules (LQ) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZyfKzPxKNVW4WV2xXjm3uBx00I.jpg" group-title="ES - Las azules (LQ) (2024)",ES - Las azules (LQ) (2024) - S02E04
+#EXTGRP:ES - Las azules (LQ) (2024)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUwNjAzLCJzZWFzb25fbnVtIjoyLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="50907" tvg-name="ES - Lucky (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg" group-title="ES - Lucky (LQ) (2026)",ES - Lucky (LQ) (2026) - S01E01
 #EXTGRP:ES - Lucky (LQ) (2026)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUwOTA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -77747,6 +77735,9 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="50940" tvg-name="ES - Stuart no consigue salvar el Universo (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFatvMvG3svwTZ1WH9shKRpFhEH.jpg" group-title="ES - Stuart no consigue salvar el Universo (LQ) (2026)",ES - Stuart no consigue salvar el Universo (LQ) (2026) - S01E07
 #EXTGRP:ES - Stuart no consigue salvar el Universo (LQ) (2026)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUwOTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=7&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="50940" tvg-name="ES - Stuart no consigue salvar el Universo (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFatvMvG3svwTZ1WH9shKRpFhEH.jpg" group-title="ES - Stuart no consigue salvar el Universo (LQ) (2026)",ES - Stuart no consigue salvar el Universo (LQ) (2026) - S01E08
+#EXTGRP:ES - Stuart no consigue salvar el Universo (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUwOTQwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="50982" tvg-name="ES - Néro (LQ) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twNHmxeFkDEdGzYMeGTp9stoGUC.jpg" group-title="ES - Néro (LQ) (2025)",ES - Néro (LQ) (2025) - S01E01
 #EXTGRP:ES - Néro (LQ) (2025)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUwOTgyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -77966,6 +77957,9 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="51232" tvg-name="ES - The Shards (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxz63rBBX5MiPzZ7HDoBGfl7zTK.jpg" group-title="ES - The Shards (LQ) (2026)",ES - The Shards (LQ) (2026) - S01E08
 #EXTGRP:ES - The Shards (LQ) (2026)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxMjMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51232" tvg-name="ES - The Shards (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxz63rBBX5MiPzZ7HDoBGfl7zTK.jpg" group-title="ES - The Shards (LQ) (2026)",ES - The Shards (LQ) (2026) - S01E09
+#EXTGRP:ES - The Shards (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxMjMyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=9&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="51235" tvg-name="ES - Scrublands (LQ) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFRUtxh7OHLqoER6oflO6DWNaQJ.jpg" group-title="ES - Scrublands (LQ) (2023)",ES - Scrublands (LQ) (2023) - S01E01
 #EXTGRP:ES - Scrublands (LQ) (2023)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxMjM1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
@@ -78224,6 +78218,108 @@ http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=e
 #EXTINF:-1 tvg-id="51628" tvg-name="ES - M.I.A. (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2jLT8TjwgJ6UywCz9EkOyMcp3i.jpg" group-title="ES - M.I.A. (LQ) (2026) (US)",ES - M.I.A. (LQ) (2026) (US) - S01E03
 #EXTGRP:ES - M.I.A. (LQ) (2026) (US)
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNjI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51628" tvg-name="ES - M.I.A. (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2jLT8TjwgJ6UywCz9EkOyMcp3i.jpg" group-title="ES - M.I.A. (LQ) (2026) (US)",ES - M.I.A. (LQ) (2026) (US) - S01E04
+#EXTGRP:ES - M.I.A. (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNjI4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51715" tvg-name="ES - Causa abierta (LQ) (2026) (AU)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg" group-title="ES - Causa abierta (LQ) (2026) (AU)",ES - Causa abierta (LQ) (2026) (AU) - S01E01
+#EXTGRP:ES - Causa abierta (LQ) (2026) (AU)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51715" tvg-name="ES - Causa abierta (LQ) (2026) (AU)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg" group-title="ES - Causa abierta (LQ) (2026) (AU)",ES - Causa abierta (LQ) (2026) (AU) - S01E02
+#EXTGRP:ES - Causa abierta (LQ) (2026) (AU)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E01
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E02
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E03
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E04
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E05
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E06
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E07
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=7&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E08
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E09
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=9&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51717" tvg-name="ES - La mujer miniatura (LQ) (2026) (US)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99SkFAS3S3iOtnplwH0byFUMiHK.jpg" group-title="ES - La mujer miniatura (LQ) (2026) (US)",ES - La mujer miniatura (LQ) (2026) (US) - S01E10
+#EXTGRP:ES - La mujer miniatura (LQ) (2026) (US)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzE3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=10&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51751" tvg-name="ES - El club gastronómico (LQ) (2026) (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg" group-title="ES - El club gastronómico (LQ) (2026) (NL)",ES - El club gastronómico (LQ) (2026) (NL) - S01E01
+#EXTGRP:ES - El club gastronómico (LQ) (2026) (NL)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51751" tvg-name="ES - El club gastronómico (LQ) (2026) (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg" group-title="ES - El club gastronómico (LQ) (2026) (NL)",ES - El club gastronómico (LQ) (2026) (NL) - S01E02
+#EXTGRP:ES - El club gastronómico (LQ) (2026) (NL)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51751" tvg-name="ES - El club gastronómico (LQ) (2026) (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg" group-title="ES - El club gastronómico (LQ) (2026) (NL)",ES - El club gastronómico (LQ) (2026) (NL) - S01E03
+#EXTGRP:ES - El club gastronómico (LQ) (2026) (NL)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51751" tvg-name="ES - El club gastronómico (LQ) (2026) (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg" group-title="ES - El club gastronómico (LQ) (2026) (NL)",ES - El club gastronómico (LQ) (2026) (NL) - S01E04
+#EXTGRP:ES - El club gastronómico (LQ) (2026) (NL)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51751" tvg-name="ES - El club gastronómico (LQ) (2026) (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg" group-title="ES - El club gastronómico (LQ) (2026) (NL)",ES - El club gastronómico (LQ) (2026) (NL) - S01E05
+#EXTGRP:ES - El club gastronómico (LQ) (2026) (NL)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51751" tvg-name="ES - El club gastronómico (LQ) (2026) (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg" group-title="ES - El club gastronómico (LQ) (2026) (NL)",ES - El club gastronómico (LQ) (2026) (NL) - S01E06
+#EXTGRP:ES - El club gastronómico (LQ) (2026) (NL)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51751" tvg-name="ES - El club gastronómico (LQ) (2026) (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg" group-title="ES - El club gastronómico (LQ) (2026) (NL)",ES - El club gastronómico (LQ) (2026) (NL) - S01E07
+#EXTGRP:ES - El club gastronómico (LQ) (2026) (NL)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUxLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=7&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51752" tvg-name="ES - La timonel (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg" group-title="ES - La timonel (LQ) (2026)",ES - La timonel (LQ) (2026) - S01E01
+#EXTGRP:ES - La timonel (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51752" tvg-name="ES - La timonel (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg" group-title="ES - La timonel (LQ) (2026)",ES - La timonel (LQ) (2026) - S01E02
+#EXTGRP:ES - La timonel (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51752" tvg-name="ES - La timonel (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg" group-title="ES - La timonel (LQ) (2026)",ES - La timonel (LQ) (2026) - S01E03
+#EXTGRP:ES - La timonel (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51752" tvg-name="ES - La timonel (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg" group-title="ES - La timonel (LQ) (2026)",ES - La timonel (LQ) (2026) - S01E04
+#EXTGRP:ES - La timonel (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51752" tvg-name="ES - La timonel (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg" group-title="ES - La timonel (LQ) (2026)",ES - La timonel (LQ) (2026) - S01E05
+#EXTGRP:ES - La timonel (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51752" tvg-name="ES - La timonel (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg" group-title="ES - La timonel (LQ) (2026)",ES - La timonel (LQ) (2026) - S01E06
+#EXTGRP:ES - La timonel (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51752" tvg-name="ES - La timonel (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg" group-title="ES - La timonel (LQ) (2026)",ES - La timonel (LQ) (2026) - S01E07
+#EXTGRP:ES - La timonel (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=7&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51752" tvg-name="ES - La timonel (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkPZW1iHNvlI6077NxSxwITa1tj.jpg" group-title="ES - La timonel (LQ) (2026)",ES - La timonel (LQ) (2026) - S01E08
+#EXTGRP:ES - La timonel (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51753" tvg-name="ES - Joven secuestrada (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsjOTVvak7CdBh2hDF3rmdH5GIh.jpg" group-title="ES - Joven secuestrada (LQ) (2026)",ES - Joven secuestrada (LQ) (2026) - S01E01
+#EXTGRP:ES - Joven secuestrada (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51753" tvg-name="ES - Joven secuestrada (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsjOTVvak7CdBh2hDF3rmdH5GIh.jpg" group-title="ES - Joven secuestrada (LQ) (2026)",ES - Joven secuestrada (LQ) (2026) - S01E02
+#EXTGRP:ES - Joven secuestrada (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51753" tvg-name="ES - Joven secuestrada (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsjOTVvak7CdBh2hDF3rmdH5GIh.jpg" group-title="ES - Joven secuestrada (LQ) (2026)",ES - Joven secuestrada (LQ) (2026) - S01E03
+#EXTGRP:ES - Joven secuestrada (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51753" tvg-name="ES - Joven secuestrada (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsjOTVvak7CdBh2hDF3rmdH5GIh.jpg" group-title="ES - Joven secuestrada (LQ) (2026)",ES - Joven secuestrada (LQ) (2026) - S01E04
+#EXTGRP:ES - Joven secuestrada (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51753" tvg-name="ES - Joven secuestrada (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsjOTVvak7CdBh2hDF3rmdH5GIh.jpg" group-title="ES - Joven secuestrada (LQ) (2026)",ES - Joven secuestrada (LQ) (2026) - S01E05
+#EXTGRP:ES - Joven secuestrada (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="51753" tvg-name="ES - Joven secuestrada (LQ) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsjOTVvak7CdBh2hDF3rmdH5GIh.jpg" group-title="ES - Joven secuestrada (LQ) (2026)",ES - Joven secuestrada (LQ) (2026) - S01E06
+#EXTGRP:ES - Joven secuestrada (LQ) (2026)
+http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjUxNzUzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="5600" tvg-name="ES - Bad Blood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukrAdTtJHHEaDRUJmi4XYwBUpRu.jpg" group-title="ES - Bad Blood",ES - Bad Blood - S01E01
 #EXTGRP:ES - Bad Blood
 http://vod.supremetv.live:80/c/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjU2MDAsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ%3D%3D&series=1&JsHttpRequest=1-xml
