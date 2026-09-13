@@ -218,10 +218,17 @@ def resolve_movie(portal, cmd):
 
 
 def _resolve_or_none(portal, movie):
-    cmd = movie.get("cmd")
+    cmd = (movie.get("cmd") or "").strip()
     if not cmd:
-        return None
-    return resolve_movie(portal, cmd)
+        mid = str(movie.get("id") or "").strip()
+        if not mid:
+            return None
+        return f"http://localhost/vod/{mid}"
+    clean = StalkerPortal._clean_cmd(cmd)
+    if clean and (clean.startswith("http://") or clean.startswith("https://")):
+        return clean
+    mid = str(movie.get("id") or "").strip()
+    return f"http://localhost/vod/{mid}" if mid else f"http://localhost/{clean}"
 
 
 def make_entry(movie, url, group):

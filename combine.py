@@ -389,14 +389,17 @@ def combine(out="global.m3u"):
             return os.path.join(config_dir, p)
         return p
 
+    root_dir = os.path.dirname(os.path.abspath(__file__))
+    portals_dir = os.path.join(root_dir, "portals")
+
     series_path = resolve_path(cfg.get("out") or "series.m3u")
     vod_path = resolve_path(cfg.get("vod", {}).get("out") or "vod.m3u")
     itv_path = resolve_path(cfg.get("itv", {}).get("out") or "itv.m3u")
     xtream_dir = resolve_path(cfg.get("xtream_dir") or "xtream")
     out_path = resolve_path(out)
-    portals_dir = resolve_path("portals")
 
-    p_name = os.path.basename(config_dir) if os.path.basename(config_dir) != os.path.basename(os.getcwd()) else "test"
+    is_global_run = (os.path.abspath(config_dir) == os.path.abspath(root_dir))
+    p_name = "test" if is_global_run else os.path.basename(config_dir)
 
     sections = [
         (series_path, "series"),
@@ -418,9 +421,10 @@ def combine(out="global.m3u"):
         print("  %s (%s): %d lineas" % (sec, kind, counts.get(sec, 0)))
     print("[+] Combinado en %s" % out_path)
     build_xtream(xtream_dir, itv_path, vod_path)
-    combine_xtream_series(xtream_dir, portals_dir)
-    combine_xtream_live_vod(xtream_dir, portals_dir)
-    build_portal_map(xtream_dir, portals_dir)
+    if is_global_run:
+        combine_xtream_series(xtream_dir, portals_dir)
+        combine_xtream_live_vod(xtream_dir, portals_dir)
+        build_portal_map(xtream_dir, portals_dir)
     return 0
 
 

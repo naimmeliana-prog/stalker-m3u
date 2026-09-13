@@ -220,11 +220,19 @@ async function resolveStalkerLink(portalUrl, mac, rawCmd, type = "itv") {
 
   let cmdList = [];
   if (extractedStreamId) {
-    cmdList.push(`ffmpeg http://localhost/ch/${extractedStreamId}`);
-    cmdList.push(`ffmpeg /ch/${extractedStreamId}`);
-    cmdList.push(`ffmpeg http://localhost/ch/${extractedStreamId}_`);
-    cmdList.push(`ffmpeg ${extractedStreamId}`);
-    cmdList.push(`ffrt http://localhost/ch/${extractedStreamId}`);
+    if (type === "vod") {
+      cmdList.push(`ffmpeg /media/${extractedStreamId}.mkv`);
+      cmdList.push(`ffmpeg /media/${extractedStreamId}.mp4`);
+      cmdList.push(`ffmpeg http://localhost/vod/${extractedStreamId}`);
+      cmdList.push(`ffmpeg /vod/${extractedStreamId}`);
+      cmdList.push(`ffmpeg ${extractedStreamId}`);
+    } else {
+      cmdList.push(`ffmpeg http://localhost/ch/${extractedStreamId}`);
+      cmdList.push(`ffmpeg /ch/${extractedStreamId}`);
+      cmdList.push(`ffmpeg http://localhost/ch/${extractedStreamId}_`);
+      cmdList.push(`ffmpeg ${extractedStreamId}`);
+      cmdList.push(`ffrt http://localhost/ch/${extractedStreamId}`);
+    }
   }
   if (!cmdList.includes(clCmd)) {
     cmdList.push(clCmd);
