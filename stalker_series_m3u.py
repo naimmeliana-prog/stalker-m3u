@@ -669,7 +669,7 @@ def _run(args):
             continue
         allowed_langs = [l.upper() for l in (args.languages or ["ES", "UK"])]
         lp = _title_lang(title)
-        if lp not in allowed_langs:
+        if lp and lp not in allowed_langs:
             continue
         if lp == "UK":
             if "ANIME" not in norm_t and "MANGA" not in norm_t:
