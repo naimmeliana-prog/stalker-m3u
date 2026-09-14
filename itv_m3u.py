@@ -289,6 +289,7 @@ def make_entry(ch, group):
     url = StalkerPortal._clean_cmd(raw_url) if raw_url else None
     if not url or not (url.startswith("http://") or url.startswith("https://")):
         return None
+    logo = ch.get("logo") or ch.get("pic") or ch.get("screenshot_uri") or ""
     extinf = (
         '#EXTINF:-1 tvg-id="%s" tvg-name="%s" tvg-logo="%s" group-title="%s",%s\n'
         % (

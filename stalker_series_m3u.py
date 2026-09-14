@@ -51,6 +51,19 @@ def _norm(text):
     return re.sub(r"\s+", " ", t.upper()).strip()
 
 
+def _escape_attr(val):
+    return str(val or "").replace('"', '&quot;')
+
+
+def _write_m3u(path, entries):
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write("#EXTM3U\n")
+        for e in entries:
+            fh.write(e if isinstance(e, str) and e.endswith("\n") else str(e) + "\n")
+    os.replace(tmp, path)
+
+
 def _clean_series_name(title):
     return SERIES_NAME_CLEAN_RE.sub("", str(title or "").strip()).strip()
 
@@ -94,6 +107,14 @@ class PortalError(Exception):
 
 
 class StalkerPortal:
+    @staticmethod
+    def _clean_cmd(cmd):
+        if not cmd:
+            return ""
+        c = CMD_PREFIX_RE.sub("", str(cmd)).strip()
+        c = FFMPEG_ARGS_RE.sub("", c).strip()
+        return c
+
     def __init__(self, base_url, mac, timeout=15, verify_ssl=True):
         self.base_url = base_url.rstrip("/")
         self.mac = mac
