@@ -480,6 +480,12 @@ def _load_checkpoint(path, portal, args):
         if ck.get("config_sig") and ck.get("config_sig") != sig:
             print("[+] Filtros/Configuracion modificados. Reiniciando checkpoint (%s)..." % path)
             return None
+        if args.xtream_dir and ck.get("done"):
+            sample = next(iter(ck["done"].values()), None)
+            if sample is not None:
+                if not isinstance(sample, dict) or "xtream" not in sample or sample["xtream"] is None:
+                    print("[+] Checkpoint antiguo sin datos Xtream. Reiniciando (%s)..." % path)
+                    return None
         ck["config_sig"] = sig
         return ck
     except Exception as exc:

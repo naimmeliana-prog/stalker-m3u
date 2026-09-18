@@ -95,19 +95,44 @@ async function streamProxy(target, clientRequest, portalUrl = "", mac = "") {
 
   let currUrl = target;
   let upstream = null;
+
   for (let i = 0; i < 5; i++) {
-    upstream = await fetch(currUrl, { 
-      headers: reqHeaders,
-      redirect: "manual" 
-    });
-    if (upstream.status >= 300 && upstream.status < 400) {
-      const loc = upstream.headers.get("Location");
-      if (loc) {
-        currUrl = loc.startsWith("http") ? loc : new URL(loc, currUrl).href;
-        continue;
+    try {
+      upstream = await fetch(currUrl, { 
+        headers: reqHeaders,
+        redirect: "manual" 
+      });
+      if (upstream.status >= 300 && upstream.status < 400) {
+        const loc = upstream.headers.get("Location");
+        if (loc) {
+          currUrl = loc.startsWith("http") ? loc : new URL(loc, currUrl).href;
+          reqHeaders.delete("Cookie");
+          continue;
+        }
       }
-    }
+      if (upstream && upstream.status < 400) {
+        break;
+      }
+    } catch (e) {}
+
+    try {
+      const altHeaders = new Headers();
+      if (clientRequest && clientRequest.headers.get("Range")) {
+        altHeaders.set("Range", clientRequest.headers.get("Range"));
+      }
+      altHeaders.set("User-Agent", "VLC/3.0.18 LibVLC/3.0.18");
+      const altResp = await fetch(currUrl, { headers: altHeaders, redirect: "follow" });
+      if (altResp && altResp.ok) {
+        upstream = altResp;
+        break;
+      }
+    } catch (e) {}
+
     break;
+  }
+
+  if (!upstream || upstream.status >= 400) {
+    return redirectCors(currUrl || target);
   }
 
   const responseHeaders = new Headers();
