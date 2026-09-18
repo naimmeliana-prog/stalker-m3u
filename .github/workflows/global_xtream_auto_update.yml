@@ -99,7 +99,9 @@ jobs:
               PORTAL_CONFIG_PATH="${dir}config.json" python combine.py || true
             fi
           done
-          git add portals/
+          echo "[+] Combinando playlist global para ROOT..."
+          python combine.py || true
+          git add portals/ xtream/ global.m3u itv.m3u vod.m3u series.m3u || git add .
           git diff --cached --quiet || git commit -m "Global Xtream Auto Update: Actualizar global.m3u + Xtream JSONs ($(date -u +'%F %R UTC'))"
           for i in 1 2 3 4 5 6; do git push && exit 0 || (git pull --rebase -X theirs origin main; sleep 3); done; exit 1
 

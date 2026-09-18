@@ -480,7 +480,10 @@ export default {
             const streamIdMatch = match.match(/stream=([a-zA-Z0-9_-]+)/) || match.match(/\/(\d+)\./) || match.match(/\/(\d+)\b/);
             const sid = streamIdMatch ? streamIdMatch[1] : "";
             if (sid) {
-              return `${workerHost}/live/${pUser}/test1/${sid}.ts`;
+              let typePath = "live";
+              if (match.includes("/movie/") || match.includes("/vod/")) typePath = "movie";
+              else if (match.includes("/series/")) typePath = "series";
+              return `${workerHost}/${typePath}/${pUser}/test1/${sid}.ts`;
             }
             return match;
           });
@@ -534,6 +537,19 @@ export default {
       } catch (e) {}
 
       if (!target) {
+        for (const fallbackMap of ["live_urls.json", "vod_urls.json", "streams.json"]) {
+          if (fallbackMap === mapFile) continue;
+          try {
+            const urls = await fetchData(dataBase + fallbackMap, 600);
+            if (urls && urls[sid]) {
+              target = urls[sid];
+              break;
+            }
+          } catch (e) {}
+        }
+      }
+
+      if (!target) {
         return corsJson({}, 404);
       }
 
@@ -541,33 +557,36 @@ export default {
       let portal = "";
       let mac = "";
 
+      // 1. Try portal_map.json first (maps stream_id to specific portal name)
       try {
-        const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
-        const configRes = await fetch(configUrl);
-        if (configRes.ok) {
-          const config = await configRes.json();
-          portal = config.portal || "";
-          mac = config.mac || "";
+        const mapUrl = dataBase + "portal_map.json";
+        const pMap = await fetchData(mapUrl, 600);
+        const pName = pMap ? pMap[sid] : null;
+        if (pName) {
+          const root = dataBase.replace(/\/xtream\/?$/, "/");
+          const pCfgRes = await fetch(root + "portals/" + pName + "/config.json");
+          if (pCfgRes.ok) {
+            const pCfg = await pCfgRes.json();
+            portal = pCfg.portal || "";
+            mac = pCfg.mac || "";
+          }
         }
       } catch (e) {}
 
+      // 2. Fallback to dataBase config.json if portal or mac not found yet
       if (!portal || !mac) {
         try {
-          const mapUrl = dataBase.replace(/\/xtream\/?$/, "/portal_map.json");
-          const pMap = await fetchData(mapUrl, 600);
-          const pName = pMap[sid];
-          if (pName) {
-            const root = dataBase.replace(/\/xtream\/?$/, "/");
-            const pCfgRes = await fetch(root + "portals/" + pName + "/config.json");
-            if (pCfgRes.ok) {
-              const pCfg = await pCfgRes.json();
-              portal = pCfg.portal || "";
-              mac = pCfg.mac || "";
-            }
+          const configUrl = dataBase.replace(/\/xtream\/?$/, "/config.json");
+          const configRes = await fetch(configUrl);
+          if (configRes.ok) {
+            const config = await configRes.json();
+            portal = config.portal || "";
+            mac = config.mac || "";
           }
         } catch (e) {}
       }
 
+      // 3. Fallback to matching target host across all 9 portals
       if ((!portal || !mac) && target && target.startsWith("http")) {
         try {
           const targetHost = new URL(target).host;
