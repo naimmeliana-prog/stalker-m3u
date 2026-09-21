@@ -5097,11 +5097,11 @@ http://localhost/vod/1166174
 http://localhost/vod/1166237
 #EXTINF:-1 tvg-id="1166238" tvg-name="ES - Todo me lleva a ti (HQ) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlGrG9KCcDTGGHH8OWCfJWfEeU1.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - Todo me lleva a ti (HQ) (2023)
 http://localhost/vod/1166238
-#EXTINF:-1 tvg-id="1169169" tvg-name="ES - Alienoid: Regreso al futuro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gifUSfE1jtylu2vPmDZJSZI46nA.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Alienoid: Regreso al futuro (2024)
+#EXTINF:-1 tvg-id="1169169" tvg-name="ES - Alienoid: Regreso al futuro (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Alienoid: Regreso al futuro (2024)
 http://localhost/vod/1169169
-#EXTINF:-1 tvg-id="1169170" tvg-name="ES - Alumbramiento (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bohBCnCgymOi3dwBgEfESpEf29e.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Alumbramiento (2024)
+#EXTINF:-1 tvg-id="1169170" tvg-name="ES - Alumbramiento (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Alumbramiento (2024)
 http://localhost/vod/1169170
-#EXTINF:-1 tvg-id="1169171" tvg-name="ES - Aprender a soltar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKxpBxdrLqXlYKTemPuYL0Y30dV.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Aprender a soltar (2024)
+#EXTINF:-1 tvg-id="1169171" tvg-name="ES - Aprender a soltar (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Aprender a soltar (2024)
 http://localhost/vod/1169171
 #EXTINF:-1 tvg-id="1169172" tvg-name="ES - Aquello que me contaste (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJG9k1zDhZTSZyt3u1k6Swy4t5d.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - Aquello que me contaste (2023)
 http://localhost/vod/1169172
@@ -5497,25 +5497,25 @@ http://localhost/vod/1184520
 http://localhost/vod/1184521
 #EXTINF:-1 tvg-id="1184522" tvg-name="ES - Ferry 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIeHeuhxUpU7wWDqqo769s8D91s.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Ferry 2 (2024)
 http://localhost/vod/1184522
-#EXTINF:-1 tvg-id="1184523" tvg-name="ES - (Ho Ho Ho) Santa Homer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dg2f0K94eksauopGC2TUbJVruWM.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - (Ho Ho Ho) Santa Homer (2024)
+#EXTINF:-1 tvg-id="1184523" tvg-name="ES - (Ho Ho Ho) Santa Homer (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - (Ho Ho Ho) Santa Homer (2024)
 http://localhost/vod/1184523
-#EXTINF:-1 tvg-id="1184524" tvg-name="ES - La montaña que llevo dentro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRwlV2K8RKj9bJxPqVmEtjd1zAC.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - La montaña que llevo dentro (2024)
+#EXTINF:-1 tvg-id="1184524" tvg-name="ES - La montaña que llevo dentro (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - La montaña que llevo dentro (2024)
 http://localhost/vod/1184524
-#EXTINF:-1 tvg-id="1184525" tvg-name="ES - Minore (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGs5rO0RY91ncoHlO4WdHL4FwUI.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Minore (2024)
+#EXTINF:-1 tvg-id="1184525" tvg-name="ES - Minore (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Minore (2024)
 http://localhost/vod/1184525
-#EXTINF:-1 tvg-id="1184526" tvg-name="ES - Mision: Salvar el bosque (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/az74JlHFXMW2h0Ra26DbWpGeNn.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Mision: Salvar el bosque (2024)
+#EXTINF:-1 tvg-id="1184526" tvg-name="ES - Mision: Salvar el bosque (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Mision: Salvar el bosque (2024)
 http://localhost/vod/1184526
-#EXTINF:-1 tvg-id="1184527" tvg-name="ES - Navidad en familia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJDKonLxSHoJUm3GDu0XD2vyHlR.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Navidad en familia (2024)
+#EXTINF:-1 tvg-id="1184527" tvg-name="ES - Navidad en familia (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Navidad en familia (2024)
 http://localhost/vod/1184527
-#EXTINF:-1 tvg-id="1184528" tvg-name="ES - Odio el verano (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYGDR24XdGne6yr5uhG2waaHxDF.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Odio el verano (2024)
+#EXTINF:-1 tvg-id="1184528" tvg-name="ES - Odio el verano (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Odio el verano (2024)
 http://localhost/vod/1184528
 #EXTINF:-1 tvg-id="1184529" tvg-name="ES - Santa  eres tu? (HQ) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxw3PqYMJCagqYar723PnyVOvvz.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Santa, eres tu? (HQ) (2023)
 http://localhost/vod/1184529
-#EXTINF:-1 tvg-id="1184530" tvg-name="ES - Seis Triple Ocho (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Seis Triple Ocho (2024)
+#EXTINF:-1 tvg-id="1184530" tvg-name="ES - Seis Triple Ocho (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Seis Triple Ocho (2024)
 http://localhost/vod/1184530
-#EXTINF:-1 tvg-id="1184531" tvg-name="ES - Siempre jóvenes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDFuyTDG4L0HJ3PqjFjBCv1Ap78.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Siempre jóvenes (2024)
+#EXTINF:-1 tvg-id="1184531" tvg-name="ES - Siempre jóvenes (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Siempre jóvenes (2024)
 http://localhost/vod/1184531
-#EXTINF:-1 tvg-id="1184533" tvg-name="ES - El cuervo (LQ) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUUx4kN6uCvXnjGWOv79gUBxdYE.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - El cuervo (LQ) (2024)
+#EXTINF:-1 tvg-id="1184533" tvg-name="ES - El cuervo (LQ) (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - El cuervo (LQ) (2024)
 http://localhost/vod/1184533
 #EXTINF:-1 tvg-id="1184534" tvg-name="FR - A Christmas Prince : The Royal Wedding (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bLQTbFWrsunSVQsvOWZAAGACbf.jpg" group-title="FR| VOD - OTHERS [FR]",FR - A Christmas Prince : The Royal Wedding (2018)
 http://localhost/vod/1184534
@@ -5553,17 +5553,17 @@ http://localhost/vod/1184549
 http://localhost/vod/1184550
 #EXTINF:-1 tvg-id="1184551" tvg-name="FR - V pour Vendetta (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HFt1jyjZD3MssiyNPJLToqGd1v.jpg" group-title="FR| VOD - OTHERS [FR]",FR - V pour Vendetta (2006)
 http://localhost/vod/1184551
-#EXTINF:-1 tvg-id="1185442" tvg-name="ES - El despertar de la bestia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yL3zTOAGPExxBDT8mmo62CNj08g.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - El despertar de la bestia (2024)
+#EXTINF:-1 tvg-id="1185442" tvg-name="ES - El despertar de la bestia (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - El despertar de la bestia (2024)
 http://localhost/vod/1185442
-#EXTINF:-1 tvg-id="1185443" tvg-name="ES - Gladiator II (HQ (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Gladiator II (HQ (2024)
+#EXTINF:-1 tvg-id="1185443" tvg-name="ES - Gladiator II (HQ (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Gladiator II (HQ (2024)
 http://localhost/vod/1185443
-#EXTINF:-1 tvg-id="1185444" tvg-name="ES - La hora del silencio (HQ) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOCPjP1kPxfn4PFwbpMlOzedjNW.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - La hora del silencio (HQ) (2024)
+#EXTINF:-1 tvg-id="1185444" tvg-name="ES - La hora del silencio (HQ) (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - La hora del silencio (HQ) (2024)
 http://localhost/vod/1185444
 #EXTINF:-1 tvg-id="1185445" tvg-name="ES - Monsternado (HQ) (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txA4srjcxa4HiWEaMyrNtWHbR5a.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - Monsternado (HQ) (2023)
 http://localhost/vod/1185445
-#EXTINF:-1 tvg-id="1185467" tvg-name="ES - Alice (Subservience) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv4uKiEC91eePxpqiiHUlwpph2t.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Alice (Subservience) (2024)
+#EXTINF:-1 tvg-id="1185467" tvg-name="ES - Alice (Subservience) (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Alice (Subservience) (2024)
 http://localhost/vod/1185467
-#EXTINF:-1 tvg-id="1185468" tvg-name="ES - Gladiator II (LQ) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Gladiator II (LQ) (2024)
+#EXTINF:-1 tvg-id="1185468" tvg-name="ES - Gladiator II (LQ) (2024)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - Gladiator II (LQ) (2024)
 http://localhost/vod/1185468
 #EXTINF:-1 tvg-id="1185469" tvg-name="ES - The Beast Within (HQ) (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RgP9K7HBekNbW6TimYroSrzYay.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - The Beast Within (HQ) (2024)
 http://localhost/vod/1185469
@@ -7553,11 +7553,11 @@ http://localhost/vod/1413868
 http://localhost/vod/1414285
 #EXTINF:-1 tvg-id="1414287" tvg-name="FR - Very Bad Trip 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxMt5EMcyZYQZo3WAEJvGulM7bf.jpg" group-title="FR| VOD - COMEDIE [FR]",FR - Very Bad Trip 2 (2011)
 http://localhost/vod/1414287
-#EXTINF:-1 tvg-id="1414743" tvg-name="ES - ecretos del deporte: Los escandalosos Portland Jail Blazers (2026)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - ecretos del deporte: Los escandalosos Portland Jail Blazers (2026)
+#EXTINF:-1 tvg-id="1414743" tvg-name="ES - ecretos del deporte: Los escandalosos Portland Jail Blazers (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmp45llJTRr6JLaIamt3RlfxgTH.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - ecretos del deporte: Los escandalosos Portland Jail Blazers (2026)
 http://localhost/vod/1414743
-#EXTINF:-1 tvg-id="1414744" tvg-name="ES - The Surfer (2025)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - The Surfer (2025)
+#EXTINF:-1 tvg-id="1414744" tvg-name="ES - The Surfer (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7wiyOWRLkdLbPDprpiUCtWkLmh.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - The Surfer (2025)
 http://localhost/vod/1414744
-#EXTINF:-1 tvg-id="1414745" tvg-name="ES - La Ultima Oportunidad (2026)" tvg-logo="" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - La Ultima Oportunidad (2026)
+#EXTINF:-1 tvg-id="1414745" tvg-name="ES - La Ultima Oportunidad (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb4LVBH7hl6ML3UmoNbjBp6dfxB.jpg" group-title="ES| VOD - NUEVO 2024/2026 [ES]",ES - La Ultima Oportunidad (2026)
 http://localhost/vod/1414745
 #EXTINF:-1 tvg-id="1416175" tvg-name="FR - La Chute du Président (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8h0ACHWTjv2cdwiMZ5t3zEvs0f8.jpg" group-title="FR| VOD - ACTION [FR]",FR - La Chute du Président (2019)
 http://localhost/vod/1416175
@@ -12747,55 +12747,55 @@ http://localhost/vod/832395
 http://localhost/vod/832396
 #EXTINF:-1 tvg-id="832397" tvg-name="De caza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKbAWHy6JGl1Hk2M9Vc8GUP2eLS.jpg" group-title="ES| VOD - SPAIN [ES]",De caza (2022)
 http://localhost/vod/832397
-#EXTINF:-1 tvg-id="832398" tvg-name="Dentro del campo (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",Dentro del campo (2022)
+#EXTINF:-1 tvg-id="832398" tvg-name="Dentro del campo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adNruVO37lpQRgjGqYOoWusmP3B.jpg" group-title="ES| VOD - SPAIN [ES]",Dentro del campo (2022)
 http://localhost/vod/832398
-#EXTINF:-1 tvg-id="832400" tvg-name="Dos son multitud (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",Dos son multitud (2022)
+#EXTINF:-1 tvg-id="832400" tvg-name="Dos son multitud (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGWzaluCQBoLpfO1aXcSkRlm6k7.jpg" group-title="ES| VOD - SPAIN [ES]",Dos son multitud (2022)
 http://localhost/vod/832400
-#EXTINF:-1 tvg-id="832401" tvg-name="El cuartel secreto (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",El cuartel secreto (2022)
+#EXTINF:-1 tvg-id="832401" tvg-name="El cuartel secreto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpH62pdEhkeXnbj4qchqz4QssuR.jpg" group-title="ES| VOD - SPAIN [ES]",El cuartel secreto (2022)
 http://localhost/vod/832401
-#EXTINF:-1 tvg-id="832403" tvg-name="El último paciente (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",El último paciente (2022)
+#EXTINF:-1 tvg-id="832403" tvg-name="El último paciente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vev4WurrfjEERunJxPADnxBWxp.jpg" group-title="ES| VOD - SPAIN [ES]",El último paciente (2022)
 http://localhost/vod/832403
-#EXTINF:-1 tvg-id="832404" tvg-name="ES - En las nubes - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - En las nubes - (2022)
+#EXTINF:-1 tvg-id="832404" tvg-name="ES - En las nubes - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bPOSGomYlnR640qwAt41QkaCpI.jpg" group-title="ES| VOD - SPAIN [ES]",ES - En las nubes - (2022)
 http://localhost/vod/832404
-#EXTINF:-1 tvg-id="832405" tvg-name="ES - Halloween El final - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Halloween El final - (2022)
+#EXTINF:-1 tvg-id="832405" tvg-name="ES - Halloween El final - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/licjj6TbWOaT2KhtK66zRhMLRt.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Halloween El final - (2022)
 http://localhost/vod/832405
 #EXTINF:-1 tvg-id="832407" tvg-name="ES - La Mancha Negra - (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Y2f6cmoDmvgfP5tYX9pMXya08X.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - La Mancha Negra - (2021)
 http://localhost/vod/832407
-#EXTINF:-1 tvg-id="832408" tvg-name="ES - La piel del tambor - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - La piel del tambor - (2022)
+#EXTINF:-1 tvg-id="832408" tvg-name="ES - La piel del tambor - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54K50ZMjfa7pQhq0lVZeSFQ8SIH.jpg" group-title="ES| VOD - SPAIN [ES]",ES - La piel del tambor - (2022)
 http://localhost/vod/832408
-#EXTINF:-1 tvg-id="832409" tvg-name="ES - La traición de Huda - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - La traición de Huda - (2022)
+#EXTINF:-1 tvg-id="832409" tvg-name="ES - La traición de Huda - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwHnvpUOvNyXkSrbS6MNQc3XB1V.jpg" group-title="ES| VOD - SPAIN [ES]",ES - La traición de Huda - (2022)
 http://localhost/vod/832409
-#EXTINF:-1 tvg-id="832410" tvg-name="ES - Libélulas - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Libélulas - (2022)
+#EXTINF:-1 tvg-id="832410" tvg-name="ES - Libélulas - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdh500AAzDwbJtR82UOkdgJekGT.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Libélulas - (2022)
 http://localhost/vod/832410
-#EXTINF:-1 tvg-id="832412" tvg-name="ES - Mad Heidi - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Mad Heidi - (2022)
+#EXTINF:-1 tvg-id="832412" tvg-name="ES - Mad Heidi - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhCUIKjo4K7m6FlbjDa7v17KaiE.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Mad Heidi - (2022)
 http://localhost/vod/832412
-#EXTINF:-1 tvg-id="832413" tvg-name="ES - Matilda  de Roald Dahl El musical - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Matilda, de Roald Dahl El musical - (2022)
+#EXTINF:-1 tvg-id="832413" tvg-name="ES - Matilda  de Roald Dahl El musical - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iUkSvlCnYdyl9tSKexwHK9Mo8p.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Matilda, de Roald Dahl El musical - (2022)
 http://localhost/vod/832413
 #EXTINF:-1 tvg-id="832414" tvg-name="ES - Mi pequeño león blanco - (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Llw9iGzmObrbdv5CAeb3DYVXdv.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - Mi pequeño león blanco - (2021)
 http://localhost/vod/832414
-#EXTINF:-1 tvg-id="832415" tvg-name="ES - Monstrous - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Monstrous - (2022)
+#EXTINF:-1 tvg-id="832415" tvg-name="ES - Monstrous - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec3aX4DyjepEhPkpIUukaBxKpN3.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Monstrous - (2022)
 http://localhost/vod/832415
 #EXTINF:-1 tvg-id="832416" tvg-name="ES - Mundo extraño - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAZ95yy7rLnGgaIyqCvPSnsomDU.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Mundo extraño - (2022)
 http://localhost/vod/832416
-#EXTINF:-1 tvg-id="832417" tvg-name="ES - Nadia  mariposa - (2020)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Nadia, mariposa - (2020)
+#EXTINF:-1 tvg-id="832417" tvg-name="ES - Nadia  mariposa - (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsM2pUufWItzjWFpcv48pNEc0OI.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Nadia, mariposa - (2020)
 http://localhost/vod/832417
-#EXTINF:-1 tvg-id="832418" tvg-name="ES - Pinocho de Guillermo del Toro - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Pinocho de Guillermo del Toro - (2022)
+#EXTINF:-1 tvg-id="832418" tvg-name="ES - Pinocho de Guillermo del Toro - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Pinocho de Guillermo del Toro - (2022)
 http://localhost/vod/832418
-#EXTINF:-1 tvg-id="832419" tvg-name="ES - Polvo y cenizas - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Polvo y cenizas - (2022)
+#EXTINF:-1 tvg-id="832419" tvg-name="ES - Polvo y cenizas - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR9cX3vddgUs59SEaEmkvTvZ2sc.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Polvo y cenizas - (2022)
 http://localhost/vod/832419
-#EXTINF:-1 tvg-id="832421" tvg-name="ES - Ramona - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Ramona - (2022)
+#EXTINF:-1 tvg-id="832421" tvg-name="ES - Ramona - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2rrZrhDq9BhaBelbmj0u0z9S7p.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Ramona - (2022)
 http://localhost/vod/832421
-#EXTINF:-1 tvg-id="832422" tvg-name="ES - Resurrección - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Resurrección - (2022)
+#EXTINF:-1 tvg-id="832422" tvg-name="ES - Resurrección - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIysyh8a77RlwikXLwaLgIZprsU.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Resurrección - (2022)
 http://localhost/vod/832422
-#EXTINF:-1 tvg-id="832424" tvg-name="ES - Trayecto infernal - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Trayecto infernal - (2022)
+#EXTINF:-1 tvg-id="832424" tvg-name="ES - Trayecto infernal - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca0URmLciw4rZgjWU6y2nOapyGU.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Trayecto infernal - (2022)
 http://localhost/vod/832424
-#EXTINF:-1 tvg-id="832425" tvg-name="ES - Una Navidad a medida - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Una Navidad a medida - (2022)
+#EXTINF:-1 tvg-id="832425" tvg-name="ES - Una Navidad a medida - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQB1kzBW8oYlQWTTAf6xg8ajXKY.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Una Navidad a medida - (2022)
 http://localhost/vod/832425
-#EXTINF:-1 tvg-id="832426" tvg-name="ES - Una Noche En Bangkok - (2020)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Una Noche En Bangkok - (2020)
+#EXTINF:-1 tvg-id="832426" tvg-name="ES - Una Noche En Bangkok - (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K2uP9uhxVDYteUQLHhLUvEXbzL.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Una Noche En Bangkok - (2020)
 http://localhost/vod/832426
-#EXTINF:-1 tvg-id="832427" tvg-name="ES - Una Noche En La Escuela - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Una Noche En La Escuela - (2022)
+#EXTINF:-1 tvg-id="832427" tvg-name="ES - Una Noche En La Escuela - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzSLMd7xVD3NLXvPEzLvOC0x8v7.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Una Noche En La Escuela - (2022)
 http://localhost/vod/832427
-#EXTINF:-1 tvg-id="832428" tvg-name="ES - Weird La Historia de Al Yankovic - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Weird La Historia de Al Yankovic - (2022)
+#EXTINF:-1 tvg-id="832428" tvg-name="ES - Weird La Historia de Al Yankovic - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP8JKhJLCp1lXTm2T7aPLwJ0VVX.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Weird La Historia de Al Yankovic - (2022)
 http://localhost/vod/832428
 #EXTINF:-1 tvg-id="832477" tvg-name="FR - Diabolik (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4z9t1XvgHaXN070Eq48PpWehVr8.jpg" group-title="FR| VOD - OTHERS [FR]",FR - Diabolik (2021)
 http://localhost/vod/832477
@@ -12837,17 +12837,17 @@ http://localhost/vod/837539
 http://localhost/vod/837540
 #EXTINF:-1 tvg-id="837541" tvg-name="FR - Un monde meilleur (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUxBr7IJerxpmUa7AEO3hEhwLDx.jpg" group-title="FR| VOD - OTHERS [FR]",FR - Un monde meilleur (2000)
 http://localhost/vod/837541
-#EXTINF:-1 tvg-id="838113" tvg-name="ES - 10 Minutos menos - (2019)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - 10 Minutos menos - (2019)
+#EXTINF:-1 tvg-id="838113" tvg-name="ES - 10 Minutos menos - (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2AvUEMUZHvlDPpSi5YOjNz0ox6.jpg" group-title="ES| VOD - SPAIN [ES]",ES - 10 Minutos menos - (2019)
 http://localhost/vod/838113
-#EXTINF:-1 tvg-id="838114" tvg-name="ES - 42 - (2019)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - 42 - (2019)
+#EXTINF:-1 tvg-id="838114" tvg-name="ES - 42 - (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2iFqb1BC8VNqHj6yLQLud4MTj4.jpg" group-title="ES| VOD - SPAIN [ES]",ES - 42 - (2019)
 http://localhost/vod/838114
-#EXTINF:-1 tvg-id="838117" tvg-name="ES - Abandonada - (2010)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Abandonada - (2010)
+#EXTINF:-1 tvg-id="838117" tvg-name="ES - Abandonada - (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYMxY3m5P4ygVFRQ0UaS1uf8gUH.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Abandonada - (2010)
 http://localhost/vod/838117
 #EXTINF:-1 tvg-id="838118" tvg-name="ES - Al sur del cielo - (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjwer7ZmLCaPV6eTBbCYBQbyCh0.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - Al sur del cielo - (2021)
 http://localhost/vod/838118
-#EXTINF:-1 tvg-id="838120" tvg-name="ES - Cajas oscuras - (2020)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Cajas oscuras - (2020)
+#EXTINF:-1 tvg-id="838120" tvg-name="ES - Cajas oscuras - (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Cajas oscuras - (2020)
 http://localhost/vod/838120
-#EXTINF:-1 tvg-id="838121" tvg-name="ES - Contacto sangriento - (1988)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Contacto sangriento - (1988)
+#EXTINF:-1 tvg-id="838121" tvg-name="ES - Contacto sangriento - (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxD09NPHYthJNO8KbiYmpS01CwE.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Contacto sangriento - (1988)
 http://localhost/vod/838121
 #EXTINF:-1 tvg-id="838123" tvg-name="ES - Darkness - (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exr5xYRHbj200Y3SxMDGfcT6zla.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Darkness - (2002)
 http://localhost/vod/838123
@@ -13025,25 +13025,25 @@ http://localhost/vod/843340
 http://localhost/vod/843341
 #EXTINF:-1 tvg-id="843342" tvg-name="FR - Seven Sisters (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOuklSmOvDJmznqV6aRF1tcDzyw.jpg" group-title="FR| VOD - ACTION [FR]",FR - Seven Sisters (2017)
 http://localhost/vod/843342
-#EXTINF:-1 tvg-id="844964" tvg-name="ES - Como el buen vino (2019)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Como el buen vino (2019)
+#EXTINF:-1 tvg-id="844964" tvg-name="ES - Como el buen vino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1YyaPqZjqptIo8d3nat6bRvlZv.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Como el buen vino (2019)
 http://localhost/vod/844964
-#EXTINF:-1 tvg-id="844965" tvg-name="ES - El peor trabajo de mi vida - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - El peor trabajo de mi vida - (2022)
+#EXTINF:-1 tvg-id="844965" tvg-name="ES - El peor trabajo de mi vida - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS62Wbe5fHnk0X6MEzuJdGuRlni.jpg" group-title="ES| VOD - SPAIN [ES]",ES - El peor trabajo de mi vida - (2022)
 http://localhost/vod/844965
-#EXTINF:-1 tvg-id="844966" tvg-name="ES - El vasco - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - El vasco - (2022)
+#EXTINF:-1 tvg-id="844966" tvg-name="ES - El vasco - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioWDr1uYJAxg90FuVoT0X7h4JQc.jpg" group-title="ES| VOD - SPAIN [ES]",ES - El vasco - (2022)
 http://localhost/vod/844966
-#EXTINF:-1 tvg-id="844967" tvg-name="ES - El último Vermeer - (2020)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - El último Vermeer - (2020)
+#EXTINF:-1 tvg-id="844967" tvg-name="ES - El último Vermeer - (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwytM352938TYwtixVUehtb2vzL.jpg" group-title="ES| VOD - SPAIN [ES]",ES - El último Vermeer - (2020)
 http://localhost/vod/844967
 #EXTINF:-1 tvg-id="844968" tvg-name="ES - En los márgenes - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5LEM0kbhLfiKX9001vjb8tYlcD.jpg" group-title="ES| VOD - PRIME+ [ES]",ES - En los márgenes - (2022)
 http://localhost/vod/844968
 #EXTINF:-1 tvg-id="844970" tvg-name="ES - Heredero - (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnZUG1B9c9GFSkRrDiKBz779Mna.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - Heredero - (2021)
 http://localhost/vod/844970
-#EXTINF:-1 tvg-id="844971" tvg-name="ES - Hoosiers más que ídolos - (1986)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Hoosiers más que ídolos - (1986)
+#EXTINF:-1 tvg-id="844971" tvg-name="ES - Hoosiers más que ídolos - (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eExG5qNAMdrbUD8tByWB25cr8wl.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Hoosiers más que ídolos - (1986)
 http://localhost/vod/844971
-#EXTINF:-1 tvg-id="844972" tvg-name="ES - Jack Reacher - (2012)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Jack Reacher - (2012)
+#EXTINF:-1 tvg-id="844972" tvg-name="ES - Jack Reacher - (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14AUhr2kryo1NZiFQ2HPkT2tKvg.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Jack Reacher - (2012)
 http://localhost/vod/844972
-#EXTINF:-1 tvg-id="844973" tvg-name="ES - Jethica - (2023)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Jethica - (2023)
+#EXTINF:-1 tvg-id="844973" tvg-name="ES - Jethica - (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJgsvHJZvfuAJOf3GjcQqK8o1Va.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Jethica - (2023)
 http://localhost/vod/844973
-#EXTINF:-1 tvg-id="844974" tvg-name="ES - L'immensità - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - L'immensità - (2022)
+#EXTINF:-1 tvg-id="844974" tvg-name="ES - L'immensità - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzAqOajcd9okGnFGtxrpEPSZ53C.jpg" group-title="ES| VOD - SPAIN [ES]",ES - L'immensità - (2022)
 http://localhost/vod/844974
 #EXTINF:-1 tvg-id="844975" tvg-name="ES - Jabberwocky - (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upzQCJCFX2tBrWQIRPuibWbzPWm.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Jabberwocky - (1977)
 http://localhost/vod/844975
@@ -13059,7 +13059,7 @@ http://localhost/vod/844979
 http://localhost/vod/844980
 #EXTINF:-1 tvg-id="844981" tvg-name="ES - The Comeback Trail - (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9kj4YAkDUDM7a4B485kMz0LyRb.jpg" group-title="ES| VOD - SPAIN [ES]",ES - The Comeback Trail - (2020)
 http://localhost/vod/844981
-#EXTINF:-1 tvg-id="844982" tvg-name="ES - Loca academia de policía - (1984)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Loca academia de policía - (1984)
+#EXTINF:-1 tvg-id="844982" tvg-name="ES - Loca academia de policía - (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmphZLnqARmCvjFvYkBAMhlsmNl.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Loca academia de policía - (1984)
 http://localhost/vod/844982
 #EXTINF:-1 tvg-id="844983" tvg-name="ES - Lupin The 3rd vs. Cat’s Eye - (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GK9LTdgd0qTbhFkS630bk1qaE0.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Lupin The 3rd vs. Cat’s Eye - (2023)
 http://localhost/vod/844983
@@ -13067,17 +13067,17 @@ http://localhost/vod/844983
 http://localhost/vod/844984
 #EXTINF:-1 tvg-id="844985" tvg-name="ES - Paradise City - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdmmd437QdjcCls8yCQxrH5YYM4.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Paradise City - (2022)
 http://localhost/vod/844985
-#EXTINF:-1 tvg-id="844986" tvg-name="ES - That Ritual Thing - (2023)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - That Ritual Thing - (2023)
+#EXTINF:-1 tvg-id="844986" tvg-name="ES - That Ritual Thing - (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKSFHwlWWyDIGIgMhY1j9JQtsDe.jpg" group-title="ES| VOD - SPAIN [ES]",ES - That Ritual Thing - (2023)
 http://localhost/vod/844986
-#EXTINF:-1 tvg-id="844987" tvg-name="ES - The King's Man - (2021)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - The King's Man - (2021)
+#EXTINF:-1 tvg-id="844987" tvg-name="ES - The King's Man - (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj5HmHRZsrYQEYYXyAusFv35erP.jpg" group-title="ES| VOD - SPAIN [ES]",ES - The King's Man - (2021)
 http://localhost/vod/844987
-#EXTINF:-1 tvg-id="844988" tvg-name="ES - Todo incluido - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Todo incluido - (2022)
+#EXTINF:-1 tvg-id="844988" tvg-name="ES - Todo incluido - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iUQDhChLLHZ6ku3P1l38BVWgrf.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Todo incluido - (2022)
 http://localhost/vod/844988
 #EXTINF:-1 tvg-id="844989" tvg-name="ES - Ride the Eagle - (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLQk1rKQ6dZOle3ElEFIIche6O4.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - Ride the Eagle - (2021)
 http://localhost/vod/844989
 #EXTINF:-1 tvg-id="844990" tvg-name="ES - Última noche en el Soho (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eSJJsBZ00qMyoWLe98ulNGvGbC.jpg" group-title="ES| VOD - PELICULAS 2020/2023 [ES]",ES - Última noche en el Soho (2021)
 http://localhost/vod/844990
-#EXTINF:-1 tvg-id="845036" tvg-name="ES - Black Panther: Wakanda Forever - (2022)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Black Panther: Wakanda Forever - (2022)
+#EXTINF:-1 tvg-id="845036" tvg-name="ES - Black Panther: Wakanda Forever - (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0zCwTLgEPNQkPQM452scIo99fL.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Black Panther: Wakanda Forever - (2022)
 http://localhost/vod/845036
 #EXTINF:-1 tvg-id="845070" tvg-name="FR - Amityville : La Maison du diable (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qr9hxDtzXT0FnWqvL8c6Mc0WMQl.jpg" group-title="FR| VOD - OTHERS [FR]",FR - Amityville : La Maison du diable (1979)
 http://localhost/vod/845070
@@ -13113,7 +13113,7 @@ http://localhost/vod/846028
 http://localhost/vod/846030
 #EXTINF:-1 tvg-id="846031" tvg-name="FR - Tony Robbins : I Am Not Your Guru (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmDvMAjePKhcxAfbNvVUDqld779.jpg" group-title="FR| VOD - OTHERS [FR]",FR - Tony Robbins : I Am Not Your Guru (2016)
 http://localhost/vod/846031
-#EXTINF:-1 tvg-id="851135" tvg-name="ES - Hotel Bombay (2019)" tvg-logo="" group-title="ES| VOD - SPAIN [ES]",ES - Hotel Bombay (2019)
+#EXTINF:-1 tvg-id="851135" tvg-name="ES - Hotel Bombay (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xehGSPoQd4xpEqzUATzmQbZ5Q1.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Hotel Bombay (2019)
 http://localhost/vod/851135
 #EXTINF:-1 tvg-id="851136" tvg-name="ES - Loca academia de policía 2: Su primera misión (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oddoFLwlVk96dpMSSWU2rrGhIS.jpg" group-title="ES| VOD - SPAIN [ES]",ES - Loca academia de policía 2: Su primera misión (1985)
 http://localhost/vod/851136
@@ -14241,8 +14241,6 @@ http://localhost/vod/896068
 http://localhost/vod/896069
 #EXTINF:-1 tvg-id="896070" tvg-name="FR - Darkest Minds : Rébellion (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twsr7AXxiyv9RWghk2X1gpD59oG.jpg" group-title="FR| VOD - OTHERS [FR]",FR - Darkest Minds : Rébellion (2018)
 http://localhost/vod/896070
-#EXTINF:-1 tvg-id="896071" tvg-name="FR - Le Fondateur (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF9aeDZ1fvz4bw8c1JlVXmL69le.jpg" group-title="FR| VOD - OTHERS [FR]",FR - Le Fondateur (2016)
-http://localhost/vod/896071
 #EXTINF:-1 tvg-id="896072" tvg-name="FR - Le diable n'existe pas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76KOnyPgy9H8kvucg85So5gCKLl.jpg" group-title="FR| VOD - OTHERS [FR]",FR - Le diable n'existe pas (2020)
 http://localhost/vod/896072
 #EXTINF:-1 tvg-id="896073" tvg-name="FR - UFO Sweden (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjmfpH5tMvhiERNcegHuFI6xN5c.jpg" group-title="FR| VOD - OTHERS [FR]",FR - UFO Sweden (2022)
