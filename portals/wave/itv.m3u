@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="10150" tvg-name="CANAL+ SPORT HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT HD
-http://localhost/ch/10150_
 #EXTINF:-1 tvg-id="10199" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports1.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 1 HD
 http://localhost/ch/10199_
 #EXTINF:-1 tvg-id="10200" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports2.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 2 HD
@@ -65,40 +63,6 @@ http://localhost/ch/1201176_
 http://localhost/ch/1201177_
 #EXTINF:-1 tvg-id="1201178" tvg-name="LIGUE 1+ 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+2.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 2 HD
 http://localhost/ch/1201178_
-#EXTINF:-1 tvg-id="1204921" tvg-name="CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalpluspremierleague.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ PREMIER LEAGUE FHD
-http://localhost/ch/1204921_
-#EXTINF:-1 tvg-id="1207218" tvg-name="CANAL+ LIVE 16 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 16 FHD
-http://localhost/ch/1207218_
-#EXTINF:-1 tvg-id="1207219" tvg-name="CANAL+ LIVE 15 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 15 FHD
-http://localhost/ch/1207219_
-#EXTINF:-1 tvg-id="1207220" tvg-name="CANAL+ LIVE 14 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 14 FHD
-http://localhost/ch/1207220_
-#EXTINF:-1 tvg-id="1207221" tvg-name="CANAL+ LIVE 13 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 13 FHD
-http://localhost/ch/1207221_
-#EXTINF:-1 tvg-id="1207222" tvg-name="CANAL+ LIVE 12 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 12 FHD
-http://localhost/ch/1207222_
-#EXTINF:-1 tvg-id="1207223" tvg-name="CANAL+ LIVE 11 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 11 FHD
-http://localhost/ch/1207223_
-#EXTINF:-1 tvg-id="1207224" tvg-name="CANAL+ LIVE 10 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 10 FHD
-http://localhost/ch/1207224_
-#EXTINF:-1 tvg-id="1207225" tvg-name="CANAL+ LIVE 9 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 9 FHD
-http://localhost/ch/1207225_
-#EXTINF:-1 tvg-id="1207226" tvg-name="CANAL+ LIVE 8 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 8 FHD
-http://localhost/ch/1207226_
-#EXTINF:-1 tvg-id="1207227" tvg-name="CANAL+ LIVE 7 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 7 FHD
-http://localhost/ch/1207227_
-#EXTINF:-1 tvg-id="1207228" tvg-name="CANAL+ LIVE 6 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 6 FHD
-http://localhost/ch/1207228_
-#EXTINF:-1 tvg-id="1207229" tvg-name="CANAL+ LIVE 5 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 5 FHD
-http://localhost/ch/1207229_
-#EXTINF:-1 tvg-id="1207230" tvg-name="CANAL+ LIVE 4 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 4 FHD
-http://localhost/ch/1207230_
-#EXTINF:-1 tvg-id="1207231" tvg-name="CANAL+ LIVE 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 3 FHD
-http://localhost/ch/1207231_
-#EXTINF:-1 tvg-id="1207232" tvg-name="CANAL+ LIVE 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 2 FHD
-http://localhost/ch/1207232_
-#EXTINF:-1 tvg-id="1207233" tvg-name="CANAL+ LIVE 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 1 FHD
-http://localhost/ch/1207233_
 #EXTINF:-1 tvg-id="1209193" tvg-name="LIGUE 1+ 4 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+4.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 4 SD
 http://localhost/ch/1209193_
 #EXTINF:-1 tvg-id="1209194" tvg-name="LIGUE 1+ 6 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+6.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 6 SD
@@ -123,30 +87,6 @@ http://localhost/ch/1339058_
 http://localhost/ch/1339059_
 #EXTINF:-1 tvg-id="1339060" tvg-name="DAZN LIGUE 1+ SPORT HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/BE/DAZN.png" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN LIGUE 1+ SPORT HD
 http://localhost/ch/1339060_
-#EXTINF:-1 tvg-id="1342948" tvg-name="CANAL+ LIVE 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 1 HD
-http://localhost/ch/1342948_
-#EXTINF:-1 tvg-id="1342950" tvg-name="CANAL+ LIVE 1 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 1 SD
-http://localhost/ch/1342950_
-#EXTINF:-1 tvg-id="1343513" tvg-name="CANAL+ LIVE 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 2 HD
-http://localhost/ch/1343513_
-#EXTINF:-1 tvg-id="1343514" tvg-name="CANAL+ LIVE 2 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 2 SD
-http://localhost/ch/1343514_
-#EXTINF:-1 tvg-id="1343515" tvg-name="CANAL+ LIVE 3 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 3 HD
-http://localhost/ch/1343515_
-#EXTINF:-1 tvg-id="1343516" tvg-name="CANAL+ LIVE 3 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 3 SD
-http://localhost/ch/1343516_
-#EXTINF:-1 tvg-id="1343530" tvg-name="CANAL+ LIVE 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 4 HD
-http://localhost/ch/1343530_
-#EXTINF:-1 tvg-id="1343531" tvg-name="CANAL+ LIVE 4 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 4 SD
-http://localhost/ch/1343531_
-#EXTINF:-1 tvg-id="1343532" tvg-name="CANAL+ LIVE 5 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 5 HD
-http://localhost/ch/1343532_
-#EXTINF:-1 tvg-id="1343533" tvg-name="CANAL+ LIVE 5 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 5 SD
-http://localhost/ch/1343533_
-#EXTINF:-1 tvg-id="1343534" tvg-name="CANAL+ LIVE 6 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 6 HD
-http://localhost/ch/1343534_
-#EXTINF:-1 tvg-id="1343535" tvg-name="CANAL+ LIVE 6 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/CANALPLUSLIVE.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ LIVE 6 SD
-http://localhost/ch/1343535_
 #EXTINF:-1 tvg-id="1345390" tvg-name="DAZN BETCLIC EVENT 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BETCLIC.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN BETCLIC EVENT 1 FHD
 http://localhost/ch/1345390_
 #EXTINF:-1 tvg-id="1345391" tvg-name="DAZN BETCLIC EVENT 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BETCLIC.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",DAZN BETCLIC EVENT 2 FHD
@@ -209,16 +149,6 @@ http://localhost/ch/19975_
 http://localhost/ch/238228_
 #EXTINF:-1 tvg-id="238232" tvg-name="•●★★BEIN SPORTS •●★★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/BEINSPORT.png" group-title="FR| BEIN_RMC  SPORT",•●★★BEIN SPORTS •●★★
 http://localhost/ch/238232_
-#EXTINF:-1 tvg-id="238233" tvg-name="•●★★CANAL+ SPORTS •●★★" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport.png" group-title="FR| CANAL+ LIVE SPORT",•●★★CANAL+ SPORTS •●★★
-http://localhost/ch/238233_
-#EXTINF:-1 tvg-id="650656" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusfoot.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ FOOT FHD
-http://localhost/ch/650656_
-#EXTINF:-1 tvg-id="650658" tvg-name="CANAL+ FOOT HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusfoot.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ FOOT HD
-http://localhost/ch/650658_
-#EXTINF:-1 tvg-id="650659" tvg-name="CANAL+ SPORT 360 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport360.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 360 HD
-http://localhost/ch/650659_
-#EXTINF:-1 tvg-id="650735" tvg-name="CANAL+ FOOT SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplusfoot.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ FOOT SD
-http://localhost/ch/650735_
 #EXTINF:-1 tvg-id="715486" tvg-name="LIGUE 1+ 3 SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/LIGUE1+3.jpg" group-title="FR| SPORTS & LIGUES 1 + FHD-HD",LIGUE 1+ 3 SD
 http://localhost/ch/715486_
 #EXTINF:-1 tvg-id="716296" tvg-name="RMC SPORT LIVE 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive4.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 4 HD
@@ -229,22 +159,6 @@ http://localhost/ch/716297_
 http://localhost/ch/716298_
 #EXTINF:-1 tvg-id="716299" tvg-name="RMC SPORT LIVE 3 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/rmcsportlive3.png" group-title="FR| BEIN_RMC  SPORT",RMC SPORT LIVE 3 FHD
 http://localhost/ch/716299_
-#EXTINF:-1 tvg-id="716550" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT FHD
-http://localhost/ch/716550_
-#EXTINF:-1 tvg-id="716551" tvg-name="CANAL+ SPORT SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT SD
-http://localhost/ch/716551_
-#EXTINF:-1 tvg-id="782382" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AF/canalplussport1.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 1 HD
-http://localhost/ch/782382_
-#EXTINF:-1 tvg-id="782384" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AF/canalplussport2.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 2 HD
-http://localhost/ch/782384_
-#EXTINF:-1 tvg-id="782385" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AF/canalplussport3.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 3 HD
-http://localhost/ch/782385_
-#EXTINF:-1 tvg-id="782386" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AF/canalplussport4.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 4 HD
-http://localhost/ch/782386_
-#EXTINF:-1 tvg-id="782387" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/AF/canalplussport5.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 5 HD
-http://localhost/ch/782387_
-#EXTINF:-1 tvg-id="9658" tvg-name="CANAL+ SPORT 360 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/canalplussport360.png" group-title="FR| CANAL+ LIVE SPORT",CANAL+ SPORT 360 FHD
-http://localhost/ch/9658_
 #EXTINF:-1 tvg-id="9703" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports1.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 1 FHD
 http://localhost/ch/9703_
 #EXTINF:-1 tvg-id="9704" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/beinsports2.png" group-title="FR| BEIN_RMC  SPORT",BEIN SPORTS 2 FHD
