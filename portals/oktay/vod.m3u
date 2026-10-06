@@ -12619,6 +12619,24 @@ http://localhost/vod/2155794
 http://localhost/vod/2155795
 #EXTINF:-1 tvg-id="2155797" tvg-name="FR - UNABOMBER (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg" group-title="FR| NETFLIX 2026",FR - UNABOMBER (2026)
 http://localhost/vod/2155797
+#EXTINF:-1 tvg-id="2161854" tvg-name="FR - Colony (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN799oUR0f1gUKDYdMNrDaY7I51.jpg" group-title="FR| FILMS 2026",FR - Colony (2026)
+http://localhost/vod/2161854
+#EXTINF:-1 tvg-id="2161855" tvg-name="FR - Coyote vs. Acme (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFwseuSlDUNiwMuElDb3OAOQ8En.jpg" group-title="FR| FILMS 2026",FR - Coyote vs. Acme (2026)
+http://localhost/vod/2161855
+#EXTINF:-1 tvg-id="2161858" tvg-name="FR - Ed Kemper (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfVHjW00lICAEWFM60VA1qcLQ4b.jpg" group-title="FR| HORREUR/EPOUVANTE",FR - Ed Kemper (2025)
+http://localhost/vod/2161858
+#EXTINF:-1 tvg-id="2161859" tvg-name="FR - Idiots (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QmP5yGbyosxFbqoM30DDXXXLkg.jpg" group-title="FR| FILMS 2026",FR - Idiots (2026)
+http://localhost/vod/2161859
+#EXTINF:-1 tvg-id="2161860" tvg-name="FR - La Bataille de Gaulle : L'Âge de fer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg" group-title="FR| FILMS 2026",FR - La Bataille de Gaulle : L'Âge de fer (2026)
+http://localhost/vod/2161860
+#EXTINF:-1 tvg-id="2161861" tvg-name="FR - Diffusion en direct de l'enfer (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY3iQP4LH71TMmtXEg65nAxvYZI.jpg" group-title="FR| FILMS 2026",FR - Diffusion en direct de l'enfer (2026)
+http://localhost/vod/2161861
+#EXTINF:-1 tvg-id="2161863" tvg-name="FR - Shana (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXgr7YW8TKKOCigWM7VY7MB7bm3.jpg" group-title="FR| FILMS 2026",FR - Shana (2026)
+http://localhost/vod/2161863
+#EXTINF:-1 tvg-id="2161864" tvg-name="FR - Soulm8te (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="FR| FILMS 2026",FR - Soulm8te (2026)
+http://localhost/vod/2161864
+#EXTINF:-1 tvg-id="2161867" tvg-name="FR - The Uprising (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymUS8HTc7ctfdSYC6bmEokSKisa.jpg" group-title="FR| FILMS 2026",FR - The Uprising (2026)
+http://localhost/vod/2161867
 #EXTINF:-1 tvg-id="217448" tvg-name="FR - Le Distrait (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KFCCgbnyVRJfdSbqS7fu35apfC.jpg" group-title="FR| CLASSIQUE",FR - Le Distrait (1970)
 http://localhost/vod/217448
 #EXTINF:-1 tvg-id="217459" tvg-name="FR - Le Magnifique (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66CmPIlw7XXFE4GkO7BnKo8Pvsq.jpg" group-title="FR| CLASSIQUE",FR - Le Magnifique (1973)
