@@ -31772,6 +31772,75 @@ http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXN
 #EXTINF:-1 tvg-id="10702" tvg-name="Take Charge of My Heart (TR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg" group-title="Take Charge of My Heart (TR)",Take Charge of My Heart (TR) - S01E10
 #EXTGRP:Take Charge of My Heart (TR)
 http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzAyLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=10&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10703" tvg-name="Een jaar in vogelvlucht (NL)" tvg-logo="https://assets-start.npo.nl/resources/2026/10/07/a5223ba9-e883-4b33-995f-b279bfedd898.jpg" group-title="Een jaar in vogelvlucht (NL)",Een jaar in vogelvlucht (NL) - S01E01
+#EXTGRP:Een jaar in vogelvlucht (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzAzLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10705" tvg-name="Premiejagers (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htJ8CId4AHBWI8N87KiQbB1RQAI.jpg" group-title="Premiejagers (NL)",Premiejagers (NL) - S01E01
+#EXTGRP:Premiejagers (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA1LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10706" tvg-name="Doctor X: Age of the White Mafia (NL)" tvg-logo="https://de.web.img3.acsta.net/img/37/3e/373e5693a9dcb78a62afe68127c0ff90.webp" group-title="Doctor X: Age of the White Mafia (NL)",Doctor X: Age of the White Mafia (NL) - S01E01
+#EXTGRP:Doctor X: Age of the White Mafia (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10706" tvg-name="Doctor X: Age of the White Mafia (NL)" tvg-logo="https://de.web.img3.acsta.net/img/37/3e/373e5693a9dcb78a62afe68127c0ff90.webp" group-title="Doctor X: Age of the White Mafia (NL)",Doctor X: Age of the White Mafia (NL) - S01E02
+#EXTGRP:Doctor X: Age of the White Mafia (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA2LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E01
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E02
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E03
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E04
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E05
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E06
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E07
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=7&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E08
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E09
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=9&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10707" tvg-name="Take Charge of My Heart (NL)" tvg-logo="https://resizing.flixster.com/8QCz3_IqXcCyWmWRFSVu-91Zh7w=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNjEwODBiYTgtZmM0ZC00Y2M0LWFjZWUtYzQxMWFkZWE5YjI4LmpwZw==" group-title="Take Charge of My Heart (NL)",Take Charge of My Heart (NL) - S01E10
+#EXTGRP:Take Charge of My Heart (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA3LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=10&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10708" tvg-name="Treasure Island (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg" group-title="Treasure Island (NL)",Treasure Island (NL) - S01E01
+#EXTGRP:Treasure Island (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA4LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10709" tvg-name="Monster: The Lizzie Borden Story (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg" group-title="Monster: The Lizzie Borden Story (NL)",Monster: The Lizzie Borden Story (NL) - S01E01
+#EXTGRP:Monster: The Lizzie Borden Story (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10709" tvg-name="Monster: The Lizzie Borden Story (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg" group-title="Monster: The Lizzie Borden Story (NL)",Monster: The Lizzie Borden Story (NL) - S01E02
+#EXTGRP:Monster: The Lizzie Borden Story (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=2&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10709" tvg-name="Monster: The Lizzie Borden Story (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg" group-title="Monster: The Lizzie Borden Story (NL)",Monster: The Lizzie Borden Story (NL) - S01E03
+#EXTGRP:Monster: The Lizzie Borden Story (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=3&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10709" tvg-name="Monster: The Lizzie Borden Story (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg" group-title="Monster: The Lizzie Borden Story (NL)",Monster: The Lizzie Borden Story (NL) - S01E04
+#EXTGRP:Monster: The Lizzie Borden Story (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=4&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10709" tvg-name="Monster: The Lizzie Borden Story (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg" group-title="Monster: The Lizzie Borden Story (NL)",Monster: The Lizzie Borden Story (NL) - S01E05
+#EXTGRP:Monster: The Lizzie Borden Story (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=5&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10709" tvg-name="Monster: The Lizzie Borden Story (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg" group-title="Monster: The Lizzie Borden Story (NL)",Monster: The Lizzie Borden Story (NL) - S01E06
+#EXTGRP:Monster: The Lizzie Borden Story (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=6&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10709" tvg-name="Monster: The Lizzie Borden Story (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg" group-title="Monster: The Lizzie Borden Story (NL)",Monster: The Lizzie Borden Story (NL) - S01E07
+#EXTGRP:Monster: The Lizzie Borden Story (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=7&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10709" tvg-name="Monster: The Lizzie Borden Story (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg" group-title="Monster: The Lizzie Borden Story (NL)",Monster: The Lizzie Borden Story (NL) - S01E08
+#EXTGRP:Monster: The Lizzie Borden Story (NL)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzA5LCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=8&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="1071" tvg-name="24: Legacy (DE)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eoCEa9myi32C3QC7VYEu4y1f6D.jpg" group-title="24: Legacy (DE)",24: Legacy (DE) - S01E01
 #EXTGRP:24: Legacy (DE)
 http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ%3D%3D&series=1&JsHttpRequest=1-xml
@@ -31808,6 +31877,9 @@ http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXN
 #EXTINF:-1 tvg-id="1071" tvg-name="24: Legacy (DE)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eoCEa9myi32C3QC7VYEu4y1f6D.jpg" group-title="24: Legacy (DE)",24: Legacy (DE) - S01E12
 #EXTGRP:24: Legacy (DE)
 http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzEsInNlYXNvbl9udW0iOjEsInR5cGUiOiJzZXJpZXMifQ%3D%3D&series=12&JsHttpRequest=1-xml
+#EXTINF:-1 tvg-id="10710" tvg-name="Sevdam Karadeniz (TR)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU5o05YeZAzJNFKIwjzXxjKbOA.jpg" group-title="Sevdam Karadeniz (TR)",Sevdam Karadeniz (TR) - S01E01
+#EXTGRP:Sevdam Karadeniz (TR)
+http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzEwLCJzZWFzb25fbnVtIjoxLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
 #EXTINF:-1 tvg-id="1073" tvg-name="SpongeBob SquarePants (NL)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37xMwqkyfREmO94Do4hqmehwo35.jpg" group-title="SpongeBob SquarePants (NL)",SpongeBob SquarePants (NL) - S10E01
 #EXTGRP:SpongeBob SquarePants (NL)
 http://d.devtv.cc:80/server/load.php?type=vod&action=create_link&cmd=eyJzZXJpZXNfaWQiOjEwNzMsInNlYXNvbl9udW0iOjEwLCJ0eXBlIjoic2VyaWVzIn0%3D&series=1&JsHttpRequest=1-xml
